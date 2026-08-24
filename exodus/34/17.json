@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "Богів литих не роби собі.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "богів"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "литих"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "роби"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:35:53.022844821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 4:1",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І додали сини Ісраеля робити зло в очах Яхве, а Егуд помер.",
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "І додали"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраеля"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "робити"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "а Егуд"
+    },
+    {
+      "surface": "מת",
+      "gloss": "помер"
+    }
+  ],
+  "timestamp": "2026-08-23T22:20:41.269311270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 24:29",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Не кажи: як зробив він мені, так зроблю й я йому; відплачу людині за вчинок її.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "кажи"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "зробив"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "зроблю"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "відплачу"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "людині"
+    },
+    {
+      "surface": "כפעלו",
+      "gloss": "за вчинок її"
+    }
+  ],
+  "timestamp": "2026-08-24T01:55:01.847568251Z",
+  "model": "glm-5.3"
+}

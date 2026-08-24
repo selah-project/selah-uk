@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І сказав Яхве до ангела, і повернув він меча свого до піхви його.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "до ангела"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "і повернув"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "меча свого"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "піхви його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:19:13.873167231Z",
+  "model": "glm-5.3"
+}

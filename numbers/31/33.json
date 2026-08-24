@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "і худоби — два і сімдесят тисяч",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "і худоби"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "і сімдесят"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяч"
+    }
+  ],
+  "timestamp": "2026-08-23T21:58:33.654487247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І вивели ⟨את⟩ стели дому Баала, і спалили ⟨їх⟩.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "І вивели"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "стели"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "стели"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Баала"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "і спалили їх"
+    }
+  ],
+  "timestamp": "2026-08-23T22:58:21.479370197Z",
+  "model": "glm-5.3"
+}

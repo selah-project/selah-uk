@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Я став за посміховище для всього мого народу, за їхню пісню весь день.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "Я став"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "посміховище"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "для всього"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "мого народу"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "за їхню пісню"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    }
+  ],
+  "timestamp": "2026-08-24T00:51:36.707425169Z",
+  "model": "glm-5.3"
+}

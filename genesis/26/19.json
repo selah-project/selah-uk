@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 26:19",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "І копали раби Їцхакові в долині, і знайшли там криницю води живої.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "І копали"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "раби"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Їцхакові"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "в долині"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "і знайшли"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "באר",
+      "gloss": "криницю"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живої"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:30.374751628Z",
+  "model": "glm-5.3"
+}

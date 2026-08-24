@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І випив він вина, і сп'янів, і оголився всередині намету свого.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "І випив"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "היין",
+      "gloss": "вина"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "і сп'янів"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "і оголився"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "всередині"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "намету свого"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:17.672416225Z",
+  "model": "glm-5.3"
+}

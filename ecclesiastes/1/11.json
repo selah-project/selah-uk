@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Немає пам'яті про перших, і про останніх, що будуть, не буде пам'яті в них, що будуть потому.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "пам'яті"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "про перших"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "і"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "про останніх"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "що будуть"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "להם",
+      "gloss": "в них"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "пам'яті"
+    },
+    {
+      "surface": "עם",
+      "gloss": "у"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "тих, що"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "будуть потому"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:37.633202318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Пора народжуватися, і пора вмирати; пора садити, і пора викорчовувати насаджене;",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Пора"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "народжуватися"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "і пора"
+    },
+    {
+      "surface": "למות",
+      "gloss": "вмирати"
+    },
+    {
+      "surface": "עת",
+      "gloss": "пора"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "садити"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "і пора"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "викорчовувати"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "насаджене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:12.514053966Z",
+  "model": "glm-5.3"
+}

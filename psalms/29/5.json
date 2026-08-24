@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "Голос Яхве ламає кедри, — та й Яхве поламав ⟨את⟩ кедри Лівану.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ламає"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "кедри"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "та й поламав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кедри Лівану"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "кедри"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Лівану"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:09.817983836Z",
+  "model": "glm-5.3"
+}

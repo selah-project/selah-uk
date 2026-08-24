@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 22:13",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Від сяйва перед Ним запалали жарини вогню.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "Від сяйва"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "перед Ним"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "запалали"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "жарини"
+    },
+    {
+      "surface": "אש",
+      "gloss": "вогню"
+    }
+  ],
+  "timestamp": "2026-08-23T22:44:58.207681105Z",
+  "model": "glm-5.3"
+}

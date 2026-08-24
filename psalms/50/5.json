@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 50,
+  "translation": "Зберіть мені моїх хасидів, тих, що склали мою угоду над жертвою.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Зберіть"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "моїх хасидів"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "склали"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "мою угоду"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "над"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "жертвою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:43.346248122Z",
+  "model": "glm-5.3"
+}

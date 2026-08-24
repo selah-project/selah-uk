@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І було Ноахові п'ятсот років, і породив Ноах ⟨את⟩ Шема, ⟨את⟩ Хама і ⟨את⟩ Йефета.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І було"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноахові"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сином"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "п'яти"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "і породив"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шема"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шема"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хама"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хама"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Йефета"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Йефета"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:03.050167167Z",
+  "model": "glm-5.3"
+}

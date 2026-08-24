@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І сказав цар, і зробили скриню одну, і поставили її при брамі дому Яхве, зовні.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "і зробили"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "скриню"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одну"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "і поставили її"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "при брамі"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "зовні"
+    }
+  ],
+  "timestamp": "2026-08-24T01:29:37.678208746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Бо не сплять вони, якщо не вчинять зла, і сон їхній вирваний, якщо не спроженуть когось.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "сплять вони"
+    },
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "вчинять зла"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "і вирваний"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "сон їхній"
+    },
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "спроженуть когось"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:48.957687459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "Мізмур Давиду. Надавайте Яхве, сини Елів, надавайте Яхве кавод і оцзь.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Мізмур"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Надавайте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Елів"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "надавайте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "кавод"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "і оцзь"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:28.458425611Z",
+  "model": "glm-5.3"
+}

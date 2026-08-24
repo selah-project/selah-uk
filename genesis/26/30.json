@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "І зробив він їм бенкет, і їли, і пили.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "І зробив він"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "бенкет"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "і їли"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "і пили"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:52.163463658Z",
+  "model": "glm-5.3"
+}

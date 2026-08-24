@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "До вас, мужі, я кличу, і голос мій — до синів людських.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "до вас"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "мужі"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "я кличу"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "і голос мій"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людських"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:11.198352945Z",
+  "model": "glm-5.3"
+}

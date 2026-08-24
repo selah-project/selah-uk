@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І сказав: Так говорить Яхве: Зробіть у цій долині рів за рівом.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорить"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Зробіть"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "у цій долині"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цій"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "рів"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "за рівом"
+    }
+  ],
+  "timestamp": "2026-08-23T22:56:07.360093280Z",
+  "model": "glm-5.3"
+}

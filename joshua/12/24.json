@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "цар Тірци, один; усі царі — тридцять і один.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "Тірци"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "царі"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридцять"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "і один"
+    }
+  ],
+  "timestamp": "2026-08-24T01:39:59.638278445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 31:4",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Хіба не Він бачить шляхи мої, і всі кроки мої полічить?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "хи­ба не"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Він"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "бачить"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "шляхи мої"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і всі"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "кроки мої"
+    },
+    {
+      "surface": "יספור",
+      "gloss": "полічить"
+    }
+  ],
+  "timestamp": "2026-08-24T00:45:55.038181864Z",
+  "model": "glm-5.3"
+}

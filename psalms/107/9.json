@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 107,
+  "translation": "Бо наситив Він нефеш прагнучу, і голодну нефеш сповнив добром.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "наситив"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "прагнучу"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "і нефеш"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "голодну"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "сповнив"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добром"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:38.006961540Z",
+  "model": "glm-5.3"
+}

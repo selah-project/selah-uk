@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 116,
+  "translation": "Дорогоцінна в очах Яхве смерть хасидів Його.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "дорогоцінна"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "смерть"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "хасидів Його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:16.847927993Z",
+  "model": "glm-5.3"
+}

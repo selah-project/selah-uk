@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 25:8",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Так сказав Адонай Яхве: за те, що сказав Моав і Сеїр: ось дім Єгуди — як усі ⟨ה⟩ народи.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יען",
+      "gloss": "за те, що"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "ושעיר",
+      "gloss": "і Сеїр"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "як усі"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    }
+  ],
+  "timestamp": "2026-08-23T23:48:37.811177820Z",
+  "model": "glm-5.3"
+}

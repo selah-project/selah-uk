@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 49:21",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 49,
+  "translation": "Нафталі — олениха відпущена, ⟨та, що⟩ дає слова вроди.",
+  "tokens": [
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафталі"
+    },
+    {
+      "surface": "אילה",
+      "gloss": "олениха"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "відпущена"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "⟨та, що⟩ дає"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "вроди"
+    }
+  ],
+  "timestamp": "2026-08-23T21:24:42.119374273Z",
+  "model": "glm-5.3"
+}

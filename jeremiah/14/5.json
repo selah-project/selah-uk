@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Бо навіть ланіця в полі народила й покинула, бо не було трави.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "גם",
+      "gloss": "навіть"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "ланиця"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "в полі"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "народила"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "й покинула"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "було"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "трава"
+    }
+  ],
+  "timestamp": "2026-08-23T23:26:48.613363075Z",
+  "model": "glm-5.3"
+}

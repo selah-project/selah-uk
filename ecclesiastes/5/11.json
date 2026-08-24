@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Солодкий сон працюючого — чи мало, чи багато він з'їсть; а ситість багатого не дає йому спати.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "Солодкий"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "сон"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "працюючого"
+    },
+    {
+      "surface": "אם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "мало"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "багато"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "він з'їсть"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "а ситість"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "багатого"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "не"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "дає"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "спати"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:25.108629499Z",
+  "model": "glm-5.3"
+}

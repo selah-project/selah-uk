@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Езер — головний, Овад'я — другий, Еліав — третій.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Езер"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "головний"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Овад'я"
+    },
+    {
+      "surface": "השני",
+      "gloss": "другий"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Еліав"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "третій"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:40.820177697Z",
+  "model": "glm-5.3"
+}

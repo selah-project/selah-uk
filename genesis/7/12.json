@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І був дощ на землі сорок днів і сорок ночей.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "і був"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "дощ"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "יום",
+      "gloss": "днів"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "і сорок"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ночей"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:59.194646062Z",
+  "model": "glm-5.3"
+}

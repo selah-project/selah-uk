@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 13:16",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Ось імена людей, яких Моше послав розвідати ⟨את⟩ землю; і назвав Моше Гошеа, сина Нуна, Єгошуа.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "імена"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "людей"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яких"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "послав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "розвідати"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "і назвав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "Гошеа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нуна"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Єгошуа"
+    }
+  ],
+  "timestamp": "2026-08-24T01:38:29.064378664Z",
+  "model": "glm-5.3"
+}

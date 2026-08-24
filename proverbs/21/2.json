@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Кожна дорога людини права в ⟨її⟩ очах, але Яхве зважує серця.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Кожна"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "дорога"
+    },
+    {
+      "surface": "איש",
+      "gloss": "людини"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "права"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в його очах"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "але зважує"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "серця"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:00.215081174Z",
+  "model": "glm-5.3"
+}

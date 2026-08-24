@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І сказав цар до жінки: «Іди до дому свого, і я накажу про тебе».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жінки"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Іди"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "до дому свого"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "і я"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "накажу"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "про тебе"
+    }
+  ],
+  "timestamp": "2026-08-23T22:41:00.292893707Z",
+  "model": "glm-5.3"
+}

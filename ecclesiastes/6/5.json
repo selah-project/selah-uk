@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Також сонця не бачив і не пізнав ⟨нічого⟩ — спокій має цей більший за того.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "сонця"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "бачив"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "пізнав"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "спокій"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "цій"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "від того"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:13.395134008Z",
+  "model": "glm-5.3"
+}

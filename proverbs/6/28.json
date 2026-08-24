@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 6:28",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Чи ходить чоловік по жаринах, а ноги його не попечуться?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ходить"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "הגחלים",
+      "gloss": "жаринах"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "а ноги його"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכוינה",
+      "gloss": "попечуться"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:50.981324243Z",
+  "model": "glm-5.3"
+}

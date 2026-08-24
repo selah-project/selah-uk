@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І сини Калева, сина Єфуне: Іру, Ела і Ноам; і сини Ели: Кназ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "І сини"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калева"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Єфуне"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Іру"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "і Ноам"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "і сини"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ели"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "Кназ"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:32.573783282Z",
+  "model": "glm-5.3"
+}

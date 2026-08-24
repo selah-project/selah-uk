@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Нечестивий чинить працю омани, а сіючий правду — плату правдиву.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "нечестивий"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чинить"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "працю"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "омани"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "а сіючий"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "правду"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "плату"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "правдиву"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:30.673876958Z",
+  "model": "glm-5.3"
+}

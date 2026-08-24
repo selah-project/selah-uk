@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 20:26",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І не говорив Шаул нічого того дня, бо сказав: випадок це; він нечистий, ⟨бо⟩ не чистий він.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорив"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "нічого"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "того дня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "того"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "випадок"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "це"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "не"
+    },
+    {
+      "surface": "тהור",
+      "gloss": "нечистий"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨бо⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чистий"
+    }
+  ],
+  "timestamp": "2026-08-23T22:32:28.480856026Z",
+  "model": "glm-5.3"
+}

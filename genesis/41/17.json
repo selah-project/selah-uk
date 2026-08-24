@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 41,
+  "translation": "І сказав фараон до Йосефа: У сні моєму — ось, ⟨я⟩ стояв на березі річки.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефа"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "у сні моєму"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ось"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "⟨я⟩ стояв"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "берегу"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "річки"
+    }
+  ],
+  "timestamp": "2026-08-23T21:21:18.448948209Z",
+  "model": "glm-5.3"
+}

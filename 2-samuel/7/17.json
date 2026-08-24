@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 7:17",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "За всіма цими словами і за всім цим видінням так говорив Натан до Давида.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "за всіма"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "цими словами"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "цими"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "і за всім"
+    },
+    {
+      "surface": "החזיון",
+      "gloss": "цим видінням"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цим"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорив"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-23T22:38:40.278726248Z",
+  "model": "glm-5.3"
+}

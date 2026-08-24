@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 104,
+  "translation": "Хай буде приємна Йому роздумь моя; я втішуся в Яхве",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "Хай буде приємна"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "Йому"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "роздумь моя"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "втішуся"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "в Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:18.283520482Z",
+  "model": "glm-5.3"
+}

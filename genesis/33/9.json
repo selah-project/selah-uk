@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І сказав Есав: Маю багато, брате мій; хай буде тобі те, що твій.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "יש",
+      "gloss": "маю"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "רב",
+      "gloss": "багато"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брате мій"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "хай буде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "те, що"
+    },
+    {
+      "surface": "לך",
+      "gloss": "твоє"
+    }
+  ],
+  "timestamp": "2026-08-23T21:18:22.041947378Z",
+  "model": "glm-5.3"
+}

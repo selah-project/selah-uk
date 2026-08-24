@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І втекли ці п'ять царів, і сховалися в печері в Македі.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "І втекли"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "п'ять"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "царів"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "і сховалися"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "в печері"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "в Македі"
+    }
+  ],
+  "timestamp": "2026-08-23T22:14:00.966042837Z",
+  "model": "glm-5.3"
+}

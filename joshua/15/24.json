@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 15:24",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Зіф, і Телем, і Беалот.",
+  "tokens": [
+    {
+      "surface": "זיף",
+      "gloss": "Зіф"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "і Телем"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "і Беалот"
+    }
+  ],
+  "timestamp": "2026-08-23T22:15:42.381149312Z",
+  "model": "glm-5.3"
+}

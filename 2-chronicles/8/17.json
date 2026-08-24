@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Тоді пішов Шломо до Еціон-Геверу та до Ейлоту, над берегом моря, в землі Едому.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тоді"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "пішов"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "до Еціон-"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Геверу"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "та до"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Ейлоту"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "берегом"
+    },
+    {
+      "surface": "הים",
+      "gloss": "моря"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землі"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едому"
+    }
+  ],
+  "timestamp": "2026-08-24T01:23:56.406747659Z",
+  "model": "glm-5.3"
+}

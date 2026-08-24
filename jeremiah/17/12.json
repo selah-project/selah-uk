@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Престол слави, височінь від початку — місце святині нашої.",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "Престол"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слави"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "височінь"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "від початку"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "місце"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "святині нашої"
+    }
+  ],
+  "timestamp": "2026-08-23T23:27:16.867776873Z",
+  "model": "glm-5.3"
+}

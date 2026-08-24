@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 26:7",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Простягає північ над пусткою, підвішує землю над нічим.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "Простягає"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "північ"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "пусткою"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "підвішує"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "⟨нічим⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-24T00:44:44.656596117Z",
+  "model": "glm-5.3"
+}

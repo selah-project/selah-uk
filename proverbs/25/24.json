@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Краще сидіти на куті покрівлі, ніж із жінкою сварливою та в домі спільному.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "краще"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "сидіти"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "куті"
+    },
+    {
+      "surface": "גג",
+      "gloss": "покрівлі"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "ніж із жінкою"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "сварливою"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "та в домі"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "спільному"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:54.016517841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Він збудував ⟨את⟩ Ейloth і повернув її Єгуді після того, як ліж цар із батьками своїми.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Він"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "збудував"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ейлот"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Ейлот"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "і повернув її"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Єгуді"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "після того, як"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ліж"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "עם",
+      "gloss": "із"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "батьками своїми"
+    }
+  ],
+  "timestamp": "2026-08-24T01:30:00.800247924Z",
+  "model": "glm-5.3"
+}

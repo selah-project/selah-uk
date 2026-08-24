@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 28:2",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "І пішов він шляхами царів Їсраелю, і також литі образи зробив для Баалім.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "і пішов"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "шляхами"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраелю"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "і також"
+    },
+    {
+      "surface": "מסכות",
+      "gloss": "литі образи"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "зробив"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "для Баалім"
+    }
+  ],
+  "timestamp": "2026-08-24T01:30:52.384754121Z",
+  "model": "glm-5.3"
+}

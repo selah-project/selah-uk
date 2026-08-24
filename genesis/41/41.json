@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 41,
+  "translation": "І сказав Пар'о до Йосефа: Дивись, я поставив тебе ⟨את⟩ над усією землею Міцраїму.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Пар'о"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефа"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Дивись"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "я поставив"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "тебе"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усією"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землею"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїму"
+    }
+  ],
+  "timestamp": "2026-08-23T21:22:06.515476004Z",
+  "model": "glm-5.3"
+}

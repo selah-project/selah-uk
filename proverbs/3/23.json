@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Тоді підеш у безпеці шляхом твоїм, і нога твоя не спіткнеться.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "тоді"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "підеш"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "у безпеці"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "шляхом твоїм"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "і нога твоя"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "спіткнеться"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:33.175513484Z",
+  "model": "glm-5.3"
+}

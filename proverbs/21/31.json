@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 21:31",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Кінь ⟨є⟩ приготований на день битви, але в Яхве — порятунок.",
+  "tokens": [
+    {
+      "surface": "סוס",
+      "gloss": "кінь"
+    },
+    {
+      "surface": "מוכן",
+      "gloss": "приготований"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "на день"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "битви"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "але в Яхве"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "порятунок"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:09.247509027Z",
+  "model": "glm-5.3"
+}

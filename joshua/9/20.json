@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Це вчинимо їм, і дамо їм жити, і не буде на нас люті за ту присягу, яку ми присягнули їм.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Це"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "вчинимо"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "і дамо жити"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "їм"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "на нас"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "люті"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "ту присягу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "ми присягнули"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    }
+  ],
+  "timestamp": "2026-08-23T22:12:50.912137205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 28:11",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "І сталося слово Яхве до мене так:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "так:"
+    }
+  ],
+  "timestamp": "2026-08-24T01:50:01.051814738Z",
+  "model": "glm-5.3"
+}

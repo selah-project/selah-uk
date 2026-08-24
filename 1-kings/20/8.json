@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І сказали йому всі старці і ввесь народ: не слухай і не годься.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "І сказали"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "старці"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і ввесь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "слухай"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "годись"
+    }
+  ],
+  "timestamp": "2026-08-23T22:54:48.153253171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 40:19",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "Він — початок шляхів Еля; Творець його bringить близько свій меч до нього.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Він"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "початок"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "шляхів"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Еля"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "Творець його"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "bringить близько"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "свій меч"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:29.691234497Z",
+  "model": "glm-5.3"
+}

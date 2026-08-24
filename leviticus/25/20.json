@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І коли скажете: що їстимемо в сьомому році? ось, не сіємо й не зберемо ⟨את⟩ урожаю нашого —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "і коли"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "скажете"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "їстимемо"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "в році"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "сьомому"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ось"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "сіємо"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "й не"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "зберемо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "урожаю нашого"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "урожаю нашого"
+    }
+  ],
+  "timestamp": "2026-08-23T21:45:34.104926975Z",
+  "model": "glm-5.3"
+}

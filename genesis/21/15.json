@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І скінчилася вода з бурдюка, і кинула вона ⟨את⟩ хлоп'я під одним із кущів.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "і скінчилася"
+    },
+    {
+      "surface": "המים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "бурдюка"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "і кинула"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хлоп'я"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "хлоп'я"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одним"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "кущів"
+    }
+  ],
+  "timestamp": "2026-08-23T21:13:35.173242366Z",
+  "model": "glm-5.3"
+}

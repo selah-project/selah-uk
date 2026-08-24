@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "А те, що залишиться від м'яса і від хліба, у вогні спалите.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "А те, що залишиться"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "від м'яса"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "і від хліба"
+    },
+    {
+      "surface": "באש",
+      "gloss": "у вогні"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "спалите"
+    }
+  ],
+  "timestamp": "2026-08-23T21:41:14.391393605Z",
+  "model": "glm-5.3"
+}

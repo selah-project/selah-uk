@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Не буде тобі інших елогім понад ⟨лице⟩ Моїм.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "елогім"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "інших"
+    },
+    {
+      "surface": "על",
+      "gloss": "понад"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨лице⟩ Моїм"
+    }
+  ],
+  "timestamp": "2026-08-23T22:01:38.943181907Z",
+  "model": "glm-5.3"
+}

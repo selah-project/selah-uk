@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 43,
+  "translation": "Нарід цей Я сформував Собі — мою хвалу звіщатимуть.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "цей"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "сформував Я"
+    },
+    {
+      "surface": "לי",
+      "gloss": "собі"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "мою хвалу"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "звіщатимуть"
+    }
+  ],
+  "timestamp": "2026-08-23T23:15:07.278341915Z",
+  "model": "glm-5.3"
+}

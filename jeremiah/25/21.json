@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "⟨את⟩ Едом, і ⟨את⟩ Моав, і ⟨את⟩ синів Аммона.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Едом"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Моав"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "синів Аммона"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммона"
+    }
+  ],
+  "timestamp": "2026-08-23T23:29:48.219881428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Хто породжує глупця — на горе собі, й не тішиться батько невірги.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "породжує"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупець"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "на горе"
+    },
+    {
+      "surface": "לו",
+      "gloss": "собі"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "й не"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "тішиться"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батько"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "невірги"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:04.982807391Z",
+  "model": "glm-5.3"
+}

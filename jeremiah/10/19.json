@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 10:19",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Горе мені за зламом моїм — люта рана моя; а я казав: це лише недуга моя, і я понесу її.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Горе"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "שברי",
+      "gloss": "зламом моїм"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "люта"
+    },
+    {
+      "surface": "מכתי",
+      "gloss": "рана моя"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а я"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "казав"
+    },
+    {
+      "surface": "אך",
+      "gloss": "лише"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "недуга моя"
+    },
+    {
+      "surface": "ואשאנו",
+      "gloss": "і я понесу її"
+    }
+  ],
+  "timestamp": "2026-08-23T23:25:26.003926692Z",
+  "model": "glm-5.3"
+}

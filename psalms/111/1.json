@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 111,
+  "translation": "Хваліть Яха! Я дякую Яхве всім серцем, у раді праведних ⟨і⟩ в зібранні.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Хваліть"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яха"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "я дякую"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "всім"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "серцем"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "у раді"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "праведних"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "і в зібранні"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:53.299721390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І пішов Шломо до Хамат-Цови, і зміцнився проти неї.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "І пішов"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Цова"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "і зміцнився"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "проти неї"
+    }
+  ],
+  "timestamp": "2026-08-24T01:24:15.241030047Z",
+  "model": "glm-5.3"
+}

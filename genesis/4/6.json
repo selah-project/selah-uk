@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І сказав Яхве до Кайна: чому запалився ти гнівом, і чому впало обличчя твоє?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Кайна"
+    },
+    {
+      "surface": "למה",
+      "gloss": "чому"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "запалився ти гнівом"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "і чому"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "впало"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "обличчя твоє"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:34.476810973Z",
+  "model": "glm-5.3"
+}

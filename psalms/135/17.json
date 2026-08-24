@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 135,
+  "translation": "Вуха мають вони, та не чують; навіть нема ⟨є⟩ дихання в їхніх устах.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "Вуха"
+    },
+    {
+      "surface": "להם",
+      "gloss": "мають вони"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "та не"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "чують"
+    },
+    {
+      "surface": "אף",
+      "gloss": "навіть"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨є⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дихання"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "в їхніх устах"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:00.629400820Z",
+  "model": "glm-5.3"
+}

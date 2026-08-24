@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Сад замкнений — сестро моя, невісто моя; джерело замкнене, потоку запечатаний.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "сад"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "замкнений"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "сестро моя"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "невісто моя"
+    },
+    {
+      "surface": "גל",
+      "gloss": "джерело"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "замкнене"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "потоку"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "запечатаний"
+    }
+  ],
+  "timestamp": "2026-08-24T01:56:14.968844369Z",
+  "model": "glm-5.3"
+}

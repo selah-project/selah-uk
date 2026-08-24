@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Не укладай заповіту з ними та з богами їхніми.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכрת",
+      "gloss": " укладай"
+    },
+    {
+      "surface": "להם",
+      "gloss": "з-ними"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "і-з-богами-їхніми"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "заповіту"
+    }
+  ],
+  "timestamp": "2026-08-23T21:31:17.219733354Z",
+  "model": "glm-5.3"
+}

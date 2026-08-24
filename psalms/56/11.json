@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 56,
+  "translation": "В Елогімі вихвалятиму слово, в Яхве вихвалятиму слово.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "в Елогімі"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "вихвалятиму"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "в Яхве"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "вихвалятиму"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:39.561461485Z",
+  "model": "glm-5.3"
+}

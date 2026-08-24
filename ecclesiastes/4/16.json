@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 4:16",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Немає кінця всьому народові, всім, хто був перед ними; та й пізніші не будуть тішитися ним, бо й це — марність і гонитва за вітром.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Немає"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "кінця"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "всьому"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народові"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "всім"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хто"
+    },
+    {
+      "surface": "היה",
+      "gloss": "був"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "перед ними"
+    },
+    {
+      "surface": "גם",
+      "gloss": "та й"
+    },
+    {
+      "surface": "האחרונים",
+      "gloss": "пізніші"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "будуть тішитися"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ним"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "גם",
+      "gloss": "й"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "марність"
+    },
+    {
+      "surface": "ורעיון",
+      "gloss": "і гонитва"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "за вітром"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:52.103842093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Холодна вода на спраглу ⟨нефеш⟩ — і добра звістка з далекої землі.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "холодна"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨нефеш⟩"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "спрагла"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "і звістка"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добра"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "з землі"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "далекої"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:07.225488083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 48:25",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "І при кордоні Шимона, від боку сходу аж до боку моря, Їсахар — один ⟨уділ⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "і при"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "кордоні"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимона"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "від боку"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "сходу"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "боку"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "моря"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Їсахар"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-23T23:56:45.715809082Z",
+  "model": "glm-5.3"
+}

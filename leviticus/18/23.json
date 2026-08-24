@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 18:23",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І з жодною худобою не давай lying-ові свого — на нечистоту із нею; і жінка нехай не стає перед худобою на покриття її — змішання це.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "і з жодною"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "худобою"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "давай"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "lying свій"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "на нечистоту"
+    },
+    {
+      "surface": "בה",
+      "gloss": "із нею"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "і жінка"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "стає"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "худобою"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "на покриття її"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "змішання"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "це"
+    }
+  ],
+  "timestamp": "2026-08-23T21:43:21.616288320Z",
+  "model": "glm-5.3"
+}

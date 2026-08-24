@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Нефеш сита топче стільниковий мед, а нефеш голодна — усе гірке ⟨є⟩ солодке.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "Нефеш"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "сита"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "топче"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "стільниковий мед"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "а нефеш"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "голодна"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "מר",
+      "gloss": "гірке"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "солодке"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:36.071126434Z",
+  "model": "glm-5.3"
+}

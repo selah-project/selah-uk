@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 27:2",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Так сказав Яхве мені: зроби собі кайдани та ярма і поклади їх на свою шию.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "зроби"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "кайдани"
+    },
+    {
+      "surface": "ומטות",
+      "gloss": "та ярма"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "і поклади їх"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "свою шию"
+    }
+  ],
+  "timestamp": "2026-08-23T23:31:19.694739374Z",
+  "model": "glm-5.3"
+}

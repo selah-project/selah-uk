@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 43,
+  "translation": "Я, Сам Я — Яхве, і немає окрім Мене спасителя.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Я"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Сам Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "і немає"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "окрім Мене"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "спасителя"
+    }
+  ],
+  "timestamp": "2026-08-23T23:14:42.529912194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 2:18",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "А тепер що тобі до шляху Міцраїму — пити води Шіхору? І що тобі до шляху Ашшуру — пити води Річки?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а тепер"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "до шляху"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїм"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "пити"
+    },
+    {
+      "surface": "מי",
+      "gloss": "води"
+    },
+    {
+      "surface": "שחור",
+      "gloss": "Шіхор"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "і що"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "до шляху"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "пити"
+    },
+    {
+      "surface": "מי",
+      "gloss": "води"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "Ріка"
+    }
+  ],
+  "timestamp": "2026-08-23T23:22:31.880431384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І стала сестра його здалеку, щоб знати, що буде зроблено йому.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "і стала"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "сестра його"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "здалеку"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "щоб знати"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "буде зроблено"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    }
+  ],
+  "timestamp": "2026-08-23T21:24:54.051033306Z",
+  "model": "glm-5.3"
+}

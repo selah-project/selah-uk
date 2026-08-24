@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 17:7",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І згасло від горя моє око, і всі мої члени — як тінь.",
+  "tokens": [
+    {
+      "surface": "ותכה",
+      "gloss": "і згасло"
+    },
+    {
+      "surface": "מכעש",
+      "gloss": "від горя"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "моє око"
+    },
+    {
+      "surface": "ויצרי",
+      "gloss": "і члени мої"
+    },
+    {
+      "surface": "кצל",
+      "gloss": "як тінь"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "усі вони"
+    }
+  ],
+  "timestamp": "2026-08-24T00:42:47.787149829Z",
+  "model": "glm-5.3"
+}

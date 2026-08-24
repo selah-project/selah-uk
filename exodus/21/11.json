@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "А якщо цих трьох не вчинить ⟨їй⟩ — то вийде вона задаремно, без срібла.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А якщо"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "трьох"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "цих"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "вчинить"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨їй⟩"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "то вийде вона"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "задаремно"
+    },
+    {
+      "surface": "אין",
+      "gloss": "без"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "срібла"
+    }
+  ],
+  "timestamp": "2026-08-23T21:31:20.983861215Z",
+  "model": "glm-5.3"
+}

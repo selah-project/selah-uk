@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 19:19",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Гнівливий тяжкий несе кару, бо як визволиш — ще й додаси.",
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "тяжкий"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "гнівливий"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "несе"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "кару"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אם",
+      "gloss": "як"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "визволиш"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "й додаси"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:31.985101729Z",
+  "model": "glm-5.3"
+}

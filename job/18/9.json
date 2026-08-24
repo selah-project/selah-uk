@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 18:9",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Сільце схопить за п'яту, і петля зміцниться на нім.",
+  "tokens": [
+    {
+      "surface": "יאחז",
+      "gloss": "схопить"
+    },
+    {
+      "surface": "בעקב",
+      "gloss": "за п'яту"
+    },
+    {
+      "surface": "פח",
+      "gloss": "сільце"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "зміцниться"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на нім"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "петля"
+    }
+  ],
+  "timestamp": "2026-08-24T00:42:37.138302983Z",
+  "model": "glm-5.3"
+}

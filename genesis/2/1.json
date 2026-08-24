@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І були завершені небеса та земля, і все воїнство їхнє.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "і були завершені"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "і земля"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і все"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "воїнство їхнє"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:37.161260948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Добрий і праведний ⟨є⟩ Яхве, тому Він наставляє грішників на шляху.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Добрий"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "і праведний"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "через"
+    },
+    {
+      "surface": "כן",
+      "gloss": "те"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "наставляє"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "грішників"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на шляху"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:11.413831795Z",
+  "model": "glm-5.3"
+}

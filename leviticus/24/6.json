@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "і покладеш їх ⟨את⟩ двома рядами, по шість у ряді, на чистий стіл перед Яхве.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "і покладеш"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "два ряди"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "два"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "рядами"
+    },
+    {
+      "surface": "שש",
+      "gloss": "по шість"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "у ряді"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "стіл"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "чистий"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:45:52.425105493Z",
+  "model": "glm-5.3"
+}

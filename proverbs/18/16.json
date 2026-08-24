@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Дар людини розширює ⟨шлях⟩ для неї, і перед великими веде ⟨її⟩.",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "Дар"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людини"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "розширює"
+    },
+    {
+      "surface": "לו",
+      "gloss": "для неї"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "і перед"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "великими"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "веде ⟨її⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:08.062439264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 16:34",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Дякуйте Яхве, бо добрий, бо навіки хесед Його.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "дякуйте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добрий"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед Його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:18:14.462561354Z",
+  "model": "glm-5.3"
+}

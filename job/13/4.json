@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 13:4",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "А ви — ліпителі неправди, лікарі нікчемні, всі ви.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "а"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "טפלי",
+      "gloss": "ліпителі"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "неправди"
+    },
+    {
+      "surface": "רפאי",
+      "gloss": "лікарі"
+    },
+    {
+      "surface": "אלל",
+      "gloss": "нікчемні"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "всі ви"
+    }
+  ],
+  "timestamp": "2026-08-24T00:41:44.485732123Z",
+  "model": "glm-5.3"
+}

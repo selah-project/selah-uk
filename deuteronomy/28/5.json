@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Благословенний твій кошик і твій задільник.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Благословенний"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "твій кошик"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "і твій задільник"
+    }
+  ],
+  "timestamp": "2026-08-23T22:08:30.670155413Z",
+  "model": "glm-5.3"
+}

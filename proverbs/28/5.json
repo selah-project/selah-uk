@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Люди зла не розуміють права, а ті, хто шукає Яхве, розуміють усе.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "люди"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "розуміють"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "права"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "а ті, хто шукає"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "розуміють"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:36.075052096Z",
+  "model": "glm-5.3"
+}

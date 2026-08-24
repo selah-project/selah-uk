@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 101,
+  "translation": "Викривлене серце відвернеться від мене; зла я не пізнаватиму.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "викривлене"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "відвернеться"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "від мене"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "я пізнаватиму"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:41.281684240Z",
+  "model": "glm-5.3"
+}

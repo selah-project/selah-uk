@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 34:16",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "І приніс Шафан ⟨את⟩ книгу до царя, і звів ще ⟨את⟩ цареві слово, кажучи: «Усе, що дано в руку твоїм рабам, — ⟨те⟩ вони роблять».",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "і приніс"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Шафан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "книгу"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "книгу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "і звів"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цареві"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цареві"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Усе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дано"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "в руку"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "твоїм рабам"
+    },
+    {
+      "surface": "הם",
+      "gloss": "вони"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "роблять"
+    }
+  ],
+  "timestamp": "2026-08-24T01:34:51.871078753Z",
+  "model": "glm-5.3"
+}

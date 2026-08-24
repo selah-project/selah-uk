@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Бо так заповів ⟨את⟩ мені словом Яхве, кажучи: не їж хліба й не пий води, і не вертайся дорогою, якою ти прийшов.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мене"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "словом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "їж"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хліба"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "пий"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "вертайся"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "дорогою"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "якою"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "ти прийшов"
+    }
+  ],
+  "timestamp": "2026-08-23T22:51:35.192832054Z",
+  "model": "glm-5.3"
+}

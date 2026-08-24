@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І розкаявся Яхве, що зробив ⟨את⟩ людину на землі, і засмутився до серця свого.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "І розкаявся"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "зробив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "людину"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людину"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на землі"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "і засмутився"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "серця свого"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:22.275061152Z",
+  "model": "glm-5.3"
+}

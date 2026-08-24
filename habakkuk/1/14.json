@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 1:14",
+  "book": "habakkuk",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І робиш Ти людину ⟨як⟩ риб моря, ⟨як⟩ повзучих, що нема над ним владаря.",
+  "tokens": [
+    {
+      "surface": "ותעשה",
+      "gloss": "І робиш"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людину"
+    },
+    {
+      "surface": "כדגי",
+      "gloss": "як риб"
+    },
+    {
+      "surface": "הים",
+      "gloss": "моря"
+    },
+    {
+      "surface": "כרמש",
+      "gloss": "як повзучих"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "משל",
+      "gloss": "владаря"
+    },
+    {
+      "surface": "בו",
+      "gloss": "над ним"
+    }
+  ],
+  "timestamp": "2026-08-24T00:05:14.482359478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І відлучила ⟨את⟩ Ло-Рухаму, і завагітніла, і народила сина.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "і відлучила"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ло-Рухаму"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ло-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Рухаму"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "і завагітніла"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "і народила"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    }
+  ],
+  "timestamp": "2026-08-23T23:57:05.410772995Z",
+  "model": "glm-5.3"
+}

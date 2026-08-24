@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "⟨את⟩ суботи Мої стерегтимете, і святиню Мою боятиметеся: Я — Яхве.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "суботи Мої"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "суботи Мої"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "стерегтимете"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "і святиню Мою"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "боятиметеся"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:31.913879926Z",
+  "model": "glm-5.3"
+}

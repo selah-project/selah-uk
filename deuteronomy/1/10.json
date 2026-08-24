@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Яхве, Елогім ваш, побільшив вас ⟨את⟩, і ось ви сьогодні як зорі небес на множество.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елогім ваш"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "побільшив"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "і ось ви"
+    },
+    {
+      "surface": "היום",
+      "gloss": "сьогодні"
+    },
+    {
+      "surface": "кכוכבי",
+      "gloss": "як зорі"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "на множество"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:03.056187256Z",
+  "model": "glm-5.3"
+}

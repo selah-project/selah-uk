@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І сказав їм: «Іврит я, і Яхве, Елогім небес, я бояюся ⟨його⟩ — Той, хто зробив ⟨את⟩ море і ⟨את⟩ сушу».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Іврит"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "бояюся"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Той, хто"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "зробив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "море"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сушу"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "сушу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:03:07.092734660Z",
+  "model": "glm-5.3"
+}

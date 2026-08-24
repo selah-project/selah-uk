@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І скінчив говорити ⟨את⟩ з ним, і зійшов Елогім згори від Аврагама.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "і скінчив"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "говорити"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "з ним"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "і зійшов"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "згори від"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагама"
+    }
+  ],
+  "timestamp": "2026-08-23T21:12:55.817708186Z",
+  "model": "glm-5.3"
+}

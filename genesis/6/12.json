@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І побачив Елогім ⟨את⟩ землю, і ось — розтлена вона, бо розтлило все тіло ⟨את⟩ свій шлях на землі.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "І побачив"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "і ось"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "розтлена"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "розтлило"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тіло"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свій шлях"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "свій шлях"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:05.138490551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "А Азарія породив ⟨את⟩ Сераю, а Серая породив ⟨את⟩ Єгоцадака.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "а Азарія"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сераю"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Сераю"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "а Серая"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Єгоцадака"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Єгоцадака"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:58.212831722Z",
+  "model": "glm-5.3"
+}

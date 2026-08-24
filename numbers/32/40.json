@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І дав Моше ⟨את⟩ Гіл'ад Махіру, синові Менаше, і ⟨він⟩ осів у ньому.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "І дав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гіл'ад"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гіл'ад"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "Махіру"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синові"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "і осів"
+    },
+    {
+      "surface": "בה",
+      "gloss": "у ньому"
+    }
+  ],
+  "timestamp": "2026-08-23T21:58:24.673049281Z",
+  "model": "glm-5.3"
+}

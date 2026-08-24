@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 7:1",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І було слово Яхве до мене так:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І було"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "так:"
+    }
+  ],
+  "timestamp": "2026-08-23T23:41:48.242934792Z",
+  "model": "glm-5.3"
+}

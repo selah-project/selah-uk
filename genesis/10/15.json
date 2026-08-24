@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І Кенаан породив ⟨את⟩ Цідона, первістка свого, і ⟨את⟩ Хета.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "І Кенаан"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цідона"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Цідона"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "первістка свого"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Хета"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хета"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:52.244822206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І вийшов Гатах до Мордехая, на майдан міста, що перед брамою царя.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "І вийшов"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Гатах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехая"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "майдан"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "міста"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "שער",
+      "gloss": "брамою"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:56:01.231493830Z",
+  "model": "glm-5.3"
+}

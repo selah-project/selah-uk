@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Шіма, син його, Хаггія, син його, Асайя, син його.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "Шіма"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "Хаггія"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Асайя"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:18.390340232Z",
+  "model": "glm-5.3"
+}

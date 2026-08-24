@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Мій любець простягнув руку свою крізь отвір, і нутро моє здригнулося до нього.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "Мій любець"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "простягнув"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку свою"
+    },
+    {
+      "surface": "מן",
+      "gloss": "крізь"
+    },
+    {
+      "surface": "החר",
+      "gloss": "отвір"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "і нутро моє"
+    },
+    {
+      "surface": "המו",
+      "gloss": "здригнулося"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "до нього"
+    }
+  ],
+  "timestamp": "2026-08-24T00:49:35.448950320Z",
+  "model": "glm-5.3"
+}

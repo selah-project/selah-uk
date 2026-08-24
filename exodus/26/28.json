@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "а середній засув усередині дошок проходити буде від краю до краю.",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "а засув"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "середній"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "усередині"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "дошок"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "проходитиме"
+    },
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "краю"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "краю"
+    }
+  ],
+  "timestamp": "2026-08-23T21:33:06.026543664Z",
+  "model": "glm-5.3"
+}

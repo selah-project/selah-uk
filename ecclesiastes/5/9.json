@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Хто любить срібло, не насититься сріблом, а хто любить достаток — тому не буде прибутку; і це — гевель.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Хто любить"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "срібло"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "насититься"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сріблом"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "а хто"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "любить"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "достаток"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "буде прибутку"
+    },
+    {
+      "surface": "גם",
+      "gloss": "і"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "гевель"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:25.108222373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Батьки наші провинилися — їх ⟨уже⟩ немає, а ми несемі їхні провини.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "Батьки наші"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "провинилися"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "їх ⟨уже⟩ немає"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "а ми"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "їхні провини"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "несемо"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:07.886509287Z",
+  "model": "glm-5.3"
+}

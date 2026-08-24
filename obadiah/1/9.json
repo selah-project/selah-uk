@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "obadiah 1:9",
+  "book": "obadiah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І strapped твої воїни, Тейман, — тому винищений буде кожен з гори Есава від різні.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "і strapилися"
+    },
+    {
+      "surface": "גבוריך",
+      "gloss": "воїни твої"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Тейман"
+    },
+    {
+      "surface": "למען",
+      "gloss": "для того, щоб"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "буде винищений"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кожен чоловік"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "з гори"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есава"
+    },
+    {
+      "surface": "מקטל",
+      "gloss": "від різні"
+    }
+  ],
+  "timestamp": "2026-08-24T00:01:56.605604911Z",
+  "model": "glm-5.3"
+}

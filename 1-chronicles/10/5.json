@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І побачив носій зброї його, що помер Шауль, і впав також він на меч, і помер.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "І побачив"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "носій"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "зброї його"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "מת",
+      "gloss": "помер"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шауль"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "і впав"
+    },
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "і помер"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:31.906705105Z",
+  "model": "glm-5.3"
+}

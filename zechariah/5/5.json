@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 5:5",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І вийшов ангел, що говорив ⟨у⟩ мені, і сказав мені: піднеси ж бо очі свої і побач, що це виходить оце.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "І вийшов"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ангел"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "що говорив"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨у⟩ мені"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "שא",
+      "gloss": "піднеси"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ж бо"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "очі свої"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "і побач"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "виходить"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оце"
+    }
+  ],
+  "timestamp": "2026-08-24T00:07:29.941680394Z",
+  "model": "glm-5.3"
+}

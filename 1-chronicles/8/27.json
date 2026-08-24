@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "і Яареш'я, і Ел'я, і Зіхрі — сини Єрохама.",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "і Яареш'я"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "і Ел'я"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "і Зіхрі"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Єрохама"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:46.012597361Z",
+  "model": "glm-5.3"
+}

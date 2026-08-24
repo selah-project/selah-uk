@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 94,
+  "translation": "Бо суд повернеться до правди, і за ним — усі прямі серцем.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правди"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "повернеться"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "і за ним"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "прямі"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серцем"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:34.942191297Z",
+  "model": "glm-5.3"
+}

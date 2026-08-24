@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "син Хашав'ї, син Амації, син Хілкійї.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашав'ї"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Амації"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Хілкійї"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:33.310520391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Поселенець і наймит не їстимуть у ньому.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "поселенець"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "і наймит"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "їстиме"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у ньому"
+    }
+  ],
+  "timestamp": "2026-08-23T21:28:50.968822883Z",
+  "model": "glm-5.3"
+}

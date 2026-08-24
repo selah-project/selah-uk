@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І спочив ковчег у місяці сьомому, сімнадцятого дня місяця, на горах Арарату.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "І спочив"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "у місяці"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "сьомому"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "сім"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надцять"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "місяця"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "горах"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "Арарату"
+    }
+  ],
+  "timestamp": "2026-08-24T01:35:55.066634947Z",
+  "model": "glm-5.3"
+}

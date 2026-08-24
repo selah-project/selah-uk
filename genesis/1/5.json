@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І назвав Елогім світло Днем, а темряву назвав Ніччю; і був вечір, і був ранок — день один.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "І назвав"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "світло"
+    },
+    {
+      "surface": "יום",
+      "gloss": "День"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "а темряву"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "назвав"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Ніччю"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і був"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "вечір"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і був"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ранок"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:52.253029335Z",
+  "model": "glm-5.3"
+}

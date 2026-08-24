@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 1:17",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Сини Шема: Ейлам, і Ашур, і Арпахшад, і Луд, і Арам, і Уц, і Хул, і Гетер, і Мешех.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шема"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Ейлам"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "і Ашур"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "і Арпахшад"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "і Луд"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "і Арам"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "і Уц"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "і Хул"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "і Гетер"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "і Мешех"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:10.062965083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Спостерігає шляхи дому ⟨свого⟩, і хліб ледарства не їсть.",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "спостерігає"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "шляхи"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "дому ⟨свого⟩"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "і хліб"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "ледарства"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "їсть"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:35.592862083Z",
+  "model": "glm-5.3"
+}

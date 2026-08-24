@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Ейлама: тисяча двісті п'ятдесят і чотири.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Ейлама"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяча"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двісті"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "п'ятдесят"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "і чотири"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:17.497097864Z",
+  "model": "glm-5.3"
+}

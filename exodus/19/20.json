@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І зійшов Яхве на гору Сінай, на вершину гори, і покликав Яхве Моше на вершину гори, і зійшов Моше вгору.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "і зійшов"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Сінай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "вершину"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "гори"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "і покликав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "вершину"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "гори"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "і зійшов вгору"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-23T21:30:00.619298185Z",
+  "model": "glm-5.3"
+}

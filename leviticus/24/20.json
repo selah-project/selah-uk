@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "перелом за перелом, око за око, зуб за зуб; як завдасть каліцтва людині, так нехай буде завдано йому.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "перелом"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "перелом"
+    },
+    {
+      "surface": "עין",
+      "gloss": "око"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "עין",
+      "gloss": "око"
+    },
+    {
+      "surface": "שן",
+      "gloss": "зуб"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "שן",
+      "gloss": "зуб"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "завдасть"
+    },
+    {
+      "surface": "מום",
+      "gloss": "каліцтво"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "людині"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "нехай буде завдано"
+    },
+    {
+      "surface": "בו",
+      "gloss": "йому"
+    }
+  ],
+  "timestamp": "2026-08-23T21:45:54.080404611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 18:28",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І пішов вгору цар Ізраїля та Єгошафат, цар Єгуди, до Рамот-Ґіладу.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "І пішов вгору"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "та Єгошафат"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Рамот"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Ґіладу"
+    }
+  ],
+  "timestamp": "2026-08-24T01:27:13.301366609Z",
+  "model": "glm-5.3"
+}

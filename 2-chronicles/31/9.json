@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 31:9",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "І запитав Хізкіягу у священиків і левітів про ⟨ті⟩ купи.",
+  "tokens": [
+    {
+      "surface": "וידרש",
+      "gloss": "І запитав"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Хізкіягу"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "священиків"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "і левітів"
+    },
+    {
+      "surface": "על",
+      "gloss": "про"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "купи"
+    }
+  ],
+  "timestamp": "2026-08-24T01:32:24.281716343Z",
+  "model": "glm-5.3"
+}

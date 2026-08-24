@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 20:26",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Віює злочинців цар мудрий, і повертає над ними колесо.",
+  "tokens": [
+    {
+      "surface": "מזרה",
+      "gloss": "Віює"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злочинців"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрий"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "і повертає"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над ними"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "колесо"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:59.846131326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І поклав Моше ⟨את⟩ палиці перед обличчям Яхве в наметі свідоцтва.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "і поклав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "палиці"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "палиці"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед обличчям"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "в наметі"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "свідоцтва"
+    }
+  ],
+  "timestamp": "2026-08-23T21:53:35.227520633Z",
+  "model": "glm-5.3"
+}

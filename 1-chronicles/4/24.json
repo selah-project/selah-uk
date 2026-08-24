@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Сини Шимона: Немуел, і Ямін, Ярів, Зерах, Шаул.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимона"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "Немуел"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "і Ямін"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "Ярів"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:51.142425881Z",
+  "model": "glm-5.3"
+}

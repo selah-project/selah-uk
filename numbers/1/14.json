@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Для Гада — Еліясаф, син Деуела.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "Для Гада"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Еліясаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Деуела"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:31.387246075Z",
+  "model": "glm-5.3"
+}

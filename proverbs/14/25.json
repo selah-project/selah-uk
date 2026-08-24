@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Рятує життя свідок правди, а той, хто видихує брехні, — ⟨це⟩ обман.",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "рятує"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "життя"
+    },
+    {
+      "surface": "עד",
+      "gloss": "свідок"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "правди"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "а той, хто видихує"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "брехні"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "обман"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:06.276150612Z",
+  "model": "glm-5.3"
+}

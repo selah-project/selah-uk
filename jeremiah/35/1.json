@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 35:1",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "Слово, яке сталося до Єрміїгу від ⟨את⟩ Яхве, за днів Єгоякіма, сина Йошиягу, царя Єгуди, кажучи:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Слово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "היה",
+      "gloss": "сталося"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Єрміїгу"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "за днів"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Єгоякіма"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Йошиягу"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T23:33:26.830027234Z",
+  "model": "glm-5.3"
+}

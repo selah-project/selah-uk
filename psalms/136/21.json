@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 136,
+  "translation": "І дав землю їхню ⟨яку⟩ спадщину, бо на віки його хесед.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "І дав"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "землю їхню"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "спадщину"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "на віки"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "його хесед"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:43.966194956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "Гординя людини принижує її, а принижений духом здобуде честь.",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "гординя"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людини"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "принижує її"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "а принижений"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "духом"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "здобуде"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "честь"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:31.990101212Z",
+  "model": "glm-5.3"
+}

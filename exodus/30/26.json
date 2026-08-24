@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "І помажеш ним ⟨את⟩ шатро зборів, і ⟨את⟩ ковчег свідоцтва.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "і помажеш"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ним"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шатро зборів"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатро"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "зборів"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "ковчег свідоцтва"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "свідоцтва"
+    }
+  ],
+  "timestamp": "2026-08-23T21:34:02.661976686Z",
+  "model": "glm-5.3"
+}

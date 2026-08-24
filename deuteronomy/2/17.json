@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І промовив Яхве до мене, кажучи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "І промовив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:20.468413748Z",
+  "model": "glm-5.3"
+}

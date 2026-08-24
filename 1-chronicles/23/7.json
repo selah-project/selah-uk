@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Гершонових: Лаадан і Шим'і.",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "Гершонових"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "Лаадан"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "і Шим'і"
+    }
+  ],
+  "timestamp": "2026-08-24T01:19:48.495577281Z",
+  "model": "glm-5.3"
+}

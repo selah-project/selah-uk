@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 55,
+  "translation": "Що разом солодили раду ⟨таємну⟩, у домі Елогім ходили в гомоні ⟨натовпу⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Що"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "разом"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "солодили"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "раду"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "у домі"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "ходили"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "у гомоні"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:42.210971623Z",
+  "model": "glm-5.3"
+}

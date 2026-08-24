@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І взяв Моше ⟨את⟩ вози і ⟨את⟩ худобу, і дав їх Левитам.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "І взяв"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "вози"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "вози"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "худобу"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "худоба"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "і дав"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ їх",
+      "marks": "Левитам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левитів"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:26.968096353Z",
+  "model": "glm-5.3"
+}

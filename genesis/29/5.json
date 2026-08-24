@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І сказав їм: Чи ви знаєте Лавана, сина Нахора? І сказали: Знаємо.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Чи ви знаєте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Лавана"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лавана"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахора"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "І сказали"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Знаємо"
+    }
+  ],
+  "timestamp": "2026-08-23T21:16:53.390668392Z",
+  "model": "glm-5.3"
+}

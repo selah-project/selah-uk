@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 9:26",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І панував ⟨він⟩ над усіма царями від ⟨від⟩ Річки аж до землі плиштимів і до межі Міцраїму.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І був"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "пануючим"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "над усіма"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "царями"
+    },
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "Річки"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "плиштимів"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "і до"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "межі"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїму"
+    }
+  ],
+  "timestamp": "2026-08-24T01:25:29.722288484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Лінощі занурюють у глибокий сон, і душа лукава голодуватиме.",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "Лінощі"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "занурюють"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "у глибокий сон"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "і душа"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "лукава"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "голодуватиме"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:17.734611914Z",
+  "model": "glm-5.3"
+}

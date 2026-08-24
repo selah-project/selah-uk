@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "кільця, і перстні-прикраси носа,",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "кільця"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "і перстні-прикраси"
+    },
+    {
+      "surface": "האף",
+      "gloss": "носа"
+    }
+  ],
+  "timestamp": "2026-08-23T23:05:41.208602963Z",
+  "model": "glm-5.3"
+}

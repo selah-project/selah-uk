@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 36:2",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "Обжди мене трохи, і я покажу тобі, бо ще для Елоага ⟨є⟩ слова.",
+  "tokens": [
+    {
+      "surface": "כתר",
+      "gloss": "Обжди"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "трохи"
+    },
+    {
+      "surface": "ואחוך",
+      "gloss": "і я покажу тобі"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "לאלוה",
+      "gloss": "для Елоага"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "⟨є⟩ слова"
+    }
+  ],
+  "timestamp": "2026-08-24T00:47:29.900532074Z",
+  "model": "glm-5.3"
+}

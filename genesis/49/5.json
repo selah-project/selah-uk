@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 49,
+  "translation": "Шимон і Леві — брати; знаряддя насильства — мечі їхні.",
+  "tokens": [
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "і Леві"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "брати"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "знаряддя"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насильства"
+    },
+    {
+      "surface": "מכרתיהם",
+      "gloss": "мечі їхні"
+    }
+  ],
+  "timestamp": "2026-08-23T21:25:09.827329265Z",
+  "model": "glm-5.3"
+}

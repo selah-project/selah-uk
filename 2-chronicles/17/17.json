@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 17:17",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І з Біньяміна — гіббор хаїл Ельяда, і з ним двіста тисяч озброєних луком і щитом.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "і з"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Біньяміна"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "сильний воїн"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "звитягі"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Ельяда"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "і з ним"
+    },
+    {
+      "surface": "נשקי",
+      "gloss": "озброєні"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "луком"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "і щитом"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двісті"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяч"
+    }
+  ],
+  "timestamp": "2026-08-24T01:26:29.857528102Z",
+  "model": "glm-5.3"
+}

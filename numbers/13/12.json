@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Для племені Дана — Амміель, син Ґемаллі.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "для племені"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дана"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Амміель"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "Ґемаллі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:38:26.157823049Z",
+  "model": "glm-5.3"
+}

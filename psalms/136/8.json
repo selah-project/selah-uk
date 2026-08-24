@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 136,
+  "translation": "⟨את⟩ сонце — на володарювання вдень, бо навіки триває Його хесед.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сонце"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонце"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "на володарювання"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "вдень"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Його хесед"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:56.530735419Z",
+  "model": "glm-5.3"
+}

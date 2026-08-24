@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Той, хто приносить ⟨את⟩ кров шламім і ⟨את⟩ лій, із синів Агарона, — йому буде стегно праве на частку.",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "приносить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кров"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кров"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "шламім"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "лій"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "лій"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "із синів"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарона"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "стегно"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "праве"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "на частку"
+    }
+  ],
+  "timestamp": "2026-08-23T21:39:35.025945381Z",
+  "model": "glm-5.3"
+}

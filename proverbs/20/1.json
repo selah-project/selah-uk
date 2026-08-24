@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Насмішник — вино, гуркоче міцний напій, і кожен, хто блукає в ньому, не стане мудрим.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "насмішник"
+    },
+    {
+      "surface": "היין",
+      "gloss": "вино"
+    },
+    {
+      "surface": "המה",
+      "gloss": "гуркоче"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "міцний напій"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і кожен"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "блукає"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в ньому"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "стане мудрим"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:34.691304070Z",
+  "model": "glm-5.3"
+}

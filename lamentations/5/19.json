@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Ти, Яхве, навіки сидиш, престол твій — нарік і нарік.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "сидиш"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "престол твій"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "нарік"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "і нарік"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:59.843462977Z",
+  "model": "glm-5.3"
+}

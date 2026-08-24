@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 42,
+  "translation": "«І сказали ми йому: щирі ми, не були ми розвідниками.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "і сказали ми"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "щирі"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "були ми"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "розвідниками"
+    }
+  ],
+  "timestamp": "2026-08-23T21:22:19.472292074Z",
+  "model": "glm-5.3"
+}

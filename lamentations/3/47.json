@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Жах і тенета стали нам, руїна й зламання.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "жах"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "і тенета"
+    },
+    {
+      "surface": "היה",
+      "gloss": "стали"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "руїна"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "й зламання"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:33.720484381Z",
+  "model": "glm-5.3"
+}

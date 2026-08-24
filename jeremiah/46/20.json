@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 46:20",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 46,
+  "translation": "Телиця, вродлива красою, — Міцраїм; з півночі винищення прийде, прийде.",
+  "tokens": [
+    {
+      "surface": "עגלה",
+      "gloss": "Телиця"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "вродлива"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "красою"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїм"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "винищення"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "з півночі"
+    },
+    {
+      "surface": "בא",
+      "gloss": "прийде"
+    },
+    {
+      "surface": "בא",
+      "gloss": "прийде"
+    }
+  ],
+  "timestamp": "2026-08-23T23:36:40.160532536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Тільки на мене він звертає, перевертає руку свою весь день.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Тільки"
+    },
+    {
+      "surface": "בי",
+      "gloss": "на мене"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "він звертає"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "перевертає"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку свою"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    }
+  ],
+  "timestamp": "2026-08-24T00:51:39.953784380Z",
+  "model": "glm-5.3"
+}

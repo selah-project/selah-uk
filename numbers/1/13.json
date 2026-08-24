@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 1:13",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Для Ашера — Пагіїл, син Окрана.",
+  "tokens": [
+    {
+      "surface": "לאשר",
+      "gloss": "Для Ашера"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "Пагіїл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "Окрана"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:31.386962581Z",
+  "model": "glm-5.3"
+}

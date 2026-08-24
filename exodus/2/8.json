@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І сказала їй дочка Паро: іди. І пішла дівчина, і покликала ⟨את⟩ мати дитини.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "і сказала"
+    },
+    {
+      "surface": "לה",
+      "gloss": "їй"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочка"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "іди"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "і пішла"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "дівчина"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "і покликала"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мати"
+    },
+    {
+      "surface": "אם",
+      "gloss": "мати"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "дитини"
+    }
+  ],
+  "timestamp": "2026-08-23T21:24:38.805506573Z",
+  "model": "glm-5.3"
+}

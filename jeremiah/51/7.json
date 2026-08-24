@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 51:7",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 51,
+  "translation": "Золота чаша — Бавель у руці Яхве, що сп'янила всю землю; з її вина пили народи, тому божеволіють народи.",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "Чаша"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золота"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бавель"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "у руці"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "משכרת",
+      "gloss": "сп'янила"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "מיינה",
+      "gloss": "з її вина"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "пили"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "על",
+      "gloss": "тому"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "божеволіють"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народи"
+    }
+  ],
+  "timestamp": "2026-08-23T23:38:47.414285672Z",
+  "model": "glm-5.3"
+}

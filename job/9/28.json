@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 9:28",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Боюся я всіх болей своїх; знаю, що не виправдаєш мене.",
+  "tokens": [
+    {
+      "surface": "יגרתי",
+      "gloss": "Боюся я"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всіх"
+    },
+    {
+      "surface": "עצבתי",
+      "gloss": "болей своїх"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знаю"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "виправдаєш мене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:41:37.462712242Z",
+  "model": "glm-5.3"
+}

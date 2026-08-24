@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "А юнак нічого не знав; лише Єгонатан і Давид знали ⟨את⟩ справу.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "а юнак"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знав"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "нічого"
+    },
+    {
+      "surface": "אך",
+      "gloss": "лише"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Єгонатан"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "і Давид"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знали"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "справу"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "справу"
+    }
+  ],
+  "timestamp": "2026-08-23T22:33:34.336075998Z",
+  "model": "glm-5.3"
+}

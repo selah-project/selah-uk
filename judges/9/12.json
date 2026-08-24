@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І сказали дерева лозі́: йди, ти цари́ню́й над нами.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "і сказали"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дерева"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "лозі́"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "йди"
+    },
+    {
+      "surface": "את",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "цари́ню́й"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "над нами"
+    }
+  ],
+  "timestamp": "2026-08-23T22:22:04.456494495Z",
+  "model": "glm-5.3"
+}

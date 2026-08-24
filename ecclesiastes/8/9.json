@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "⟨את⟩ усе це я бачив, і дав ⟨את⟩ серце моє до всякої справи, що робиться під сонцем: ⟨був⟩ час, коли панувала людина над людиною — на лихо їй.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усе це"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "я бачив"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "і дав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "серце моє"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "серце моє"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "до всякої"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "справи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "робиться"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцем"
+    },
+    {
+      "surface": "עת",
+      "gloss": "час"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коли"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "панувала"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людина"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "над людиною"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "на лихо"
+    },
+    {
+      "surface": "לו",
+      "gloss": "їй"
+    }
+  ],
+  "timestamp": "2026-08-24T00:55:31.067999677Z",
+  "model": "glm-5.3"
+}

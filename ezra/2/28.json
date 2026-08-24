@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Мужі Бейт-Елю й Гаю — двісті двадцять три.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Мужі"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Елю"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "й Гаю"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двісті"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцять"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "і три"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:21.683412694Z",
+  "model": "glm-5.3"
+}

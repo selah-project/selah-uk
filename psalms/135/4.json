@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 135,
+  "translation": "бо Яака обрав Собі Ях, Ісраель — ⟨як⟩ скарб Своїй власності.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яака"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "обрав"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Собі"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраель"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "скарб Своїй власності"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:20.368857197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 135,
+  "translation": "Як вони, будуть ті, хто їх робить; кожен, хто надіється на них.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "Як вони"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "будуть"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ті, хто їх робить"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кожен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хто"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "надіється"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "на них"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:00.629608023Z",
+  "model": "glm-5.3"
+}

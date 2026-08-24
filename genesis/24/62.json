@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "genesis 24:62",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "А Їцхак прийшов з боку входу до Беер-Лахай-Рої, — бо ⟨він⟩ жив у землі Негеву.",
+  "tokens": [
+    {
+      "surface": "ויצחק",
+      "gloss": "А Їцхак"
+    },
+    {
+      "surface": "בא",
+      "gloss": "прийшов"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "з боку входу"
+    },
+    {
+      "surface": "באר",
+      "gloss": "до Беер"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Лахай"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Рої"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "бо він"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "жив"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у землі"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Негеву"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:17.524937485Z",
+  "model": "glm-5.3"
+}

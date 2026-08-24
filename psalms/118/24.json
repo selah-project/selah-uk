@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 118,
+  "translation": "Цей день учинив Яхве; звеселимось і радітимемо в нім.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Цей"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учинив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "звеселимось"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "і радітимемо"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в нім"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:04.410511356Z",
+  "model": "glm-5.3"
+}

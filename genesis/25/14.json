@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "і Мішма, і Дума, і Масса.",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "і Мішма"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "і Дума"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "і Масса"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:17.225755950Z",
+  "model": "glm-5.3"
+}

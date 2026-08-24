@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "І вийшов Евед-Мелех з дому царя, і сказав до царя, кажучи:",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "і вийшов"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Евед"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Мелех"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "з дому"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T23:35:00.127675236Z",
+  "model": "glm-5.3"
+}

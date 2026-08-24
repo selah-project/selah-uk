@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 115,
+  "translation": "Небеса небес ⟨належать⟩ Яхве, а землю Він дав синам людським.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Небеса"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "а землю"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Він дав"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синам"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людським"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:08.733689152Z",
+  "model": "glm-5.3"
+}

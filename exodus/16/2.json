@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І нарікала вся громада синів Їсраейлю на Моше та на Агарона в пустелі.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "І нарікала"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "громада"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраейлю"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "та на"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарона"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "в пустелі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:29:43.062355299Z",
+  "model": "glm-5.3"
+}

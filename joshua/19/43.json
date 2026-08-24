@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І Елон, і Тімна, і Екрон.",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "і Елон"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "і Тімна"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "і Екрон"
+    }
+  ],
+  "timestamp": "2026-08-23T22:16:28.076707836Z",
+  "model": "glm-5.3"
+}

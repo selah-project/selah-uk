@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І послав Давид до Йоава: пошли до мене ⟨את⟩ Урію Хеттея. І послав Йоав ⟨את⟩ Урію до Давида.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "І послав"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоава"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "пошли"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Урію"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урію"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Хеттея"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "І послав"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Урію"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урію"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-23T22:39:55.301108242Z",
+  "model": "glm-5.3"
+}

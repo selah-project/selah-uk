@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 29:14",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І сказав йому Лаван: «Ти ж бо ⟨є⟩ кістка моя і тіло моє». І він жив у нього місяць днів.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ж бо"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "кістка моя"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "і тіло моє"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "І жив"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "у нього"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "місяць"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    }
+  ],
+  "timestamp": "2026-08-23T21:16:58.180895379Z",
+  "model": "glm-5.3"
+}

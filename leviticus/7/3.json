@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І ⟨את⟩ ввесь його тук принесе з нього: ⟨את⟩ курдюк, і ⟨את⟩ тук, що вкриває нутрощі,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "І ⟨את⟩",
+      "marks": "ввесь його тук"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ввесь"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "його тук"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "принесе"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "з нього"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "курдюк"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "курдюк"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "тук"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "тук"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "що вкриває"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нутрощі"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "нутрощі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:38:48.666706134Z",
+  "model": "glm-5.3"
+}

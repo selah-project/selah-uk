@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "А якщо ⟨⟨це⟩⟩ са́мка — то буде оцінена твоя тридцять шеклів.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А якщо"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "са́мка"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨це⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "то буде"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "оцінена твоя"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридцять"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "шеклів"
+    }
+  ],
+  "timestamp": "2026-08-23T21:47:06.626552925Z",
+  "model": "glm-5.3"
+}

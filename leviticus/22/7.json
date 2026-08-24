@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "І зайде сонце, і він очиститься, і після того їстиме від святих, бо це їжа його.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "і зайде"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонце"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "і очиститься"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "і після того"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "їстиме"
+    },
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "святих"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "їжа його"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "це"
+    }
+  ],
+  "timestamp": "2026-08-23T21:44:51.849962986Z",
+  "model": "glm-5.3"
+}

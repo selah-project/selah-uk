@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 30:7",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Між кущами ⟨вони⟩ ревуть, під будяками збираються.",
+  "tokens": [
+    {
+      "surface": "בין",
+      "gloss": "між"
+    },
+    {
+      "surface": "שיחים",
+      "gloss": "кущами"
+    },
+    {
+      "surface": "ינהקו",
+      "gloss": "ревуть"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "חרול",
+      "gloss": "будяками"
+    },
+    {
+      "surface": "יספחו",
+      "gloss": "збираються"
+    }
+  ],
+  "timestamp": "2026-08-24T00:45:50.637966168Z",
+  "model": "glm-5.3"
+}

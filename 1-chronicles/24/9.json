@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "П'ятий — Малкіяху, шостий — Міямін.",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "Малкіяху"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "п'ятий"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "Міямін"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шостий"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:20.697077221Z",
+  "model": "glm-5.3"
+}

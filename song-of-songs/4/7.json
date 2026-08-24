@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Уся ти вродлива, моя люба, і плями нема в тобі.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "уся ти"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "вродлива"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "моя люба"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "і плями"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в тобі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:49:46.950624135Z",
+  "model": "glm-5.3"
+}

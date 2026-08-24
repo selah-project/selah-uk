@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Усі ці з'єдналися до долини Га-Сіддім — вона ⟨є⟩ море Солоне.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Усі"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "з'єдналися"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "долини"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "Га-Сіддім"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "ים",
+      "gloss": "море"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Солоне"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:15.275398643Z",
+  "model": "glm-5.3"
+}

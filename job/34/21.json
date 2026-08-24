@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 34:21",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "Бо Його очі — на шляхах мужа, і всі його кроки Він бачить.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "очі Його"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "шляхах"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і всі"
+    },
+    {
+      "surface": "צעדיו",
+      "gloss": "кроки його"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "Він бачить"
+    }
+  ],
+  "timestamp": "2026-08-24T00:46:53.239383628Z",
+  "model": "glm-5.3"
+}

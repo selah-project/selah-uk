@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Їґаль син Натана з Цови; Бані ⟨the⟩ Ґаді.",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "Їґаль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натана"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "з Цови"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бані"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "⟨the⟩ Ґаді"
+    }
+  ],
+  "timestamp": "2026-08-23T22:44:52.169417624Z",
+  "model": "glm-5.3"
+}

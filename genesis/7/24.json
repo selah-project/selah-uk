@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І сильні були води над землею сто п'ятдесят днів.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "І сильні були"
+    },
+    {
+      "surface": "המים",
+      "gloss": "води"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землею"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "п'ятдесят"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "і сто"
+    },
+    {
+      "surface": "יום",
+      "gloss": "днів"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:38.557520956Z",
+  "model": "glm-5.3"
+}

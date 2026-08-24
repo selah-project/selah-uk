@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Він увів ⟨в⟩ нирки мої сини свого сагайдака.",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "Він увів"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "в нирки мої"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "його сагайдака"
+    }
+  ],
+  "timestamp": "2026-08-24T00:51:36.707031981Z",
+  "model": "glm-5.3"
+}

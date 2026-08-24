@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І сказав йому Яхве: що це в руці твоїй? І сказав: жезл.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "що це"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "в руці твоїй"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "жезл"
+    }
+  ],
+  "timestamp": "2026-08-23T21:25:49.644328948Z",
+  "model": "glm-5.3"
+}

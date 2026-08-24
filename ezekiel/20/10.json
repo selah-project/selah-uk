@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 20:10",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І вивів Я їх із землі Міцраїм, і привів їх у пустелю.",
+  "tokens": [
+    {
+      "surface": "ואוציאם",
+      "gloss": "І вивів Я їх"
+    },
+    {
+      "surface": "мארץ",
+      "gloss": "із землі"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїм"
+    },
+    {
+      "surface": "ואבאם",
+      "gloss": "і привів їх"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "пустелю"
+    }
+  ],
+  "timestamp": "2026-08-23T23:46:52.368031901Z",
+  "model": "glm-5.3"
+}

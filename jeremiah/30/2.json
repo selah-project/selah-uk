@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Так сказав Яхве, Елогім Ізраїлю, кажучи: напиши собі ⟨את⟩ усі слова, що я говорив тобі, на ⟨the⟩ сувій.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлю"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "напиши"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усі слова"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "я говорив"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "сувій"
+    }
+  ],
+  "timestamp": "2026-08-23T23:32:22.607140936Z",
+  "model": "glm-5.3"
+}

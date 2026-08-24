@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Бо скаже: хіба князі мої разом — не царі?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "скаже"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "хіба"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "князі мої"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "разом"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "не царі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:07:56.760659264Z",
+  "model": "glm-5.3"
+}

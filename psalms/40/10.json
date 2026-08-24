@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "Я звістив ⟨את⟩ правду в зібранні великім; ось губи мої не стримаю — Яхве, Ти знаєш.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "я звістив"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правду"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "в зібранні"
+    },
+    {
+      "surface": "רב",
+      "gloss": "великім"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "губи мої"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "стримаю"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаєш"
+    }
+  ],
+  "timestamp": "2026-08-24T01:52:18.177075265Z",
+  "model": "glm-5.3"
+}

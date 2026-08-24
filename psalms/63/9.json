@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 63,
+  "translation": "Прилипла моя нефеш за Тобою, мене підпирає Твоя правиця.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "Прилипла"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "моя нефеш"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "за Тобою"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "підпирає"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "Твоя правиця"
+    }
+  ],
+  "timestamp": "2026-08-24T00:18:37.275257148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І було слово Яхве до Єгу, сина Ханані, проти Баши, говорячи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І було"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Єгу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Ханані"
+    },
+    {
+      "surface": "על",
+      "gloss": "проти"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Баши"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    }
+  ],
+  "timestamp": "2026-08-23T22:52:53.004173661Z",
+  "model": "glm-5.3"
+}

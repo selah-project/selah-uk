@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І дав Елогім ⟨את⟩ їх у ⟨the⟩ простір небес, щоб світити над ⟨the⟩ землею,",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "І дав"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ їх",
+      "marks": "їх (світила)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "у ⟨the⟩ простір"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "щоб світити"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ землею"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:54.189244151Z",
+  "model": "glm-5.3"
+}

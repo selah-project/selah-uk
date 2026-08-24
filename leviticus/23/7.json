@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "У перший день — свята збірка буде вам; усякої робочої праці не робіть.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "у день"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "перший"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "свята збірка"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свята"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усякої"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "робочої"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "праці"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "робіть"
+    }
+  ],
+  "timestamp": "2026-08-23T21:45:22.029441902Z",
+  "model": "glm-5.3"
+}

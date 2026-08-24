@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 7:17",
+  "book": "daniel",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Ці великі звірі, що їх чотири, — чотири царі, які повстануть із землі.",
+  "tokens": [
+    {
+      "surface": "אלין",
+      "gloss": "Ці"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "звірі"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "великі"
+    },
+    {
+      "surface": "די",
+      "gloss": "що"
+    },
+    {
+      "surface": "אנין",
+      "gloss": "вони"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чотири"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чотири"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "царі"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "повстануть"
+    },
+    {
+      "surface": "מן",
+      "gloss": "із"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:01:34.989329368Z",
+  "model": "glm-5.3"
+}

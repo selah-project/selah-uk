@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 15:14",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "А високі місця не зникли; тільки серце Аси було цілісне з Яхве всі дні його.",
+  "tokens": [
+    {
+      "surface": "והבמות",
+      "gloss": "а високі місця"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "зникли"
+    },
+    {
+      "surface": "רק",
+      "gloss": "тільки"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аси"
+    },
+    {
+      "surface": "היה",
+      "gloss": "було"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "цілісне"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "дні його"
+    }
+  ],
+  "timestamp": "2026-08-23T22:52:42.480703338Z",
+  "model": "glm-5.3"
+}

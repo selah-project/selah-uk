@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 9:23",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "За устами Яхве станували, і за устами Яхве рушали; ⟨את⟩ варту Яхве стерегли — за устами Яхве рукою Моше.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устами"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "станували"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і за"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устами"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "рушали"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "варту"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "варту"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "стерегли"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устами"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "рукою"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:45.687830223Z",
+  "model": "glm-5.3"
+}

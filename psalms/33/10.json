@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "Яхве розбив раду народів, відвернув задуми племен.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "розбив"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "раду"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народів"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "відвернув"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "задуми"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "племен"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:45.448816518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І тепер — до вас ця заповідь, священники.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "І тепер"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "до вас"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ця заповідь"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ця"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "священники"
+    }
+  ],
+  "timestamp": "2026-08-24T00:09:02.720024220Z",
+  "model": "glm-5.3"
+}

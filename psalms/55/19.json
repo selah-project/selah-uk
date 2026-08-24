@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 55,
+  "translation": "Викупив у мирі нефеш мою — з-посеред мене, бо многі були зо мною.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Викупив"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "у мирі"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "нефеш мою"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "з-посеред"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "у многих"
+    },
+    {
+      "surface": "היו",
+      "gloss": "були"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "зо мною"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:29.557827385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Араха: сімсот сімдесят і п'ять.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Араха"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "сім"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "п'ять"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "і сімдесят"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:17.496490807Z",
+  "model": "glm-5.3"
+}

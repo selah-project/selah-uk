@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Звідти рушили до Гудгоди, а від Гудгоди — до Йотвати, землі потоків води.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "звідти"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "рушили"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "до Гудгоди"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "а від"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "Гудгоди"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "до Йотвати"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "потоків"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    }
+  ],
+  "timestamp": "2026-08-23T22:02:58.482110576Z",
+  "model": "glm-5.3"
+}

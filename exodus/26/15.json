@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "І зробиш ⟨את⟩ дошки для Мішкану з дерева шітім, стоячі.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "і зробиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дошки"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "дошки"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "для Мішкану"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "з дерева"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шітім"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "стоячі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:32:55.871766740Z",
+  "model": "glm-5.3"
+}

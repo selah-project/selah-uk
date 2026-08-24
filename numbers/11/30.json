@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І зібрався Моше до ⟨табору⟩ — він та старійшини Ізраїлю.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "і зібрався"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "табору"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "та старійшини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлю"
+    }
+  ],
+  "timestamp": "2026-08-23T21:52:03.272875185Z",
+  "model": "glm-5.3"
+}

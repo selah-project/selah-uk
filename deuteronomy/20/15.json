@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 20:15",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "так учиниш усім містам, дуже далеким від тебе, що не ⟨є⟩ містами цих народів отут",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "учиниш"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "усім"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "містам"
+    },
+    {
+      "surface": "הרחקת",
+      "gloss": "далеким"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "від тебе"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "дуже"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "містами"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "цих народів"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "цих"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "отут"
+    }
+  ],
+  "timestamp": "2026-08-23T22:05:55.050510108Z",
+  "model": "glm-5.3"
+}

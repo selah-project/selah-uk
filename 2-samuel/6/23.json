@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "А Міхалі, дочці Шаула, не було в неї дитини аж до дня смерті її.",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "а Міхалі"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочці"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаула"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "було"
+    },
+    {
+      "surface": "לה",
+      "gloss": "в неї"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "дитини"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "смерті її"
+    }
+  ],
+  "timestamp": "2026-08-23T22:38:29.258293282Z",
+  "model": "glm-5.3"
+}

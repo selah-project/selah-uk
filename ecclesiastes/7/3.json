@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Досада краща за сміх, бо при похмурості обличчя серце стає кращим.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Краща"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "Досада"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "за сміх"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "при похмурості"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "обличчя"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "стає кращим"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серце"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:25.813081578Z",
+  "model": "glm-5.3"
+}

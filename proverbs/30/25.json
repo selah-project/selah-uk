@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Мурашки — народ не сильний, та готують улітку їжу свою.",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "мурашки"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עז",
+      "gloss": "сильний"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "та готують"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "улітку"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "їжу свою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:53.572151351Z",
+  "model": "glm-5.3"
+}

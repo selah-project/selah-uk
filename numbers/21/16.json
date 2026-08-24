@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 21:16",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І звідти — до Беера; це ⟨є⟩ криниця, про яку сказав Яхве Моше: Збери ⟨את⟩ народ, і я дам їм води.",
+  "tokens": [
+    {
+      "surface": "ומשם",
+      "gloss": "і звідти"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "до Беера"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "це"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "криниця"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "про яку"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "збери"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "і я дам"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    }
+  ],
+  "timestamp": "2026-08-23T21:54:05.565087132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "А від данців — упорядники битви двадцять і вісім тисяч і шістсот.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "А від"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "данців"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "упорядники"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "битви"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцять"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "і вісім"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяч"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "і шість"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:04.482125240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 33:25",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "Так сказав Яхве: якщо заповіту Мого немає вдень і вночі, постанов небес і землі Я не встановив —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "заповіт Мій"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "вдень"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "і вночі"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "постанови"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "і землі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "встановив Я"
+    }
+  ],
+  "timestamp": "2026-08-23T23:32:50.407345852Z",
+  "model": "glm-5.3"
+}

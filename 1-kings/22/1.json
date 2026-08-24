@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "І сиділи три роки, не було війни між Арамом і між Ізраїлем.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "І сиділи"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "роки"
+    },
+    {
+      "surface": "אין",
+      "gloss": "не було"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "війни"
+    },
+    {
+      "surface": "בין",
+      "gloss": "між"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арамом"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "і між"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлем"
+    }
+  ],
+  "timestamp": "2026-08-24T01:43:43.381665471Z",
+  "model": "glm-5.3"
+}

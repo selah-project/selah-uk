@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І після нього зміцнили когани, люди ⟨the⟩ Кіккару.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "і після нього"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "зміцнили"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "когани"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "люди"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "Кіккару"
+    }
+  ],
+  "timestamp": "2026-08-24T01:08:00.212565739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "і пристав ножа до горла твого, якщо ти володар апетиту.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "і пристав"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "ножа"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "до горла твого"
+    },
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "володар"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "апетиту"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:37.158811458Z",
+  "model": "glm-5.3"
+}

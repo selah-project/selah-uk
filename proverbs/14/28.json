@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 14:28",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "У множині народу — прикраса царя, а в зникненні люду — погибель вельможі.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "у множині"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "הדרת",
+      "gloss": "прикраса"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ובאפס",
+      "gloss": "а в зникненні"
+    },
+    {
+      "surface": "לאם",
+      "gloss": "люду"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "погибель"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "вельможі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:06.276691377Z",
+  "model": "glm-5.3"
+}

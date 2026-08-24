@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 62,
+  "translation": "Тільки для Елогіма замовкни, душе моя, бо від нього надія моя.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Тільки"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "для Елогіма"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "замовкни"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душе моя"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "від нього"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "надія моя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:18:22.983179328Z",
+  "model": "glm-5.3"
+}

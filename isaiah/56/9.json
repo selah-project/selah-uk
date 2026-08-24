@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 56,
+  "translation": "Уся звірина польова — приходьте пожирати, уся звірина в лісі!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "уса"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "звірина"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "польова"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "приходьте"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "пожирати"
+    },
+    {
+      "surface": "כל",
+      "gloss": "уса"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "звірина"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "в лісі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:17:55.825431241Z",
+  "model": "glm-5.3"
+}

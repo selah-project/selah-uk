@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І не перелюбствуй.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "перелюбствуй"
+    }
+  ],
+  "timestamp": "2026-08-23T22:01:24.198254889Z",
+  "model": "glm-5.3"
+}

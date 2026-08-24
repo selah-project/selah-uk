@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 81,
+  "translation": "Підійміть спів і подайте тимпан, кінор солодкозвучний із невелем.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "підійміть"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "спів"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "і подайте"
+    },
+    {
+      "surface": "תף",
+      "gloss": "тимпан"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "кінор"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "солодкозвучний"
+    },
+    {
+      "surface": "עם",
+      "gloss": "із"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "невель"
+    }
+  ],
+  "timestamp": "2026-08-24T01:53:01.361902143Z",
+  "model": "glm-5.3"
+}

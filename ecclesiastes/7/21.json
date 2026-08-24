@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Також до всіх слів, які говоритимуть, не давай свого серця, щоб не почути тобі, як ⟨את⟩ твій раб проклинає тебе.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "до всіх"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слів"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "говоритимуть"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "давай"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "свого серця"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "щоб"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "почути"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "твій раб"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "твій раб"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "проклинає тебе"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:48.471828174Z",
+  "model": "glm-5.3"
+}

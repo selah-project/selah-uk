@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "і твоїй худобі, і звірові, що в землі твоїй, — уся її вироста буде на їжу.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "і твоїй худобі"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "і звірові"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "в землі твоїй"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "כל",
+      "gloss": "уся"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "її вироста"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "на їжу"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:06.946605919Z",
+  "model": "glm-5.3"
+}

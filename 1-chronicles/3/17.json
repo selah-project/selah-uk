@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І сини Єконьїгу, ⟨в'язня⟩: Шеалтіель, син його.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "і сини"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Єконьїгу"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "в'язень"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "Шеалтіель"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:18.212902601Z",
+  "model": "glm-5.3"
+}

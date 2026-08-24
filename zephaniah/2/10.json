@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zephaniah 2:10",
+  "book": "zephaniah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Це їм — за гординю їхню, бо зганьбили вони та величалися над народом Яхве Цаваот.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "גאונם",
+      "gloss": "гординю їхню"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "зганьбили"
+    },
+    {
+      "surface": "ויגדלו",
+      "gloss": "та величалися"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цаваот"
+    }
+  ],
+  "timestamp": "2026-08-24T00:05:52.653868836Z",
+  "model": "glm-5.3"
+}

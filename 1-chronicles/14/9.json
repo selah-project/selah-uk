@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І пеліштим прийшли, і розлилися в долині Рефаїмів.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "І пеліштим"
+    },
+    {
+      "surface": "באו",
+      "gloss": "прийшли"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "і розлилися"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "в долині"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаїмів"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:12.578900325Z",
+  "model": "glm-5.3"
+}

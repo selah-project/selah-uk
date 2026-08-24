@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 38:5",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "І сказав цар Цидкіягу: він ось у вашій руці, бо неспроможний ⟨את⟩ вас цар ⟨у⟩ жодній справі.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкіягу"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "у вашій руці"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "спроможний"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "справа"
+    }
+  ],
+  "timestamp": "2026-08-23T23:35:00.126835012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Не зважить на обличчя жодного викупу, і не схоче, хоч би ти множив хабарі.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "зважить"
+    },
+    {
+      "surface": "פני",
+      "gloss": "на обличчя"
+    },
+    {
+      "surface": "כל",
+      "gloss": "жодного"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "викупу"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "схоче"
+    },
+    {
+      "surface": "כי",
+      "gloss": "хоч би"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "ти множив"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "хабарі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:33.616896821Z",
+  "model": "glm-5.3"
+}

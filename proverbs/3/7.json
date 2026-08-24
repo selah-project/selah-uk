@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Не будь мудрим у власних очах, бійтеся ⟨את⟩ Яхве і відвертайся від зла.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "будь"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрим"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "у власних очах"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "бійтеся"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "і відвертайся"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "від зла"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:36.158544023Z",
+  "model": "glm-5.3"
+}

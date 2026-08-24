@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 92,
+  "translation": "Добро — дякувати Яхве й співати ⟨для⟩ імені твого, Ельйон:",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "дякувати"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "й співати"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "імені твого"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ельйон"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:19.762514072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І сказав Яхве до Моше та до Агарона, кажучи:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "та до"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарона"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи:"
+    }
+  ],
+  "timestamp": "2026-08-23T21:26:05.413835890Z",
+  "model": "glm-5.3"
+}

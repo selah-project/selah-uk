@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 9:28",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І виводили коней із Міцраїму для Шломо та з усіх земель.",
+  "tokens": [
+    {
+      "surface": "ומוציאים",
+      "gloss": "І виводили"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "коней"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "із Міцраїму"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "для Шломо"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "та з усіх"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "земель"
+    }
+  ],
+  "timestamp": "2026-08-24T01:25:29.722565275Z",
+  "model": "glm-5.3"
+}

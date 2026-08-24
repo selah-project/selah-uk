@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "ezra 2:60",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Делайї, сини Товії, сини Некоди — шість сотень п'ятдесят і два.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "Делайї"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Товії"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "Некоди"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шість"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "п'ятдесят"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "і два"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:46.072682004Z",
+  "model": "glm-5.3"
+}

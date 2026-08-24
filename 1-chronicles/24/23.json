@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 24:23",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Сини Єрії: Амар'я — другий, Яхазієль — третій, Єкамам — четвертий.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "יריהו",
+      "gloss": "Єрії"
+    },
+    {
+      "surface": "אמריהו",
+      "gloss": "Амар'я"
+    },
+    {
+      "surface": "השני",
+      "gloss": "другий"
+    },
+    {
+      "surface": "יחזיאל",
+      "gloss": "Яхазієль"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третій"
+    },
+    {
+      "surface": "יקמעם",
+      "gloss": "Єкамам"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "четвертий"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:21.661912539Z",
+  "model": "glm-5.3"
+}

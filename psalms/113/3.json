@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 113,
+  "translation": "Від сходу сонця до заходу його хвалене Ім'я Яхве.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "від сходу"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "сонця"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "заходу його"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "хвалене"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Ім'я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:36.655883578Z",
+  "model": "glm-5.3"
+}

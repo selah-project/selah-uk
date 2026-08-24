@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 23:8",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Тільки до Яхве, Елогім ваш, прилипайте, як чинили ви аж до цього дня.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "тільки"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ж"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "до Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елогім ваш"
+    },
+    {
+      "surface": "תדבקו",
+      "gloss": "прилипайте"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "чинили ви"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "цього дня"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цього"
+    }
+  ],
+  "timestamp": "2026-08-23T22:17:47.376034828Z",
+  "model": "glm-5.3"
+}

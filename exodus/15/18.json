@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Яхве царюватиме повік і назавжди.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "царюватиме"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "повік"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "і назавжди"
+    }
+  ],
+  "timestamp": "2026-08-23T21:29:32.423125435Z",
+  "model": "glm-5.3"
+}

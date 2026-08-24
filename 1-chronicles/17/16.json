@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 17:16",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І прийшов цар Давід, і сів перед Яхве, та й сказав: хто я, Яхве Елогім, і що дім мій, що ти довів мене досі?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "і прийшов"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давід"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "і сів"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "та й сказав"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "і що"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "дім мій"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "ти довів мене"
+    },
+    {
+      "surface": "עד",
+      "gloss": "досі"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "сюди"
+    }
+  ],
+  "timestamp": "2026-08-24T01:18:15.092828358Z",
+  "model": "glm-5.3"
+}

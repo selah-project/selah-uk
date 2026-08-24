@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "І зробив ⟨את⟩ дощки для мешкання з дерева шиттим, стійкі.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "І зробив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дошки"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "дошки"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "для мешкання"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "з дерева"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шиттим"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "стійкі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:36:34.144889869Z",
+  "model": "glm-5.3"
+}

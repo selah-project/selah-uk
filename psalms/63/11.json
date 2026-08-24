@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 63,
+  "translation": "Їх виллють на лезо меча, на долю шакалів вони стануть.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "Їх виллють"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "лезо"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меча"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "на долю"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "шакалів"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "вони стануть"
+    }
+  ],
+  "timestamp": "2026-08-24T00:18:37.275681499Z",
+  "model": "glm-5.3"
+}

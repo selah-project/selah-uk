@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 60,
+  "translation": "Хто поведе мене до міста-твердині? Хто доведе мене до Едому?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "поведе мене"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "до міста"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "твердині"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "доведе мене"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едому"
+    }
+  ],
+  "timestamp": "2026-08-24T00:18:19.254484434Z",
+  "model": "glm-5.3"
+}

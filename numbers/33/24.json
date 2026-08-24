@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 33:24",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І вирушили вони з гори Шафер, і станули табором у Хараді.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І вирушили"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "з гори"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "Шафер"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і станули табором"
+    },
+    {
+      "surface": "בחרדה",
+      "gloss": "у Хараді"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:12.152579019Z",
+  "model": "glm-5.3"
+}

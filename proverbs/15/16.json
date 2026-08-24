@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Краще трохи зі страхом Яхве, ніж скарб великий і безлад у ньому.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "краще"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "трохи"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "зі страхом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "ніж скарб"
+    },
+    {
+      "surface": "רב",
+      "gloss": "великий"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "і безлад"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у ньому"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:34.550507048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І вмер син оцієї жінки вночі, коли вона лежала на ньому.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "і вмер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жінки"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оцієї"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "вночі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коли"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "вона лежала"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на ньому"
+    }
+  ],
+  "timestamp": "2026-08-23T22:46:38.015514341Z",
+  "model": "glm-5.3"
+}

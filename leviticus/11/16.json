@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "і ⟨את⟩ доньку яани, і ⟨את⟩ тахмаса, і ⟨את⟩ шахафа, і ⟨את⟩ неца за його видом.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "доньку"
+    },
+    {
+      "surface": "בת",
+      "gloss": "доньку"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "яани"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "тахмаса"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "тахмаса"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "шахафа"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "шахафа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "неца"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "неца"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "за його видом"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:15.377791472Z",
+  "model": "glm-5.3"
+}

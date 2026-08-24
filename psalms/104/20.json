@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 104,
+  "translation": "Покладеш темряву — і ⟨стає⟩ ніч; у ній повзе вся звірини лісу.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Покладеш"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "темряву"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і ⟨стає⟩"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ніч"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у ній"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "повзе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "звірини"
+    },
+    {
+      "surface": "יער",
+      "gloss": "лісу"
+    }
+  ],
+  "timestamp": "2026-08-24T01:53:09.941974240Z",
+  "model": "glm-5.3"
+}

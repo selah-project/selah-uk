@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 19:24",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Я копав і пив чужі води, і висушу підошвою стоп моїх усі потоки Мацору.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "копав"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "і пив"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "чужі"
+    },
+    {
+      "surface": "ואחריב",
+      "gloss": "і висушу"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "підошвою"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "стоп моїх"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "потоки"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Мацору"
+    }
+  ],
+  "timestamp": "2026-08-23T23:03:15.445964944Z",
+  "model": "glm-5.3"
+}

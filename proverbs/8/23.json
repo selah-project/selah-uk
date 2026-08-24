@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 8:23",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "відвіку я була вилита, від початку, передпречасами землі.",
+  "tokens": [
+    {
+      "surface": "מעולם",
+      "gloss": "відвіку"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "я була вилита"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "від початку"
+    },
+    {
+      "surface": "מקדמי",
+      "gloss": "передпречасами"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:02.120209921Z",
+  "model": "glm-5.3"
+}

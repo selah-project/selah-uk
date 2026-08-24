@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 18:10",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Вежа сили — Ім'я Яхве; у нього біжить праведник — і підноситься.",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "вежа"
+    },
+    {
+      "surface": "עז",
+      "gloss": "сили"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Ім'я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у нього"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "біжить"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведник"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "і підноситься"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:08.305077087Z",
+  "model": "glm-5.3"
+}

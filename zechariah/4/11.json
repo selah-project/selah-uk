@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 4:11",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І я відповів, і сказав йому: що за ці дві оливки на правиці ⟨менори⟩ і на лівиці її?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "і я відповів"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "שני",
+      "gloss": "дві"
+    },
+    {
+      "surface": "הזיתים",
+      "gloss": "оливки"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "правиці"
+    },
+    {
+      "surface": "המנורа",
+      "gloss": "⟨менори⟩"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "שמאולה",
+      "gloss": "лівиці її"
+    }
+  ],
+  "timestamp": "2026-08-24T01:51:17.715819825Z",
+  "model": "glm-5.3"
+}

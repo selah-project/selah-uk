@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 91,
+  "translation": "Бо ти, Яхве, ⟨є⟩ притулок мій, Ельйона ти поставив ⟨за⟩ оселю свою.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "притулок мій"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ельйон"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ти поставив"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "оселю свою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:45.053318431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Яхве збіднює й збагачує, принижує, також і підносить.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "збіднює"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "й збагачує"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "prинижує"
+    },
+    {
+      "surface": "אף",
+      "gloss": "також"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "підносить"
+    }
+  ],
+  "timestamp": "2026-08-23T22:26:55.841989979Z",
+  "model": "glm-5.3"
+}

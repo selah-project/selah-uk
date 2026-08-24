@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Він позичатиме тобі, а ти не позичатимеш йому; він буде головою, а ти будеш хвостом.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Він"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "позичатиме тобі"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "позичатимеш йому"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "головою"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "будеш"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "хвостом"
+    }
+  ],
+  "timestamp": "2026-08-23T22:08:14.934278315Z",
+  "model": "glm-5.3"
+}

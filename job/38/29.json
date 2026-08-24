@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 38:29",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "З чиєї утроби вийшов лід, а іней небес — хто його народив?",
+  "tokens": [
+    {
+      "surface": "מבטן",
+      "gloss": "з чиєї утроби"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "вийшов"
+    },
+    {
+      "surface": "הקרח",
+      "gloss": "лід"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "а іней"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "народив його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:11.397141443Z",
+  "model": "glm-5.3"
+}

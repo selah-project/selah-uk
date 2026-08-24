@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І тепер, справді, я — викупитель, та й є викупитель ближчий за мене.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "І тепер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨справді⟩"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "справді"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨що⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨присягаюся⟩"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "викупитель"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "та й"
+    },
+    {
+      "surface": "יש",
+      "gloss": "є"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "викупитель"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ближчий"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "за мене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:50:55.257404171Z",
+  "model": "glm-5.3"
+}

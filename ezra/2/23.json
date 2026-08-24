@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Мужі Анатоту — сто двадцять і вісім.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Мужі"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Анатоту"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцять"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "і вісім"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:09.446207590Z",
+  "model": "glm-5.3"
+}

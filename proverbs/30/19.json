@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Шлях орла в небі, шлях змії на скелі, шлях корабля в серці моря, і шлях мужа з дівчиною.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "шлях"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "орла"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "в небі"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "шлях"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "змії"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на"
+    },
+    {
+      "surface": "צור",
+      "gloss": "скелі"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "шлях"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "корабля"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "в серці"
+    },
+    {
+      "surface": "ים",
+      "gloss": "моря"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "і шлях"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "з дівчиною"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:58.895386948Z",
+  "model": "glm-5.3"
+}

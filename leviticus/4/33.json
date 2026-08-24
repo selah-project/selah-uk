@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 4:33",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І покладе ⟨את⟩ руку свою на голову хатат, і заріже ⟨את⟩ неї на хатат у ⟨the⟩ місці, де режуть ⟨את⟩ олу.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "І покладе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руку"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку свою"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "голову"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "хатат"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "і заріже"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "неї"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "на хатат"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "у місці"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "де"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "режуть"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "олу"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "олу"
+    }
+  ],
+  "timestamp": "2026-08-23T21:39:01.850053995Z",
+  "model": "glm-5.3"
+}

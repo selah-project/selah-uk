@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Не ходи наклепником серед народу твого; не стояй при крові ближнього твого: я — Яхве.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ходи"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "наклепником"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "серед народу твого"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "стояй"
+    },
+    {
+      "surface": "על",
+      "gloss": "при"
+    },
+    {
+      "surface": "דם",
+      "gloss": "крові"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ближнього твого"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:44:26.189860245Z",
+  "model": "glm-5.3"
+}

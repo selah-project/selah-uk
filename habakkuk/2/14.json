@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Бо земля наповниться пізнанням ⟨את⟩ слави Яхве, як води покривають ⟨את⟩ море.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "наповниться"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "пізнанням"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слави Яхве"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слави"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "як води"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "покривають"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨את⟩ над"
+    },
+    {
+      "surface": "ים",
+      "gloss": "море"
+    }
+  ],
+  "timestamp": "2026-08-24T00:05:05.435179963Z",
+  "model": "glm-5.3"
+}

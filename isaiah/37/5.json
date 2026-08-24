@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "І прийшли слуги царя Хізкіягу до Єшаягу.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "і прийшли"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слуги"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хізкіягу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Єшаягу"
+    }
+  ],
+  "timestamp": "2026-08-23T23:13:08.084802460Z",
+  "model": "glm-5.3"
+}

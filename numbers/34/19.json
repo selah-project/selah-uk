@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 34:19",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "А ось імена людей: для коліна Єгуди — Калев бен Єфуне.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "А ось"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "імена"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "людей"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "для коліна"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калев"
+    },
+    {
+      "surface": "בן",
+      "gloss": "бен"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Єфуне"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:03.698366247Z",
+  "model": "glm-5.3"
+}

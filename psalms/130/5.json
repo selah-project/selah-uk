@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 130,
+  "translation": "Чекаю на Яхве, чекає душа моя, і на слово Його я надіюся.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "Чекаю"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "чекає"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моя"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "і на слово Його"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "я надіюся"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:23.464922776Z",
+  "model": "glm-5.3"
+}

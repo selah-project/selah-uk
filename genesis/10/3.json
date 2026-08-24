@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "А сини Гомера: Ашкеназ, і Ріфат, і Тоґарма.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А сини"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Гомера"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ашкеназ"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "і Ріфат"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "і Тоґарма"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:32.934854247Z",
+  "model": "glm-5.3"
+}

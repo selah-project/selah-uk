@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "І станеш шаленіти від видовища очей твоїх, яке побачиш.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "і станеш"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "шаленіти"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "від видовища"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "очей твоїх"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "побачиш"
+    }
+  ],
+  "timestamp": "2026-08-23T22:08:19.750088502Z",
+  "model": "glm-5.3"
+}

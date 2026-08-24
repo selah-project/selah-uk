@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "і ⟨את⟩ хоріїв у горах їхніх — Сеїрі, аж до Ейл-Парану, що над пустелею.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "хоріїв"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "хоріїв"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "у горах їхніх"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеїрі"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "איל",
+      "gloss": "Ейл"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Парану"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "пустелею"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:14.279643023Z",
+  "model": "glm-5.3"
+}

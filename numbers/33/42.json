@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І рушили від Цалмони, і стали табором у Пуноні.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "від Цалмони"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і стали табором"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "у Пуноні"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:17.222773835Z",
+  "model": "glm-5.3"
+}

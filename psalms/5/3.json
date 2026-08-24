@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Зв rightly вив",
+  "tokens": [],
+  "timestamp": "2026-08-24T00:10:34.117511136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 24:19",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Сухота й спека викрадають води снігу; Шеол — тих, хто згрішив.",
+  "tokens": [
+    {
+      "surface": "ציה",
+      "gloss": "Сухота"
+    },
+    {
+      "surface": "גם",
+      "gloss": "й"
+    },
+    {
+      "surface": "חם",
+      "gloss": "спека"
+    },
+    {
+      "surface": "יגזלו",
+      "gloss": "викрадають"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "води"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "снігу"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "згрішив"
+    }
+  ],
+  "timestamp": "2026-08-24T00:44:47.704412754Z",
+  "model": "glm-5.3"
+}

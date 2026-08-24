@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 29:11",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "Бо Я знаю ⟨את⟩ думки, які Я думаю про вас, — промовляє Яхве, — думки миру, а не на лихо, щоб дати вам майбутнє і надію.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Я"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знаю"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "думки"
+    },
+    {
+      "surface": "המחשבת",
+      "gloss": "думки"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Я"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "думаю"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "про вас"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "промовляє"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "думки"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "миру"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "на лихо"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "щоб дати"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "майбутнє"
+    },
+    {
+      "surface": "ותקוה",
+      "gloss": "і надію"
+    }
+  ],
+  "timestamp": "2026-08-23T23:31:29.698805795Z",
+  "model": "glm-5.3"
+}

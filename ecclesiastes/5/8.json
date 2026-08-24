@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "А вигода землі — у всьому ⟨це⟩: цар полю служений ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "а вигода"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "у всьому"
+    },
+    {
+      "surface": "היא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "полю"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "служений"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:45.435956374Z",
+  "model": "glm-5.3"
+}

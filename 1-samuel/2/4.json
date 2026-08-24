@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Лук сильних зламаний, а спотиклі підперезалися силою.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "Лук"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "сильних"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "зламаний"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "а спотиклі"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "підперезалися"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "силою"
+    }
+  ],
+  "timestamp": "2026-08-23T22:27:16.128868574Z",
+  "model": "glm-5.3"
+}

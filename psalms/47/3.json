@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 47,
+  "translation": "Бо Яхве, Всевишній, страхітливий, Цар великий над усією землею.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Всевишній"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "страхітливий"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Цар"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усією"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землею"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:12.180732938Z",
+  "model": "glm-5.3"
+}

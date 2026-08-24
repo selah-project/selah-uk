@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Чи зробить собі людина ⟨את⟩ богів, а вони — не боги?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "Чи зробить"
+    },
+    {
+      "surface": "לו",
+      "gloss": "собі"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людина"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "богів"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богів"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "а вони"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "боги"
+    }
+  ],
+  "timestamp": "2026-08-24T01:47:53.153485066Z",
+  "model": "glm-5.3"
+}

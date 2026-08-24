@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 8:30",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Тоді збудував Єгошуа жертовник Яхве, Елогім Ізраїля, на горі Ейвал.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тоді"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "збудував"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Єгошуа"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жертовник"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на горі"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ейвал"
+    }
+  ],
+  "timestamp": "2026-08-23T22:14:02.474666191Z",
+  "model": "glm-5.3"
+}

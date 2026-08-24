@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Бо скерували на тебе зло, задумали підступ — та не зможуть ⟨виконати⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "скерували"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "задумали"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "підступ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "та не"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "зможуть"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:36.426303356Z",
+  "model": "glm-5.3"
+}

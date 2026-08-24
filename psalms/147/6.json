@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 147,
+  "translation": "Підпирає Яхве покірних, принижує нечестивих аж до землі.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "Підпирає"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "покірних"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "принижує"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивих"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:18.004804574Z",
+  "model": "glm-5.3"
+}

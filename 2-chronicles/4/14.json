@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І ⟨את⟩ підстави зробив, і ⟨את】 казани зробив на підставах.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "підстави"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "підстави"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "зробив"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "казани"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "казани"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "зробив"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "підставах"
+    }
+  ],
+  "timestamp": "2026-08-24T01:23:05.978330074Z",
+  "model": "glm-5.3"
+}

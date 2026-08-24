@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 111,
+  "translation": "Тверді навіки і повік, учинені в істині та правоті.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "Тверді"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "і повік"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "учинені"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "в істині"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "та правоті"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:53.450705178Z",
+  "model": "glm-5.3"
+}

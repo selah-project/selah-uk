@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Не робіть ⟨את⟩ зі мною богів срібла й богів золота — не робіть собі.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "робіть"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ зі мною"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "богів"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "срібла"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "й богів"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золота"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "робіть"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "собі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:30:07.134017480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Такі шляхи всякого, хто здобуває наживу: ⟨את⟩ життя його власника він забирає.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "такі"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "шляхи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякого"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "хто здобуває"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "наживу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "життя"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "життя"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "його власника"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "забирає"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:19.100731526Z",
+  "model": "glm-5.3"
+}

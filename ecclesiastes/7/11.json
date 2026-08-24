@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Добра мудрість із спадком, і перевага ⟨для⟩ тих, хто бачить сонце.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "добра"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрість"
+    },
+    {
+      "surface": "עם",
+      "gloss": "із"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "спадком"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "і перевага"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "для тих, хто бачить"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонце"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:22.955255062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "А також на рабів і на рабинь у дні ті виллю Я ⟨את⟩ духа Мого.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "а також"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "рабів"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "рабинь"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "у дні"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ті"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "виллю Я"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "духа Мого"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "духа Мого"
+    }
+  ],
+  "timestamp": "2026-08-23T23:59:57.602329110Z",
+  "model": "glm-5.3"
+}

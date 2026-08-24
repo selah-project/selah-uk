@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 20:7",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І говорив Яхве до Моше, кажучи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "і-говорив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T21:54:19.628220360Z",
+  "model": "glm-5.3"
+}

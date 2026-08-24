@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Не відповідай глупцеві за глупотою його, щоб не став ти йому подібним ⟨і⟩ ти сам.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תען",
+      "gloss": "відповідай"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупцеві"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "за глупотою його"
+    },
+    {
+      "surface": "פן",
+      "gloss": "щоб не"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "став подібним"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "גם",
+      "gloss": "й"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти сам"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:09.795279286Z",
+  "model": "glm-5.3"
+}

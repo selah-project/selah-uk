@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Урія ⟨ה⟩-хетеєць; усіх — тридцять і сім.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "Урія"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "хетеєць"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіх"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридцять"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "і сім"
+    }
+  ],
+  "timestamp": "2026-08-23T22:44:51.528700985Z",
+  "model": "glm-5.3"
+}

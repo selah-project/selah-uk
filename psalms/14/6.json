@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Пораду вбогого осоромили, та Яхве — притулок його.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Пораду"
+    },
+    {
+      "surface": "עני",
+      "gloss": "вбогого"
+    },
+    {
+      "surface": "כי",
+      "gloss": "та"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "осоромили"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "притулок його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:11:24.696571272Z",
+  "model": "glm-5.3"
+}

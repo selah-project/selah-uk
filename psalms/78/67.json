@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 78,
+  "translation": "І відкинув намет Йосефа, а коліно Ефраїма не обрав.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "і відкинув"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "намет"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефа"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "а коліно"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраїма"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "обрав"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:12.951501974Z",
+  "model": "glm-5.3"
+}

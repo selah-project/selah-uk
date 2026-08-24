@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 34:2",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "І будь готовий до ранку, і зійдеш уранці на гору Сінай, і станеш мені там на вершині гори.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "І будь"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "готовий"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "до ранку"
+    },
+    {
+      "surface": "ועלית",
+      "gloss": "і зійдеш"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "уранці"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Сінай"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "і станеш"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "вершині"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "гори"
+    }
+  ],
+  "timestamp": "2026-08-23T21:36:08.697381941Z",
+  "model": "glm-5.3"
+}

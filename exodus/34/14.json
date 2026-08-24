@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 34:14",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "Бо не поклонишся іншому богові, бо Яхве — ревнивий Ім'я Його, Ель ревнивий Він.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "поклонишся"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "богові"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "іншому"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ревнивий"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Ім'я Його"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ревнивий"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Він"
+    }
+  ],
+  "timestamp": "2026-08-23T21:36:03.841100067Z",
+  "model": "glm-5.3"
+}

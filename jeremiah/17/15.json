@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Ось вони кажуть мені: де слово Яхве? хай же прийде.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "המה",
+      "gloss": "вони"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "кажуть"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "איה",
+      "gloss": "де"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "хай прийде"
+    },
+    {
+      "surface": "נא",
+      "gloss": "же"
+    }
+  ],
+  "timestamp": "2026-08-23T23:28:39.838813083Z",
+  "model": "glm-5.3"
+}

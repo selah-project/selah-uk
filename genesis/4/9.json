@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І сказав Яхве Каїну: де Гевель, брат твій? І сказав ⟨він⟩: не знаю; хіба я сторож брата мого?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каїна"
+    },
+    {
+      "surface": "אי",
+      "gloss": "де"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Гевель"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брат твій"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знаю"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "хіба сторож"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брата"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:42.328372491Z",
+  "model": "glm-5.3"
+}

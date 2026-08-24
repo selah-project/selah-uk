@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 58,
+  "translation": "Як равлик, що тане, — нехай проходить; як викидень жінки, що не бачили сонця.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "Як"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "равлик"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "тане"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "нехай проходить"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "викидень"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жінки"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "бачили"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "сонця"
+    }
+  ],
+  "timestamp": "2026-08-24T00:18:02.275939943Z",
+  "model": "glm-5.3"
+}

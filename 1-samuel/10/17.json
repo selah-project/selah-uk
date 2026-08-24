@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І скликав Шмуель ⟨את⟩ народ до Яхве у ⟨את⟩ Міцпу.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "і скликав"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шмуель"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Міцпа"
+    }
+  ],
+  "timestamp": "2026-08-23T22:29:11.642053920Z",
+  "model": "glm-5.3"
+}

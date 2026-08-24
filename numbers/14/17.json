@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 14:17",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І тепер нехай зросте, благаю, сила Адоная, як Ти говорив, кажучи:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "і тепер"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "нехай зросте"
+    },
+    {
+      "surface": "נא",
+      "gloss": "благаю"
+    },
+    {
+      "surface": "כח",
+      "gloss": "сила"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Ти говорив"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T21:52:14.764626657Z",
+  "model": "glm-5.3"
+}

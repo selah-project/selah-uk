@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "А пшениця й полба не були уражені, бо пізні вони.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "А пшениця"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "й полба"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "уражені"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "пізні"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вони"
+    }
+  ],
+  "timestamp": "2026-08-23T21:27:24.234015093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І породила йому синів ⟨את⟩ Єуша, і ⟨את⟩ Шмар'ю, і ⟨את⟩ Заама.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "І породила"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синів"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Єуша"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Єуша"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Шмар'ю"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Шмар'ю"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Заама"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Заама"
+    }
+  ],
+  "timestamp": "2026-08-24T01:25:43.327030948Z",
+  "model": "glm-5.3"
+}

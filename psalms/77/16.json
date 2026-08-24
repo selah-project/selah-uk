@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 77,
+  "translation": "Ти викупив раменом народ Твій, синів Яакова і Йосефа. Села.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Ти викупив"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "раменом"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "народ Твій"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "і Йосефа"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:03.970146877Z",
+  "model": "glm-5.3"
+}

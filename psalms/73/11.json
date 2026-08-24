@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 73,
+  "translation": "І кажуть: «Як пізнає Ель, і чи ⟨є⟩ знання в Ельйоні?»",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "і кажуть"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "як"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "пізнає"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "і чи ⟨є⟩"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "знання"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "в Ельйоні"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:42.897848746Z",
+  "model": "glm-5.3"
+}

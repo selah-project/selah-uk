@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Я да́в тобі царя в Своєму гніві й забрав у Своїй люті.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "Я да́в"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "в Своєму гніві"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "і забрав"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "у Своїй люті"
+    }
+  ],
+  "timestamp": "2026-08-23T23:58:30.105783937Z",
+  "model": "glm-5.3"
+}

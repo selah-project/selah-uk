@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Стережися собі, щоб не покинути ⟨את⟩ левита всі дні твої на твоїй землі.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "стережися"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    },
+    {
+      "surface": "פן",
+      "gloss": "щоб не"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "покинути"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "левита"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "левита"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "дні твої"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "твоїй землі"
+    }
+  ],
+  "timestamp": "2026-08-23T22:04:06.892525008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І почув я ⟨את⟩ голос Адоная, що казав: кого пошлю, і хто піде для нас? І сказав я: ось я, пошли мене.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "і почув"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "голос"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адоная"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "що казав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кого"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кого"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "пошлю"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "і хто"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "піде"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "для нас"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ось я"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "пошли мене"
+    }
+  ],
+  "timestamp": "2026-08-23T23:06:45.370960924Z",
+  "model": "glm-5.3"
+}

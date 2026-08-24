@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 33:14",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І найкращим плодів сонця, і найкращим урожаю місяців.",
+  "tokens": [
+    {
+      "surface": "וממגד",
+      "gloss": "І найкращим"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "плодів"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "сонця"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "і найкращим"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "урожаю"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "місяців"
+    }
+  ],
+  "timestamp": "2026-08-23T22:09:50.025014041Z",
+  "model": "glm-5.3"
+}

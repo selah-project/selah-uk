@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Душа трудівника трудиться для нього, бо спонукає його уста його.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "Душа"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "трудівника"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "трудиться"
+    },
+    {
+      "surface": "לו",
+      "gloss": "для нього"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "спонукає"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "його"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "уста його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:09.844393333Z",
+  "model": "glm-5.3"
+}

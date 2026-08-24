@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І ⟨з⟩ чоловіка не ляжеш ложем жінки — мерзота це.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "чоловіка"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ляжеш"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ложем"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жінки"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "мерзота"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "це"
+    }
+  ],
+  "timestamp": "2026-08-23T21:43:21.616119720Z",
+  "model": "glm-5.3"
+}

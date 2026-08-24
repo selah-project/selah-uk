@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 68:21",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 68,
+  "translation": "Ель ⟨є⟩ нам Ель ⟨для⟩ порятунків, і Яхве Адонаю — виходи смерті.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "למושעות",
+      "gloss": "⟨для⟩ порятунків"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "і Яхве"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонаю"
+    },
+    {
+      "surface": "למות",
+      "gloss": "смерті"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "виходи"
+    }
+  ],
+  "timestamp": "2026-08-24T00:19:58.722733135Z",
+  "model": "glm-5.3"
+}

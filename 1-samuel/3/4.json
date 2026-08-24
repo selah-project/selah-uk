@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І покликав Яхве Шмуїля, і ⟨він⟩ сказав: ось я.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "і покликав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шмуїля"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ось я"
+    }
+  ],
+  "timestamp": "2026-08-24T01:41:11.433410415Z",
+  "model": "glm-5.3"
+}

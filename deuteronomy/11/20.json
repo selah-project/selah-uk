@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І напишеш їх на одвірки дому твого і на брами твої.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "і напишеш"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "одвірки"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "дому твого"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "і на брами твої"
+    }
+  ],
+  "timestamp": "2026-08-23T22:02:51.584364308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 15:17",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "І говорив Яхве до Моше, кажучи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "І говорив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T21:52:52.915407376Z",
+  "model": "glm-5.3"
+}

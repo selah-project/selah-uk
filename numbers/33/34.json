@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 33:34",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І рушили з Ятвати, і таборили в Авро́ні.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "מיטבתה",
+      "gloss": "з Ятвати"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і таборили"
+    },
+    {
+      "surface": "בעברנה",
+      "gloss": "в Авроні"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:10.155006086Z",
+  "model": "glm-5.3"
+}

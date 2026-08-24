@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "І оце слова, що говорив Яхве про Ізраїль та про Єгуду.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "і оце"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "про"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїль"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "та про"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуду"
+    }
+  ],
+  "timestamp": "2026-08-23T23:32:22.607473386Z",
+  "model": "glm-5.3"
+}

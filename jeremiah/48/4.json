@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 48:4",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "Зламаний Моав; вчули ⟨свою⟩ лемент малі її.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "зламаний"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "вчули"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "лемент"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "малі її"
+    }
+  ],
+  "timestamp": "2026-08-23T23:36:59.671109907Z",
+  "model": "glm-5.3"
+}

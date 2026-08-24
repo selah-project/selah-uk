@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Горе землі дзизкоту крил, що за ріками Кушу,",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Горе"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "дзизкоту"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "крил"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "за"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "ріками"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Кушу"
+    }
+  ],
+  "timestamp": "2026-08-23T23:09:47.609021815Z",
+  "model": "glm-5.3"
+}

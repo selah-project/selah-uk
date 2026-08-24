@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Як сніг улітку і як дощ у жнива, так не личить глупцеві шана.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "як сніг"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "улітку"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "і як дощ"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "у жнива"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "личить"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "глупцеві"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "шана"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:09.794786545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "Яхве над потопом сидів, і сидить Яхве, Цар, навіки.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "над потопом"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "сидів"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "і сидить"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Цар"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навіки"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:12.180059659Z",
+  "model": "glm-5.3"
+}

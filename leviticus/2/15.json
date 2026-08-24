@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І покладеш на неї оливу, і дамеш на неї лівону — приношення ⟨це⟩.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "і покладеш"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на неї"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "оливу"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "і дамеш"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на неї"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "лівону"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "приношення"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨це⟩ воно"
+    }
+  ],
+  "timestamp": "2026-08-23T21:38:31.443736710Z",
+  "model": "glm-5.3"
+}

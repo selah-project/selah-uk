@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "А ⟨він⟩ сказав йому: Не піду, лише до землі моєї та до батьківщини моєї я піду.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "А сказав"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "піду"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨лишень⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "лише"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "землі моєї"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "та до"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "батьківщини моєї"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "я піду"
+    }
+  ],
+  "timestamp": "2026-08-23T21:51:08.900318221Z",
+  "model": "glm-5.3"
+}

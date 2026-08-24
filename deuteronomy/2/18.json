@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Ти переходиш сьогодні ⟨את⟩ межу Моаву — Ар.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "переходиш"
+    },
+    {
+      "surface": "היום",
+      "gloss": "сьогодні"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "межу Моаву"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "межу"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаву"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ар"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ар"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:20.468683596Z",
+  "model": "glm-5.3"
+}

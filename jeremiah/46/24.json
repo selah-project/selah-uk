@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 46:24",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 46,
+  "translation": "Посоромлена дочка Міцраїму, видана в руку народу півночі.",
+  "tokens": [
+    {
+      "surface": "הבישה",
+      "gloss": "посоромлена"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочка"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїму"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "видана"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "в руку"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "півночі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:36:08.533821764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І все плазуюче, що плазує по землі, — мерзота воно, не буде їдатися ⟨воно⟩.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "І все"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "плазуюче"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "що плазує"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "мерзота"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "воно"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "буде їдатися"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:55.264506341Z",
+  "model": "glm-5.3"
+}

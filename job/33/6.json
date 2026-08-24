@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 33:6",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "Ось я — як ти, перед Елом; з глини виліплений і я.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ось"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "як ти"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "перед Елом"
+    },
+    {
+      "surface": "מחמר",
+      "gloss": "з глини"
+    },
+    {
+      "surface": "קרצתי",
+      "gloss": "виліплений"
+    },
+    {
+      "surface": "גם",
+      "gloss": "і"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-24T01:55:39.671029793Z",
+  "model": "glm-5.3"
+}

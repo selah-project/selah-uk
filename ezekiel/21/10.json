@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 21:10",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І пізнає всяке тіло, що Я — Яхве, Я вивів меч Мій із піхви його, і не повернеться він більш.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "і пізнає"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяке"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тіло"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "Я вивів"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "меч Мій"
+    },
+    {
+      "surface": "מתערה",
+      "gloss": "із піхви його"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "повернеться"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "більш"
+    }
+  ],
+  "timestamp": "2026-08-23T23:46:07.038453535Z",
+  "model": "glm-5.3"
+}

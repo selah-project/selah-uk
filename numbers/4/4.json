@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Це служба синів Кегата в Шатрі Зустрічі: святеє святых —",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Це"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "служба"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кегата"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "в Шатрі"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Зустрічі"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "святеє"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "святых"
+    }
+  ],
+  "timestamp": "2026-08-23T21:48:41.090239239Z",
+  "model": "glm-5.3"
+}

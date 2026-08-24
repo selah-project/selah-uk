@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 62,
+  "translation": "Керівнику ⟨співу⟩, на ⟨лад⟩ Єдутуна, псалом Давида.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівнику ⟨співу⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "на ⟨лад⟩"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Єдутуна"
+    },
+    {
+      "surface": "мזמור",
+      "gloss": "псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-24T00:18:13.413006944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 24:32",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І дивився ⟨я⟩ я, поклав ⟨я⟩ на серце моє: бачив я, прийняв я настанову.",
+  "tokens": [
+    {
+      "surface": "ואחזה",
+      "gloss": "і дивився"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "поклав"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "серце моє"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "бачив я"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "прийняв я"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "настанову"
+    }
+  ],
+  "timestamp": "2026-08-24T01:55:07.686803227Z",
+  "model": "glm-5.3"
+}

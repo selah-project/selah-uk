@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Так людина зраджує ⟨את⟩ друга свого, і каже: хіба не жартую я?",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "איש",
+      "gloss": "людина"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "зраджує"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "друга свого"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "друга свого"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "і каже"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "хіба не"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "жартую"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:55.625482268Z",
+  "model": "glm-5.3"
+}

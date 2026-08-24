@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 59,
+  "translation": "Ось перекидається з уст їхніх, мечі — на губах їхніх, бо хто чує?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "перекидається"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "з уст їхніх"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "мечі"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "на губах їхніх"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чує"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:57.765746264Z",
+  "model": "glm-5.3"
+}

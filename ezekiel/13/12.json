@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І ось — впала стіна; чи не скажуть вам: де штукатурка, яку ви натикали?",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "і ось"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "впала"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "стіна"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "чи не"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "скажуть"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "איה",
+      "gloss": "де"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "штукатурка"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "ви натикали"
+    }
+  ],
+  "timestamp": "2026-08-23T23:43:09.078751148Z",
+  "model": "glm-5.3"
+}

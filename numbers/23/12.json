@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І відповів він, і сказав: хіба не ⟨את⟩ те, що Яхве покладе в уста мої, його додержу, щоб говорити?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "і відповів"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "",
+      "note": "виправлено нижче"
+    },
+    {
+      "surface": "והנה",
+      "gloss": ""
+    },
+    {
+      "surface": "placeholder",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T21:55:37.589057353Z",
+  "model": "glm-5.3"
+}

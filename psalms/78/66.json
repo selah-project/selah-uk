@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 78,
+  "translation": "І вразивворогів своїх іззаду, ганьбувічну дав їм.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "і вразив"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ворогів своїх"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "іззаду"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ганьбу"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вічну"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дав"
+    },
+    {
+      "surface": "למו",
+      "gloss": "їм"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:12.951320959Z",
+  "model": "glm-5.3"
+}

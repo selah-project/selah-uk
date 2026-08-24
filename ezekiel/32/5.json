@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І покладу ⟨את⟩ твоє тіло на ⟨the⟩ гори, і наповню ⟨the⟩ долини твоею купою.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "і покладу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "твоє тіло"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "твоє тіло"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "гори"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "і наповню"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "долини"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "твоя купа"
+    }
+  ],
+  "timestamp": "2026-08-23T23:50:23.382454092Z",
+  "model": "glm-5.3"
+}

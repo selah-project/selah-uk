@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Не грабуй убогого, бо він убогий, і не стискай нужденного в брамі,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "грабуй"
+    },
+    {
+      "surface": "דל",
+      "gloss": "убогого"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "דל",
+      "gloss": "він убогий"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨він⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "стискай"
+    },
+    {
+      "surface": "עני",
+      "gloss": "нужденного"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "у брамі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:36.173945464Z",
+  "model": "glm-5.3"
+}

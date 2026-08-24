@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "Хай стануть вони як полова перед вітром, і посланець Яхве жене ⟨їх⟩.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "хай стануть"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "як полова"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "вітер"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "і посланець"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "жене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:14:18.505388950Z",
+  "model": "glm-5.3"
+}

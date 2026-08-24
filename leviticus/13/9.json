@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Коли пораз цараат буде в людині, ⟨вона⟩ буде приведена до священика.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "пораз"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "цараат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "в людині"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "і буде приведена"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "священика"
+    }
+  ],
+  "timestamp": "2026-08-23T21:42:08.065410863Z",
+  "model": "glm-5.3"
+}

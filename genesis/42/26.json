@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 42,
+  "translation": "І навантажили ⟨את⟩ зерно своє на ослів своїх, і пішли звідти.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "і навантажили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зерно своє"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "зерно своє"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ослів своїх"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "і пішли"
+    },
+    {
+      "surface": "משם",
+      "gloss": "звідти"
+    }
+  ],
+  "timestamp": "2026-08-24T01:36:53.791861874Z",
+  "model": "glm-5.3"
+}

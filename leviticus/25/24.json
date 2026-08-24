@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "і в усьому краї володіння вашого викуп даватимете для землі.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "і в усьому"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "краї"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "володіння вашого"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "викуп"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "даватимете"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "для землі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:45:37.652126623Z",
+  "model": "glm-5.3"
+}

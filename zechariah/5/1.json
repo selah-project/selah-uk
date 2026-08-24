@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 5:1",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І я повернувся, і підняв очі мої, і побачив, — і ось сувій літаючий.",
+  "tokens": [
+    {
+      "surface": "ואשוב",
+      "gloss": "І я повернувся"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "і підняв"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очі мої"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "і побачив"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "і ось"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "сувій"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "літаючий"
+    }
+  ],
+  "timestamp": "2026-08-24T00:07:44.713780121Z",
+  "model": "glm-5.3"
+}

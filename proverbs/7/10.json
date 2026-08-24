@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 7:10",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І ось жінка — назустріч йому, в одязі блудниці й виважена серцем.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "і ось"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жінка"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "назустріч йому"
+    },
+    {
+      "surface": "שית",
+      "gloss": "в одязі"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "блудниці"
+    },
+    {
+      "surface": "ונצרת",
+      "gloss": "й виважена"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серцем"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:32.041195525Z",
+  "model": "glm-5.3"
+}

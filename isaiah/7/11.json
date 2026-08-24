@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 7:11",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Попроси собі знамення від Яхве, Елогіма твого; углиб запит, або високо вгору.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "попроси"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    },
+    {
+      "surface": "אות",
+      "gloss": "знамення"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "від"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елогіма твого"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "углиб"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "запит"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "הגבה",
+      "gloss": "високо"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "вгору"
+    }
+  ],
+  "timestamp": "2026-08-23T23:05:53.518889462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 3:2",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І при руці його будували мужі Єрихона, і при руці його будував Заккур, син Имрія.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "І при"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руці його"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "будували"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мужі"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Єрихона"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і при"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руці його"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "будував"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Заккур"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Имрія"
+    }
+  ],
+  "timestamp": "2026-08-24T01:08:14.002505015Z",
+  "model": "glm-5.3"
+}

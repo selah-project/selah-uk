@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І син Шаммая — Маон, а Маон — батько Бейт-Цуру.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "І син"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шаммая"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Маон"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "а Маон"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батько"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Цуру"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:54.151013542Z",
+  "model": "glm-5.3"
+}

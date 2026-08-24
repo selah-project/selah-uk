@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "І зробиш ⟨את⟩ мантію ефода цілком із тхелет.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "і зробиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мантію"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "мантію"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ефода"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "цілком"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "тхелет"
+    }
+  ],
+  "timestamp": "2026-08-23T21:33:35.439703443Z",
+  "model": "glm-5.3"
+}

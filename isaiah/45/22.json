@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 45:22",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 45,
+  "translation": "Зверніться до Мене — і спасенні будуть усі краї землі, бо Я — Ель, і немає ⟨іншого⟩.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "Зверніться"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до Мене"
+    },
+    {
+      "surface": "והושעו",
+      "gloss": "і спасенні будуть"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "краї"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "і немає"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨іншого⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T23:17:12.640892049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Бо не знає ⟨він⟩, що буде, бо як станеться — хто йому сповістить?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знає"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "станеться"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "сповістить"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    }
+  ],
+  "timestamp": "2026-08-24T00:55:23.694378435Z",
+  "model": "glm-5.3"
+}

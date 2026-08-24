@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 136,
+  "translation": "Дає хліб усьому тілу, бо навіки його хесед.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "дає"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хліб"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "всьому"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тілу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "його хесед"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:20.583441947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І прийшли Моше та Аарон до обличчя шатра зустрічі.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "і прийшли"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "та Аарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פני",
+      "gloss": "обличчя"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "зустрічі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:53:40.026023582Z",
+  "model": "glm-5.3"
+}

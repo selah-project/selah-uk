@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 21:19",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Краще жити в землі пустелі, ніж ⟨з⟩ жінкою сварливою й гнівливою.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "краще"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "жити"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землі"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "пустелі"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "ніж жінкою"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "сварливою"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "й гнівливою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:57.335215379Z",
+  "model": "glm-5.3"
+}

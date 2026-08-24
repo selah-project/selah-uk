@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 76,
+  "translation": "Відомий Елогім у Єгуді, в Ізраїлі велике Його Ймення.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "Відомий"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "у Єгуді"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Ізраїлі"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велике"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Його Ймення"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:54.415744527Z",
+  "model": "glm-5.3"
+}

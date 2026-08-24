@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "І побачив Ісраель ⟨את⟩ синів Йосефа, і сказав: хто ці?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "І побачив"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраель"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синів Йосефа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефа"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ці"
+    }
+  ],
+  "timestamp": "2026-08-23T21:23:18.453135079Z",
+  "model": "glm-5.3"
+}

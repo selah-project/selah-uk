@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Коли ходиш, крок твій не буде стиснутий, і коли біжиш — не спіткнешся.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "Коли ходиш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "буде стиснутий"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "крок твій"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "і коли"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "біжиш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "спіткнешся"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:47.195093328Z",
+  "model": "glm-5.3"
+}

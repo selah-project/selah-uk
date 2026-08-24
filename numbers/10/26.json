@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 10:26",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "А над військом племені синів Ашера — Пагіїл, син Охрана.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "А над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "військом"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "племені"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашера"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "Пагіїл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "Охрана"
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:46.822768940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 9:6",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І від синів Зераха: Євуел та брати їхні, шістсот дев'яносто.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "І від"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зераха"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "Євуел"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "та брати їхні"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шістсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "[шістсот]"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "та дев'яносто"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:30.252971327Z",
+  "model": "glm-5.3"
+}

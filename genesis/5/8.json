@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І стали всі дні Шета дванадцять років і дев'ятсот років, і помер.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "І стали"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дні"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Шета"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "два"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десять"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "і дев'ятсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "років"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "і помер"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:10.751230885Z",
+  "model": "glm-5.3"
+}

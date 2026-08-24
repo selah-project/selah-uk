@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "На стежці праведності — життя, а на дорозі тій — не смерті.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "на стежці"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "праведності"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "життя"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "а на дорозі"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "тій"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерті"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:23.161594848Z",
+  "model": "glm-5.3"
+}

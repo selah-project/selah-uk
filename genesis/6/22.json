@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І зробив Нох усе, що заповідав йому ⟨את⟩ Елогім, — так він зробив.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "І зробив"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нох"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповідав"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ йому",
+      "marks": "його (Ноха)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "зробив"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:45.502104121Z",
+  "model": "glm-5.3"
+}

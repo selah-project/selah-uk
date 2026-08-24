@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І сказав Єгошафат до царя Ізраїля: «Пошукай, прошу, сьогодні ⟨את⟩ слово Яхве».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Єгошафат"
+    },
+    {
+      "surface": "Аל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Пошукай"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "сьогодні"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слово Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:27:06.590829005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 17:12",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І Міха наповнив ⟨את⟩ руку левіта, і став юнак йому за когена, і був у домі Міхи.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "І наповнив"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Міха"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руку"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руку"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "левіта"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і став"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "юнак"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "за когена"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і був"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "у домі"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Міхи"
+    }
+  ],
+  "timestamp": "2026-08-23T22:24:22.234785162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Керівникові. Мізмор Давида.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Мізмор"
+    },
+    {
+      "surface": "лדוד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:41.515134867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 10:19",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І над військом племені синів Шимона ⟨was⟩ Шлумієль, син Цурі-Шаддая.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "і над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "військом"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "племені"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимона"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Шлумієль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Цурі-"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддая"
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:57.803955567Z",
+  "model": "glm-5.3"
+}

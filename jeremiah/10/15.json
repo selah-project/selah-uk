@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Марнота вони, діло омани; у час відвідання їхнього загинуть вони.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "марнота"
+    },
+    {
+      "surface": "המה",
+      "gloss": "вони"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "діло"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "омани"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "у час"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "відвідання їхнього"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "загинуть"
+    }
+  ],
+  "timestamp": "2026-08-23T23:25:33.314128022Z",
+  "model": "glm-5.3"
+}

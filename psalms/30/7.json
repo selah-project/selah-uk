@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "А я сказав у своєму благополуччі: не похитаюся навіки.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А я"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "у своєму благополуччі"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "похитаюся"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навіки"
+    }
+  ],
+  "timestamp": "2026-08-24T01:51:57.322890815Z",
+  "model": "glm-5.3"
+}

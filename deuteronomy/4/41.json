@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Тоді відділив Моше три міста за Єрденом, на схід сонця.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тоді"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "відділив"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "міста"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "за"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Єрденом"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "на схід"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "сонця"
+    }
+  ],
+  "timestamp": "2026-08-23T22:01:52.018017107Z",
+  "model": "glm-5.3"
+}

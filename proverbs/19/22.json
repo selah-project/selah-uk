@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Прагнення людини — хесед ⟨її⟩, і кращий бідний за людину брехливу.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Прагнення"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людини"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед ⟨її⟩"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "і кращий"
+    },
+    {
+      "surface": "רש",
+      "gloss": "бідний"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "за людину"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "брехливу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:06.427621890Z",
+  "model": "glm-5.3"
+}

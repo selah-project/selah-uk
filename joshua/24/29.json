@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 24:29",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І сталося після цих слів, що вмер Єгóшуа, син Нуна, раб Яхве, син ста і десяти років.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "після"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "цих слів"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "цих"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "що вмер"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Єгóшуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нуна"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "раб"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ста"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "і десяти"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "років"
+    }
+  ],
+  "timestamp": "2026-08-23T22:18:25.235517421Z",
+  "model": "glm-5.3"
+}

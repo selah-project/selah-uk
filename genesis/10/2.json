@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Сини Яфета: Гомер, і Маґоґ, і Мадай, і Яван, і Туваль, і Мешех, і Тірас.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Яфета"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Гомер"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "і Маґоґ"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "і Мадай"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "і Яван"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "і Туваль"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "і Мешех"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "і Тірас"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:32.934743430Z",
+  "model": "glm-5.3"
+}

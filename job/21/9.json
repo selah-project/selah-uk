@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 21:9",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Доми їхні — мир, без страху, і жезла Елоага нема на них.",
+  "tokens": [
+    {
+      "surface": "בתיהם",
+      "gloss": "доми їхні"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "без страху"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і нема"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "жезла"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Елоага"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "на них"
+    }
+  ],
+  "timestamp": "2026-08-24T00:43:32.307240991Z",
+  "model": "glm-5.3"
+}

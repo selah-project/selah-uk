@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 40:15",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "І від лиця брами — входу — аж до лиця ґанку внутрішньої брами: п'ятдесят ліктів.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "і-на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лиця"
+    },
+    {
+      "surface": "השער",
+      "gloss": "брами"
+    },
+    {
+      "surface": "היאתון",
+      "gloss": "входу"
+    },
+    {
+      "surface": "על",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "лиця"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ґанку"
+    },
+    {
+      "surface": "השער",
+      "gloss": "брами"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "внутрішньої"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "п'ятдесят"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ліктів"
+    }
+  ],
+  "timestamp": "2026-08-23T23:53:41.079912004Z",
+  "model": "glm-5.3"
+}

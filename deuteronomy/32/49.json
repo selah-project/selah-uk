@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 32:49",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "Зійди на гору Аварім, цю, гору Нево, що в землі Моаву, що protи обличчя Єрихону, і побач ⟨את⟩ землю Кенаан, яку я даю синам Ізраїля у володіння.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "Зійди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Аварім"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цю"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Нево"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землі"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаву"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "על",
+      "gloss": "проти"
+    },
+    {
+      "surface": "פני",
+      "gloss": "обличчя"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Єрихону"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "і побач"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю Кенаан"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даю"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синам"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "לאחזה",
+      "gloss": "у володіння"
+    }
+  ],
+  "timestamp": "2026-08-23T22:09:29.880946089Z",
+  "model": "glm-5.3"
+}

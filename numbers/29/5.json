@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 29:5",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "і одного козла з кіз — жертва за гріх — щоб спокутувати за вас.",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "і козла"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "з кіз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "жертва за гріх"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "щоб спокутувати"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-08-23T21:57:09.452291924Z",
+  "model": "glm-5.3"
+}

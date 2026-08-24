@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 36:17",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "І ⟨את⟩ Барука спитали, кажучи: розповіси ж нам, як написав ти ⟨את⟩ усі ці слова з його вуст.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Барука"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барука"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "спитали"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "розповіси"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ж"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "איך",
+      "gloss": "як"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "написав ти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усі"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "з його вуст"
+    }
+  ],
+  "timestamp": "2026-08-23T23:34:28.013367229Z",
+  "model": "glm-5.3"
+}

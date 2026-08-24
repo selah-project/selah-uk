@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Нехай призначить Яхве, Елогім духів усякого тіла, мужа над громадою,",
+  "tokens": [
+    {
+      "surface": "יפקוד",
+      "gloss": "нехай призначить"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "духів"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "усякого"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тіла"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "громадою"
+    }
+  ],
+  "timestamp": "2026-08-23T21:57:27.388293055Z",
+  "model": "glm-5.3"
+}

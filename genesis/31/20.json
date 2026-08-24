@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "І Яаков викрав ⟨את⟩ серце Лавана-арамея, не сповістивши йому, що він утікає.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "і викрав"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "серце"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лавана"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "-арамея"
+    },
+    {
+      "surface": "על",
+      "gloss": "не"
+    },
+    {
+      "surface": "בלי",
+      "gloss": ""
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "сповістивши"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "він утікає"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    }
+  ],
+  "timestamp": "2026-08-23T21:18:16.887401917Z",
+  "model": "glm-5.3"
+}

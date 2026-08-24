@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 54,
+  "translation": "Елогім, почуй молитву мою, вхили вухо до слів уст моїх.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "почуй"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "молитву мою"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "вхили вухо"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "до слів"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уст моїх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:01.999450075Z",
+  "model": "glm-5.3"
+}

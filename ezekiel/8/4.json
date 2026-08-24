@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 8:4",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І ось там — кавод Елогім Ісраелю, як вигляд, який я бачив у долині.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "І ось"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "кавод"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраелю"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "як вигляд"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "я бачив"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "у долині"
+    }
+  ],
+  "timestamp": "2026-08-23T23:42:14.470450080Z",
+  "model": "glm-5.3"
+}

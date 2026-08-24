@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "сини Кероса, сини Сіаги, сини Падона.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "Кероса"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "Сіаги"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "Падона"
+    }
+  ],
+  "timestamp": "2026-08-24T01:05:04.724057120Z",
+  "model": "glm-5.3"
+}

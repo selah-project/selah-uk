@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Що може Давід додати ще до Тебе на славу ⟨את⟩ раба Твого? І Ти ⟨את⟩ раба Твого знаєш.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Що"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "може додати"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давід"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "до Тебе"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "на славу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "раба Твого"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "раба Твого"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "І Ти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "раба Твого"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "раба Твого"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаєш"
+    }
+  ],
+  "timestamp": "2026-08-24T01:18:26.278407411Z",
+  "model": "glm-5.3"
+}

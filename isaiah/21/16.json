@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 21:16",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Бо так сказав Адонай мені: ще за року, як роки наймита, — і скінчиться вся слава Кедару.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "ще за"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "року"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "як роки"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "наймита"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "і скінчиться"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Кедару"
+    }
+  ],
+  "timestamp": "2026-08-23T23:08:43.646593636Z",
+  "model": "glm-5.3"
+}

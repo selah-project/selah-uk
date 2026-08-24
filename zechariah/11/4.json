@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Так сказав Яхве, Елогім мій: паси ⟨את⟩ отару ⟨призначену⟩ на заколення.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім мій"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "паси"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "отару"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "отару"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "на заколення"
+    }
+  ],
+  "timestamp": "2026-08-24T00:08:17.733111457Z",
+  "model": "glm-5.3"
+}

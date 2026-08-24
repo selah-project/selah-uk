@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "І сказав: ти ⟨є⟩ цей, син мій Есав? І сказав: я.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І-сказав"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "זה",
+      "gloss": "цей"
+    },
+    {
+      "surface": "בני",
+      "gloss": "син-мій"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і-сказав"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-23T21:16:38.946375572Z",
+  "model": "glm-5.3"
+}

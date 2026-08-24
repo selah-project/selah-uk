@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "І заздрили йому брати його, а батько його зберіг ⟨את⟩ це слово.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "і заздрили"
+    },
+    {
+      "surface": "בו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "брати його"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "а батько його"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "зберіг"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "це слово"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "це слово"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:53.962884847Z",
+  "model": "glm-5.3"
+}

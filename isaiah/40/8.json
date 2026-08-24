@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "В'яне трава, опадає цвіт, а слово Елогім нашого повстає навіки.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "В'яне"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "трава"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "опадає"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "цвіт"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "а слово"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елогім нашого"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "повстає"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навіки"
+    }
+  ],
+  "timestamp": "2026-08-23T23:14:47.622554211Z",
+  "model": "glm-5.3"
+}

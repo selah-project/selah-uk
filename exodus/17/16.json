@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І сказав: бо рука на троні Яха — війна Яхве проти Амалека з роду в рід.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כס",
+      "gloss": "троні"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яха"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "війна"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "проти Амалека"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "з роду"
+    },
+    {
+      "surface": "דר",
+      "gloss": "в рід"
+    }
+  ],
+  "timestamp": "2026-08-23T21:30:10.672480728Z",
+  "model": "glm-5.3"
+}

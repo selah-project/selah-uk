@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 2:24",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Ні, сини мої, бо недобра чутка, яку я чую: ⟨ви⟩ поводите до переступу народ Яхве.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ні"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини мої"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добра"
+    },
+    {
+      "surface": "השמעה",
+      "gloss": "чутка"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чую"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "поводите до переступу"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T22:27:14.087315444Z",
+  "model": "glm-5.3"
+}

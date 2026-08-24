@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Бані — шістсот сорок і двоє.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бані"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шістсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "і двоє"
+    }
+  ],
+  "timestamp": "2026-08-24T01:57:08.890376719Z",
+  "model": "glm-5.3"
+}

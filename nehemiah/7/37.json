@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Сини Лода, Хадіда й Оно: сімсот двадцять і один.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Лода"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "Хадіда"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "й Оно"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "сім"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "двадцять"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "і один"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:02.982053064Z",
+  "model": "glm-5.3"
+}

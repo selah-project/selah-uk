@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Через гору Ційону, спустошену ⟨це⟩, шакали ходили по ній.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "через"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ційону"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "спустошену"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "шакали"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ходили"
+    },
+    {
+      "surface": "בו",
+      "gloss": "по ній"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:59.843331079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "А коли утримаєшся від обітниці — не буде на тобі гріха.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "а коли"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "утримаєшся"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "від обітниці"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "בך",
+      "gloss": "на тобі"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "гріха"
+    }
+  ],
+  "timestamp": "2026-08-23T22:06:41.229109489Z",
+  "model": "glm-5.3"
+}

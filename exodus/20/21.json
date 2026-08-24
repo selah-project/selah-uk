@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І стояв народ іздалеку, а Моше наблизився до темряви, що там ⟨був⟩ Елогім.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "І стояв"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "іздалеку"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "а Моше"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "наблизився"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "темряви"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    }
+  ],
+  "timestamp": "2026-08-23T21:30:07.133538122Z",
+  "model": "glm-5.3"
+}

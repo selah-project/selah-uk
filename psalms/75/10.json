@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 75,
+  "translation": "А я звіщатиму повік, співатиму ⟨хвалу⟩ Елогімові Яакова.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а я"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "звіщатиму"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "повік"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "співатиму"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Елогімові"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:45.027971660Z",
+  "model": "glm-5.3"
+}

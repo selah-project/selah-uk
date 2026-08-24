@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 1:18",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І сказав Шеломо збудувати дім для Імені Яхве та дім для царювання свого.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "збудувати"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "для Імені"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "та дім"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "для царювання свого"
+    }
+  ],
+  "timestamp": "2026-08-24T01:21:42.415225336Z",
+  "model": "glm-5.3"
+}

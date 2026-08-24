@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Глупці насміхаються з вини, а поміж прямими — ⟨є⟩ благовоління.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "Глупці"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "насміхаються"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "з вини"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "а поміж"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "прямими"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "благовоління"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:39.179103233Z",
+  "model": "glm-5.3"
+}

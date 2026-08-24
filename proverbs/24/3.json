@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Мудрістю збудується дім, і розумом ⟨він⟩ утвердиться.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "мудрістю"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "збудується"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "і розумом"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "утвердиться"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:44.046011542Z",
+  "model": "glm-5.3"
+}

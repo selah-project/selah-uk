@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Для сміху роблять бенкет, і вино веселить життя, а срібло відповідає ⟨את⟩ усе.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "для сміху"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "роблять"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "бенкет"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "і вино"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "веселить"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "життя"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "а срібло"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "відповідає"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усе"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "усе"
+    }
+  ],
+  "timestamp": "2026-08-24T00:55:04.337779998Z",
+  "model": "glm-5.3"
+}

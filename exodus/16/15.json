@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 16:15",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І побачили сини Ізраїля, і сказали один одному: Ман гу — що це? Бо не знали, що воно. І сказав Моше їм: це хліб, який дав Яхве вам на їжу.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "І побачили"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "і сказали"
+    },
+    {
+      "surface": "איש",
+      "gloss": "один"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "брата свого"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "гу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знали"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "воно"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "це"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "хліб"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "на їжу"
+    }
+  ],
+  "timestamp": "2026-08-23T21:30:18.053542432Z",
+  "model": "glm-5.3"
+}

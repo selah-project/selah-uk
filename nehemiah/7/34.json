@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Сини Ейламу, іншого, тисяча двісті п'ятдесят і чотири.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Ейламу"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "іншого"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяча"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двісті"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "п'ятдесят"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "і чотири"
+    }
+  ],
+  "timestamp": "2026-08-24T01:09:51.724680701Z",
+  "model": "glm-5.3"
+}

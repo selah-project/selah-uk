@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Кращий шматок сухий і спокій ⟨з ним⟩, ніж дім, повний жертв сварки.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Кращий"
+    },
+    {
+      "surface": "פת",
+      "gloss": "шматок"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "сухий"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "і спокій"
+    },
+    {
+      "surface": "בה",
+      "gloss": "з ним"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ніж дім"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "повний"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "жертв"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "сварки"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:25.843993611Z",
+  "model": "glm-5.3"
+}

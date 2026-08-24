@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 23:21",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Бо п'яниця і ненажера збідніють, і дрантя зодягне сонливість.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "п'яниця"
+    },
+    {
+      "surface": "וזולל",
+      "gloss": "і ненажера"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "збідніють"
+    },
+    {
+      "surface": "וקרעים",
+      "gloss": "і дрантя"
+    },
+    {
+      "surface": "תלביש",
+      "gloss": "зодягне"
+    },
+    {
+      "surface": "נומה",
+      "gloss": "сонливість"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:46.216126145Z",
+  "model": "glm-5.3"
+}

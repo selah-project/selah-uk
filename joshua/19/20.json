@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "і ⟨the⟩ Раббіт, і Кішйон, і Авец.",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "і ⟨the⟩ Раббіт"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "і Кішйон"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "і Авец"
+    }
+  ],
+  "timestamp": "2026-08-23T22:16:30.819406239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 28:8",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Не витоптують ⟨її⟩ сини пихи, не проходить по ній лютий лев.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הדריכהו",
+      "gloss": "витоптують ⟨її⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "пихи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "проходить"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "по ній"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "лютий лев"
+    }
+  ],
+  "timestamp": "2026-08-24T00:44:49.579714928Z",
+  "model": "glm-5.3"
+}

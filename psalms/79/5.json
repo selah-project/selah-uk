@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 79,
+  "translation": "Доки, Яхве? Ти гніваєшся повік, палатиме, як огонь, ревність Твоя?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Доки"
+    },
+    {
+      "surface": "מה",
+      "gloss": "?"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "Ти гніваєшся"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "повік"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "палатиме"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "як"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огонь"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "ревність Твоя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:28.502104173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Ще чи в домі нечестивого — скарби нечестя, і ефа скупа, обурлива?",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "Ще"
+    },
+    {
+      "surface": "האש",
+      "gloss": "чи"
+    },
+    {
+      "surface": "בית",
+      "gloss": "в домі"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "нечестивого"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "скарби"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "нечестя"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "і ефа"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "скупа"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "обурлива"
+    }
+  ],
+  "timestamp": "2026-08-24T00:04:14.896884202Z",
+  "model": "glm-5.3"
+}

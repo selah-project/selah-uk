@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 48:31",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "Тому за Моава я голоситиму, і за всього Моава я кричатиму; за людей Кір-Хересу стогнатиме.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Тому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "на те"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "איליל",
+      "gloss": "я голоситиму"
+    },
+    {
+      "surface": "ולמואב",
+      "gloss": "і за Моава"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "всього"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "я кричатиму"
+    },
+    {
+      "surface": "אל",
+      "gloss": "за"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "людей"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Кір"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Херес"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "стогнатиме"
+    }
+  ],
+  "timestamp": "2026-08-24T01:48:52.950020668Z",
+  "model": "glm-5.3"
+}

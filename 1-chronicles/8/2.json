@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Ноха — четвертий, і Рафа — п'ятий.",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "Ноха"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "четвертий"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "і Рафа"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "п'ятий"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:25.108614045Z",
+  "model": "glm-5.3"
+}

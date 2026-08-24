@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 87,
+  "translation": "Яхве полічать при запису народів: цей народжений там. Села.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "полічить"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "при запису"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народів"
+    },
+    {
+      "surface": "זה",
+      "gloss": "цей"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "народжений"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:32.067757705Z",
+  "model": "glm-5.3"
+}

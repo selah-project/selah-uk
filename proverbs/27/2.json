@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Нехай хвалить тебе чужий, а не твої уста, чужинець, а не твої вуста-губи.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "нехай хвалить тебе"
+    },
+    {
+      "surface": "זר",
+      "gloss": "чужий"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "твої уста"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "чужинець"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "а не"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "твої губи"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:03.100913172Z",
+  "model": "glm-5.3"
+}

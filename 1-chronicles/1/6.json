@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І сини Гомера: Ашкеназ, і Діфат, і Тогарма.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "І сини"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Гомера"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ашкеназ"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "і Діфат"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "і Тогарма"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:15.280298806Z",
+  "model": "glm-5.3"
+}

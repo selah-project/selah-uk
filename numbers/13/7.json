@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Для племени Ісахара — Ігаль, син Йосефа.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "для племені"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Ісахара"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "Ігаль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефа"
+    }
+  ],
+  "timestamp": "2026-08-23T21:51:39.437471712Z",
+  "model": "glm-5.3"
+}

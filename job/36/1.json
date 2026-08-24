@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "І додав Елігу, і сказав:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "І додав"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "Елігу"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    }
+  ],
+  "timestamp": "2026-08-24T00:47:29.900269951Z",
+  "model": "glm-5.3"
+}

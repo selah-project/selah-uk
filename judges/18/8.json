@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 18:8",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І прийшли до братів своїх у Цору і Ештаол, і сказали їм брати їхні: що ви?",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "І прийшли"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "братів своїх"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "у Цору"
+    },
+    {
+      "surface": "ואשתאל",
+      "gloss": "і Ештаол"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "і сказали"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "брати їхні"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    }
+  ],
+  "timestamp": "2026-08-23T22:25:03.116317110Z",
+  "model": "glm-5.3"
+}

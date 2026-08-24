@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 5:13",
+  "book": "esther",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І все це не варте для мене — щоразу, як я бачу ⟨את⟩ Мордехая-юдея, сидячого в брамі царя.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "і все"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "не є"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "варте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "для мене"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "щоразу"
+    },
+    {
+      "surface": "עת",
+      "gloss": "як"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коли"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "бачу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мордехая-юдея"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехая"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "юдея"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "сидячого"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "у брамі"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:55:51.892733023Z",
+  "model": "glm-5.3"
+}

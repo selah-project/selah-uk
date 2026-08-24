@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Дивовижа і жахність сталися в ⟨цій⟩ землі.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "дивовижа"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "і жахність"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "сталися"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в ⟨цій⟩ землі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:23:48.942276367Z",
+  "model": "glm-5.3"
+}

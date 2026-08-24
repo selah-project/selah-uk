@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 48:13",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "Обійдіть Ційон, і обведіть її, перелічіть вежі її.",
+  "tokens": [
+    {
+      "surface": "סבו",
+      "gloss": "Обійдіть"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ційон"
+    },
+    {
+      "surface": "והקיפוה",
+      "gloss": "і обведіть її"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "перелічіть"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "вежі її"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:34.660052748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Носілки зробив собі цар Шеломо з дерев Лівану.",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "носілки"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "зробив"
+    },
+    {
+      "surface": "לו",
+      "gloss": "собі"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "з дерев"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Лівану"
+    }
+  ],
+  "timestamp": "2026-08-24T00:49:50.757262988Z",
+  "model": "glm-5.3"
+}

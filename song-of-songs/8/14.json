@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 8:14",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Тікай, мій коханий, і будь собі як газель або як молодий олень на горах запашних!",
+  "tokens": [
+    {
+      "surface": "ברח",
+      "gloss": "тікай"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "мій коханий"
+    },
+    {
+      "surface": "ודמה",
+      "gloss": "і будь подібний"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "як газель"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "як молодий"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "олень"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "горах"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "запашних"
+    }
+  ],
+  "timestamp": "2026-08-24T00:49:55.750362718Z",
+  "model": "glm-5.3"
+}

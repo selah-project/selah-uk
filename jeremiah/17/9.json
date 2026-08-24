@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Криве ⟨є⟩ серце понад усе, і невилікуване воно — хто пізнає його?",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "криве"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "понад усе"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "і невилікуване"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "воно"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "пізнає його"
+    }
+  ],
+  "timestamp": "2026-08-23T23:27:16.867207670Z",
+  "model": "glm-5.3"
+}

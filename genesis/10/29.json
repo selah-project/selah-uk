@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І ⟨את⟩ Офір, і ⟨את⟩ Хавіла, і ⟨את⟩ Йовава; усі ці ⟨були⟩ сини Йоктана.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Офір"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "Офір"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Хавіла"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Хавіла"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Йовава"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовава"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Йоктана"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:52.975505044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І сказав Моше перед Яхве: ось, я ⟨⟨⟩⟩ необрізаних уст — і як послухається мене Паро?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ось"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "необрізаний"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "уст"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "і як"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "послухається"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    }
+  ],
+  "timestamp": "2026-08-23T21:25:49.983740258Z",
+  "model": "glm-5.3"
+}

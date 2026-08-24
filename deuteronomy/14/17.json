@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "і пелікан, і ⟨את⟩ рахаму, і ⟨את⟩ шалаха",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "і пелікан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "рахаму"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "рахаму"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "шалаха"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "шалаха"
+    }
+  ],
+  "timestamp": "2026-08-23T22:04:13.274018756Z",
+  "model": "glm-5.3"
+}

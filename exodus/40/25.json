@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "І звів лампади перед Яхве, як заповів Яхве ⟨את⟩ Моше.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "І звів"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "лампади"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-23T21:37:54.029712726Z",
+  "model": "glm-5.3"
+}

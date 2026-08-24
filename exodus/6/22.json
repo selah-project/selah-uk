@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І сини Уззіїла: Мішаель, і Елцафан, і Сітрі.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "І сини"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Уззіїла"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Мішаель"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "і Елцафан"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "і Сітрі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:26:04.645919074Z",
+  "model": "glm-5.3"
+}

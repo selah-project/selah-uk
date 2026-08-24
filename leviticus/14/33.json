@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 14:33",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І промовив Яхве до Моше та до Агарона, кажучи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "і промовив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "та до"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарона"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T21:42:44.733267303Z",
+  "model": "glm-5.3"
+}

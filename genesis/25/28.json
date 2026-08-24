@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І любив Їцхак ⟨את⟩ Есава, бо лови — в устах його; а Рівка любила ⟨את⟩ Яакова.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "і любив"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Їцхак"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Есава"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есава"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "лови"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "в устах його"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "а Рівка"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "любила"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яакова"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:51.197277113Z",
+  "model": "glm-5.3"
+}

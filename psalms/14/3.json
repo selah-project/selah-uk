@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Усі відступили, разом змерзли — нема такого, що чинить добро, нема навіть одного.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Усі"
+    },
+    {
+      "surface": "סר",
+      "gloss": "відступили"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "разом"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "змерзли"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чинить"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "גם",
+      "gloss": "навіть"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    }
+  ],
+  "timestamp": "2026-08-24T00:11:13.834360841Z",
+  "model": "glm-5.3"
+}

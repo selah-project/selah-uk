@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Де слово царя — ⟨там⟩ влада, і хто скаже йому: що ти робиш?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "де"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "влада"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "і хто"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "скаже"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ти робиш"
+    }
+  ],
+  "timestamp": "2026-08-24T00:55:32.901789493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Елогім — суддя праведний, і Ель гнівається кожного дня.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "суддя"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведний"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і Ель"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "гнівається"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "кожного"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дня"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:26.214523149Z",
+  "model": "glm-5.3"
+}

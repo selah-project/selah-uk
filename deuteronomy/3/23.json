@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І благав я милості в Яхве тоді, говорячи:",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "і благав я милості"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "тоді"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ту"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:07.681267586Z",
+  "model": "glm-5.3"
+}

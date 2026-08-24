@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "І сталося слово Яхве до Єрміягу від ⟨את⟩ Яхве, кажучи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Єрміягу"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "від ⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T23:33:21.202664602Z",
+  "model": "glm-5.3"
+}

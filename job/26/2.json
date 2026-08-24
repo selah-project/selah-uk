@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 26:2",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Як ти допоміг безсилому, як ти врятував рамено без сили!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Як"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ти допоміг"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "без"
+    },
+    {
+      "surface": "כח",
+      "gloss": "сили"
+    },
+    {
+      "surface": "הושעת",
+      "gloss": "ти врятував"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "рамено"
+    },
+    {
+      "surface": "לא",
+      "gloss": "без"
+    },
+    {
+      "surface": "עז",
+      "gloss": "сили"
+    }
+  ],
+  "timestamp": "2026-08-24T00:44:29.072460914Z",
+  "model": "glm-5.3"
+}

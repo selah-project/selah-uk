@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 75,
+  "translation": "Коли прийму призначений час — я сам судитиму прямо.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Коли"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "прийму"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "призначений час"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я сам"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "прямо"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "судитиму"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:32.416451473Z",
+  "model": "glm-5.3"
+}

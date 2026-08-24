@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Її ноги сходять до смерті, Шеол підтримують її кроки.",
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "її ноги"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "сходять"
+    },
+    {
+      "surface": "מות",
+      "gloss": "до смерті"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "її кроки"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "підтримують"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:12.945450030Z",
+  "model": "glm-5.3"
+}

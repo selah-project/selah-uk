@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 36:11",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "І почув Міхаяѓу, син Ґемар'яґ́у, сина Шафана, ⟨את⟩ усі слова Яхве з сувою,",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "І почув"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "Міхаяѓу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "Ґемар'яґ́у"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Шафана"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усі слова Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "з"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "сувою"
+    }
+  ],
+  "timestamp": "2026-08-23T23:33:42.651987840Z",
+  "model": "glm-5.3"
+}

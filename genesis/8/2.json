@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І замкнулися джерела безодні й вікна небес, і стримався дощ із небес.",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "і замкнулися"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "джерела"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "безодні"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "й вікна"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "і стримався"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "дощ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "із"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    }
+  ],
+  "timestamp": "2026-08-24T01:35:57.844043636Z",
+  "model": "glm-5.3"
+}

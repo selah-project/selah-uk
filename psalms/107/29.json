@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 107,
+  "translation": "Він storms — піднімає бурю на тишу, і притихли хвилі їхні.",
+  "tokens": [],
+  "timestamp": "2026-08-24T00:25:59.632283761Z",
+  "model": "glm-5.3"
+}

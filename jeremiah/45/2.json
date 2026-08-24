@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 45,
+  "translation": "Так сказав Яхве, Елогім Ізраїля, про тебе, Барух:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "про тебе"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барух"
+    }
+  ],
+  "timestamp": "2026-08-23T23:36:28.487571126Z",
+  "model": "glm-5.3"
+}

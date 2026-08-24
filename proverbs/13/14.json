@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 13:14",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Тора мудрого — джерело життя, щоб відвернутися від тенет смерти.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрого"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "джерело"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "життя"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "щоб відвернутися"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "від тенет"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерти"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:04.788788135Z",
+  "model": "glm-5.3"
+}

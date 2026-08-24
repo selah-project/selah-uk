@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 23:40",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "і накладу на вас ганьбу вічну й безчестя вічне, якого не забудуть.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "і накладу"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "на вас"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ганьбу"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вічну"
+    },
+    {
+      "surface": "וכלמות",
+      "gloss": "й безчестя"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вічне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "якого"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "забудуть"
+    }
+  ],
+  "timestamp": "2026-08-23T23:30:27.809865710Z",
+  "model": "glm-5.3"
+}

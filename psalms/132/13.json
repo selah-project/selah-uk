@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 132,
+  "translation": "Бо обрав Яхве Ціон, побажав ⟨її⟩ за оселищу для Себе.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "обрав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Ціон"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "побажав"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "за оселищу"
+    },
+    {
+      "surface": "לו",
+      "gloss": "для Себе"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:57.223826509Z",
+  "model": "glm-5.3"
+}

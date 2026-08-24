@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І сказав Натан Давидові: Усе, що ⟨є⟩ в твоєму серці, роби, бо Елогім ⟨є⟩ з тобою.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Давидові"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Усе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "в твоєму серці"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "роби"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "з тобою"
+    }
+  ],
+  "timestamp": "2026-08-24T01:18:16.908962977Z",
+  "model": "glm-5.3"
+}

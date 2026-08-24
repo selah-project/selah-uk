@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 48:4",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "І при межі Нафталі, від краю сходу аж до краю моря: Менаше — один.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "І при"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "межі"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафталі"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "від краю"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "сходу"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "краю"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "моря"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-23T23:55:52.489511417Z",
+  "model": "glm-5.3"
+}

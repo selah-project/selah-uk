@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Мерида для Яхве — уста брехні, а чинячі вірність — Його вподоба.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "мерида"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "уста"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "брехні"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "а чинячі"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "вірність"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "Його вподоба"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:54.320980228Z",
+  "model": "glm-5.3"
+}

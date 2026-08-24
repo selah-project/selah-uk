@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 88,
+  "translation": "Чому, Яхве, відкидаєш душу мою, ховаєш обличчя Твоє від мене?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "чому"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "відкидаєш"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душу мою"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ховаєш"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "обличчя Твоє"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "від мене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:35.831432656Z",
+  "model": "glm-5.3"
+}

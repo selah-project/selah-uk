@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 27:12",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "І сказав Яхве до Моше: піднімися на гору Аварім цю, і побач ⟨את⟩ землю, яку дав Я синам Ізраїелю.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "піднімися"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Аварім"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цю"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "і побач"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дав Я"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синам"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїелю"
+    }
+  ],
+  "timestamp": "2026-08-23T21:57:23.836123459Z",
+  "model": "glm-5.3"
+}

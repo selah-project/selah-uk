@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Не так нечестиві, — ні, як пліву, яку вітер розвіює.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "нечестиві"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ні,"
+    },
+    {
+      "surface": "אם",
+      "gloss": "як"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "пліву"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "вітер розвіює"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "вітер"
+    }
+  ],
+  "timestamp": "2026-08-24T00:09:49.532068540Z",
+  "model": "glm-5.3"
+}

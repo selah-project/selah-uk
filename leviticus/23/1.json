@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І промовив Яхве до Моше, говорячи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "І промовив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    }
+  ],
+  "timestamp": "2026-08-23T21:45:30.048865069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Так сказав Адонай Яхве: лихо одне, лихо — ось ⟨воно⟩ приходить.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "лихо"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одне"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "лихо"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "באה",
+      "gloss": "приходить"
+    }
+  ],
+  "timestamp": "2026-08-23T23:41:14.644841374Z",
+  "model": "glm-5.3"
+}

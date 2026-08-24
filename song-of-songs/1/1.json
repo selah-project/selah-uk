@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Пісня пісень, що ⟨належить⟩ Шломо.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Пісня"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "пісень"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "⟨належить⟩ Шломо"
+    }
+  ],
+  "timestamp": "2026-08-24T01:55:53.544706691Z",
+  "model": "glm-5.3"
+}

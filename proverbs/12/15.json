@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Дорога глупця права в його очах, а той, хто слухає поради, — мудрий.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "дорога"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "глупця"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "права"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в його очах"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "а слухає"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "поради"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрий"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:06.312099283Z",
+  "model": "glm-5.3"
+}

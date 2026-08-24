@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "⟨את⟩ Уца, первістка його, і ⟨את⟩ Буза, брата його, і ⟨את⟩ Кемуеля, батька Арама.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Уца"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Уц"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "первістка його"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Буза"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Буз"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "брата його"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Кемуеля"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Кемуель"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батька"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арама"
+    }
+  ],
+  "timestamp": "2026-08-23T21:13:44.333538946Z",
+  "model": "glm-5.3"
+}

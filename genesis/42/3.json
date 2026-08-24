@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 42,
+  "translation": "І зійшли брати Йосефа, десять, щоб купити збіжжя з Міцраїму.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "І зійшли"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брати"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефа"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десять"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "щоб купити"
+    },
+    {
+      "surface": "בר",
+      "gloss": "збіжжя"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "з Міцраїму"
+    }
+  ],
+  "timestamp": "2026-08-23T21:22:42.562898632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Не бійся раптового жаху, ані спустошення нечестивих, коли воно прийде.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бійся"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "жаху"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "раптового"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "а спустошення"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивих"
+    },
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "воно прийде"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:21.699708254Z",
+  "model": "glm-5.3"
+}

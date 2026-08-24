@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Тим паче людина — хробак, і син людський — черв'як!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Тим паче"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨якщо⟩"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "людина"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "хробак"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "і син"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людський"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "черв'як"
+    }
+  ],
+  "timestamp": "2026-08-24T00:44:18.794771162Z",
+  "model": "glm-5.3"
+}

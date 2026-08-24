@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І на підписаних ⟨був⟩ Нехем'я га-Тіршафа, син Хахальї, і Цідкійя.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "підписаних"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Нехем'я"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "га-Тіршафа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "Хахальї"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "і Цідкійя"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:20.422892813Z",
+  "model": "glm-5.3"
+}

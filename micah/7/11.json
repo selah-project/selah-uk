@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 7:11",
+  "book": "micah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "День — будувати твої мури; день той межа буде віддалена.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "будувати"
+    },
+    {
+      "surface": "גדריך",
+      "gloss": "твої мури"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "буде віддалена"
+    },
+    {
+      "surface": "חק",
+      "gloss": "межа"
+    }
+  ],
+  "timestamp": "2026-08-24T00:04:15.196050363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Ахіам син Сахар ⟨the⟩ Гарарі, Еліфал син Ура",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "Ахіам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "Сахар"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "⟨the⟩ Гарарі"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "Еліфал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Ура"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:08.835924396Z",
+  "model": "glm-5.3"
+}

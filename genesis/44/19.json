@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 44,
+  "translation": "Пан мій питав ⟨את⟩ рабів своїх, кажучи: чи є у вас батько, чи брат?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Пан мій"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "питав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рабів своїх"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "рабів своїх"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "היש",
+      "gloss": "чи є"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "у вас"
+    },
+    {
+      "surface": "אב",
+      "gloss": "батько"
+    },
+    {
+      "surface": "או",
+      "gloss": "чи"
+    },
+    {
+      "surface": "אח",
+      "gloss": "брат"
+    }
+  ],
+  "timestamp": "2026-08-23T21:23:02.639480818Z",
+  "model": "glm-5.3"
+}

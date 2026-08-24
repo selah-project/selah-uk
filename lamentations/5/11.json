@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Жінок у Ціоні ґвалтували, дів — у містах Єгуди.",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "жінок"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "у Ціоні"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ґвалтували"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "дів"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "у містах"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:04.912204108Z",
+  "model": "glm-5.3"
+}

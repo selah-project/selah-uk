@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І сказав йому: як ⟨звати⟩ тебе, ім'я твоє? І сказав ⟨він⟩: Яаков.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "מה",
+      "gloss": "як"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ім'я твоє"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    }
+  ],
+  "timestamp": "2026-08-23T21:17:51.580668185Z",
+  "model": "glm-5.3"
+}

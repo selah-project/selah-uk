@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 50,
+  "translation": "І сказав їм Йосеф: Не бійтеся, чи ж під Елогім ⟨я⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "бійтеся"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чи ж"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-23T21:25:09.681345280Z",
+  "model": "glm-5.3"
+}

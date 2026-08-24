@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 12:6",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "І впокорилися князі Ісраелу та цар, і сказали: Справедливий ⟨є⟩ Яхве.",
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "І впокорилися"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "князі"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраелу"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "та цар"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "і сказали"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Справедливий"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:25:49.399658324Z",
+  "model": "glm-5.3"
+}

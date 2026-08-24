@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 10:19",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І решта дерев лісу його числом буде, і хлопець List",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "І решта"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дерев"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "лісу його"
+    },
+    {
+      "surface": "мсפר",
+      "gloss": "числом"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "буде"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "і хлопець"
+    },
+    {
+      "surface": "יכתבם",
+      "gloss": "запише їх"
+    }
+  ],
+  "timestamp": "2026-08-23T23:08:02.429969637Z",
+  "model": "glm-5.3"
+}

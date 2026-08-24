@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 6:35",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І це сини Агарона: Ельазар, син його, Пінхас, син його, Авішґа, син його.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "і це"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарона"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Ельазар"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пінхас"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Авішґа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:39.637343797Z",
+  "model": "glm-5.3"
+}

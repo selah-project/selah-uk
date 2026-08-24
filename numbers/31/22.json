@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Тільки ⟨את⟩ золото й ⟨את⟩ срібло, ⟨את⟩ мідь, ⟨את⟩ залізо, ⟨את⟩ олово та ⟨את⟩ свинець:",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Тільки"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "золото"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "золото"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "й ⟨את⟩",
+      "marks": "срібло"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "срібло"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мідь"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "мідь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "залізо"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "залізо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "олово"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "олово"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "та ⟨את⟩",
+      "marks": "свинець"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "свинець"
+    }
+  ],
+  "timestamp": "2026-08-23T21:58:04.041159032Z",
+  "model": "glm-5.3"
+}

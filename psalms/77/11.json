@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 77,
+  "translation": "І я сказав: недуга моя — це ⟨та⟩ зміни правиці Ельйон.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "і я сказав"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "недуга моя"
+    },
+    {
+      "surface": "היא",
+      "gloss": "це"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "зміни"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "правиці"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ельйон"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:52.982863168Z",
+  "model": "glm-5.3"
+}

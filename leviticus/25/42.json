@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Бо раби Мої вони, яких вивів Я ⟨את⟩ них із землі Міцраїму; не будуть продавані продажем раба.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "раби Мої"
+    },
+    {
+      "surface": "הם",
+      "gloss": "вони"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яких"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "вивів Я"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "них"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "із землі"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїму"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "будуть продавані"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "продажем"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "раба"
+    }
+  ],
+  "timestamp": "2026-08-23T21:45:50.822521804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І до дому бенкету не входь, щоб сидіти з ⟨את⟩ ними, щоб їсти й пити.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "І до дому"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "бенкету"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "входь"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "щоб сидіти"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ них",
+      "marks": "щоб сидіти з ними"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "щоб їсти"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "й пити"
+    }
+  ],
+  "timestamp": "2026-08-23T23:26:59.652488024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 129,
+  "translation": "Багато тиснули мене від юності моєї, та й не змогли ⟨наді⟩ мною",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Багато"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "тиснули мене"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "від юності моєї"
+    },
+    {
+      "surface": "גם",
+      "gloss": "та й"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "змогли"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨наді⟩ мною"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:59.837033490Z",
+  "model": "glm-5.3"
+}

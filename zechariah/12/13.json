@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 12:13",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Рід дому Леві — окремо, і жінки їхні — окремо; рід Шім'ї — окремо, і жінки їхні — окремо.",
+  "tokens": [
+    {
+      "surface": "משפחת",
+      "gloss": "рід"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леві"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "окремо"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "і жінки їхні"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "окремо"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "рід"
+    },
+    {
+      "surface": "השמעי",
+      "gloss": "Шім'ї"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "окремо"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "і жінки їхні"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "окремо"
+    }
+  ],
+  "timestamp": "2026-08-24T00:08:58.847178045Z",
+  "model": "glm-5.3"
+}

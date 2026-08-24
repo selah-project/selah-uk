@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "І прийшов до них Йосеф уранці, і побачив ⟨את⟩ них — і ось вони похмурі.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "і прийшов"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "до них"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "уранці"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "і побачив"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "них"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "і ось вони"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "похмурі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:21:13.460426362Z",
+  "model": "glm-5.3"
+}

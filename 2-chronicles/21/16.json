@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І збудив Яхве проти Єгорама ⟨את⟩ дух пелиштим та аравів, що при кушитах.",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "І збудив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "проти"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Єгорама"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дух пелиштим та аравів"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "пелиштим"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "та аравів"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "על",
+      "gloss": "при"
+    },
+    {
+      "surface": "יד",
+      "gloss": "⟨руці⟩"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "кушитів"
+    }
+  ],
+  "timestamp": "2026-08-24T01:28:53.660310656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 27:21",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Тигель — для срібла, і горно — для золота, а людина — за її ж хвалою.",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "Тигель"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "для срібла"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "і горно"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "для золота"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "а людина"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "за"
+    },
+    {
+      "surface": "מהללו",
+      "gloss": "її ж хвалою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:03.102107513Z",
+  "model": "glm-5.3"
+}

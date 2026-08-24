@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "який Він урізав ⟨את⟩ Аврагаму, і клятву Його Їцхакові;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "Він урізав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврагаму"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагаму"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "і клятву Його"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Їцхакові"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:25.230939524Z",
+  "model": "glm-5.3"
+}

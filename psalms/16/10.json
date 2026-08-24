@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Бо не покинеш нефеш мою в Шеолі, не даси твому хасиду бачити яму.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "покинеш"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "нефеш мою"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "в Шеолі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "даси"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "твоєму хасиду"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "бачити"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "яму"
+    }
+  ],
+  "timestamp": "2026-08-24T00:11:18.142107864Z",
+  "model": "glm-5.3"
+}

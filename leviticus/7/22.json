@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 7:22",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І промовив Яхве до Моше, кажучи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "і промовив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T21:39:06.874296935Z",
+  "model": "glm-5.3"
+}

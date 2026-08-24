@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Бо так сказав Яхве Цеваот: Ще раз, замало ⟨це⟩ — і Я здригну ⟨את⟩ небеса, і ⟨את⟩ землю, і ⟨את⟩ море, і ⟨את⟩ сушу.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "раз"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "замало"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨це⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "і Я"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "здригну"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "небеса"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "море"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "сушу"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "сушу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:06:13.324298656Z",
+  "model": "glm-5.3"
+}

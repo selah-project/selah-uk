@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І вслухався Моше в голос свого тестя, і зробив усе, що той сказав.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "І вслухався"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "в голос"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "свого тестя"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "і зробив"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "той сказав"
+    }
+  ],
+  "timestamp": "2026-08-23T21:30:51.083029285Z",
+  "model": "glm-5.3"
+}

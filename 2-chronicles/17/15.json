@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І при його руці Єхоганан, ⟨the⟩ начальник, і з ним двісті вісімдесят тисяч.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "І при"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "його руці"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "Єхоганан"
+    },
+    {
+      "surface": "השר",
+      "gloss": "⟨the⟩ начальник"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "і з ним"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двісті"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "вісімдесят"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяч"
+    }
+  ],
+  "timestamp": "2026-08-24T01:27:04.561444620Z",
+  "model": "glm-5.3"
+}

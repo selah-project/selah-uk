@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Ось ти вродлива, моя подруго, ось ти вродлива, очі твої — голубки.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "ось ти"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "вродлива"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "моя подруго"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ось ти"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "вродлива"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "очі твої"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "голубки"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:49.124899684Z",
+  "model": "glm-5.3"
+}

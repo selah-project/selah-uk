@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Зітлів плоть мою і шкіру мою, поламав кості мої.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "Зітлів"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "плоть мою"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "і шкіру мою"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "поламав"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "кості мої"
+    }
+  ],
+  "timestamp": "2026-08-24T00:51:39.953965013Z",
+  "model": "glm-5.3"
+}

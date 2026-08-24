@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "і ⟨את⟩ сову малу, і ⟨את⟩ баклана, і ⟨את⟩ сову велику;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сову малу"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "сова"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "баклана"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "баклан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сову велику"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "сова велика"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:41.124183267Z",
+  "model": "glm-5.3"
+}

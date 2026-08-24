@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 4:28",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І осіли в Беер-Шеві, і в Моладі, і в Хацар-Шуалі.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "І осіли"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "в Беер-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Шеві"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "і в Моладі"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "і в Хацар-"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "-Шуалі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:58:12.716989076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 11:9",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І Йоель син Зіхрі — наглядач над ними, і Єгуда син Гас-Снуа над ⟨את⟩ містом — другий.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "І Йоель"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Зіхрі"
+    },
+    {
+      "surface": "פקיד",
+      "gloss": "наглядач"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над ними"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "і Єгуда"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "הסנואה",
+      "gloss": "Гас-Снуа"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨את⟩ містом",
+      "marks": "містом"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "другий"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:03.920697416Z",
+  "model": "glm-5.3"
+}

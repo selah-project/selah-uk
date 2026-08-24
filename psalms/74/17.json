@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 74,
+  "translation": "Ти встановив усі межі землі; літо й зиму Ти сформував їх.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "встановив"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "межі"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "літо"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "й зиму"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "сформував їх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:34.197714509Z",
+  "model": "glm-5.3"
+}

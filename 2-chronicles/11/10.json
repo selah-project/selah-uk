@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "і ⟨את⟩ Цору, і ⟨את⟩ Айалон, і ⟨את⟩ Хеврон, що в Єгуді та в Біньяміні — міста-фортеці.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Цора"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Цора"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Айалон"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Айалон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Хеврон"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Хеврон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "в Єгуді"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "та в Біньяміні"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "міста"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "фортець"
+    }
+  ],
+  "timestamp": "2026-08-24T01:25:36.017501017Z",
+  "model": "glm-5.3"
+}

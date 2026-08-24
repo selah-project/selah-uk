@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 43:12",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 43,
+  "translation": "Це закон дому: на вершині гори весь кордон його навколо навколо — святе святів; ось, це закон дому.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Це"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "закон"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "вершині"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "гори"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "גבלו",
+      "gloss": "кордон його"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "навколо"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "навколо"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "святе"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "святів"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "закон"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дому"
+    }
+  ],
+  "timestamp": "2026-08-23T23:54:17.224911752Z",
+  "model": "glm-5.3"
+}

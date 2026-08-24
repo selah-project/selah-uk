@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 4:21",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Радій і тішся, дочко Едому, що сидиш у землі Уц: і на тебе перейде чаша — сп'янієш і ⟨розденешся⟩.",
+  "tokens": [
+    {
+      "surface": "שישי",
+      "gloss": "Радій"
+    },
+    {
+      "surface": "ושמחי",
+      "gloss": "і тішся"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочко"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едому"
+    },
+    {
+      "surface": "יושבתי",
+      "gloss": "що сидиш"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у землі"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Уц"
+    },
+    {
+      "surface": "גם",
+      "gloss": "і"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "перейде"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "чаша"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "сп'янієш"
+    },
+    {
+      "surface": "ותתערי",
+      "gloss": "і ⟨розденешся⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:55.703776446Z",
+  "model": "glm-5.3"
+}

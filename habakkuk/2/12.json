@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Горе тому, хто будує місто на кровах і засновує твердиню на беззаконні!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Горе"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "будує"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "місто"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "на кровах"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "і засновує"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "твердиню"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "на беззаконні"
+    }
+  ],
+  "timestamp": "2026-08-24T00:04:34.199298216Z",
+  "model": "glm-5.3"
+}

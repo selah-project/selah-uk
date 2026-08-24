@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 40:23",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "⟨Той,⟩ хто дає князів на ніщо, суддів землі зробив як марноту.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "хто дає"
+    },
+    {
+      "surface": "רוזנים",
+      "gloss": "князів"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "на ніщо"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "суддів"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "כתהו",
+      "gloss": "як марноту"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "зробив"
+    }
+  ],
+  "timestamp": "2026-08-23T23:15:10.146550783Z",
+  "model": "glm-5.3"
+}

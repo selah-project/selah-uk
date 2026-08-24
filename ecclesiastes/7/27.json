@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Дивись, оце я знайшов, — каже Когелет, — одне до одного, щоб знайти обчислення.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "дивись"
+    },
+    {
+      "surface": "זה",
+      "gloss": "оце"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "я знайшов"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "каже"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Когелет"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одне"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "до одного"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "щоб знайти"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "обчислення"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:53.190606263Z",
+  "model": "glm-5.3"
+}

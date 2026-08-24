@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "Скелю, що породила тебе, ти занедбав, і забув Ела, що сотворив тебе.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "Скелю"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "породила тебе"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "ти занедбав"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "і забув"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "що сотворив тебе"
+    }
+  ],
+  "timestamp": "2026-08-23T22:10:09.387813300Z",
+  "model": "glm-5.3"
+}

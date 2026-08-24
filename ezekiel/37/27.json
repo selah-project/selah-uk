@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 37:27",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "І буде оселя моя над ними, і буду їм Елогім, і вони будуть мені народом.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "і буде"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "оселя моя"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над ними"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "і буду"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "і вони"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "будуть"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "народом"
+    }
+  ],
+  "timestamp": "2026-08-23T23:52:23.400495205Z",
+  "model": "glm-5.3"
+}

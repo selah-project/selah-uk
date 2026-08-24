@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І Арпахшад породив ⟨את⟩ Шелаха, і Шелах породив ⟨את⟩ Евера.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "І Арпахшад"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шелаха"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Шелаха"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "і Шелах"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Евера"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Евера"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:10.063201555Z",
+  "model": "glm-5.3"
+}

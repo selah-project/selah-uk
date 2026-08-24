@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Ти добрий і чиниш добро — навчи мене установ Твоїх.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "добрий"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "і чиниш добро"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "навчи мене"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "установ Твоїх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:42.682150793Z",
+  "model": "glm-5.3"
+}

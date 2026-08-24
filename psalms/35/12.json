@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "Відплачують мені злом за добре — осиротіння моєї нефеш.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "відплачують мені"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "злом"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добре"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "осиротіння"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "моєї нефеш"
+    }
+  ],
+  "timestamp": "2026-08-24T00:14:08.984576449Z",
+  "model": "glm-5.3"
+}

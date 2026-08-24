@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І сини Явана: Еліша, і Таршіша, Кіттім і Роданім.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "І сини"
+    },
+    {
+      "surface": "יון",
+      "gloss": "Явана"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Еліша"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "і Таршіша"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Кіттім"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "і Роданім"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:15.280425774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Бажання серця його дав ти йому, і прохання уст його не відмовив ти. Села.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "бажання"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "серця його"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "дав ти"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "і прохання"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "уст його"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "відмовив ти"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:34.100483461Z",
+  "model": "glm-5.3"
+}

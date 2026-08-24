@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 138,
+  "translation": "Хай подякують Тобі, Яхве, усі царі землі, бо почули слова Твого уста.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Хай подякують Тобі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царі"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "почули"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "Твого уста"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:57.747278089Z",
+  "model": "glm-5.3"
+}

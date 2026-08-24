@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Тож освятіть себе і будьте святими, бо Я — Яхве, Елогім ваш.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "Тож освятіть себе"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "і будьте"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "святими"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елогім ваш"
+    }
+  ],
+  "timestamp": "2026-08-23T21:44:30.670132016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "А все, що не має плавців і луски, не їжте; нечисте воно вам.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "а все"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "לו",
+      "gloss": "в нього"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "плавців"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "і луски"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "їжте"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечисте"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "воно"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    }
+  ],
+  "timestamp": "2026-08-23T22:03:54.395871417Z",
+  "model": "glm-5.3"
+}

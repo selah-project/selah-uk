@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Тому слухайте, народи, і знай, громадо, ⟨את⟩ те, що серед них.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Тому"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слухайте"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "і-знай"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "громадо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "те, що серед них"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "בם",
+      "gloss": "серед-них"
+    }
+  ],
+  "timestamp": "2026-08-24T01:47:02.310143348Z",
+  "model": "glm-5.3"
+}

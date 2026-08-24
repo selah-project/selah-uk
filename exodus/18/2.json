@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І взяв Їтро, тесть Моше, ⟨את⟩ Ціпору, жінку Моше, після відпущення її.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "І взяв"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Їтро"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "тесть"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ціпору"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Ціпору"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жінку"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "після"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "відпущення її"
+    }
+  ],
+  "timestamp": "2026-08-23T21:30:28.132250845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 33:41",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І рушили вони від гори ⟨ה⟩ Гор, і стали табором у Цалмоні.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "від гори"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Гор"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і стали табором"
+    },
+    {
+      "surface": "בצלמנה",
+      "gloss": "у Цалмоні"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:17.222558183Z",
+  "model": "glm-5.3"
+}

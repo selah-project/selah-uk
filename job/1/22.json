@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 1:22",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "У всьому цьому не згрішив Ійов і не дав легковажного ⟨Елогім⟩.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "у всьому"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "цьому"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "згрішив"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ійов"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дав"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "легковажного"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "⟨Елогім⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:29.871913770Z",
+  "model": "glm-5.3"
+}

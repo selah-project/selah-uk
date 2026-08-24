@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "А сини Явана: Еліша, і Таршиш, Кіттім і Доданім.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А сини"
+    },
+    {
+      "surface": "יון",
+      "gloss": "Явана"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Еліша"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "і Таршиш"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Кіттім"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "і Доданім"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:32.934972088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Бо не розуміють вони діл Яхве й не чин рук Його — Він зруйнує їх і не відбудує їх.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "розуміють"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "діл"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і до"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "чину"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "рук Його"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "зруйнує їх"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "відбудує їх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:07.733602892Z",
+  "model": "glm-5.3"
+}

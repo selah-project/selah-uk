@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І сказав тесть Моше до нього: не добра ⟨ця⟩ річ, яку ти робиш.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "тесть"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "до нього"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨ця⟩ річ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "робиш"
+    }
+  ],
+  "timestamp": "2026-08-23T21:30:55.164728069Z",
+  "model": "glm-5.3"
+}

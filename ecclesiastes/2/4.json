@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Зробив великими діла свої: збудував собі доми, насадив собі виноградники.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "Зробив великими"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "діла свої"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "збудував"
+    },
+    {
+      "surface": "לי",
+      "gloss": "собі"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "доми"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "насадив"
+    },
+    {
+      "surface": "לי",
+      "gloss": "собі"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "виноградники"
+    }
+  ],
+  "timestamp": "2026-08-24T01:56:27.511606554Z",
+  "model": "glm-5.3"
+}

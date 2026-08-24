@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 13:28",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "і він, як гниль, занепадає, як одежу, з'їла міль.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "і він"
+    },
+    {
+      "surface": "כרקב",
+      "gloss": "як гниль"
+    },
+    {
+      "surface": "יבלה",
+      "gloss": "занепадає"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "як одежу"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "з'їла"
+    },
+    {
+      "surface": "עש",
+      "gloss": "міль"
+    }
+  ],
+  "timestamp": "2026-08-24T00:41:24.774579614Z",
+  "model": "glm-5.3"
+}

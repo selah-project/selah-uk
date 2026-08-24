@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І скажеш у серці своєму: сила моя і потуга руки моєї зробили мені ⟨את⟩ цей статок.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "і скажеш"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "у серці своєму"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "сила моя"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "і потуга"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "руки моєї"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "зробили"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цей статок"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "статок"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цей"
+    }
+  ],
+  "timestamp": "2026-08-23T22:03:32.241385395Z",
+  "model": "glm-5.3"
+}

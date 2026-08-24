@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 9:21",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Захар'я, син Мешелем'ї, — сторож входу намету зустрічі.",
+  "tokens": [
+    {
+      "surface": "זכריה",
+      "gloss": "Захар'я"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "משלמיה",
+      "gloss": "Мешелем'ї"
+    },
+    {
+      "surface": "שער",
+      "gloss": "сторож"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входу"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "намету"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "зустрічі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:36.309621078Z",
+  "model": "glm-5.3"
+}

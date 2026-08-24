@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Хай будуть тобі самому, і не ⟨את⟩ чужинцям із тобою.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "хай будуть"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "самому"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "і не"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "чужинцям"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ із тобою",
+      "marks": "чужинцям"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:19.044439903Z",
+  "model": "glm-5.3"
+}

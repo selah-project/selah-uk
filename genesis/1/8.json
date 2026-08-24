@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І назвав Елогім ⟨את⟩ простір небесами. І був вечір, і був ранок — день другий.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "І назвав"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "⟨את⟩ простір"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небесами"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "І був"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "вечір"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і був"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ранок"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "שני",
+      "gloss": "другий"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:57.233015726Z",
+  "model": "glm-5.3"
+}

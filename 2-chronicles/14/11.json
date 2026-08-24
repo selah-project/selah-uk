@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І уразив Яхве ⟨את⟩ кушитів перед Асою і перед Єгудою, і втекли кушити.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "і уразив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кушитів"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "кушитів"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Асою"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "і перед"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгудою"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "і втекли"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "кушити"
+    }
+  ],
+  "timestamp": "2026-08-24T01:26:36.528642756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 20:22",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "А якщо так скажу юнакові: ось стріли від тебе і далі — іди, бо послав тебе Яхве.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а якщо"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "скажу"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "юнакові"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "стріли"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "від тебе"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "і далі"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ідь"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "послав тебе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T22:32:26.684370109Z",
+  "model": "glm-5.3"
+}

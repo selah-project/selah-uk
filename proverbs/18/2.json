@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Не бажає глупець розуміння, лише ⟨щоб⟩ виявилось серце його.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "бажає"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупець"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "розуміння"
+    },
+    {
+      "surface": "כי",
+      "gloss": "лише"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "виявилось"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "серце його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:00.183477980Z",
+  "model": "glm-5.3"
+}

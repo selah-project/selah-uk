@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 13:9",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "від Ароера, що на краю потоку Арнон, і міста, що серед потоку, і всього плато Мідби аж до Дівона —",
+  "tokens": [
+    {
+      "surface": "מערוער",
+      "gloss": "від Ароера"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "краю"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "потоку"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Арнон"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "і місто"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "серед"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "потоку"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і все"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "плато"
+    },
+    {
+      "surface": "מידבא",
+      "gloss": "Мідби"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "Дівона"
+    }
+  ],
+  "timestamp": "2026-08-23T22:14:24.089086697Z",
+  "model": "glm-5.3"
+}

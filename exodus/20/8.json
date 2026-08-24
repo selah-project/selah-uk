@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Пам'ятай ⟨את⟩ день шабату, щоб освятити його.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Пам'ятай"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "день шабату"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "шабату"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "щоб освятити його"
+    }
+  ],
+  "timestamp": "2026-08-23T21:30:05.721029684Z",
+  "model": "glm-5.3"
+}

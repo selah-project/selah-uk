@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Цідоняни кличуть Хермон — Сирйон, а аморійці кличуть його — Сенір.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "Цідоняни"
+    },
+    {
+      "surface": "יקרראו",
+      "gloss": "кличуть"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "Хермон"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "Сирйон"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "а аморійці"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "кличуть"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Сенір"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:51.968267846Z",
+  "model": "glm-5.3"
+}

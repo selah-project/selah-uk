@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "А якщо ти відмовишся відпустити — ось, Я уражу ⟨את⟩ весь твій край жабами.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А якщо"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "відмовишся"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "відпустити"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Я"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "уражу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "весь твій край"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "твій край"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "жабами"
+    }
+  ],
+  "timestamp": "2026-08-23T21:27:15.408534030Z",
+  "model": "glm-5.3"
+}

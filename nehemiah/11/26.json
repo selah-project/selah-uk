@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "і в Єшуа, і в Моладі, і в Бейт-Палеті.",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "і в Єшуа"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "і в Моладі"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "і в Бейт"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "-Палеті"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:07.771740203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 21:1",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І відповів Ійов, і сказав:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "І відповів"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ійов"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    }
+  ],
+  "timestamp": "2026-08-24T00:43:23.785646194Z",
+  "model": "glm-5.3"
+}

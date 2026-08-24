@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Краща мудрість за зброю війни, та один грішник губить багато добра.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "краща"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрість"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "за зброю"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "війни"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "та грішник"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "губить"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добра"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "багато"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:58.748030242Z",
+  "model": "glm-5.3"
+}

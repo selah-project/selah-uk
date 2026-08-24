@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 4:49",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "і всю Араву за Йарденом, на схід, аж до моря Арави, під схилами Пісґи.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "і всю"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Араву"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "за"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Йарденом"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "на схід"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "ים",
+      "gloss": "моря"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Арави"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "схилами"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "Пісґи"
+    }
+  ],
+  "timestamp": "2026-08-23T22:01:14.221713814Z",
+  "model": "glm-5.3"
+}

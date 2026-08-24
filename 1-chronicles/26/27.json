@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 26:27",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Від воєн і від здобичі освятили ⟨це⟩ на зміцнення дому Яхве.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Від"
+    },
+    {
+      "surface": "המלחמות",
+      "gloss": "воєн"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "і від"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "здобичі"
+    },
+    {
+      "surface": "הקדישו",
+      "gloss": "освятили"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "на зміцнення"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:21:17.356258510Z",
+  "model": "glm-5.3"
+}

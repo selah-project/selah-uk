@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І сталося, коли вичерпалися всі чоловіки війни, вмерши з-посеред народу,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "коли"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "вичерпалися"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "чоловіки"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "війни"
+    },
+    {
+      "surface": "למות",
+      "gloss": "вмерши"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "з-посеред"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:20.923347296Z",
+  "model": "glm-5.3"
+}

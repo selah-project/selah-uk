@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 12:5",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "На їхніх очах пробури собі в стіні, і винеси через неї.",
+  "tokens": [
+    {
+      "surface": "לעיניהם",
+      "gloss": "на їхніх очах"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "пробури"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "в стіні"
+    },
+    {
+      "surface": "והוצאת",
+      "gloss": "і винеси"
+    },
+    {
+      "surface": "בו",
+      "gloss": "через неї"
+    }
+  ],
+  "timestamp": "2026-08-23T23:42:38.072993943Z",
+  "model": "glm-5.3"
+}

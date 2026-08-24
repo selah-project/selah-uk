@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І говорив Елогім до Ноаха, кажучи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "І говорив"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноаха"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:23.870402416Z",
+  "model": "glm-5.3"
+}

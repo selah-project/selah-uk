@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "Бо в Нім тішиться серце наше, бо в Йменні святості Його ми уповали.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в Нім"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "тішиться"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "серце наше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "в Йменні"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "святості Його"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "ми уповали"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:36.204843959Z",
+  "model": "glm-5.3"
+}

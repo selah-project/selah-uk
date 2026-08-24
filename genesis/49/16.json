@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 49:16",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 49,
+  "translation": "Дан судитиме народ свій, як один з племен Їсраеля.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "судитиме"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народ свій"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "як один"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "з племен"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраеля"
+    }
+  ],
+  "timestamp": "2026-08-23T21:24:46.524287161Z",
+  "model": "glm-5.3"
+}

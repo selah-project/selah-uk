@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Емим перед тим жили в ній, народ великий і численний, і високий, як Анакім.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "Емим"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "перед-тим"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "жили"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в-ній"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "і-численний"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "і-високий"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "як-Анакім"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:41.146413157Z",
+  "model": "glm-5.3"
+}

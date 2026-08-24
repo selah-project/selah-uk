@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 147,
+  "translation": "Кидає Він лід ⟨як⟩ кусочки; перед Його холодом хто встоїть?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "Кидає"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "лід"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "кусочки"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "Його холодом"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "вистоїть"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:14.381189769Z",
+  "model": "glm-5.3"
+}

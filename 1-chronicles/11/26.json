@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 11:26",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "А могутні військові ⟨були⟩: Асаель, брат Йоава, Елханан, син Додо, з Бейт-Лехема.",
+  "tokens": [
+    {
+      "surface": "וגבורי",
+      "gloss": "А можутьні"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "військові"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Асаель"
+    },
+    {
+      "surface": "אל",
+      "gloss": "брат"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоава"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Елханан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "Додо"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "з Бейт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Лехема"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:53.318014066Z",
+  "model": "glm-5.3"
+}

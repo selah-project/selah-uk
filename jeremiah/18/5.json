@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І сталося слово Яхве до мене, говорячи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "говорячи"
+    }
+  ],
+  "timestamp": "2026-08-23T23:28:44.362825306Z",
+  "model": "glm-5.3"
+}

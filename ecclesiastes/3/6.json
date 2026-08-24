@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Час шукати, і час губити; час берегти, і час викидати.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "час"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "шукати"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "і час"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "губити"
+    },
+    {
+      "surface": "עת",
+      "gloss": "час"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "берегти"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "і час"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "викидати"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:13.215415895Z",
+  "model": "glm-5.3"
+}

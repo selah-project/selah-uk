@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Вибране срібло — язик праведника, серце ж нечестивих — ніщо.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "срібло"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "вибране"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "язик"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивих"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "— ніщо"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:54.306281932Z",
+  "model": "glm-5.3"
+}

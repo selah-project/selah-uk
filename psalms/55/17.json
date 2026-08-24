@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 55,
+  "translation": "Я до Елогім покличу, і Яхве врятує мене.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "покличу"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "і Яхве"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "врятує мене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:29.557392062Z",
+  "model": "glm-5.3"
+}

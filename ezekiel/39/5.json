@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 39,
+  "translation": "На поверхні поля ти впадеш, бо Я говорив, — промовляє Адонай Яхве.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "поверхні"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поля"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "ти впадеш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорив"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "промовляє"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:52:34.487069163Z",
+  "model": "glm-5.3"
+}

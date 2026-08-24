@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 24:19",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Не гнівайся на лихих, не заздрий нечестивим,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "гнівайся"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "на лихих"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "заздрий"
+    },
+    {
+      "surface": "ברשעים",
+      "gloss": "нечестивим"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:47.003911371Z",
+  "model": "glm-5.3"
+}

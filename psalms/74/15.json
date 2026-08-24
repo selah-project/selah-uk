@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 74,
+  "translation": "Ти розклав джерело і потік, Ти висушив ріки могутні.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "розклав"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "джерело"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "і потік"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "висушив"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ріки"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "могутні"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:27.584495737Z",
+  "model": "glm-5.3"
+}

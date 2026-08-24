@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І я заповів ⟨את⟩ Баруха перед їхніми очима, говорячи:",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "І я заповів"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Баруха"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Баруха"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "перед їхніми очима"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    }
+  ],
+  "timestamp": "2026-08-23T23:33:18.116168380Z",
+  "model": "glm-5.3"
+}

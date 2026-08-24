@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 28:6",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "І сказав мені: Шломо, син твій, — він збудує дім Мій і двори Мої, бо Я вибрав його Собі за сина, а Я буду йому за батька.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "син твій"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "збудує"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "дім Мій"
+    },
+    {
+      "surface": "וחצרותי",
+      "gloss": "і двори Мої"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "Я вибрав"
+    },
+    {
+      "surface": "בו",
+      "gloss": "його"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Собі"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "за сина"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а Я"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "буду"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "за батька"
+    }
+  ],
+  "timestamp": "2026-08-24T01:21:25.423376307Z",
+  "model": "glm-5.3"
+}

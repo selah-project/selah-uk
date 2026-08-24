@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "А тепер, сину мій, слухай голосу мого — те, що я наказую тобі ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "А тепер"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сину мій"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слухай"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "голосу мого"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "те, що"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "мцавה",
+      "gloss": "наказую"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ тобі",
+      "marks": "тобі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:04.157202181Z",
+  "model": "glm-5.3"
+}

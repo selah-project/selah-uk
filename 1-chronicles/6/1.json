@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Сини Леві: Ґершом, Кегат і Мерарі.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леві"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Ґершом"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кегат"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "і Мерарі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:12.781912613Z",
+  "model": "glm-5.3"
+}

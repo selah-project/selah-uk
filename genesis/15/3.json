@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "І сказав Аврам: ось, мені Ти не дав насіння, і ось, син дому мого успадковує ⟨את⟩ мене.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ось"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Ти дав"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "насіння"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "і ось"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "дому мого"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "успадковує"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мене"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:33.325744584Z",
+  "model": "glm-5.3"
+}

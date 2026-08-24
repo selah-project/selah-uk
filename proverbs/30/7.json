@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Дві ⟨речі⟩ я випросив у ⟨את⟩ Тебе, не відмов мені, перш ніж я помру.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "дві"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "я випросив"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "у ⟨את⟩ Тебе",
+      "marks": "Тебе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "відмов"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "мені"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "перш ніж"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "я помру"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:11.926948673Z",
+  "model": "glm-5.3"
+}

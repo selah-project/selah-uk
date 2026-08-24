@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "А всяке плазуюче літаюче, в якого чотири ноги, — мерзота воно для вас.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "а всяке"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "плазуюче"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "літаюче"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "לו",
+      "gloss": "в якого"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чотири"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ноги"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "мерзота"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "воно"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для вас"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:29.644675365Z",
+  "model": "glm-5.3"
+}

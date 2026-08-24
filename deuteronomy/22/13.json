@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Коли чоловік візьме жінку, і ввійде до неї, і зненавидить її,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "візьме"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жінку"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "і ввійде"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "до неї"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "і зненавидить її"
+    }
+  ],
+  "timestamp": "2026-08-23T22:06:58.347537222Z",
+  "model": "glm-5.3"
+}

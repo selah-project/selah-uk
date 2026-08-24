@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Готує влітку хліб свій, збирає в жниву їжу свою.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "Готує"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "влітку"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "хліб свій"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "збирає"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "в жниву"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "їжу свою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:56.590321186Z",
+  "model": "glm-5.3"
+}

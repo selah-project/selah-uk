@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Яка вигода людині від усього її труду, яким вона трудиться під сонцем?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Яка"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "вигода"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "людині"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "від усього"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "її труду"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "яким вона трудиться"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцем"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:53.437809935Z",
+  "model": "glm-5.3"
+}

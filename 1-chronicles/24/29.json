@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Для Кіша — сини Кіша: Єрахмеель.",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "для Кіша"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Кіша"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Єрахмеель"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:14.062822199Z",
+  "model": "glm-5.3"
+}

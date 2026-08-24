@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Служіть ⟨את⟩ Яхве зі страхом і тіштеся з трепетом.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "служіть"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "зі страхом"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "і тіштеся"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "з трепетом"
+    }
+  ],
+  "timestamp": "2026-08-24T00:09:48.288510660Z",
+  "model": "glm-5.3"
+}

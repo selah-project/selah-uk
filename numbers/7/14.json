@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "одна долоня, десять ⟨шеклів⟩ золота, повна кадила.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "долоня"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одна"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десять"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золота"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "повна"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "кадила"
+    }
+  ],
+  "timestamp": "2026-08-23T21:48:47.521174576Z",
+  "model": "glm-5.3"
+}

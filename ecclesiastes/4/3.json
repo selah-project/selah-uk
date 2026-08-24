@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І кращий за обох їх — ⟨את⟩ той, що досі не був, хто не бачив ⟨את⟩ злого діла, що робиться під сонцем.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "І кращий"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "за обох їх"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "той, що досі не був"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "досі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "був"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "бачив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "злого діла"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "діло"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зле"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "робиться"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцем"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:59.445275473Z",
+  "model": "glm-5.3"
+}

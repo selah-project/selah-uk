@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "Хто цей, що затемнює пораду словами без пізнання?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Хто"
+    },
+    {
+      "surface": "זה",
+      "gloss": "цей"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "що затемнює"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "пораду"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "словами"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "пізнання"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:09.658790464Z",
+  "model": "glm-5.3"
+}

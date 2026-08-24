@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 40:9",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "І чи ⟨є⟩ рука, як-от Ель, у тебе, і громом, як-от Він, гримиш?",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "і чи"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "рука"
+    },
+    {
+      "surface": "כאל",
+      "gloss": "як-от Ель"
+    },
+    {
+      "surface": "לך",
+      "gloss": "у тебе"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "і громом"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "як-от Він"
+    },
+    {
+      "surface": "תרעם",
+      "gloss": "гримиш"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:05.941057330Z",
+  "model": "glm-5.3"
+}

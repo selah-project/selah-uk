@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "бо їхні ноги до злого біжать і поспішають проливати кров,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "їхні ноги"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "до злого"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "біжать"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "і поспішають"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "проливати"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кров"
+    }
+  ],
+  "timestamp": "2026-08-24T00:30:50.505962086Z",
+  "model": "glm-5.3"
+}

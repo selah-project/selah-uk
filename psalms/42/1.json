@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 42,
+  "translation": "Керівникові. Машкіль синів Кораха.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Машкіль"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кораха"
+    }
+  ],
+  "timestamp": "2026-08-24T00:15:22.175731845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Махлі — Елазар; і не було в нього синів.",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "Махлі"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Елазар"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "було"
+    },
+    {
+      "surface": "לו",
+      "gloss": "в нього"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синів"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:06.902794122Z",
+  "model": "glm-5.3"
+}

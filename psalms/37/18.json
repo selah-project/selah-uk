@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "Знає Яхве дні непорочних, і наділ їхній навіки буде.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "знає"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дні"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "непорочних"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "і наділ їхній"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "буде"
+    }
+  ],
+  "timestamp": "2026-08-24T00:14:52.900208313Z",
+  "model": "glm-5.3"
+}

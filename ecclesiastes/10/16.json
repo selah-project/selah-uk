@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Горе тобі, земле, коли царює в тобі юнак, а твої вельможі вранці їдять!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "горе"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земле"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "коли царює в тобі"
+    },
+    {
+      "surface": "נער",
+      "gloss": "юнак"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "а твої вельможі"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "вранці"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "їдять"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:59.399401758Z",
+  "model": "glm-5.3"
+}

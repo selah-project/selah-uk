@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 1:7",
+  "book": "amos",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І пошлю Я вогонь у мури Ази, і він пожере її палаци.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "І пошлю Я"
+    },
+    {
+      "surface": "אש",
+      "gloss": "вогонь"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "у мури"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Ази"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "і він пожере"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "її палаци"
+    }
+  ],
+  "timestamp": "2026-08-24T00:00:10.320621725Z",
+  "model": "glm-5.3"
+}

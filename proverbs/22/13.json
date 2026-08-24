@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Каже ледар: «Лев ⟨is⟩ надворі, посеред площ мене вбито буде».",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "каже"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ледар"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "лев"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "надворі"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "посеред"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "площ"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "мене вбито буде"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:23.756972896Z",
+  "model": "glm-5.3"
+}

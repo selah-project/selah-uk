@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І знайдеш ласку й добрий розум в очах Елогіма та людини.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "і знайдеш"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ласку"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "й розум"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добрий"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогіма"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "та людини"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:41.364997659Z",
+  "model": "glm-5.3"
+}

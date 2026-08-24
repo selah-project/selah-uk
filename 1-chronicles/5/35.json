@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "А Ахімаац породив ⟨את⟩ Азар'ю, а Азар'я породив ⟨את⟩ Йоханана.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "А Ахімаац"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Азар'ю"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азар'я"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "а Азар'я"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йоханана"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Йоханан"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:44.407577353Z",
+  "model": "glm-5.3"
+}

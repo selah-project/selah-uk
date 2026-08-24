@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 8:12",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Я, мудрість, мешкаю з обачністю, і знання задумів знаходжу.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрість"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "мешкаю"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "з обачністю"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "і знання"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "задумів"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "знаходжу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:44.301245664Z",
+  "model": "glm-5.3"
+}

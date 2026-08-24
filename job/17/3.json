@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 17:3",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Дай, прошу, запоруч мені з Тобою; хто він, що мою руку потисне?",
+  "tokens": [
+    {
+      "surface": "שימה",
+      "gloss": "дай"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу"
+    },
+    {
+      "surface": "ערבני",
+      "gloss": "запоруч мені"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "з Тобою"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "לידי",
+      "gloss": "мою руку"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "потисне"
+    }
+  ],
+  "timestamp": "2026-08-24T00:42:59.188869353Z",
+  "model": "glm-5.3"
+}

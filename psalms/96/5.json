@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 96,
+  "translation": "Бо всі боги народів — марні ідоли, а Яхве вчинив ⟨את⟩ небеса.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "боги"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народів"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "марні ідоли"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "а Яхве"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨את⟩ небеса"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "вчинив"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:04.325253441Z",
+  "model": "glm-5.3"
+}

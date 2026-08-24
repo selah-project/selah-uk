@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 9:7",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Ти — ⟨це⟩ Яхве, ⟨the⟩ Елогім, що обрав Аврама й вивів його з Уру Касдимського, і дав ⟨йому⟩ ім'я Аврагам.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨це⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨the⟩ Елогім"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "обрав"
+    },
+    {
+      "surface": "באברם",
+      "gloss": "Аврама"
+    },
+    {
+      "surface": "והוצאתו",
+      "gloss": "й вивів його"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "з Уру"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Касдимського"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "і дав"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "йому ім'я"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагам"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:52.284295836Z",
+  "model": "glm-5.3"
+}

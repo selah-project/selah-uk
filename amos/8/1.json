@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 8:1",
+  "book": "amos",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Так показав мені Адонай Яхве, і ось ⟨а⟩ кошик літощів.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "показав мені"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "і ось"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "кошик"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "літощів"
+    }
+  ],
+  "timestamp": "2026-08-24T00:01:07.561402915Z",
+  "model": "glm-5.3"
+}

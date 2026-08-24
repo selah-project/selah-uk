@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 94,
+  "translation": "Хто встане за мене проти злочинців? Хто стане за мене проти тих, хто чинить кривду?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Хто"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "встане"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мене"
+    },
+    {
+      "surface": "עם",
+      "gloss": "проти"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "злочинців"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Хто"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "стане"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мене"
+    },
+    {
+      "surface": "עם",
+      "gloss": "проти"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "хто чинить"
+    },
+    {
+      "surface": "און",
+      "gloss": "кривду"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:34.942337704Z",
+  "model": "glm-5.3"
+}

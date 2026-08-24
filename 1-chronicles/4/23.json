@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 4:23",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Вони — гончарі, і мешканці Нетаїму й Гедери; з царем у службі його жили вони там.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Вони"
+    },
+    {
+      "surface": "היוצרים",
+      "gloss": "гончарі"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "і мешканці"
+    },
+    {
+      "surface": "נטעים",
+      "gloss": "Нетаїму"
+    },
+    {
+      "surface": "וגדרה",
+      "gloss": "й Гедери"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царем"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "у службі його"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "жили"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:51.142281689Z",
+  "model": "glm-5.3"
+}

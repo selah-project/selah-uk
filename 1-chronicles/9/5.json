@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І від шілонців: Асайя первородний та сини його.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "І від"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "шілонців"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Асайя"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "первородний"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "та сини його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:30.252720948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 108,
+  "translation": "Пісня, псалом Давидові.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Пісня"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидові"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:10.170339247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І розповів слуга Їцхакові ⟨את⟩ всі справи, які він зробив.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "І розповів"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "слуга"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Їцхакові"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всі справи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "справи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "він зробив"
+    }
+  ],
+  "timestamp": "2026-08-23T21:14:58.044359568Z",
+  "model": "glm-5.3"
+}

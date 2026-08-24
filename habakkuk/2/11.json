@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Бо камінь зі стіни кликатиме, а балка з дерева відповідатиме ⟨їй⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камінь"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "зі стіни"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "кликатиме"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "а балка"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "з дерева"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "відповідатиме ⟨їй⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T00:04:34.199174644Z",
+  "model": "glm-5.3"
+}

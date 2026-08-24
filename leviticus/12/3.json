@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "І восьмого дня обрізана буде плоть його крайньої шкіри.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "І … дня"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "восьмого"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "обрізана буде"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плоть"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "його крайньої шкіри"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:57.238717272Z",
+  "model": "glm-5.3"
+}

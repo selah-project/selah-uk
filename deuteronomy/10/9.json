@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 10:9",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Тому не було для Леві частки й спадку з братами його: Яхве — ⟨є⟩ спадок його, як говорив Яхве, Елогім твій, йому.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "тому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "було"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "для Леві"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "частки"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "й спадку"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "братами його"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨він⟩"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "спадок його"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елогім твій"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    }
+  ],
+  "timestamp": "2026-08-23T22:03:41.270896762Z",
+  "model": "glm-5.3"
+}

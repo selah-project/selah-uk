@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І сказав Яхве до Моше: хто згрішив проти Мене — того Я витру з Моєї книги.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "згрішив"
+    },
+    {
+      "surface": "לי",
+      "gloss": "проти Мене"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "того Я витру"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "з Моєї книги"
+    }
+  ],
+  "timestamp": "2026-08-23T21:35:13.273510517Z",
+  "model": "glm-5.3"
+}

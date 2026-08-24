@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Сини Заккая — сімсот шістдесят.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "Заккая"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "сім"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "і шістдесят"
+    }
+  ],
+  "timestamp": "2026-08-24T01:09:48.942851686Z",
+  "model": "glm-5.3"
+}

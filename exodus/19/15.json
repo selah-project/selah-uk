@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І сказав до народу: будьте готові на три дні — не наближайтеся до жінки.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "היו",
+      "gloss": "будьте"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "готові"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "на три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дні"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "наближайтеся"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жінки"
+    }
+  ],
+  "timestamp": "2026-08-23T21:29:50.174842810Z",
+  "model": "glm-5.3"
+}

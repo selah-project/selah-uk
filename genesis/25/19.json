@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І ось породження Їцхака, сина Аврагама: Аврагам породив ⟨את⟩ Їцхака.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "І ось"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "породження"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Їцхака"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагама"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагам"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Їцхака"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Їцхака"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:24.376277481Z",
+  "model": "glm-5.3"
+}

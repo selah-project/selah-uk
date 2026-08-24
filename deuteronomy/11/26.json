@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Дивіться: я даю перед вами сьогодні благословення і прокляття,",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Дивіться"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даю"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "перед вами"
+    },
+    {
+      "surface": "היום",
+      "gloss": "сьогодні"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "благословення"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "і прокляття"
+    }
+  ],
+  "timestamp": "2026-08-23T22:03:16.263379989Z",
+  "model": "glm-5.3"
+}

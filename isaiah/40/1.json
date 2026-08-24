@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "Тіште, тіште народу Мій, скаже Елогім ваш.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "тіште"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "тіште"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народу Мій"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "скаже"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елогім ваш"
+    }
+  ],
+  "timestamp": "2026-08-23T23:15:37.308657171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Цей місяць — вам глава місяців, перший він вам для місяців року.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "місяць"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цей"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "глава"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "місяців"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "перший"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "для місяців"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "року"
+    }
+  ],
+  "timestamp": "2026-08-23T21:27:46.020419283Z",
+  "model": "glm-5.3"
+}

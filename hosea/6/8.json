@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 6:8",
+  "book": "hosea",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Ґілеад — місто діячів беззаконня, викрите слідами blood… слідами з крові.",
+  "tokens": [
+    {
+      "surface": "גלעד",
+      "gloss": "Ґілеад"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "місто"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "діячів"
+    },
+    {
+      "surface": "און",
+      "gloss": "беззаконня"
+    },
+    {
+      "surface": "עקבה",
+      "gloss": "викрите слідами"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "з крові"
+    }
+  ],
+  "timestamp": "2026-08-23T23:56:29.852243713Z",
+  "model": "glm-5.3"
+}

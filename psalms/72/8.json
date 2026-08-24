@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 72,
+  "translation": "І хай володіє від моря до моря, і від Річки до країв землі.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "і хай володіє"
+    },
+    {
+      "surface": "מים",
+      "gloss": "від моря"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "ים",
+      "gloss": "моря"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "і від Річки"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "країв"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:19:51.697389416Z",
+  "model": "glm-5.3"
+}

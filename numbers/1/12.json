@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "За Дана — Ахіезер, син Аммішаддая.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "За Дана"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "Ахіезер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "Аммішаддая"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:48.309371592Z",
+  "model": "glm-5.3"
+}

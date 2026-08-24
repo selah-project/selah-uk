@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 73,
+  "translation": "Бо заздрив я безумним, мир лихих бачивши.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "заздрив я"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "безумним"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "лихих"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "бачивши"
+    }
+  ],
+  "timestamp": "2026-08-24T00:19:37.953306895Z",
+  "model": "glm-5.3"
+}

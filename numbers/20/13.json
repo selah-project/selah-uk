@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 20:13",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Це води Меріви, де сварилися сини Ізраїля ⟨את⟩ Яхве, і Він освятився через них.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Це"
+    },
+    {
+      "surface": "מי",
+      "gloss": "води"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Меріви"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "де"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "сварилися"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "і Він освятився"
+    },
+    {
+      "surface": "בם",
+      "gloss": "через них"
+    }
+  ],
+  "timestamp": "2026-08-23T21:55:02.862605916Z",
+  "model": "glm-5.3"
+}

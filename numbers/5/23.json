@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І випи́ше коге́н ⟨את⟩ ці прокля́ття в кни́жці, і зітре́ їх у во́ди гі́ркі.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "і-випише"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ці прокляття"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "прокляття"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коген"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "в-книжці"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "і-зітре"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "מי",
+      "gloss": "води"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "гіркі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:30.576247251Z",
+  "model": "glm-5.3"
+}

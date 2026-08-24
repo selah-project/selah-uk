@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Серце радісне ликає ліку, а дух пригнічений сушить кістки.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "радісне"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ликає"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "ліку"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "а дух"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "пригнічений"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "сушить"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "кістки"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:04.983041798Z",
+  "model": "glm-5.3"
+}

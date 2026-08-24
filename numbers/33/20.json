@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 33:20",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І рушили вони з Ріммон-Перец, і станом стали в Лівні.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "מרמן",
+      "gloss": "з Ріммон"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "-Перец"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і станом стали"
+    },
+    {
+      "surface": "בלבנה",
+      "gloss": "в Лівні"
+    }
+  ],
+  "timestamp": "2026-08-23T21:58:58.578445074Z",
+  "model": "glm-5.3"
+}

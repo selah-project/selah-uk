@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І побачив я, що ⟨є⟩ перевага мудрості над глупотою, як перевага світла над темрявою.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "І побачив"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "що ⟨є⟩"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "перевага"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "мудрості"
+    },
+    {
+      "surface": "מן",
+      "gloss": "над"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "глупотою"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "як перевага"
+    },
+    {
+      "surface": "האור",
+      "gloss": "світла"
+    },
+    {
+      "surface": "מן",
+      "gloss": "над"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "темрявою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:51.689985450Z",
+  "model": "glm-5.3"
+}

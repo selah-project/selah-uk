@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 42,
+  "translation": "І сказали йому: ні, пане мій, а раби твої прийшли купити їжі.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "І сказали"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ні"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "панe мій"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "а раби твої"
+    },
+    {
+      "surface": "באו",
+      "gloss": "прийшли"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "купити"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "їжі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:22:10.441705340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 5:12",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "і скажеш: як ненавидів я настанову, і докір зневажило серце моє!",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "і скажеш"
+    },
+    {
+      "surface": "איך",
+      "gloss": "як"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ненавидів я"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "настанову"
+    },
+    {
+      "surface": "ותוכחת",
+      "gloss": "і докір"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "зневажило"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "серце моє"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:16.715916808Z",
+  "model": "glm-5.3"
+}

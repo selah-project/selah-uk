@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 43,
+  "translation": "І сказали: молю, пане мій, зійшли ми справді спершу купити їжі.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "і сказали"
+    },
+    {
+      "surface": "בי",
+      "gloss": "молю"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "пане мій"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "зійшли справді"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "ми зійшли"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "спершу"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "купити"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "їжі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:22:56.052028259Z",
+  "model": "glm-5.3"
+}

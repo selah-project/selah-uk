@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 2:25",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Кирьят-Яарім, Кефіри й Беерот — сімсот сорок три.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Кирьят"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "Яарім"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "Кефіри"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "й Беерот"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "сім"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "і сорок"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "і три"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:21.682898438Z",
+  "model": "glm-5.3"
+}

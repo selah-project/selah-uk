@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 20:29",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І поставив Ізраїль засідки проти ⟨את⟩ Ґів'ї навколо.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "і поставив"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїль"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "засідки"
+    },
+    {
+      "surface": "אל",
+      "gloss": "проти"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Ґів'ї"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "навколо"
+    }
+  ],
+  "timestamp": "2026-08-23T22:27:04.761637596Z",
+  "model": "glm-5.3"
+}

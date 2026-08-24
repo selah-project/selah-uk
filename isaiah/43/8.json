@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 43,
+  "translation": "Виведи народ сліпий, але з очима ⟨є⟩, і глухих, але з вухами ⟨є⟩ їм.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "Виведи"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "сліпий"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "і очима"
+    },
+    {
+      "surface": "יש",
+      "gloss": "є"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "і глухих"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "і вухами"
+    },
+    {
+      "surface": "למו",
+      "gloss": "їм"
+    }
+  ],
+  "timestamp": "2026-08-23T23:14:47.896869175Z",
+  "model": "glm-5.3"
+}

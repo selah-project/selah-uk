@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Коханий мій — мені, а я — йому; він той, що пасе ⟨серед⟩ лілей.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "коханий мій"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а я"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "той, що пасе"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "серед лілей"
+    }
+  ],
+  "timestamp": "2026-08-24T00:50:06.019387910Z",
+  "model": "glm-5.3"
+}

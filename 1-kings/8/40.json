@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 8:40",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "щоб боялися тебе всі дні, які вони живуть на лиці землі, яку ти дав батькам нашим.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "щоб"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "боялися тебе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дні"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "הם",
+      "gloss": "вони"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живуть"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лиці"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "землі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ти дав"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "батькам нашим"
+    }
+  ],
+  "timestamp": "2026-08-23T22:49:41.041301726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І промовив Елогім ⟨את⟩ усі слова ці, говорячи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "І промовив"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усі слова ці"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    }
+  ],
+  "timestamp": "2026-08-23T21:29:43.719215399Z",
+  "model": "glm-5.3"
+}

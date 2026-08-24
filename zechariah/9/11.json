@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Також ти — за кров заповіту твого я вислав полонених твоїх із ями, в якій немає води.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Також"
+    },
+    {
+      "surface": "את",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "за кров"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "заповіту твого"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "я вислав"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "полонених твоїх"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "із ями"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в якій"
+    }
+  ],
+  "timestamp": "2026-08-24T00:08:45.209315498Z",
+  "model": "glm-5.3"
+}

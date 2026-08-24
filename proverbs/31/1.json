@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Слова Лемуела, царя, — тяжіння, якому навчила його мати.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Слова"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Лемуела"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "משא",
+      "gloss": "тяжіння"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "якому"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "навчила"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "його мати"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:46.761653136Z",
+  "model": "glm-5.3"
+}

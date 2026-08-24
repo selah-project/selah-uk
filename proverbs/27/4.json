@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 27:4",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Лютість гніву і повінь ярости, та хто встоїть перед заздрістю?",
+  "tokens": [
+    {
+      "surface": "אכזריות",
+      "gloss": "лютість"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "гніву"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "і повінь"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ярости"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "та хто"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "встоїть"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "заздрістю"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:03.101259077Z",
+  "model": "glm-5.3"
+}

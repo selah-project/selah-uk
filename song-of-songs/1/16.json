@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Ось ти вродливий, мій коханий, і приємний, і ложе наше — зелене.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "ось ти"
+    },
+    {
+      "surface": "йфה",
+      "gloss": "вродливий"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "мій коханий"
+    },
+    {
+      "surface": "אף",
+      "gloss": "і"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "приємний"
+    },
+    {
+      "surface": "אף",
+      "gloss": "і"
+    },
+    {
+      "surface": "ערשנו",
+      "gloss": "ложе наше"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "зелене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:49.125067502Z",
+  "model": "glm-5.3"
+}

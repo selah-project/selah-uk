@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 52,
+  "translation": "Керівникові. Повчальна пісня Давида:",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Повчальна пісня"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:15.807259949Z",
+  "model": "glm-5.3"
+}

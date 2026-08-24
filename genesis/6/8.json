@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "А Нох знайшов ласку в очах Яхве.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "А Нох"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "знайшов"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ласку"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:22.275390778Z",
+  "model": "glm-5.3"
+}

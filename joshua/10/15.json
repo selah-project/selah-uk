@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І повернувся Єгошуа та ввесь Ісраель з ним до табору, у Ґілґал.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "І повернувся"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Єгошуа"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "та ввесь"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраель"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "з ним"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "табору"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "у Ґілґал"
+    }
+  ],
+  "timestamp": "2026-08-23T22:14:00.965939705Z",
+  "model": "glm-5.3"
+}

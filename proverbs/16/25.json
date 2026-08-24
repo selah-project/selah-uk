@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Є путь, що ⟨здається⟩ прямою перед обличчям мужа, а кінець її — шляхи смерті.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Є"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "путь"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "прямою"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед обличчям"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "а кінець її"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "шляхи"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерті"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:09.844071536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 41,
+  "translation": "Вороги мої кажуть зло про мене: «Коли він помре, й ім'я його згине?»",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "вороги мої"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "кажуть"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "לי",
+      "gloss": "про мене"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "він помре"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "й згине"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ім'я його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:15:26.338208116Z",
+  "model": "glm-5.3"
+}

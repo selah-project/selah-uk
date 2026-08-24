@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Азгада, тисяча двісті двадцять і два.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Азгада"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяча"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двісті"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцять"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "і два"
+    }
+  ],
+  "timestamp": "2026-08-24T01:57:14.880049347Z",
+  "model": "glm-5.3"
+}

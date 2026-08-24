@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 81,
+  "translation": "Але народ мій не послухав голосу мого, і Ізраїль не схотів мене:",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Але не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послушав"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народ мій"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "голосу мого"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "і Ізраїль"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "схотів"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:52.914143272Z",
+  "model": "glm-5.3"
+}

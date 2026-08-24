@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 18:29",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І додав Шаул боятися ⟨всі дні⟩ обличчя Давида ще, і був Шаул ворогом ⟨את⟩ Давида всі дні.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "І додав"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "לרא",
+      "gloss": "боятися"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "обличчя"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і був"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "איב",
+      "gloss": "ворогом"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давида"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дні"
+    }
+  ],
+  "timestamp": "2026-08-23T22:32:23.517430169Z",
+  "model": "glm-5.3"
+}

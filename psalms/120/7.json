@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 120,
+  "translation": "Я ⟨за⟩ миру, а як говорю — вони за війну.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "⟨за⟩ миру"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "а як"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "говорю"
+    },
+    {
+      "surface": "המה",
+      "gloss": "вони"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "за війну"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:08.622578801Z",
+  "model": "glm-5.3"
+}

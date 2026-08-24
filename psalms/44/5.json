@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 44,
+  "translation": "Ти ⟨це⟩ Цар мій, Елогіме; звелівай спасіння Яакову.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨це⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Цар мій"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогіме"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "звелівай"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "спасіння"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакову"
+    }
+  ],
+  "timestamp": "2026-08-24T00:15:21.089949743Z",
+  "model": "glm-5.3"
+}

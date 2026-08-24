@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "daniel 2:36",
+  "book": "daniel",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Це той сон, а тлумачення його ми скажемо перед царем.",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "Це"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "той сон"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "а тлумачення його"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "ми скажемо"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "перед"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царем"
+    }
+  ],
+  "timestamp": "2026-08-24T00:59:53.652138036Z",
+  "model": "glm-5.3"
+}

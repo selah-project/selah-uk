@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Залізо з пороху беруть, а камінь топлять у мідь.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "залізо"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "з пороху"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "беруть"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "а камінь"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "топлять"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "у мідь"
+    }
+  ],
+  "timestamp": "2026-08-24T00:45:03.888154163Z",
+  "model": "glm-5.3"
+}

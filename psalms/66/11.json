@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 66,
+  "translation": "Ти ввів нас у сітку, поклав Ти тиск на наші стегна.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "Ти ввів нас"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "у сітку"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "поклав Ти"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "тиск"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "на наші стегна"
+    }
+  ],
+  "timestamp": "2026-08-24T00:18:53.457008753Z",
+  "model": "glm-5.3"
+}

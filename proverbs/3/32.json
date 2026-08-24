@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Бо мерзота для Яхве — викривлений, а з прямими — ⟨את⟩ порада його.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "мерзота"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "нלוז",
+      "gloss": "викривлений"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "прямих"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "порада його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:00.177198959Z",
+  "model": "glm-5.3"
+}

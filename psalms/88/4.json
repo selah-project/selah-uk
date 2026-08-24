@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 88,
+  "translation": "Бо наситилась серед лихих моє життя, і дні мої Шеолу досягли.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "наситилась"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "серед лихих"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "моє життя"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "і дні мої"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шеолу"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "досягли"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:08.331635982Z",
+  "model": "glm-5.3"
+}

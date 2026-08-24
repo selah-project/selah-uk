@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 1:15",
+  "book": "micah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Ще приведу тобі спадкоємця, мешканко Маreshі: аж до Адулама прийде слава Ісраїля.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "הירש",
+      "gloss": "того, хто заволодіє"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "приведу"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "мешканко"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Маreshі"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Адулама"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "прийде"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраїля"
+    }
+  ],
+  "timestamp": "2026-08-24T00:03:00.287938800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "ви́палку за ви́палку, ра́ну за ра́ну, при́шем за при́шем.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "ви́палку"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "ви́палку"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ра́ну"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ра́ну"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "при́шем"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "при́шем"
+    }
+  ],
+  "timestamp": "2026-08-23T21:31:38.466268568Z",
+  "model": "glm-5.3"
+}

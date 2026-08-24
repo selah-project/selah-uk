@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Амон, син його, Йошіягу, син його.",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "Амон"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Йошіягу"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:10.573472180Z",
+  "model": "glm-5.3"
+}

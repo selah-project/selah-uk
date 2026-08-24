@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І сказав: назви ім'я його Ло-Аммi, бо ви не народ Мій, і Я не буду ⟨для⟩ вас.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "назви"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ім'я його"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ло-Аммі"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народ Мій"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "і Я"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "буду"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    }
+  ],
+  "timestamp": "2026-08-23T23:56:17.751132265Z",
+  "model": "glm-5.3"
+}

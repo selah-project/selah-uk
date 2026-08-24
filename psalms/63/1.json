@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 63,
+  "translation": "Мізмор Давіда, коли він був у пустелі Єгудеї.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Мізмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давіда"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "коли він був"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "у пустелі"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгудеї"
+    }
+  ],
+  "timestamp": "2026-08-24T00:18:18.205513892Z",
+  "model": "glm-5.3"
+}

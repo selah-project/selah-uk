@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "і скажете так: ⟨до⟩ життя! і ти — мир, і дім твій — мир, і все, що твоє, — мир.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "і скажете"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "життю"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "і ти"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "і дім твій"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і все"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לך",
+      "gloss": "твоє"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    }
+  ],
+  "timestamp": "2026-08-23T22:34:44.529750272Z",
+  "model": "glm-5.3"
+}

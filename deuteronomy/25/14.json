@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Нехай не буде в тобі в домі твоєму ефа й ефа, велика й мала.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "в тобі"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "в домі твоєму"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "єфа"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "й ефа"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "велика"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "й мала"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:23.200131895Z",
+  "model": "glm-5.3"
+}

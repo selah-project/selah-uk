@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Краща докір викритий, ніж любов прихована.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "Краща"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "докір"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "викритий"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "ніж любов"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "прихована"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:36.070699561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І покладеш ⟨את⟩ капорет на ковчег зверху, і в ковчег даси ⟨את⟩ свідоцтво, яке я дам тобі.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "і покладеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "капорет"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "капорет"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "зверху"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і в"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "даси"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свідоцтво"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "свідоцтво"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "дам"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тобі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:32:40.736569276Z",
+  "model": "glm-5.3"
+}

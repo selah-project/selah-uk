@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Проклятий той, хто лягає з будь-якою твариною, — і скаже ввесь народ: Амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Проклятий"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "той, хто лягає"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "כל",
+      "gloss": "будь-якою"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "твариною"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "і скаже"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ввесь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:43.994557208Z",
+  "model": "glm-5.3"
+}

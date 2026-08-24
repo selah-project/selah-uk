@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "А Ештон породив ⟨את⟩ Бейт-Рафу, і ⟨את⟩ Пасеаха, і ⟨את⟩ Техінну, батька Ір-Нахаша; це — мужі Реки.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "А Ештон"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бейт-Рафу"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Рафу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Пасеаха"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Пасеаха"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Техінну"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Техінну"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батька"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ір-"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Нахаша"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "це —"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мужі"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Реки"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:45.144187175Z",
+  "model": "glm-5.3"
+}

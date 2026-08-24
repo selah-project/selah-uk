@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 17:17",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І не помножить собі жінок, і не відхилиться серце його, а срібла і золота не помножить собі дуже.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "помножить"
+    },
+    {
+      "surface": "לו",
+      "gloss": "собі"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "жінок"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "відхилиться"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "серце його"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "а срібла"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "і золота"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "помножить"
+    },
+    {
+      "surface": "לו",
+      "gloss": "собі"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "дуже"
+    }
+  ],
+  "timestamp": "2026-08-23T22:05:39.594820215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 13:26",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Так і Я здер твої поли на твоє обличчя, і видно твій ганьблений срам.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "так і"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "здер"
+    },
+    {
+      "surface": "שוליך",
+      "gloss": "твої поли"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "твоє обличчя"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "і видно"
+    },
+    {
+      "surface": "קלונך",
+      "gloss": "твій срам"
+    }
+  ],
+  "timestamp": "2026-08-23T23:26:47.205529399Z",
+  "model": "glm-5.3"
+}

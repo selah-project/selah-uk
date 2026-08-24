@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 105,
+  "translation": "Сказав — і прийшла сарана, і гусінь, і без числа.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Сказав"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "і прийшла"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "сарана"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "і гусінь"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "і немає"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "числа"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:32.775640507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Слово, яке сталося до Єрміїгу від ⟨את⟩ Яхве, говорячи:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "היה",
+      "gloss": "сталося"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Єрміїгу"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    }
+  ],
+  "timestamp": "2026-08-23T23:28:55.898700911Z",
+  "model": "glm-5.3"
+}

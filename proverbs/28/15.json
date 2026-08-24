@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Ревучий лев і ведмідь хижий — правитель нечестивий над народом убогим.",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "лев"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "ревучий"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "і ведмідь"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "хижий"
+    },
+    {
+      "surface": "משל",
+      "gloss": "правитель"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "нечестивий"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народом"
+    },
+    {
+      "surface": "דל",
+      "gloss": "убогим"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:29.679077261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 107,
+  "translation": "Бо противилися словам Еля, і раду Ельйона зневажили;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "противилися"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "словам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Еля"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "і раду"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ельйона"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "зневажили"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:38.007376202Z",
+  "model": "glm-5.3"
+}

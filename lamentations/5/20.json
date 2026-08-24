@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Чому навіки забуваєш нас, покидаєш нас на довгі дні?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "чому"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "забуваєш нас"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "покидаєш нас"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "на довгі"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дні"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:59.843616948Z",
+  "model": "glm-5.3"
+}

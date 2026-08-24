@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 31:28",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "бо це теж провина судова, бо я заперечував Еля, ⟨Того⟩ зверху.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "теж"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "це"
+    },
+    {
+      "surface": "עון",
+      "gloss": "провина"
+    },
+    {
+      "surface": "פלילי",
+      "gloss": "судова"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כחשתי",
+      "gloss": "я заперечував"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Еля"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "зверху"
+    }
+  ],
+  "timestamp": "2026-08-24T00:45:43.777911381Z",
+  "model": "glm-5.3"
+}

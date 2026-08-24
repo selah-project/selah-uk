@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 8:9",
+  "book": "daniel",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І з однієї з них вийшов один ріг, маленький, і виріс надміру до півдня, і до сходу, і до краю краси.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "і з"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "однієї"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "з них"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "вийшов"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ріг"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "один"
+    },
+    {
+      "surface": "מצעירה",
+      "gloss": "маленький"
+    },
+    {
+      "surface": "ותגדל",
+      "gloss": "і виріс"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "надміру"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "півдня"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і до"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "сходу"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і до"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "краю краси"
+    }
+  ],
+  "timestamp": "2026-08-24T01:02:01.770396440Z",
+  "model": "glm-5.3"
+}

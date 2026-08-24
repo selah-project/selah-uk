@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 9:2",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Нарід великий і високий, сини Анакім, яких ти знаєш, і ти чув ⟨про них⟩: хто встоїть перед синами Анака?",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "Нарід"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "й високий"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ענקים",
+      "gloss": "Анакім"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яких"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаєш"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "і ти"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "чув"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "встане"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синами"
+    },
+    {
+      "surface": "ענק",
+      "gloss": "Анака"
+    }
+  ],
+  "timestamp": "2026-08-23T22:03:13.508124866Z",
+  "model": "glm-5.3"
+}

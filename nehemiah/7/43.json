@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "nehemiah 7:43",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Левіти: сини Єшуї, Кадміелові, синів Годавʼї: сімдесят ⟨і⟩ чотири.",
+  "tokens": [
+    {
+      "surface": "הלוים",
+      "gloss": "левіти"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Єшуї"
+    },
+    {
+      "surface": "לקדמיאל",
+      "gloss": "Кадміелові"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "להודוה",
+      "gloss": "Годавʼї"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "сімдесят"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "і чотири"
+    }
+  ],
+  "timestamp": "2026-08-24T01:09:40.932492832Z",
+  "model": "glm-5.3"
+}

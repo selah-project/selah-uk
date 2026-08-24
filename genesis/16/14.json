@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 16:14",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Тому назвали ⟨криницю⟩ Беер-Лахаї-Рої; ось вона між Кадешем і між Бередом.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "тому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "через це"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "назвали"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "⟨криницю⟩"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беер"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Лахаї"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Рої"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "בין",
+      "gloss": "між"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кадешем"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "і між"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "Бередом"
+    }
+  ],
+  "timestamp": "2026-08-23T21:12:11.494018841Z",
+  "model": "glm-5.3"
+}

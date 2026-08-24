@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 121,
+  "translation": "Поміч моя — від Яхве, Творця небес і землі.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Поміч моя"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "від"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Творця"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "і землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:13.209802015Z",
+  "model": "glm-5.3"
+}

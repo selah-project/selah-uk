@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Сини Леві: Гершон, Кегат і Мерарі.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леві"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершон"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кегат"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "і Мерарі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:09.631148256Z",
+  "model": "glm-5.3"
+}

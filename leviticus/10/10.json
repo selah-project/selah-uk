@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "і щоб розрізняти між святим і між звичайним, і між нечистим і між чистим,",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "і щоб розрізняти"
+    },
+    {
+      "surface": "בין",
+      "gloss": "між"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "святим"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "і між"
+    },
+    {
+      "surface": "החל",
+      "gloss": "звичайним"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "і між"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "нечистим"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "і між"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "чистим"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:40.836806494Z",
+  "model": "glm-5.3"
+}

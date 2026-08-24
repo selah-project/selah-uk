@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Тривога в серці мужа пригнічує ⟨його⟩, а добре слово тішить ⟨його⟩.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "тривога"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "в серці"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "пригнічує"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "а слово"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добре"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "тішить"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:23.160997183Z",
+  "model": "glm-5.3"
+}

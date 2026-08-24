@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 9:23",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І вони, і їхні сини — над брамами дому Яхве, дому намету, на варти.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "І вони"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "і їхні сини"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "брамами"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "намету"
+    },
+    {
+      "surface": "למשמרות",
+      "gloss": "на варти"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:36.310134922Z",
+  "model": "glm-5.3"
+}

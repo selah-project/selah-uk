@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Коли виходитиме табір проти ворогів твоїх, то стережися від усякої речі злої.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Коли"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "виходитиме"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "табір"
+    },
+    {
+      "surface": "על",
+      "gloss": "проти"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ворогів твоїх"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "то стережися"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "від усякої"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "речі"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злої"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:08.271336154Z",
+  "model": "glm-5.3"
+}

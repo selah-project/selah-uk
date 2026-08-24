@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 39:23",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 39,
+  "translation": "Над ним гуде сагайдак, блиск списа й дротика.",
+  "tokens": [
+    {
+      "surface": "עליו",
+      "gloss": "над ним"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "гуде"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "сагайдак"
+    },
+    {
+      "surface": "להב",
+      "gloss": "блиск"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "списа"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "й дротика"
+    }
+  ],
+  "timestamp": "2026-08-24T01:55:36.467381847Z",
+  "model": "glm-5.3"
+}

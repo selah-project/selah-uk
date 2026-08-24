@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 50,
+  "translation": "Знаю всіх птахів гір, і жваве поля — зо Мною.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Знаю"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всіх"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "птахів"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "гір"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "і жваве"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "поля"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "зо Мною"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:43.919343906Z",
+  "model": "glm-5.3"
+}

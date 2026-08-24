@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "А омер ⟨є⟩ десята частина ейфи.",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "А омер"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "десята частина"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ейфи"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨є⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T21:30:31.030718732Z",
+  "model": "glm-5.3"
+}

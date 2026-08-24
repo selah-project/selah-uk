@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І візьме коген із логу олії, і виллє на долоню ліву когена.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "І візьме"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коген"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "із логу"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "олії"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "і виллє"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כף",
+      "gloss": "долоню"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "когена"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ліву"
+    }
+  ],
+  "timestamp": "2026-08-23T21:42:49.385770277Z",
+  "model": "glm-5.3"
+}

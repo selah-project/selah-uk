@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Усе дерево твоє та плід землі твоєї оволодіє сарана-целацал.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Усе"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "дерево твоє"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "та плід"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "землі твоєї"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "оволодіє"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "сарана-целацал"
+    }
+  ],
+  "timestamp": "2026-08-23T22:08:14.933931506Z",
+  "model": "glm-5.3"
+}

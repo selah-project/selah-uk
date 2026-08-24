@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "і Їфтаг, і Ашна, і Неців —",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "і Їфтаг"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "і Ашна"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "і Неців"
+    }
+  ],
+  "timestamp": "2026-08-24T01:39:51.601552412Z",
+  "model": "glm-5.3"
+}

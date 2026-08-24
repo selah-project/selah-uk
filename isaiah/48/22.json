@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "Немає миру, — сказав Яхве, — для нечестивих.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Немає"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "миру"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "для нечестивих"
+    }
+  ],
+  "timestamp": "2026-08-23T23:15:51.594764951Z",
+  "model": "glm-5.3"
+}

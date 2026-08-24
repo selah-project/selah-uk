@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 1:12",
+  "book": "amos",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І пошлю вогонь на Теман, і він пожере палаци Боцри.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "І-пошлю"
+    },
+    {
+      "surface": "אש",
+      "gloss": "вогонь"
+    },
+    {
+      "surface": "בתימן",
+      "gloss": "на-Теман"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "і-пожере"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "палаци"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "Боцри"
+    }
+  ],
+  "timestamp": "2026-08-23T23:59:56.191388909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 115,
+  "translation": "Не нам, Яхве, не нам, а ⟨для⟩ імені Твого дай славу, за хесед Твій, за правду Твою.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "а"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "для імені Твого"
+    },
+    {
+      "surface": "תן",
+      "gloss": "дай"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славу"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хесед Твій"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "правду Твою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:46.909112434Z",
+  "model": "glm-5.3"
+}

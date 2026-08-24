@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 31:24",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Сорочки зробила вона й продала, і пояс віддала купцеві.",
+  "tokens": [
+    {
+      "surface": "סדין",
+      "gloss": "сорочки"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "зробила"
+    },
+    {
+      "surface": "ותמכר",
+      "gloss": "й продала"
+    },
+    {
+      "surface": "וחגור",
+      "gloss": "і пояс"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "віддала"
+    },
+    {
+      "surface": "לכנעני",
+      "gloss": "купцеві"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:40.550698913Z",
+  "model": "glm-5.3"
+}

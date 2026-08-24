@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 25:10",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Третій Заккур, сини його і брати його — дванадцять.",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "Третій"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Заккур"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "сини його"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "і брати його"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дванадцять"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(десять)"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:28.950560293Z",
+  "model": "glm-5.3"
+}

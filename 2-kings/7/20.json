@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І сталося йому так, і потоптали ⟨את⟩ нього народ у брамі, і він помер.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "і потоптали"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "його"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "у брамі"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "і помер"
+    }
+  ],
+  "timestamp": "2026-08-23T22:58:47.682140834Z",
+  "model": "glm-5.3"
+}

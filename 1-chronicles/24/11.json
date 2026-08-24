@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Дев'ятий — Єшуа, десятий — Шханьягу.",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "Єшуа"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "дев'ятий"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "Шханьягу"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "десятий"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:20.697374242Z",
+  "model": "glm-5.3"
+}

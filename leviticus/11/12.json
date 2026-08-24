@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Усе, що не має в собі плавців і луски в водах, — мерзота воно для вас.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "אין",
+      "gloss": "не має"
+    },
+    {
+      "surface": "לו",
+      "gloss": "у нього"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "плавців"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "і луски"
+    },
+    {
+      "surface": "במים",
+      "gloss": "у водах"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "мерзота"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "воно"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для вас"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:39.514562133Z",
+  "model": "glm-5.3"
+}

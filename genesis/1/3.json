@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І сказав Елогім: нехай буде світло; і сталося світло.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "нехай буде"
+    },
+    {
+      "surface": "אור",
+      "gloss": "світло"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і сталося"
+    },
+    {
+      "surface": "אור",
+      "gloss": "світло"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:52.252751671Z",
+  "model": "glm-5.3"
+}

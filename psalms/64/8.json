@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 64,
+  "translation": "І вразить їх Елогім стрілою — раптово; сталися рани їхні.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "і вразить їх"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "стрілою"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "раптово"
+    },
+    {
+      "surface": "היו",
+      "gloss": "сталися"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "рани їхні"
+    }
+  ],
+  "timestamp": "2026-08-24T00:19:01.903461690Z",
+  "model": "glm-5.3"
+}

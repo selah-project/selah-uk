@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 13:1",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Ось, усе це бачило око моє, чуло вухо моє, і зрозуміло ⟨це⟩.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ось"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "бачило"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "око моє"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "чуло"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "вухо моє"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "і зрозуміло"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨це⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T00:41:44.485229431Z",
+  "model": "glm-5.3"
+}

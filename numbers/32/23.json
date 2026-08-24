@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 32:23",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "А якщо не зробите так — ось, згрішили ви проти Яхве, і знайте гріх ваш, що знайде вас ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А якщо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "зробите"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "згрішили ви"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "проти Яхве"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "і знайте"
+    },
+    {
+      "surface": "חטאתכם",
+      "gloss": "гріх ваш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "знайде"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    }
+  ],
+  "timestamp": "2026-08-23T21:58:45.788632076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І помер Йовав, і зацарював замість нього Хушам з землі ⟨the⟩ теманитян.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "І помер"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "і зацарював"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "замість нього"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "Хушам"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "з землі"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "теманитян"
+    }
+  ],
+  "timestamp": "2026-08-24T01:58:20.275466227Z",
+  "model": "glm-5.3"
+}

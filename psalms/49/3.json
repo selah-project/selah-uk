@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 49,
+  "translation": "Також сини людські, також сини мужів, разом багатий і убогий.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Також"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людські"
+    },
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужів"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "разом"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "багатий"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "і убогий"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:18.660190346Z",
+  "model": "glm-5.3"
+}

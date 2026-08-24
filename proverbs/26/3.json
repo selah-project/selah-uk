@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Батіг для коня, вудила для осла, і різка для спини глупців.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "батіг"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "для коня"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "вудила"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "для осла"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "і різка"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "для спини"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "глупців"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:09.795151357Z",
+  "model": "glm-5.3"
+}

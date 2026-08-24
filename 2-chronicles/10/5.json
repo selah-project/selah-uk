@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І сказав їм: ще три дні — і поверніться до мене. І пішов народ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дні"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "і поверніться"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "І пішов"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-08-24T01:25:15.318380194Z",
+  "model": "glm-5.3"
+}

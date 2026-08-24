@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 44,
+  "translation": "Ранок засяяв, і люди були відпущені, вони та осли їхні.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "Ранок"
+    },
+    {
+      "surface": "אור",
+      "gloss": "засяяв"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "і люди"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "були відпущені"
+    },
+    {
+      "surface": "המה",
+      "gloss": "вони"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "та осли їхні"
+    }
+  ],
+  "timestamp": "2026-08-23T21:22:53.485407371Z",
+  "model": "glm-5.3"
+}

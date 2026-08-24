@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 47:15",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 47,
+  "translation": "І це кордон землі: на боці північному — від ⟨the⟩ Великого моря, шлях Хетлон, до входу Цедад.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "І це"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "кордон"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "на боці"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "північному"
+    },
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨the⟩ моря"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "Великого"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "шлях"
+    },
+    {
+      "surface": "חתלן",
+      "gloss": "Хетлон"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "до входу"
+    },
+    {
+      "surface": "צדדה",
+      "gloss": "Цедад"
+    }
+  ],
+  "timestamp": "2026-08-23T23:55:34.158108189Z",
+  "model": "glm-5.3"
+}

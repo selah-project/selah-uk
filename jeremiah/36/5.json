@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "І наказав Їрмєягу ⟨את⟩ Баруха, кажучи: я затриманий, не можу ввійти в дім Яхве.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "І наказав"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Їрмєягу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Баруха"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Баруха"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "затриманий"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "можу"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ввійти"
+    },
+    {
+      "surface": "בית",
+      "gloss": "в дім"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:33:52.557414237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І побачить коен ⟨את⟩ ураження, і замкне ⟨את⟩ ураження на сім днів.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "І побачить"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ураження"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ураження"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "і замкне"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ураження"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ураження"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "сім"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    }
+  ],
+  "timestamp": "2026-08-23T21:41:59.881430811Z",
+  "model": "glm-5.3"
+}

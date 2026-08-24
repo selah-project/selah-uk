@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І вчиню в гніві та в люті помсту ⟨את⟩ народам, що не послухали.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "І вчиню"
+    },
+    {
+      "surface": "באף",
+      "gloss": "в гніві"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "та в люті"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "помсту"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народам"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "послушали"
+    }
+  ],
+  "timestamp": "2026-08-24T00:02:27.759473976Z",
+  "model": "glm-5.3"
+}

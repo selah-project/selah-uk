@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 22:14",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "І встали князі Моава, і прийшли до Балака, і сказали: Відмовив Білам іти з нами.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "І встали"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "князі"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "і прийшли"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балака"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "і сказали"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "Відмовив"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Білам"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "іти"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "з нами"
+    }
+  ],
+  "timestamp": "2026-08-24T01:38:56.359729511Z",
+  "model": "glm-5.3"
+}

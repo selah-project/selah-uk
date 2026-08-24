@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Азмавету — сорок і два.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Азмавету"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "і два"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:09.446331914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 16:16",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І зробив Урія-священник усе, що заповів цар Ахаз.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "і зробив"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урія"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "священник"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    }
+  ],
+  "timestamp": "2026-08-23T23:01:26.064487853Z",
+  "model": "glm-5.3"
+}

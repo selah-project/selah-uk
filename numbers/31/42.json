@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "А від половини синів Ізраїлю, яку поділив Моше від людей-воїнів,",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "А від половини"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлю"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "поділив"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "людей"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "воїнів"
+    }
+  ],
+  "timestamp": "2026-08-23T21:57:54.453535262Z",
+  "model": "glm-5.3"
+}

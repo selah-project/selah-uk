@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 33:43",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І рушили від Пунона, і стали табором в Овот.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "מפונן",
+      "gloss": "від Пунона"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і стали табором"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "в Овот"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:17.222920743Z",
+  "model": "glm-5.3"
+}

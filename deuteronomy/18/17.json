@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І сказав Яхве мені: добре сказали те, що сказали.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "добре сказали"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "сказали"
+    }
+  ],
+  "timestamp": "2026-08-23T22:05:30.542269718Z",
+  "model": "glm-5.3"
+}

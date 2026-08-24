@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Усяке місце, на яке ступить підошва вашої ноги, — вам Я дав його, як Я говорив до Моше.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "усяке"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "місце"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "ступить"
+    },
+    {
+      "surface": "כף",
+      "gloss": "підошва"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "вашої ноги"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на нього"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "Я дав його"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "Я говорив"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-23T22:12:17.682111419Z",
+  "model": "glm-5.3"
+}

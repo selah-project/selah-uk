@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 24:29",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "А в Ривки ⟨є⟩ брат, і ймення його Лаван; і побіг Лаван до чоловіка надвір, до джерела.",
+  "tokens": [
+    {
+      "surface": "ולרבקה",
+      "gloss": "а в Ривки"
+    },
+    {
+      "surface": "אח",
+      "gloss": "брат"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "і ймення його"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "і побіг"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "чоловіка"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "надвір"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "העין",
+      "gloss": "джерела"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:48.031291097Z",
+  "model": "glm-5.3"
+}

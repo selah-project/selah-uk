@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 5:4",
+  "book": "amos",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Бо так сказав Яхве дому Ізраїлю: шукайте Мене — і живіть.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлю"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "шукайте Мене"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "і живіть"
+    }
+  ],
+  "timestamp": "2026-08-24T00:01:46.501264458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Ім'я першого — Пішон: ⟨це⟩ ⟨та⟩, що обіймає ⟨את⟩ всю землю Хавіла, де ⟨є⟩ золото.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Ім'я"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "першого"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Пішон"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨це⟩ ⟨та⟩"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "що обіймає"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всю землю Хавіла"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Хавіла"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "де"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨там⟩"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "золото"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:48.091038572Z",
+  "model": "glm-5.3"
+}

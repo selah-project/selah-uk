@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 46,
+  "translation": "Ревуть народи, хитаються царства; ⟨він⟩ дав голос свій — тане земля.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "Ревуть"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "хитаються"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "царства"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дав"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "голос свій"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "тане"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земля"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:00.857053469Z",
+  "model": "glm-5.3"
+}

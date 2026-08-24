@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 33:32",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І рушили з Бней-Яакана, і таборили у Гор-аГідгад.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "з Бней"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "Яакана"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і таборили"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "у Гор"
+    },
+    {
+      "surface": "הגדגד",
+      "gloss": "аГідгад"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:14.399869473Z",
+  "model": "glm-5.3"
+}

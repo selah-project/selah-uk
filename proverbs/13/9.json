@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Світло праведних радіє, а лампа нечестивих догоряє.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "світло"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведних"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "радіє"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "а лампа"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивих"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "догоряє"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:18.971539741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Чарівниці не дай жити.",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "чарівниці"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "дай жити"
+    }
+  ],
+  "timestamp": "2026-08-23T21:31:10.603376422Z",
+  "model": "glm-5.3"
+}

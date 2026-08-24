@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 13:24",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Те місце назвали долиною Ешколу — через гроно, яке зрізали звідти сини Ісраелю.",
+  "tokens": [
+    {
+      "surface": "למקום",
+      "gloss": "те місце"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "те"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "назвали"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "долиною"
+    },
+    {
+      "surface": "אשכול",
+      "gloss": "Ешколу"
+    },
+    {
+      "surface": "על",
+      "gloss": "через"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "через"
+    },
+    {
+      "surface": "האשכול",
+      "gloss": "гроно"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "зрізали"
+    },
+    {
+      "surface": "משם",
+      "gloss": "звідти"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраелю"
+    }
+  ],
+  "timestamp": "2026-08-23T21:51:35.651431163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 95,
+  "translation": "Бо Ель великий ⟨є⟩ Яхве, і Цар великий над усіма богами",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "і Цар"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіма"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богами"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:32.827075976Z",
+  "model": "glm-5.3"
+}

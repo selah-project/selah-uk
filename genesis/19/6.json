@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І вийшов Лот до них ⟨до⟩ входу, і двері зачинив за собою.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "і вийшов"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "до них"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лот"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "⟨до⟩ входу"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "і двері"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "зачинив"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "за собою"
+    }
+  ],
+  "timestamp": "2026-08-24T01:36:08.752165900Z",
+  "model": "glm-5.3"
+}

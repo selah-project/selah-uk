@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 3:34",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Кепкує ⟨він⟩ з кепкунів, а приниженим дає ласку.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "⟨якщо⟩ \/ справді"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "з кепкунів"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "кепкує"
+    },
+    {
+      "surface": "ולעניים",
+      "gloss": "а приниженим"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дає"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ласку"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:43.985238270Z",
+  "model": "glm-5.3"
+}

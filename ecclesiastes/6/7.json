@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Уся праця людини — для її рота, і все ж насита не наповнюється.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "уся"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "праця"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людини"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "для її рота"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "і все ж"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "насита"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "наповнюється"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:13.395563427Z",
+  "model": "glm-5.3"
+}

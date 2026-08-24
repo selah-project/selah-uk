@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Немає, як Ти, Яхве; великий Ти, і велике Ім'я Твоє в могутності.",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "як Ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "і велике"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Ім'я Твоє"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "в могутності"
+    }
+  ],
+  "timestamp": "2026-08-23T23:25:27.815728896Z",
+  "model": "glm-5.3"
+}

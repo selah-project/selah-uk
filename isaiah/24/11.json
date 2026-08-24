@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 24:11",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Крик про вино на вулицях; Petersпомеркла всяка радість, забрано веселість землі.",
+  "tokens": [
+    {
+      "surface": "צוחה",
+      "gloss": "крик"
+    },
+    {
+      "surface": "על",
+      "gloss": "про"
+    },
+    {
+      "surface": "היין",
+      "gloss": "вино"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "на вулицях"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "померкла"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяка"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "радість"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "забрано"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "веселість"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:10:22.055214497Z",
+  "model": "glm-5.3"
+}

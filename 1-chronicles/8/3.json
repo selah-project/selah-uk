@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І були сини в Бели: Адар, і Гера, і Авігу́д.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "І були"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сини"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "в Бели"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Адар"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "і Гера"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "і Авігу́д"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:25.108824867Z",
+  "model": "glm-5.3"
+}

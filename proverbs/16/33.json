@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "У пазуху кидається ⟨את⟩ жереб, та від Яхве — уся його вирока.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "у пазуху"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "кидається"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жереб"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "жереб"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "та від Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "уся"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "його вирока"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:24.973725885Z",
+  "model": "glm-5.3"
+}

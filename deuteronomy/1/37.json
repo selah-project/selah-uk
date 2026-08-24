@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Також на мене розгнівався Яхве через вас, кажучи: також ти не ввійдеш туди.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "בי",
+      "gloss": "на мене"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "розгнівався"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "через вас"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ввійдеш"
+    },
+    {
+      "surface": "שם",
+      "gloss": "туди"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:20.721796023Z",
+  "model": "glm-5.3"
+}

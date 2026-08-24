@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "У ті дні я, Даніель, був у жалобі три тижні днів.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "У дні"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ті"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даніель"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "був"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "у жалобі"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "тижні"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    }
+  ],
+  "timestamp": "2026-08-24T01:02:54.617543440Z",
+  "model": "glm-5.3"
+}

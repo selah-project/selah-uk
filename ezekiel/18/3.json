@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Живий Я, — промовляє Адонай Яхве, — якщо буде вам ще приказувати ⟨the⟩ прислів'я це в Їсраейлі.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Живий"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "промовляє"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "משל",
+      "gloss": "приказувати"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "⟨the⟩ прислів'я"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "це"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Їсраейлі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:45:08.816537239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Пароша — дві тисячі сто сімдесят два.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Пароша"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "дві тисячі"
+    },
+    {
+      "surface": "мאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "сімдесят"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "два"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:24.489412681Z",
+  "model": "glm-5.3"
+}

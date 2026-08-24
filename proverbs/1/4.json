@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "щоб дати простакам хитрість, юнакові — знання й розважливість:",
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "щоб дати"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "простакам"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "хитрість"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "юнакові"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знання"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "і розважливість"
+    }
+  ],
+  "timestamp": "2026-08-24T00:30:40.189629716Z",
+  "model": "glm-5.3"
+}

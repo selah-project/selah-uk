@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 87,
+  "translation": "Любить Яхве брами Ційону понад усі оселі Яакова.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Любить"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "брами"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ційону"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "понад усі"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "оселі"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    }
+  ],
+  "timestamp": "2026-08-24T01:53:06.023913424Z",
+  "model": "glm-5.3"
+}

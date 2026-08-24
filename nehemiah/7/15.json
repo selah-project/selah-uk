@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Сини Біннуя — шістсот сорок ⟨і⟩ вісьм.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "Біннуя"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шість"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "і вісьм"
+    }
+  ],
+  "timestamp": "2026-08-24T01:09:48.942957423Z",
+  "model": "glm-5.3"
+}

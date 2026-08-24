@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І зійшла вона на ⟨the⟩ ток, і зробила за всім, що звеліла ⟨її⟩ свекруха.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "і зійшла"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "ток"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "і зробила"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "за всім"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "звеліла"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "свекруха її"
+    }
+  ],
+  "timestamp": "2026-08-24T00:50:59.612987166Z",
+  "model": "glm-5.3"
+}

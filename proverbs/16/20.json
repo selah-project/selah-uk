@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 16:20",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Розумний у справі знайде добро, і хто надіється на Яхве — щасливий він.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "розумний"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "справі"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "знайде"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "і хто надіється"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "щасливий він"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:20.648452804Z",
+  "model": "glm-5.3"
+}

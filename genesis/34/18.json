@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 34:18",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "І сподобалися їхні слова очам Хамора й очам Шхема, сина Хамора.",
+  "tokens": [
+    {
+      "surface": "וייטבו",
+      "gloss": "І сподобалися"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "їхні слова"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "очам"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Хамора"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "й очам"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шхема"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Хамора"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:37.747017154Z",
+  "model": "glm-5.3"
+}

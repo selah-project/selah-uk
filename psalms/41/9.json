@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 41,
+  "translation": "Слово Беліаалу виллється на нього, і той, хто ліг, не додасть устати.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Беліаалу"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "виллється"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на нього"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "і той, хто"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ліг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "додасть"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "устати"
+    }
+  ],
+  "timestamp": "2026-08-24T00:15:29.849284261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "А тепер ти кажеш: «Іди, скажи панові твоєму: ось Еліягу».",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а тепер"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "кажеш"
+    },
+    {
+      "surface": "לך",
+      "gloss": "іди"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "скажи"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "панові твоєму"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Еліягу"
+    }
+  ],
+  "timestamp": "2026-08-23T22:52:31.970733825Z",
+  "model": "glm-5.3"
+}

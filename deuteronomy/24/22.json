@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 24:22",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І пам'ятатимеш, що рабом був ти в землі Міцраїм; тому Я наказую тобі вчинити ⟨את⟩ слово це.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "І пам'ятатимеш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "рабом"
+    },
+    {
+      "surface": "היית",
+      "gloss": "був"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у землі"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїм"
+    },
+    {
+      "surface": "על",
+      "gloss": "тому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "через це"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Я"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "наказую тобі"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "вчинити"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слово це"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "це"
+    }
+  ],
+  "timestamp": "2026-08-23T22:06:51.832438498Z",
+  "model": "glm-5.3"
+}

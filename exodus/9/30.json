@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "А ти й раби твої — я знаю, що ви ще не боїтеся перед лицем Яхве Елогім.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А ти"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "й раби твої"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "я знаю"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ще не"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "ви боїтеся"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "перед лицем"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    }
+  ],
+  "timestamp": "2026-08-23T21:27:24.233735786Z",
+  "model": "glm-5.3"
+}

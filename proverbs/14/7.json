@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Іди геть від-обличчя чоловіка-глупця, і не пізнаєш устен знання.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "іди"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "геть від-обличчя"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "чоловіка"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупця"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "і не"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "пізнаєш"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "устен"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знання"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:16.173195224Z",
+  "model": "glm-5.3"
+}

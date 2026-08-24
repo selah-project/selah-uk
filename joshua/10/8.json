@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 10:8",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І сказав Яхве до Єгошуа: Не бійся їх, бо в руку твою Я віддав їх; не встоїть ніхто з них перед тобою.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Єгошуа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бійся"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "їх"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "в руку твою"
+    },
+    {
+      "surface": "נתתים",
+      "gloss": "Я віддав"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "вистоїть"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ніхто"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "з них"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "перед тобою"
+    }
+  ],
+  "timestamp": "2026-08-23T22:13:53.927506509Z",
+  "model": "glm-5.3"
+}

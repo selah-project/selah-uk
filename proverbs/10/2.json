@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Не поможуть скарби лихого, а правда визволяє від смерти.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "поможуть"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "скарби"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "лихого"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "а правда"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "визволяє"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "від смерти"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:05.907790734Z",
+  "model": "glm-5.3"
+}

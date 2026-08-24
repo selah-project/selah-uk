@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 95,
+  "translation": "Не твердіть серця вашого, як у Мериві, як у день Маси в пустелі.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "твердіть"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "серця вашого"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "як у Мериві"
+    },
+    {
+      "surface": "киом",
+      "gloss": "як у день"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Маси"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "в пустелі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:13.703523386Z",
+  "model": "glm-5.3"
+}

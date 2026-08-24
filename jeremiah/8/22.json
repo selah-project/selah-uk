@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 8:22",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Чи немає балсаму в Гілеаді? Чи немає там цілителя? Бо чому не зійшло зцілення дочки мого народу?",
+  "tokens": [
+    {
+      "surface": "הצרי",
+      "gloss": "балсам"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "в Гілеаді"
+    },
+    {
+      "surface": "אם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "цілителя"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "чому"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "зійшло"
+    },
+    {
+      "surface": "ארכת",
+      "gloss": "зцілення"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочки"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "мого народу"
+    }
+  ],
+  "timestamp": "2026-08-23T23:25:09.409273882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Доки цар ⟨був⟩ на своєму ложі-возclinінні, нарда моя дала пахощі свої.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "доки"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "на своєму возclinінні"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "нарда моя"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дала"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "пахощі свої"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:57.861705886Z",
+  "model": "glm-5.3"
+}

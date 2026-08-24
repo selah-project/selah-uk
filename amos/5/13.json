@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 5:13",
+  "book": "amos",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Тому мудрий замовкне в той час, бо лихий ⟨це⟩ час.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "המשכיל",
+      "gloss": "мудрий"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "в час"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "той"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "замовкне"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "עת",
+      "gloss": "час"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "лихий"
+    },
+    {
+      "surface": "היא",
+      "gloss": "він"
+    }
+  ],
+  "timestamp": "2026-08-24T00:02:18.789988724Z",
+  "model": "glm-5.3"
+}

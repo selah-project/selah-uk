@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Щасливий той люд, що знаходить ⟨את⟩ мудрість, і люд, що добуває розуміння",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Щасливий"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "люд"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "знаходить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мудрість"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрість"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "і люд"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "добуває"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "розуміння"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:03.622177819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "А якщо не складе з тобою миру, а чинитиме з тобою війну, то обложиш її.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А якщо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "складе миру"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "з тобою"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "а чинитиме"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "з тобою"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "війну"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "то обложиш"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "її"
+    }
+  ],
+  "timestamp": "2026-08-24T01:39:39.592921988Z",
+  "model": "glm-5.3"
+}

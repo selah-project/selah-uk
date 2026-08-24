@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І сказав йому: іди ⟨את⟩ мною додому, і поїж хліба.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "לך",
+      "gloss": "іди"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ мною"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "додому"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "і поїж"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хліба"
+    }
+  ],
+  "timestamp": "2026-08-23T22:50:41.700346916Z",
+  "model": "glm-5.3"
+}

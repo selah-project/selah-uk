@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Хто любить чистоту серця, — благодать на устах його, друг його — цар.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "хто любить"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чистоту"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серця"
+    },
+    {
+      "surface": "חן",
+      "gloss": "благодать"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "на устах його"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "друг його"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:16.095500489Z",
+  "model": "glm-5.3"
+}

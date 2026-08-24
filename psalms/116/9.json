@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 116,
+  "translation": "Я ходитиму перед обличчям Яхве в землях живих.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "ходитиму"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед обличчям"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "в землях"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живих"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:10.428877174Z",
+  "model": "glm-5.3"
+}

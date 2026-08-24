@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Я кликав Твоє Ім'я, Яхве, з ями найнижчої.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "Я кликав"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Твоє Ім'я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "з ями"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "найнижчої"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:45.012435530Z",
+  "model": "glm-5.3"
+}

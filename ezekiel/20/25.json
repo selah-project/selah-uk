@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 20:25",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І також Я дав їм установи не добрі, і постанови, якими не житимуть.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "І також"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дав"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "установи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "добрі"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "і постанови"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "житимуть"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ними"
+    }
+  ],
+  "timestamp": "2026-08-23T23:47:25.104799791Z",
+  "model": "glm-5.3"
+}

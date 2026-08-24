@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І станеться того дня: чоловік відгодує телицю худобну й дві овець.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "І станеться"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "того дня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "того"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "відгодує"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "телицю"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "худобну"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "й дві"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "овець"
+    }
+  ],
+  "timestamp": "2026-08-23T23:06:15.299834574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 19:23",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Страх Яхве — до життя, і ситий ⟨той⟩ ночуватиме, не буде відвідано ⟨його⟩ злом.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "до життя"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "і ситий"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ночуватиме"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "буде відвідано"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злом"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:06.427825046Z",
+  "model": "glm-5.3"
+}

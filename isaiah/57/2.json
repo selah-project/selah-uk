@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 57,
+  "translation": "Увійде ⟨той⟩ у мир, спочинуть на ложах своїх, хто ходив прямо.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "увійде"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "у мир"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "спочинуть"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "ложах своїх"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "хто ходив"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "прямо"
+    }
+  ],
+  "timestamp": "2026-08-23T23:19:01.467638714Z",
+  "model": "glm-5.3"
+}

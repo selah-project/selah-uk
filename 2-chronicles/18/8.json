@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 18:8",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І покликав цар Ісраелю одного придворного і сказав: Скоро ⟨ приведи ⟩ Міхайєгу, сина Їмли.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "і покликав"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраелю"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "придворного"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "скоро"
+    },
+    {
+      "surface": "מיכהו",
+      "gloss": "Міхайєгу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "Їмли"
+    }
+  ],
+  "timestamp": "2026-08-24T01:27:08.898135061Z",
+  "model": "glm-5.3"
+}

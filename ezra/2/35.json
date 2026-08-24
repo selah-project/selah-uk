@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Сенаї: три тисячі і шістсот і тридцять.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "Сенаї"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "тисячі"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "і шість"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "і тридцять"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:26.010346123Z",
+  "model": "glm-5.3"
+}

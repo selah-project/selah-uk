@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Визволь мою нефеш від меча, від лапи пса — мою одиноку.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "Визволь"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "від меча"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "мою нефеш"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "від лапи"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "пса"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "мою одиноку"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:27.360143651Z",
+  "model": "glm-5.3"
+}

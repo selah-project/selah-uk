@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 21:28",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Бо ви кажете: де дім вельможі, і де намет осель нечестивих?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ви кажете"
+    },
+    {
+      "surface": "איה",
+      "gloss": "де"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "вельможі"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "і де"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "намет"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "осель"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивих"
+    }
+  ],
+  "timestamp": "2026-08-24T00:43:44.646251839Z",
+  "model": "glm-5.3"
+}

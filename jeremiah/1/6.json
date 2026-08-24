@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І сказав я: ох, Адонай Яхве! Ось не вмію я говорити, бо хлопець я.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ох"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "вмію я"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорити"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "נער",
+      "gloss": "хлопець"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-23T23:22:11.550202926Z",
+  "model": "glm-5.3"
+}

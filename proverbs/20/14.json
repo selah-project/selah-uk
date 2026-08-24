@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 20:14",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "«Погане, погане», — каже покупець, а як піде собі, тоді вихваляється.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "погане"
+    },
+    {
+      "surface": "רע",
+      "gloss": "погане"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "каже"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "покупець"
+    },
+    {
+      "surface": "ואזל",
+      "gloss": "а піде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "собі"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тоді"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "вихваляється"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:40.939370714Z",
+  "model": "glm-5.3"
+}

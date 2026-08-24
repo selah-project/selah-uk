@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Я пізнав тебе в пустелі, в землі посухи.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "пізнав тебе"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "у пустелі"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землі"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "посухи"
+    }
+  ],
+  "timestamp": "2026-08-23T23:58:50.656103869Z",
+  "model": "glm-5.3"
+}

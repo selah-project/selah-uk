@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Не сваріться з ними, бо не дам вам із землі їхньої навіть ⟨на⟩ ступню підошви ноги, бо володінням Есаву дав я ⟨את⟩ гору Сеїр.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "сваріться"
+    },
+    {
+      "surface": "בם",
+      "gloss": "з ними"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "дам"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "із землі їхньої"
+    },
+    {
+      "surface": "עד",
+      "gloss": "навіть до"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ступню"
+    },
+    {
+      "surface": "כף",
+      "gloss": "підошви"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ноги"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "володінням"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Есаву"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дав я"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гору Сеїр"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеїр"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:40.565352609Z",
+  "model": "glm-5.3"
+}

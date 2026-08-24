@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "А Я поставив Царя Свого, на Ційоні, горі святій Моїй.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А Я"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "поставив"
+    },
+    {
+      "surface": "мלכי",
+      "gloss": "Царя Свого"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ційоні"
+    },
+    {
+      "surface": "הר",
+      "gloss": "горі"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "святій Моїй"
+    }
+  ],
+  "timestamp": "2026-08-24T00:09:37.117071722Z",
+  "model": "glm-5.3"
+}

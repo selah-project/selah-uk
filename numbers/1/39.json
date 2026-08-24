@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 1:39",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Облічені їхні для племени Дана: два і шістдесят тисяч і сімсот.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "облічені їхні"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "для племени"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дана"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "і шістдесят"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяч"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "і сім"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:55.352249508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "У мене рада і міцна мудрість; я — розуміння, у мене сила.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "у мене"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "рада"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "і міцна мудрість"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "розуміння"
+    },
+    {
+      "surface": "לי",
+      "gloss": "у мене"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "сила"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:35.676491335Z",
+  "model": "glm-5.3"
+}

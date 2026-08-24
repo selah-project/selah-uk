@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 35:13",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "А міста, які дасте, — шість міст притулку будуть для вас.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "А міста"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "дасте"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шість"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "міст"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "притулку"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "будуть"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для вас"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:40.848295939Z",
+  "model": "glm-5.3"
+}

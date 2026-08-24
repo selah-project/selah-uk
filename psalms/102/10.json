@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 102,
+  "translation": "Бо попіл, як хліб, я їв, і питво моє слізьми змішав.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "попіл"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "як хліб"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "я їв"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "і питво моє"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "слізьми"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "змішав"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:07.805689414Z",
+  "model": "glm-5.3"
+}

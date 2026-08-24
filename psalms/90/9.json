@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 90,
+  "translation": "Бо всі дні наші минули в люті Твоїй; скінчили ми роки свої як зітхання.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "дні наші"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "минули"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "в люті Твоїй"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "скінчили ми"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "роки свої"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "як"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "зітхання"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:41.504288506Z",
+  "model": "glm-5.3"
+}

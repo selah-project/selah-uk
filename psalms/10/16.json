@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Яхве — Цар навіки й довіку; загинули народи з землі Його.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Цар"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "й довіку"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "загинули"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "з землі Його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:11:04.603921457Z",
+  "model": "glm-5.3"
+}

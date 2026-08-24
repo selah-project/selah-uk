@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Яхве, як множе́ні тіснячі мене! Багато підіймаються проти мене.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מה",
+      "gloss": "як"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "множе́ні"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "тіснячі мене"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Багато"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "підіймаються"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "проти мене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:09:55.739748710Z",
+  "model": "glm-5.3"
+}

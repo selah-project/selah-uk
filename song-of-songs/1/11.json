@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Віночки із золота зробимо тобі разом із срібними цятками.",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "віночки"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золота"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "зробимо"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "עם",
+      "gloss": "разом із"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "цятками"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "срібла"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:57.861554810Z",
+  "model": "glm-5.3"
+}

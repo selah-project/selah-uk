@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 103,
+  "translation": "Не назавжди Він сваритиме, і не навік гнів триматиме.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "назавжди"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "сваритиме"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навік"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "гнів триматиме"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:55.973926968Z",
+  "model": "glm-5.3"
+}

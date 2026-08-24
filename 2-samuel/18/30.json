@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І сказав цар: відійди, стань тут. І він відійшов і став.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і-сказав"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "סב",
+      "gloss": "відійди"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "стань"
+    },
+    {
+      "surface": "כה",
+      "gloss": "тут"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "і-відійшов"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "і-став"
+    }
+  ],
+  "timestamp": "2026-08-23T22:43:04.961766060Z",
+  "model": "glm-5.3"
+}

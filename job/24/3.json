@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 24:3",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Осла ⟨את⟩ сиріт женуть, беруть у заставу вола удови.",
+  "tokens": [
+    {
+      "surface": "חמור",
+      "gloss": "осла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "осла"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "сиріт"
+    },
+    {
+      "surface": "ינהגו",
+      "gloss": "женуть"
+    },
+    {
+      "surface": "יחבלו",
+      "gloss": "беруть у заставу"
+    },
+    {
+      "surface": "שור",
+      "gloss": "вола"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "удови"
+    }
+  ],
+  "timestamp": "2026-08-24T00:44:26.837599605Z",
+  "model": "glm-5.3"
+}

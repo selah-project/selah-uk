@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 27:21",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "І сказав Їцхак до Яакова: підійди ж бо, і я помацаю тебе, сину мій, — чи ⟨це⟩ ти, син мій Есав, чи ні?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І-сказав"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Їцхак"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "підійди"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ж-бо"
+    },
+    {
+      "surface": "ואמשך",
+      "gloss": "і-помацаю-тебе"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сину-мій"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "чи-ти"
+    },
+    {
+      "surface": "זה",
+      "gloss": "цей"
+    },
+    {
+      "surface": "בני",
+      "gloss": "син-мій"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "אם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ні"
+    }
+  ],
+  "timestamp": "2026-08-23T21:16:38.945867026Z",
+  "model": "glm-5.3"
+}

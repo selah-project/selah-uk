@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Я ⟨велю⟩: уста царя стережи, і з огляду на клятву Елогім.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "стережи"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і з огляду"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "на"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "клятву"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    }
+  ],
+  "timestamp": "2026-08-24T00:55:32.901499476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 49,
+  "translation": "І житиме він ще навіки, не побачить ⟨ה⟩ шахат.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "і житиме"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "побачить"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "шахат"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:52.131103984Z",
+  "model": "glm-5.3"
+}

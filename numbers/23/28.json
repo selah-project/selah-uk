@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І взяв Балак ⟨את⟩ Біл'ама на вершину Пеору, що визирає над лицем пустелі.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "І взяв"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Біл'ама"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Біл'ама"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "на вершину"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "Пеору"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "що визирає"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицем"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "пустелі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:55:27.208110206Z",
+  "model": "glm-5.3"
+}

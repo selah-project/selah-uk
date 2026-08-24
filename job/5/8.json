@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Проте я шукатиму Ела, і до Елогім зверну свою справу.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "проте"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "шукатиму"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і до"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "зверну"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "свою справу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:40:13.678211307Z",
+  "model": "glm-5.3"
+}

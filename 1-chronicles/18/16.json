@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 18:16",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "А Цадок, син Ахітува, і Авімелех, син Ев'ятара, — священики, а Шавша — писар.",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "А Цадок"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ахітува"
+    },
+    {
+      "surface": "ואבימלך",
+      "gloss": "і Авімелех"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ев'ятара"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "священики"
+    },
+    {
+      "surface": "ושושא",
+      "gloss": "а Шавша"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "писар"
+    }
+  ],
+  "timestamp": "2026-08-24T01:18:26.942795890Z",
+  "model": "glm-5.3"
+}

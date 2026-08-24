@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 72,
+  "translation": "Несатимуть гори мир народові, і пагорби — у праведності.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "несатимуть"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "гори"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "народові"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "і пагорби"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "у праведності"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:04.127885487Z",
+  "model": "glm-5.3"
+}

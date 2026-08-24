@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Усякий плазун крилатий, що ходить на чотирьох, — мерзота воно для вас.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "усякий"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "плазун"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "крилатий"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "що ходить"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четьох"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "мерзота"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "воно"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для вас"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:41.124655460Z",
+  "model": "glm-5.3"
+}

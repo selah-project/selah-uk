@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 3:18",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Малкірам, і Педайя, і Шеназар, Єкамья, Гошама і Недавья.",
+  "tokens": [
+    {
+      "surface": "ומלכירם",
+      "gloss": "і Малкірам"
+    },
+    {
+      "surface": "ופדיה",
+      "gloss": "і Педайя"
+    },
+    {
+      "surface": "ושנאצר",
+      "gloss": "і Шеназар"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Єкамья"
+    },
+    {
+      "surface": "הושמע",
+      "gloss": "Гошама"
+    },
+    {
+      "surface": "ונדביה",
+      "gloss": "і Недавья"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:18.213140186Z",
+  "model": "glm-5.3"
+}

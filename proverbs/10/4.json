@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Бідніє той, хто робить рукою ледачою, а рука старанних збагачує.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Бідніє"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "робить"
+    },
+    {
+      "surface": "כף",
+      "gloss": "рукою"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ледачою"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "а рука"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "старанних"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "збагачує"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:05.908141568Z",
+  "model": "glm-5.3"
+}

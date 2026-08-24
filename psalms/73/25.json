@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 73,
+  "translation": "Хто ⟨мені⟩ у небі? І з Тобою — не бажав я нічого на землі.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Хто"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "у небі"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "і з Тобою"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "бажав я"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:47.747507110Z",
+  "model": "glm-5.3"
+}

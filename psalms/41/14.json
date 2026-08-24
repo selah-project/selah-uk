@@ -1,0 +1,32 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 41,
+  "translation": "Благословенний Яхве, Елогім Ісраелю, від віку й до віку. Амен і амен.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Благословенний"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраелю"
+    },
+    {
+      "surface": "мegade"
+    }
+  ],
+  "timestamp": "2026-08-24T01:52:04.242930512Z",
+  "model": "glm-5.3"
+}

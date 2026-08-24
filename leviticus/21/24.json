@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І говорив Моше до Ахарона, і до його синів, і до всіх синів Ісраейла.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "і говорив"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарона"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і до"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "його синів"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і до"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всіх"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраейла"
+    }
+  ],
+  "timestamp": "2026-08-23T21:44:53.863611096Z",
+  "model": "glm-5.3"
+}

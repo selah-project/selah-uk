@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Бачив я ⟨את⟩ усіх живих, що ходять під сонцем, з хлопчиком другим, що стане на його місці.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Бачив я"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усіх живих"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіх"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живих"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "що ходять"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцем"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "хлопчиком"
+    },
+    {
+      "surface": "השני",
+      "gloss": "другим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "стане"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "на його місці"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:52.103694514Z",
+  "model": "glm-5.3"
+}

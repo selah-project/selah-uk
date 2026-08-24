@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 36:29",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "Ось ці — вожді ⟨ה⟩хорія: вождь Лотан, вождь Шоваль, вождь Ців'он, вождь Ана.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ось ці"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "вожді"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "⟨ה⟩хорія"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "вождь"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотан"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "вождь"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Шоваль"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "вождь"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Ців'он"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "вождь"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Ана"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:34.103027630Z",
+  "model": "glm-5.3"
+}

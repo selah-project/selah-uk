@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І говоритимеш ⟨את⟩ слова Мої до них — чи почують, чи зупиняться, бо бунтівні вони.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "і говоритимеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слова Мої"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова Мої"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "до них"
+    },
+    {
+      "surface": "אם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "почують"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "зупиняться"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "бунтівні"
+    },
+    {
+      "surface": "המה",
+      "gloss": "вони"
+    }
+  ],
+  "timestamp": "2026-08-23T23:40:37.129134713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 25:37",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "і спустошені пасовиська спокою від обличчя палючого гніву Яхве.",
+  "tokens": [
+    {
+      "surface": "ונדמו",
+      "gloss": "і спустошені"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "пасовиська"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "спокою"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "від обличчя"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "палючого"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гніву"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:29:47.582532232Z",
+  "model": "glm-5.3"
+}

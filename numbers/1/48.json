@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 1:48",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І говорив Яхве до Моше, говорячи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "І говорив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:52.849510951Z",
+  "model": "glm-5.3"
+}

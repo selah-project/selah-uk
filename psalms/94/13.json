@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 94,
+  "translation": "щоб дати йому спокій від днів лиха, аж поки не викопає яму лихому.",
+  "tokens": [
+    {
+      "surface": "להשקיט",
+      "gloss": "щоб дати спокій"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "від днів"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лиха"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж поки"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "не викопає"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "лихому"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "яму"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:34.941796624Z",
+  "model": "glm-5.3"
+}

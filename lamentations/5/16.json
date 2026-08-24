@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Упав вінець голови нашої; ой, горе тепер нам, бо згрішили ми.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "упав"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "вінець"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "голови нашої"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ой, горе"
+    },
+    {
+      "surface": "נא",
+      "gloss": "тепер"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "згрішили ми"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:00.749070130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Не давай ⟨את⟩ рабиню свою за дочку Беліала, бо від multitude плачу мого й обурення мого говорила я досі.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "давай"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рабиню свою"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "рабиню свою"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "за"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочку"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Беліала"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "від multitude"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "плачу мого"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "й обурення мого"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорила я"
+    },
+    {
+      "surface": "עד",
+      "gloss": "досі"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "досі"
+    }
+  ],
+  "timestamp": "2026-08-23T22:26:12.389866843Z",
+  "model": "glm-5.3"
+}

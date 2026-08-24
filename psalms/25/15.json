@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Мої очі — завжди до Яхве, бо ⟨Він⟩ виведе з тенет мої ноги.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "мої очі"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "завжди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Він"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "виведе"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "з тенет"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "мої ноги"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:53.293798230Z",
+  "model": "glm-5.3"
+}

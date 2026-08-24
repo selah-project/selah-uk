@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 73,
+  "translation": "А я був тупий і не знав ⟨я⟩ скотина був із Тобою.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а я"
+    },
+    {
+      "surface": "בער",
+      "gloss": "тупий"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "знав"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "скотина"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "був"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "із Тобою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:23.373681525Z",
+  "model": "glm-5.3"
+}

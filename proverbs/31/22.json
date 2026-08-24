@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 31:22",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Покривала зробила вона для себе; полотно біле й пурпур — одяг її.",
+  "tokens": [
+    {
+      "surface": "מרבדים",
+      "gloss": "покривала"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "зробила"
+    },
+    {
+      "surface": "לה",
+      "gloss": "для себе"
+    },
+    {
+      "surface": "שש",
+      "gloss": "полотно біле"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "й пурпур"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "одяг її"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:40.550371253Z",
+  "model": "glm-5.3"
+}

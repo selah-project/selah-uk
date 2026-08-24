@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 33:19",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І рушили вони з Рітми, і станом стали в Ріммон-Перец.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "מרתמה",
+      "gloss": "з Рітми"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і станом стали"
+    },
+    {
+      "surface": "ברמן",
+      "gloss": "в Ріммон"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "-Перец"
+    }
+  ],
+  "timestamp": "2026-08-23T21:58:58.578323196Z",
+  "model": "glm-5.3"
+}

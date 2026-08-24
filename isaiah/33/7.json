@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "Ось, велетні їхні кричать надвір, посланці миру гірко плачуть.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "велетні їхні"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "кричать"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "надвір"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "посланці"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "миру"
+    },
+    {
+      "surface": "מר",
+      "gloss": "гірко"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "плачуть"
+    }
+  ],
+  "timestamp": "2026-08-23T23:12:07.915678184Z",
+  "model": "glm-5.3"
+}

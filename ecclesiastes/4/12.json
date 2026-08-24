@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "А якщо подолає один, двоє встоять проти нього; і шнур потрійний не швидко порветься.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А якщо"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "подолає"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "двоє"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "встоїть"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "проти нього"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "і шнур"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "потрійний"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "швидко"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "порветься"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:29.687531812Z",
+  "model": "glm-5.3"
+}

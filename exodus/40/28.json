@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "І поставив ⟨את⟩ запону входу ⟨для⟩ скинії.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "І поставив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "запону входу"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "запону"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "входу"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "для скинії"
+    }
+  ],
+  "timestamp": "2026-08-23T21:37:54.030213556Z",
+  "model": "glm-5.3"
+}

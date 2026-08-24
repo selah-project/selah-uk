@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 11:23",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І знялася слава Яхве з середини ⟨та⟩ міста, і стала на горі, що на схід від міста.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "і знялася"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "з"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "середини"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "міста"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "і стала"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "горі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "на схід"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "від міста"
+    }
+  ],
+  "timestamp": "2026-08-23T23:42:31.637539926Z",
+  "model": "glm-5.3"
+}

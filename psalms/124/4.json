@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 124,
+  "translation": "тоді води нас затопили б, потік пройшов би над нашою нефеш,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "тоді"
+    },
+    {
+      "surface": "המים",
+      "gloss": "води"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "нас затопили б"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "потік"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "пройшов би"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "нашою нефеш"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:40.057356920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І Бела, син Аза́за, син Шеми, син Йоеля; він сидів ⟨у⟩ Ароері й аж до Не́во і Баал-Меону.",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "І Бела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "Азаза"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Шеми"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Йоеля"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "сидів"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "⟨у⟩ Ароері"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "й аж до"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Нево"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "і Баал"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Меон"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:58.861519373Z",
+  "model": "glm-5.3"
+}

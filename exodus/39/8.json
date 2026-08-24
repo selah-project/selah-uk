@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 39,
+  "translation": "I зробив ⟨את⟩ хошен — зроб задумника, як зроб ефуда: золото, тхелет i аргаман, i толаат шанi, i шеш скручений.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "I зробив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хошен"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "хошен"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "зроб"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "задумника"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "як зроб"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "ефуда"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золото"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "тхелет"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "i аргаман"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "i толаат"
+    },
+    {
+      "surface": "שני",
+      "gloss": "шанi"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "i шеш"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "скручений"
+    }
+  ],
+  "timestamp": "2026-08-23T21:37:28.920616838Z",
+  "model": "glm-5.3"
+}

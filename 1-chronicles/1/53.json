@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 1:53",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "князь Кназ, князь Тейман, князь Мівцар.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "князь"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Кназ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "князь"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Тейман"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "князь"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "Мівцар"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:08.317074177Z",
+  "model": "glm-5.3"
+}

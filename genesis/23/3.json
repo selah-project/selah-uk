@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І встав Аврагам від обличчя мертвої своєї, і говорив до синів Хета, говорячи:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "І встав"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагам"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "від"
+    },
+    {
+      "surface": "פני",
+      "gloss": "обличчя"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "мертвої своєї"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "і говорив"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хета"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    }
+  ],
+  "timestamp": "2026-08-23T21:13:58.153935382Z",
+  "model": "glm-5.3"
+}

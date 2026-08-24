@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "Бо здалеку побачиш ⟨את⟩ землю, а туди не ввійдеш — у землю, яку я даю синам Ізраїля.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "здалеку"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "побачиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "а туди"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ввійдеш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даю"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синам"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    }
+  ],
+  "timestamp": "2026-08-23T22:09:29.881598606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Бо напоїв Я душу стомлену, і всяку душу сумну наситив Я.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "напоїв Я"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душу"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "стомлену"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і всяку"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душу"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "сумну"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "наситив Я"
+    }
+  ],
+  "timestamp": "2026-08-23T23:31:47.796243102Z",
+  "model": "glm-5.3"
+}

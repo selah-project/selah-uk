@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І сказав Яхве Моше: так скажеш синам Ізраелю: ви бачили, що з небес говорив я з вами.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Моше (до)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "скажеш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синам"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраелю"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "бачили"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорив я"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "з вами"
+    }
+  ],
+  "timestamp": "2026-08-23T21:30:07.133848510Z",
+  "model": "glm-5.3"
+}

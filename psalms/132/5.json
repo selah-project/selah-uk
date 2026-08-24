@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 132,
+  "translation": "Аж поки знайду місце для Яхве, оселі для Могутнього Яакова.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "аж поки"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "знайду"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "місце"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "для Яхве"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "оселі"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "для Могутнього"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:19.325162386Z",
+  "model": "glm-5.3"
+}

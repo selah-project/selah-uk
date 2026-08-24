@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 7:16",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "А тепер я обрав і освятив ⟨את⟩ цей дім, щоб було моє Ім'я там повіки, і мої очі та моє серце будуть там усі дні.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "А тепер"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "я обрав"
+    },
+    {
+      "surface": "והקדשתי",
+      "gloss": "і освятив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цей дім"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "цей дім"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цей"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "щоб було"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "моє Ім'я"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "повіки"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "і будуть"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "мої очі"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "та моє серце"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дні"
+    }
+  ],
+  "timestamp": "2026-08-24T01:25:15.235033446Z",
+  "model": "glm-5.3"
+}

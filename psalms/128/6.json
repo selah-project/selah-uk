@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 128,
+  "translation": "І побачиш синів синів твоїх — мир на Ісраеля.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "і побачиш"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синів"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "синів твоїх"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраеля"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:29.764521330Z",
+  "model": "glm-5.3"
+}

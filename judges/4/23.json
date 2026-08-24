@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І упокорив Елогім того дня ⟨את⟩ Явіна, царя Кенаану, перед синами Ісраелю.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "і упокорив"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "того дня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "того"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Явіна"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Явіна"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаану"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синами"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраелю"
+    }
+  ],
+  "timestamp": "2026-08-23T22:20:52.330890446Z",
+  "model": "glm-5.3"
+}

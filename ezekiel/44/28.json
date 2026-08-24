@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 44:28",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 44,
+  "translation": "І буде їм ⟨це⟩ за спадщину: Я — спадщина їхня; а володіння не дastе їм в Ізраїлі: Я — володіння їхнє.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "і буде"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "за спадщину"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "спадщина їхня"
+    },
+    {
+      "surface": "ואחזה",
+      "gloss": "а володіння"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "дastе"
+    },
+    {
+      "surface": "лהם",
+      "gloss": ""
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Ізраїлі"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "володіння їхнє"
+    }
+  ],
+  "timestamp": "2026-08-23T23:54:45.548253987Z",
+  "model": "glm-5.3"
+}

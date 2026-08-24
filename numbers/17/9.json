@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 17:9",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І сказав Яхве до Моше так:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "так:"
+    }
+  ],
+  "timestamp": "2026-08-23T21:53:46.482466467Z",
+  "model": "glm-5.3"
+}

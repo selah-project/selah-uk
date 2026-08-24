@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І збудував ⟨את⟩ Бейт-Лехем, і ⟨את⟩ Ейтам, і ⟨את⟩ Текоа,",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "І збудував"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бейт-Лехем"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехем"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Ейтам"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Ейтам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Текоа"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Текоа"
+    }
+  ],
+  "timestamp": "2026-08-24T01:24:44.864314250Z",
+  "model": "glm-5.3"
+}

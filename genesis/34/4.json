@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "І сказав Шхем до Хамора, батька свого, так: візьми мені ⟨את⟩ цю дівчину за жінку.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шхем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Хамора"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "батька свого"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "так:"
+    },
+    {
+      "surface": "קח",
+      "gloss": "візьми"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цю дівчину"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "цю дівчину"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цю"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жінку"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:53.053301003Z",
+  "model": "glm-5.3"
+}

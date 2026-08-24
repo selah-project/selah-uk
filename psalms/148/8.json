@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 148,
+  "translation": "вогонь і град, сніг і пара, вихор бурі, що чинить слово Його.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "вогонь"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "і град"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "сніг"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "і пара"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "вітер"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "бурі"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "що чинить"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "слово Його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:11.986206217Z",
+  "model": "glm-5.3"
+}

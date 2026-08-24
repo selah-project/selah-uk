@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Бо безодня глибока — блудниця, і колодязь тісний — чужинка.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "безодня"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "глибока"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "блудниця"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "і колодязь"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "тісний"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "чужинка"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:32.163832029Z",
+  "model": "glm-5.3"
+}

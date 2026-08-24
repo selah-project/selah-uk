@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "І дам оселю Мою серед вас, і не зневажить душа Моя ⟨את⟩ вас.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "І дам"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "оселю Мою"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "серед вас"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "зневажить"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа Моя"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "вас"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:32.876830461Z",
+  "model": "glm-5.3"
+}

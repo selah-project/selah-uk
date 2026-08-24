@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 24:19",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І чинив зло в очах Яхве, за все, що чинив Єгоякім.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "І чинив"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "за все"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чинив"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Єгоякім"
+    }
+  ],
+  "timestamp": "2026-08-23T23:04:33.803049533Z",
+  "model": "glm-5.3"
+}

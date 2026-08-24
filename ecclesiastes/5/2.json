@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Бо мрія приходить від множини клопотів, а голос нерозумного — від множини слів.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בא",
+      "gloss": "приходить"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "мрія"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "від множини"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "клопотів"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "а голос"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "нерозумного"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "від множини"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "слів"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:27.914807595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Не люби сну, щоб не збідніти; розплющи очі свої — наситишся хлібом.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "люби"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сну"
+    },
+    {
+      "surface": "פן",
+      "gloss": "щоб не"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "збідніти"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "розплющи"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "очі свої"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "наситишся"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлібом"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:40.939182136Z",
+  "model": "glm-5.3"
+}

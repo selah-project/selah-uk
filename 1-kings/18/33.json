@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І розклав ⟨את⟩ дерева, і розібрав ⟨את⟩ бика, і поклав на дерева.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "і розклав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дерева"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дерева"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "і розібрав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бика"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "бика"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "і поклав"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дерева"
+    }
+  ],
+  "timestamp": "2026-08-23T22:54:25.400576437Z",
+  "model": "glm-5.3"
+}

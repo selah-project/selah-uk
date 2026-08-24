@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І жив Ноах після ⟨ה⟩ Потопу триста років і п'ятдесят років.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "і жив"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "після"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "Потопу"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотні"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "роки"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "і п'ятдесят"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:33.205511839Z",
+  "model": "glm-5.3"
+}

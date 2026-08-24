@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І були сини Рама, перворідного Єрахмеела: Маац, і Ямін, і Екер.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "І були"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Рама"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "перворідного"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Єрахмеела"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "Маац"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "і Ямін"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "і Екер"
+    }
+  ],
+  "timestamp": "2026-08-24T01:57:45.230262383Z",
+  "model": "glm-5.3"
+}

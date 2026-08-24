@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І дав Яхве мор в Ізраїлі, і впало з Ізраїлю сімдесят тисяч чоловіків.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "І дав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "мор"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Ізраїлі"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "і впало"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "з Ізраїлю"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "сімдесят"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяч"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловіків"
+    }
+  ],
+  "timestamp": "2026-08-24T01:19:32.101900925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Сини безумного, навіть сини без імені — вибиті вони з землі.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "безумного"
+    },
+    {
+      "surface": "גם",
+      "gloss": "навіть"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "שם",
+      "gloss": "імені"
+    },
+    {
+      "surface": "נכאו",
+      "gloss": "вибиті"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:45:50.638095812Z",
+  "model": "glm-5.3"
+}

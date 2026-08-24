@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Не кажи ближньому своєму: «Іди й вернися, а завтра дам», — коли ⟨це⟩ є ⟨את⟩ з тобою.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "кажи"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "ближньому своєму"
+    },
+    {
+      "surface": "לך",
+      "gloss": "іди"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "і вернися"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "а завтра"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "дам"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "і є"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ з тобою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:21.700353190Z",
+  "model": "glm-5.3"
+}

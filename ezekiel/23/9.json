@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 23:9",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Тому я віддав її в руку її коханців, у руку синів Ашшуру, яких вона жадала.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Тому"
+    },
+    {
+      "surface": "נתתיה",
+      "gloss": "я віддав її"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "в руку"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "її коханців"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "у руку"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшуру"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яких"
+    },
+    {
+      "surface": "עגבה",
+      "gloss": "вона жадала"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "їх"
+    }
+  ],
+  "timestamp": "2026-08-23T23:47:34.738930316Z",
+  "model": "glm-5.3"
+}

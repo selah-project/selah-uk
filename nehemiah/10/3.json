@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 10:3",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Серайя, Азар'я, Єрмійя.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "Серайя"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азар'я"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Єрмійя"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:20.422994993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 27:10",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Чи втішається він у Шаддаї, чи кличе Елоага в кожен час?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддаї"
+    },
+    {
+      "surface": "יתענג",
+      "gloss": "втішається"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "кликатиме"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Елоаг"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "у кожен"
+    },
+    {
+      "surface": "עת",
+      "gloss": "час"
+    }
+  ],
+  "timestamp": "2026-08-24T00:45:21.733394529Z",
+  "model": "glm-5.3"
+}

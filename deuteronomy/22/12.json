@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Кисті зробиш собі на чотирьох краях покривала твого, яким ти покриваєшся.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Кисті"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "зробиш"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чотирьох"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "краях"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "покривала твого"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яким"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ти покриваєшся"
+    },
+    {
+      "surface": "בה",
+      "gloss": "(ним)"
+    }
+  ],
+  "timestamp": "2026-08-23T22:05:53.545727970Z",
+  "model": "glm-5.3"
+}

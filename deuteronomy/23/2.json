@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Не ввійде поранений-розчавлений і з відрізаним членом у громаду Яхве.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ввійде"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "поранений"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "розчавлений"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "і відрізаний"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "член"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "у громаду"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T22:06:49.426993892Z",
+  "model": "glm-5.3"
+}

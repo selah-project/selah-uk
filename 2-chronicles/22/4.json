@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 22:4",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "І робив зло в очах Яхве, як дім Ахава, бо вони були йому радниками після смерти батька його — на погибіль йому.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "І робив"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "як дім"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахава"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "המה",
+      "gloss": "вони"
+    },
+    {
+      "surface": "היו",
+      "gloss": "були"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "радниками"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "після"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерти"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "батька його"
+    },
+    {
+      "surface": "למשחית",
+      "gloss": "на погибіль"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    }
+  ],
+  "timestamp": "2026-08-24T01:28:59.456735026Z",
+  "model": "glm-5.3"
+}

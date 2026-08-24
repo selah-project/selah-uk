@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "І вернеться порох на землю, як був, а дух вернеться до Елогім, Який дав його.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "і вернеться"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "порох"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "як був"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "а дух"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "вернеться"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Який"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "дав його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:56:04.940398331Z",
+  "model": "glm-5.3"
+}

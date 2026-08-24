@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Елогім мій, кличу вдень — і Ти не відповідаєш, і вночі — і нема мені тиші.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім мій"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "кличу"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "вдень"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "Ти відповідаєш"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "і вночі"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і нема"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "тиші"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:19.542750359Z",
+  "model": "glm-5.3"
+}

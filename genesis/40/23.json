@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "І не згадав сар напоїв ⟨את⟩ Йосефа, і забув його.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "І не"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "згадав"
+    },
+    {
+      "surface": "שר",
+      "gloss": "сара"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "напоїв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йосефа"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефа"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "і забув його"
+    }
+  ],
+  "timestamp": "2026-08-23T21:20:25.629388448Z",
+  "model": "glm-5.3"
+}

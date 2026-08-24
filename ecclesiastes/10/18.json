@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Від лінощів провалюється дах, і від опущення рук дім протікає.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "від лінощів"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "провалюється"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "дах"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "і від опущення"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "рук"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "протікає"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дім"
+    }
+  ],
+  "timestamp": "2026-08-24T00:55:04.337624344Z",
+  "model": "glm-5.3"
+}

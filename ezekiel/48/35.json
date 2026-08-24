@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 48:35",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "Навколо — вісімнадцять тисяч; а ім'я міста від того дня: Яхве Шама.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "Навколо"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "вісім"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надцять"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяч"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а ім'я"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "міста"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "від дня"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Шама"
+    }
+  ],
+  "timestamp": "2026-08-23T23:56:35.586486348Z",
+  "model": "glm-5.3"
+}

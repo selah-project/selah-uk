@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 14:34",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Праведність підіймає народ, а хесед народів — гріх.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "праведність"
+    },
+    {
+      "surface": "תרומם",
+      "gloss": "підіймає"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "а хесед"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "народів"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "гріх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:36.077250736Z",
+  "model": "glm-5.3"
+}

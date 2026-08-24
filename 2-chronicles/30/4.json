@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "І було ⟨це⟩ слово правильне в очах царя та в очах усього зібрання.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "І було правильне"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "та в очах"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всього"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "зібрання"
+    }
+  ],
+  "timestamp": "2026-08-24T01:33:04.045531237Z",
+  "model": "glm-5.3"
+}

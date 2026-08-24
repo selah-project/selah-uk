@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І побачив Шаул, що він дуже успішний, і боявся його.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "і побачив"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "успішний"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "дуже"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "і боявся"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "його"
+    }
+  ],
+  "timestamp": "2026-08-23T22:32:25.283501013Z",
+  "model": "glm-5.3"
+}

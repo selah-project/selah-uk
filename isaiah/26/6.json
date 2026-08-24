@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Топтатиме його нога — ноги ⟨the⟩ убогого, кроки незаможніх.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "топтатиме його"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "нога"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ноги"
+    },
+    {
+      "surface": "עני",
+      "gloss": "убогого"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "кроки"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "незаможніх"
+    }
+  ],
+  "timestamp": "2026-08-23T23:10:32.263888945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "І стануть небеса над твоєю головою міддю, а земля під тобою ⟨стане⟩ залізом.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "І стануть"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "небеса твої"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "головою твоєю"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "міддю"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "а земля"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "під тобою"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "залізом"
+    }
+  ],
+  "timestamp": "2026-08-23T22:08:56.722155688Z",
+  "model": "glm-5.3"
+}

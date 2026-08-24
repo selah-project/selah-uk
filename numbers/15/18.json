@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 15:18",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Говори до синів Ізраїля і скажеш їм: коли прийдете до ⟨а⟩ землі, яку Я веду ⟨את⟩ вас туди,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "і скажеш"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "коли прийдете"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨а⟩ землі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "веду"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "туди"
+    }
+  ],
+  "timestamp": "2026-08-23T21:52:52.915802349Z",
+  "model": "glm-5.3"
+}

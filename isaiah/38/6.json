@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "і з долоні царя Ашуру Я вирву тебе, і ⟨את⟩ це місто, і огорну це місто це.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "і з долоні"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашуру"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "Я вирву тебе"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "це місто"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "це місто"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "і огорну"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "цим містом"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цим"
+    }
+  ],
+  "timestamp": "2026-08-23T23:13:24.557672903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 12:13",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "У провині вуст — пастка зла, і виходить з лиха праведний.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "у провині"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "вуст"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "пастка"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "і виходить"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "з лиха"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведний"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:19.687742348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 83,
+  "translation": "Як вогонь палить ліс, і як полум'я запалює гори.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "як вогонь"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "палить"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ліс"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "і як полум'я"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "запалює"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "гори"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:44.432109306Z",
+  "model": "glm-5.3"
+}

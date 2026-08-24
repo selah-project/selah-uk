@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 44,
+  "translation": "Хіба Елогім не випробує цього? Бо Він знає таємниці серця.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Хіба"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "не випробує"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "цього"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Він"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знає"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "таємниці"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серця"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:27.945356167Z",
+  "model": "glm-5.3"
+}

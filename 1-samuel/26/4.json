@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "І вислав Давид розвідників, і дізнався, що прийшов Шаул до Нахону.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "І вислав"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "розвідників"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "і дізнався"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "בא",
+      "gloss": "прийшов"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "Нахону"
+    }
+  ],
+  "timestamp": "2026-08-23T22:35:39.168713554Z",
+  "model": "glm-5.3"
+}

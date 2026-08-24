@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 42,
+  "translation": "І помер Ійов, старий і насичений днями.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "І помер"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ійов"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "старий"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "і насичений"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днями"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:41.729391480Z",
+  "model": "glm-5.3"
+}

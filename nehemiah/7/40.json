@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Сини Іммера: тисяча п'ятдесят і два.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Іммера"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяча"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "п'ятдесят"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "і два"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:02.982568361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 9:14",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Тим більше чи я відповім Йому, чи виберу слова мої з Ним?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "тим більше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чи"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "אעננו",
+      "gloss": "відповім Йому"
+    },
+    {
+      "surface": "אבחרה",
+      "gloss": "виберу"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова мої"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "з Ним"
+    }
+  ],
+  "timestamp": "2026-08-24T00:40:45.160677957Z",
+  "model": "glm-5.3"
+}

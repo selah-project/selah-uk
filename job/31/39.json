@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "job 31:39",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "якщо силу її я їв без срібла, і душу її власників я змучив —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "силу її"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "я їв"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "срібла"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "і душу"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "її власників"
+    },
+    {
+      "surface": "הפחתי",
+      "gloss": "я змучив"
+    }
+  ],
+  "timestamp": "2026-08-24T00:46:15.889873371Z",
+  "model": "glm-5.3"
+}

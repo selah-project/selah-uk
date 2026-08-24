@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І сказав я їм: слово Яхве було до мене, говорячи:",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "היה",
+      "gloss": "було"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    }
+  ],
+  "timestamp": "2026-08-23T23:47:29.136437376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Бо хто Ель, крім Яхве, і хто скеля, крім Елогім наших?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "крім"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "і хто"
+    },
+    {
+      "surface": "צור",
+      "gloss": "скеля"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "крім"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елогім наших"
+    }
+  ],
+  "timestamp": "2026-08-23T22:45:20.680396292Z",
+  "model": "glm-5.3"
+}

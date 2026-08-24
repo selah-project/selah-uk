@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І кожне дарування священика цілком буде; не з'їдається воно.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "і кожне"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "дарування"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "священика"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "цілком"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "з'їдається"
+    }
+  ],
+  "timestamp": "2026-08-23T21:39:12.450318051Z",
+  "model": "glm-5.3"
+}

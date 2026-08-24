@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 26:21",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "І були сини Переца: Хецрон — рід хецронців, Хамул — рід хамулців.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "І були"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Переца"
+    },
+    {
+      "surface": "לחצרן",
+      "gloss": "Хецрон"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "рід"
+    },
+    {
+      "surface": "החצרני",
+      "gloss": "хецронців"
+    },
+    {
+      "surface": "לחמול",
+      "gloss": "Хамул"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "рід"
+    },
+    {
+      "surface": "החמולי",
+      "gloss": "хамулців"
+    }
+  ],
+  "timestamp": "2026-08-23T21:55:36.534282490Z",
+  "model": "glm-5.3"
+}

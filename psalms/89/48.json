@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 89,
+  "translation": "Згадай: яке ⟨коротке⟩ моє життя; навіщо марностворив Ти всіх синів людських?",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Згадай"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "מה",
+      "gloss": "яке"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "життя"
+    },
+    {
+      "surface": "על",
+      "gloss": "навіщо"
+    },
+    {
+      "surface": "מה",
+      "gloss": ""
+    },
+    {
+      "surface": "שוא",
+      "gloss": "марно"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "створив Ти"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всіх"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людських"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:11.824530015Z",
+  "model": "glm-5.3"
+}

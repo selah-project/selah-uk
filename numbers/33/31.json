@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 33:31",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І рушили з Мосерот, і таборили в Бней-Яакані.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "ממסרות",
+      "gloss": "з Мосерот"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і таборили"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "в Бней"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "Яакані"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:14.399660133Z",
+  "model": "glm-5.3"
+}

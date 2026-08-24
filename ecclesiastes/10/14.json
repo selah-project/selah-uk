@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "А дурень множить слова: людина не знає, що буде, і що буде після неї — хто їй сповістить?",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "а дурень"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "множить"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знає"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людина"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "і що"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "після неї"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "сповістить"
+    },
+    {
+      "surface": "לו",
+      "gloss": "їй"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:59.399157210Z",
+  "model": "glm-5.3"
+}

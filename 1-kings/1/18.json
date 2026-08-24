@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "А тепер — ось Адонію воцарився, а тепер, пане мій, царю, ти не знаєш.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а тепер"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Адонію"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "воцарився"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "а тепер"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "пане мій"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаєш"
+    }
+  ],
+  "timestamp": "2026-08-23T22:45:32.301553844Z",
+  "model": "glm-5.3"
+}

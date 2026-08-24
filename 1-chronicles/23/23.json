@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Сини Му́ші: Махлі, і Едер, і Єримот — троє.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "Муші"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махлі"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "і Едер"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "і Єримот"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "троє"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:06.915717073Z",
+  "model": "glm-5.3"
+}

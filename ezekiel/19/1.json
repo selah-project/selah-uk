@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І ти, підними плач над князями Ізраїлю.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "І ти"
+    },
+    {
+      "surface": "שא",
+      "gloss": "підними"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "плач"
+    },
+    {
+      "surface": "אל",
+      "gloss": "над"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "князями"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлю"
+    }
+  ],
+  "timestamp": "2026-08-23T23:45:58.076973259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Добре, що тримаєшся цього, і від того теж не відпускай ⟨את⟩ свою руку, бо той, хто боїться Елогім, вийде з них усіх.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "добре"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "тримаєшся"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "цього"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "і теж"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "від того"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "відпускай"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свою руку"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "свою руку"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "хто боїться"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "вийде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "з них усіх"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "з них усіх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:22.520883347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Небеса оповідають славу Ела, і твір Його рук звіщає простір.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Небеса"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "оповідають"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "і твір"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "Його рук"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "звіщає"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "простір"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:08.257196384Z",
+  "model": "glm-5.3"
+}

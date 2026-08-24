@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 31:29",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "У ті дні не скажуть більше: «Батьки їли кислицю, і зуби синів притупилися».",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "у ті дні"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ті"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "скажуть"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "більше"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "батьки"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "їли"
+    },
+    {
+      "surface": "בסר",
+      "gloss": "кислицю"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "і зуби"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синів"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "притупилися"
+    }
+  ],
+  "timestamp": "2026-08-23T23:32:48.352651352Z",
+  "model": "glm-5.3"
+}

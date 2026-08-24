@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І також кожна людина — щоб їла й пила і бачила добро в усій своїй праці: ⟨це⟩ дар Елогіма.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "і також"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кожна"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людина"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "щоб їла"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "й пила"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "і бачила"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "в усій"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "своїй праці"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "дар"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогіма"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨це⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:44.795899070Z",
+  "model": "glm-5.3"
+}

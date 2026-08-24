@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "А при руці їх зміцнював Рефайя, син Хура, князь половини округу Єрушалаїму.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "а при"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "руці їх"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "зміцнював"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "Рефайя"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Хура"
+    },
+    {
+      "surface": "שר",
+      "gloss": "князь"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "половини"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "округу"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Єрушалаїму"
+    }
+  ],
+  "timestamp": "2026-08-24T01:08:13.137513757Z",
+  "model": "glm-5.3"
+}

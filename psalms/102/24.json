@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 102,
+  "translation": "Він упокорив на дорозі силу мою, вкоротив дні мої.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Він упокорив"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на дорозі"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "силу мою"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "вкоротив"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дні мої"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:05.454831876Z",
+  "model": "glm-5.3"
+}

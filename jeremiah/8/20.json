@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Минув жнивний час, скінчилося літо, а ми не врятовані.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "Минув"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "жнивний час"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "скінчилося"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "літо"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "а ми"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "врятовані"
+    }
+  ],
+  "timestamp": "2026-08-23T23:25:55.993173998Z",
+  "model": "glm-5.3"
+}

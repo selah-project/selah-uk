@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Або якщо живе тіло повернеться і обернеться на біле, — і прийде він до когена.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "כי",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "повернеться"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "тіло"
+    },
+    {
+      "surface": "החי",
+      "gloss": "живе"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "і обернеться"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "на біле"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "і прийде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "когена"
+    }
+  ],
+  "timestamp": "2026-08-23T21:42:11.554553770Z",
+  "model": "glm-5.3"
+}

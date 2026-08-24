@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 71,
+  "translation": "У Тебе, Яхве, я прибіг під захист; нехай не зганьблюся навіки.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "У Тебе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "я прибіг під захист"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "зганьблюся"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навіки"
+    }
+  ],
+  "timestamp": "2026-08-24T00:19:34.221203289Z",
+  "model": "glm-5.3"
+}

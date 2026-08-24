@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezra 2:49",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Уззи, сини Пасеаха, сини Бесая",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Уззи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Пасеаха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "Бесая"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:53.565629693Z",
+  "model": "glm-5.3"
+}

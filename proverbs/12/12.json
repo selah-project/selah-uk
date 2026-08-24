@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Пожадав лиходій сітки злих, а корінь праведних дає плід.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "Пожадав"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "лиходій"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "сітки"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "злих"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "а корінь"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведних"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дає плід"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:58.065884629Z",
+  "model": "glm-5.3"
+}

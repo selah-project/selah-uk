@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "⟨⟩Ель, що дає помсти мені й підпорядковує народи піді мною.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "що дає"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "помсти"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "й підпорядковує"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "піді мною"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:01.022244679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 8:5",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І промовив Яхве до Моше, кажучи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "І промовив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:53.374962621Z",
+  "model": "glm-5.3"
+}

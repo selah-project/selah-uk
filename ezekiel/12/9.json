@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Сину людський, хіба не казали тобі дім Ізраїля, дім бунтівний: що ти робиш?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людський"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "хіба не"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "казали"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "бунтівний"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "робиш"
+    }
+  ],
+  "timestamp": "2026-08-23T23:42:42.282195871Z",
+  "model": "glm-5.3"
+}

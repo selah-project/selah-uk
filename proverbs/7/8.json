@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "проходячи по вулиці біля її рогу, і дорогою до її дому він ступав",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "проходячи"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "по вулиці"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "біля"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "її рогу"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "і дорогою"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "до її дому"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "він ступав"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:42.781413543Z",
+  "model": "glm-5.3"
+}

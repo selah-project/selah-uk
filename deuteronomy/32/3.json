@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "Бо Ім'я Яхве я проголошу; дайте велич нашому Елогім.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Ім'я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "я проголошу"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "дайте"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "велич"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "нашому Елогім"
+    }
+  ],
+  "timestamp": "2026-08-23T22:09:47.202881912Z",
+  "model": "glm-5.3"
+}

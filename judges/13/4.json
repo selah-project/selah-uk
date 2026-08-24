@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 13:4",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "А тепер вберегися ж, і не пий вина ані міцного напою, і не їж нічого нечистого.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а тепер"
+    },
+    {
+      "surface": "השמרי",
+      "gloss": "вберегися"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ж"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תשתי",
+      "gloss": "пий"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вина"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ані міцного напою"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "їж"
+    },
+    {
+      "surface": "כל",
+      "gloss": "нічого"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечистого"
+    }
+  ],
+  "timestamp": "2026-08-23T22:23:01.903676052Z",
+  "model": "glm-5.3"
+}

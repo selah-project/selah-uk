@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 100,
+  "translation": "Псалом подяки. Glamte Яхве, вся земля.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "псалом"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "подяки"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": " Glamte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:46.794905263Z",
+  "model": "glm-5.3"
+}

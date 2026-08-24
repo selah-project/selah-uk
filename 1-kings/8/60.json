@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-kings 8:60",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "щоб знали всі народи землі, що Яхве — ⟨Він⟩ ⟨є⟩ Елогім, іншого нема.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "щоб"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знали"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народи"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Він"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "іншого"
+    }
+  ],
+  "timestamp": "2026-08-23T22:49:36.059556944Z",
+  "model": "glm-5.3"
+}

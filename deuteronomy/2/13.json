@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Тепер устаньте й перейдіть собі ⟨את⟩ потік Зеред. І ми перейшли ⟨את⟩ потік Зеред.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Тепер"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "устаньте"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "і перейдіть"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "собі"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "потік"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "потік"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Зеред"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "І ми перейшли"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "потік"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "потік"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Зеред"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:20.922787570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І рушили з Тахату, і таборили в Теразі.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "з Тахату"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і таборили"
+    },
+    {
+      "surface": "בתרח",
+      "gloss": "в Теразі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:02.159784546Z",
+  "model": "glm-5.3"
+}

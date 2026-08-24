@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Як зроблено в день цей, так заповів Яхве робити, щоб здійснити спокуту над вами.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "зроблено"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цей"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "робити"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "щоб здійснити спокуту"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "над вами"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:45.605188181Z",
+  "model": "glm-5.3"
+}

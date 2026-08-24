@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "isaiah 37:34",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "Шляхом, яким прийшов, ним повернеться, а в це місто не ввійде, — слово Яхве.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "шляхом"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яким"
+    },
+    {
+      "surface": "בא",
+      "gloss": "прийшов"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ним"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "повернеться"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "а в"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "місто"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ввійде"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:13:41.529567156Z",
+  "model": "glm-5.3"
+}

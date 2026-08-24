@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 93,
+  "translation": "Стійкий твій престол відтоді, відвіку ти ⟨єси⟩.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "стійкий"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "твій престол"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "відтоді"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "відвіку"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:02.327350553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Співайте Яхве, вся земля; сповіщайте від дня до дня Його спасіння.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Співайте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "сповіщайте"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "від дня"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "Його спасіння"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:20.609456339Z",
+  "model": "glm-5.3"
+}

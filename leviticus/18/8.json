@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Наготу дружини батька твого не відкривай: нагота батька твого вона.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "Наготу"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "дружини"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "батька твого"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "відкривай"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "нагота"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "батька твого"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "вона"
+    }
+  ],
+  "timestamp": "2026-08-23T21:43:28.450253893Z",
+  "model": "glm-5.3"
+}

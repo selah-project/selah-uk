@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 22:6",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "І Ейлам ніс сагайдак із колісницею людей, вершників, і Кір оголив щита.",
+  "tokens": [
+    {
+      "surface": "ועילם",
+      "gloss": "і Ейлам"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ніс"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "сагайдак"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "з колісницею"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людей"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "вершників"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "і Кір"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "оголив"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "щита"
+    }
+  ],
+  "timestamp": "2026-08-23T23:09:39.642687055Z",
+  "model": "glm-5.3"
+}

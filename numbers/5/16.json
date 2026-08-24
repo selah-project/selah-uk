@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "і представить священник ⟨את⟩ неї, і поставить її перед Яхве.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "і представить"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "неї"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "священник"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "і поставить її"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:05.701759441Z",
+  "model": "glm-5.3"
+}

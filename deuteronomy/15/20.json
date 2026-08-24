@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 15:20",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Перед Яхве, Елогімом твоїм, їстимеш його рік у рік, у місці, яке вибере Яхве, ти та дім твій.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Перед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елогімом твоїм"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "їстимеш його"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "рік"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "у рік"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "у місці"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "вибре"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "та дім твій"
+    }
+  ],
+  "timestamp": "2026-08-23T22:04:27.117443352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 21:25",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "А цей помирає в гіркій душі й ніколи не їв із добром.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "А цей"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "помирає"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "в душі"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "гіркій"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "їв"
+    },
+    {
+      "surface": "בטובה",
+      "gloss": "із добром"
+    }
+  ],
+  "timestamp": "2026-08-24T00:43:44.645802141Z",
+  "model": "glm-5.3"
+}

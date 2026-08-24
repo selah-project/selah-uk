@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 98,
+  "translation": "Грайте Яхве на кінорі, на кінорі й голосом співу.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Грайте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "на кінорі"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "на кінорі"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "й голосом"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "співу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:17.685870408Z",
+  "model": "glm-5.3"
+}

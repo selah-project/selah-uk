@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Бо це народ бунтівний, сини неправдиві, сини, що не схотіли слухати Тору Яхве.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "бунтівний"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "це"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сини"
+    },
+    {
+      "surface": "כחשים",
+      "gloss": "неправдиві"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сини"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "схотіли"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "слухати"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тору"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:11:53.059623812Z",
+  "model": "glm-5.3"
+}

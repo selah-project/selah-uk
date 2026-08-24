@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "І при межі Ашера, від краю сходу і аж до краю моря: Нафталі — один.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "І при"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "межі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашера"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "від краю"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "сходу"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "і аж до"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "краю"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "моря"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафталі"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-23T23:55:52.489409126Z",
+  "model": "glm-5.3"
+}

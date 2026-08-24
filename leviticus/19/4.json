@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Не обертайтеся до ідолів і богів литих не робіть собі: Я, Яхве, Елогім ваш.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "обертайтеся"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "ідолів"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "і богів"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "литих"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "робіть"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "собі"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елогім ваш"
+    }
+  ],
+  "timestamp": "2026-08-23T21:43:40.487434558Z",
+  "model": "glm-5.3"
+}

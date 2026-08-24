@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 4:8",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І сталося слово Яхве до мене, говорячи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "і сталося"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    }
+  ],
+  "timestamp": "2026-08-24T00:07:00.476753371Z",
+  "model": "glm-5.3"
+}

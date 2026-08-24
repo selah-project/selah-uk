@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І вчинив Яхве за словом Моше, і вимерли жаби з домів, з дворів і з полів.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "І вчинив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "за словом"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "і вимерли"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "жаби"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "домів"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "дворів"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "і з"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "полів"
+    }
+  ],
+  "timestamp": "2026-08-23T21:28:05.003266634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Харіма: тисяча і сімнадцять.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Харіма"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяча"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "і сім"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надцять"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:23.714042630Z",
+  "model": "glm-5.3"
+}

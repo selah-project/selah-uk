@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 78,
+  "translation": "Які чули ми й пізнали їх, і батьки наші оповіли нам.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Які"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "чули ми"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "й пізнали їх"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "і батьки наші"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "оповіли"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:09.701768723Z",
+  "model": "glm-5.3"
+}

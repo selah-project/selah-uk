@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 30:6",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "У стрімких ярах ⟨мусили⟩ жити, у норах землі й скель.",
+  "tokens": [
+    {
+      "surface": "בערוץ",
+      "gloss": "у стрімких"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "ярах"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "жити"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "у норах"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "землі"
+    },
+    {
+      "surface": "וכפים",
+      "gloss": "й скель"
+    }
+  ],
+  "timestamp": "2026-08-24T00:45:50.637820734Z",
+  "model": "glm-5.3"
+}

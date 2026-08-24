@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Бо Тобою пробіжу проти загону, і Елогімом моїм перескочу мур.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Тобою"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "пробіжу"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "проти загону"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "і Елогімом моїм"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "перескочу"
+    },
+    {
+      "surface": "שור",
+      "gloss": "мур"
+    }
+  ],
+  "timestamp": "2026-08-24T00:11:51.984201465Z",
+  "model": "glm-5.3"
+}

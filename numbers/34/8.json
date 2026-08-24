@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 34:8",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "Від гори Гора позначите на ввхід Хамата, і будуть виходи межі до Цедада.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "від гори"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Гора"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "позначите"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "на ввхід"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамата"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "і будуть"
+    },
+    {
+      "surface": "תוצאת",
+      "gloss": "виходи"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "межі"
+    },
+    {
+      "surface": "צדדה",
+      "gloss": "до Цедада"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:27.834333767Z",
+  "model": "glm-5.3"
+}

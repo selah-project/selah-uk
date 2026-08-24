@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 106,
+  "translation": "І служили ⟨את⟩ їхнім ідолам, і стали їм на приманку.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "І служили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "їнім ідолам"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "їнім ідолам"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "і стали"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "на приманку"
+    }
+  ],
+  "timestamp": "2026-08-24T01:53:14.770188976Z",
+  "model": "glm-5.3"
+}

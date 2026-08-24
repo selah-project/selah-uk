@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 105,
+  "translation": "І мандрували вони від народу до народу, від царства до іншого люду.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "І мандрували"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "від народу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народу"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "від царства"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "עם",
+      "gloss": "люду"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "іншого"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:35.917364804Z",
+  "model": "glm-5.3"
+}

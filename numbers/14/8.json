@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Якщо Яхве уподобав нас, то Він приведе ⟨את⟩ нас до цієї землі й дасть її нам — землю, яка тече молоком і медом.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Якщо"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "уподобав"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "нас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "то приведе"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ нас",
+      "marks": "нас"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цієї"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "і дасть її"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яка"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "тече"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "молоком"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "і медом"
+    }
+  ],
+  "timestamp": "2026-08-23T21:51:43.949556616Z",
+  "model": "glm-5.3"
+}

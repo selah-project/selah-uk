@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 2:11",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Уся мінха, яку принесете для Яхве, не робиться квашеною, бо всякий сір і всякий мед не куріть з них ішше для Яхве.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "уся"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "мінха"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "принесете"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "для Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "робиться"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "квашеною"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякий"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "сір"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і всякий"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "мед"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקטירו",
+      "gloss": "куріть"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "з них"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ішше"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "для Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:38:27.140011279Z",
+  "model": "glm-5.3"
+}

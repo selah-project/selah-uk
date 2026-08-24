@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "А сини Хелаа: Церет, Йицхар і Етнан.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "а сини"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "Хелаа"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "Церет"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "Йицхар"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "і Етнан"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:36.618734423Z",
+  "model": "glm-5.3"
+}

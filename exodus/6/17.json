@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 6:17",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Сини Гершона: Лівні та Шім'ї за їхніми родинами.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершона"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Лівні"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "та Шім'ї"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "за їхніми родинами"
+    }
+  ],
+  "timestamp": "2026-08-23T21:26:03.886464924Z",
+  "model": "glm-5.3"
+}

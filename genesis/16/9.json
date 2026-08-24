@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І сказав їй ангел Яхве: повернися до пані своєї і покірись під руками її.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "לה",
+      "gloss": "їй"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ангел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "повернися"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "пані своєї"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "і покірись"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "руками її"
+    }
+  ],
+  "timestamp": "2026-08-23T21:12:28.839400771Z",
+  "model": "glm-5.3"
+}

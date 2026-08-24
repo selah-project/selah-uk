@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І підняла вся громада ⟨את⟩ свій голос, і плакав ⟨the⟩ народ тієї ночі.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "і підняла"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "громада"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "і піднесли"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свій голос"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "свій голос"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "і плакав"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "тієї ночі"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "той"
+    }
+  ],
+  "timestamp": "2026-08-24T01:38:51.543500881Z",
+  "model": "glm-5.3"
+}

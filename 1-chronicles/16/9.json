@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Співайте Йому, грайте Йому, роздумуйте про всі Його чудеса",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Співайте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Йому"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "грайте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Йому"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "роздумуйте"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "про всі"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "Його чудеса"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:56.759349531Z",
+  "model": "glm-5.3"
+}

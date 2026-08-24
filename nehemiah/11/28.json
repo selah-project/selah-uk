@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 11:28",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "і в Циклаґу, і в Мехоні та в її дочках.",
+  "tokens": [
+    {
+      "surface": "ובצקלג",
+      "gloss": "і в Циклаґу"
+    },
+    {
+      "surface": "ובמכנה",
+      "gloss": "і в Мехоні"
+    },
+    {
+      "surface": "ובבנתיה",
+      "gloss": "та в її дочках"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:07.772066651Z",
+  "model": "glm-5.3"
+}

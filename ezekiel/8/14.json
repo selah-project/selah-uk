@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 8:14",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І привів ⟨את⟩ мене до входу брами дому Яхве, що на півночі, — і ось там сидять жінки, плачучи за ⟨את⟩ Таммузом.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "І привів"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мене"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входу"
+    },
+    {
+      "surface": "שער",
+      "gloss": "брами"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הצפונה",
+      "gloss": "півночі"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "і ось"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "жінки"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "сидять"
+    },
+    {
+      "surface": "מבכות",
+      "gloss": "плачучи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Таммузом"
+    },
+    {
+      "surface": "התמוז",
+      "gloss": "Таммузом"
+    }
+  ],
+  "timestamp": "2026-08-23T23:43:05.100166516Z",
+  "model": "glm-5.3"
+}

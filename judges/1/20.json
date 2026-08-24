@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І дали Калеву ⟨את⟩ Хеврон, як сказав Моше, і він вигнав звідти ⟨את⟩ трьох синів Анака.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "І дали"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Калеву"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хеврон"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Хеврон"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "і вигнав"
+    },
+    {
+      "surface": "משם",
+      "gloss": "звідти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "трьох синів"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "трьох"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "Анака"
+    }
+  ],
+  "timestamp": "2026-08-23T22:18:48.336538073Z",
+  "model": "glm-5.3"
+}

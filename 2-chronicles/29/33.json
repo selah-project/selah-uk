@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "А освяченого — волів шість сотень, і дрібної скотини трьох тисяч.",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "А освяченого"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "волів"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шість"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "і дрібної скотини"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "трьох"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "тисяч"
+    }
+  ],
+  "timestamp": "2026-08-24T01:33:56.597567732Z",
+  "model": "glm-5.3"
+}

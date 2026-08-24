@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Краще почути докір мудрого, ніж людині слухати пісню нерозумних.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "краще"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "почути"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "докір"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрого"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ніж людині"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слухати"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "пісню"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "нерозумних"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:13.827732049Z",
+  "model": "glm-5.3"
+}

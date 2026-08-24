@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Мужі Міхмасу — сто двадцять два.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Мужі"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "Міхмасу"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцять"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "і два"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:21.683276337Z",
+  "model": "glm-5.3"
+}

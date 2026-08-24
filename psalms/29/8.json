@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "Голос Яхве стрясає пустелю, — стрясає Яхве пустелю Кадешу.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Голос"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "стрясає"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "пустелю"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "стрясає"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "пустелю"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кадешу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:09.818594201Z",
+  "model": "glm-5.3"
+}

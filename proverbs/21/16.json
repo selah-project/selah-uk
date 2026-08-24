@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 21:16",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Людина, що блукає від шляху розуму, у зборі рефaimів знайде спочинок.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Людина"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "що блукає"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "від шляху"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "розуму"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "у зборі"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "рефаїмів"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "знайде спочинок"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:54.440366563Z",
+  "model": "glm-5.3"
+}

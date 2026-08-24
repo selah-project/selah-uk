@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 8:13",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І сказав ⟨мені⟩: ще повернешся — побачиш великі мерзоти, які вони чинять.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨мені⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "повернешся"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "побачиш"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "мерзоти"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "великі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "המה",
+      "gloss": "вони"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "чинять"
+    }
+  ],
+  "timestamp": "2026-08-23T23:43:05.099914643Z",
+  "model": "glm-5.3"
+}

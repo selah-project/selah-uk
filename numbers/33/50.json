@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 33:50",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І говорив Яхве до Моше в степах Моаву, над Ярденом навпроти Єрихону, кажучи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "І говорив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "у степах"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаву"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Ярденом"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "навпроти Єрихону"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:48.271852246Z",
+  "model": "glm-5.3"
+}

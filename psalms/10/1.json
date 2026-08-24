@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Чому, Яхве, стоїш ⟨у⟩далині, ховаєшся в часи скрути?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "чому"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "стоїш"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "⟨у⟩далині"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "ховаєшся"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "в часи"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "скрути"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:58.481773983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 20:28",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Хесед та істина стережуть царя, і хесед підпирає престіл його.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Хесед"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "та істина"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "стережуть"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "וסעד",
+      "gloss": "і підпирає"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "хеседом"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "престіл його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:59.846437192Z",
+  "model": "glm-5.3"
+}

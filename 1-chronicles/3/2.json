@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 3:2",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Третій Авшалом, син Маахи, дочки Талмая, царя Гешуру; четвертий Адонія, син Хаґґіт.",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "третій"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "мעכה",
+      "gloss": "Маахи"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочки"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Талмая"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Гешуру"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "четвертий"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Адонія"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Хаґґіт"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:36.618545934Z",
+  "model": "glm-5.3"
+}

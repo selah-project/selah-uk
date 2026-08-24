@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 44:31",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 44,
+  "translation": "Кожну падаль і розірване, з птиці і зі худоби, не їдатимуть священики.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "кожну"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "падаль"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "і-розірване"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "птиці"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "і-зі"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "худоби"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "їдатимуть"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "священики"
+    }
+  ],
+  "timestamp": "2026-08-23T23:55:15.031481970Z",
+  "model": "glm-5.3"
+}

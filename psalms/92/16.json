@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 92,
+  "translation": "Щоб звістити, що правий Яхве, Скеля моя, і немає у ⟨нього⟩ кривди.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "щоб звістити"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "правий"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Скеля моя"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і немає"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "кривди"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у ⟨нього⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:23.168141923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Викривлений шлях людини злочинної, а чистого — праведне діяння його.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "викривлений"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "шлях"
+    },
+    {
+      "surface": "איש",
+      "gloss": "людини"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "злочинної"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "а чистого"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "праведне"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "діяння його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:45.710394633Z",
+  "model": "glm-5.3"
+}

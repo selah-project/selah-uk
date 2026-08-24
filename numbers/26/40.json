@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 26:40",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "І були сини Бела: Ард і Нааман; рід га-Арді, до Наамана — рід га-Наамаї.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "І були"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Бела"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "Ард"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "і Нааман"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "рід"
+    },
+    {
+      "surface": "הארדי",
+      "gloss": "га-Арді"
+    },
+    {
+      "surface": "לנעמן",
+      "gloss": "до Наамана"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "рід"
+    },
+    {
+      "surface": "הנעמי",
+      "gloss": "га-Наамаї"
+    }
+  ],
+  "timestamp": "2026-08-23T21:56:42.829321881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 21:17",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І було слово Яхве до Еліягу га-Тішбі, кажучи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І було"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Еліягу"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "га-Тішбі"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T22:54:26.639702832Z",
+  "model": "glm-5.3"
+}

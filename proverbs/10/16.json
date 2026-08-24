@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Праця праведника — на життя, прибуток нечестивого — на гріх.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "праця"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "на життя"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "прибуток"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "нечестивого"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "на гріх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:09.117617183Z",
+  "model": "glm-5.3"
+}

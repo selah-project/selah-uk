@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 42,
+  "translation": "І сказав їм: ні, бо наготу землі ви прийшли побачити.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ні"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "наготу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "ви прийшли"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "побачити"
+    }
+  ],
+  "timestamp": "2026-08-23T21:22:10.441934949Z",
+  "model": "glm-5.3"
+}

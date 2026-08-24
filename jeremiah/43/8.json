@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 43:8",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 43,
+  "translation": "І було слово Яхве до Єрміяху в Тахпанхесі, кажучи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "і було"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Єрміяху"
+    },
+    {
+      "surface": "בתחפנחס",
+      "gloss": "в Тахпанхесі"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T23:36:40.467925495Z",
+  "model": "glm-5.3"
+}

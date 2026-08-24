@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 78,
+  "translation": "Сини Ефраїма, стрільці з лука, що відступили в день бою, ⟨він以为⟩",
+  "tokens": [],
+  "timestamp": "2026-08-24T00:20:35.021545021Z",
+  "model": "glm-5.3"
+}

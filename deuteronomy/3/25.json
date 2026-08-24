@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Хай я перейду, благаю, і побачу ⟨את⟩ ту добру землю, що за Ярденом, — оцей добрий горб і Леванон.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "хай я перейду"
+    },
+    {
+      "surface": "נא",
+      "gloss": "благаю"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "і побачу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ту добру землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ту добру"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "за"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярденом"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "горб"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "добрий"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "оцей"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "і Леванон"
+    }
+  ],
+  "timestamp": "2026-08-23T22:01:01.920676866Z",
+  "model": "glm-5.3"
+}

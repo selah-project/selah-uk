@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "І було зле в очах Яхве те, що він зробив; і Він умертвив також ⟨את⟩ нього.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "і-було-зле"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в-очах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "зробив"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "і-умертвив"
+    },
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "нього"
+    }
+  ],
+  "timestamp": "2026-08-23T21:21:46.939243536Z",
+  "model": "glm-5.3"
+}

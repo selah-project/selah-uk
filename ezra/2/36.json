@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 2:36",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Когани: сини Єдаї, дому Єшуа: дев'ятсот сімдесят і три.",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "когани"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Єдаї"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Єшуа"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "дев'ять"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "сімдесят"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "і три"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:26.010479985Z",
+  "model": "glm-5.3"
+}

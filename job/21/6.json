@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 21:6",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "А коли згадаю — тремчу, і жах охоплює моє тіло.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А коли"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "згадаю"
+    },
+    {
+      "surface": "ונבהלתי",
+      "gloss": "тремчу"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "і охоплює"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "моє тіло"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "жах"
+    }
+  ],
+  "timestamp": "2026-08-24T00:43:30.753233415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 89,
+  "translation": "Доки, Яхве, ховатимешся навіки? Палахкотітиме, як вогонь, лють Твоя?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Доки"
+    },
+    {
+      "surface": "מה",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ховатимешся"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "Палахкотітиме"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "як"
+    },
+    {
+      "surface": "אש",
+      "gloss": "вогонь"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "лють Твоя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:11.824389209Z",
+  "model": "glm-5.3"
+}

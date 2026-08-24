@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 64,
+  "translation": "Які гострять, як меч, язик свій, напнутили стрілу свою — слово гірке.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Які"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "гострять"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "як меч"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "язик свій"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "напнутили"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "стрілу свою"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "מר",
+      "gloss": "гірке"
+    }
+  ],
+  "timestamp": "2026-08-24T00:18:21.245683435Z",
+  "model": "glm-5.3"
+}

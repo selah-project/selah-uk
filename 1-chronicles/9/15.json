@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І Бакбаккар, Хереш, і Ґалал, і Матан'яху, син Міхи, син Зіхрі, син Асафа.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "І Бакбаккар"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Хереш"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "і Ґалал"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "і Матан'яху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "Міхи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Зіхрі"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асафа"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:26.103365746Z",
+  "model": "glm-5.3"
+}

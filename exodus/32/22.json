@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І сказав Агарон: нехай не запалиться гнів пана мого; ти знаєш ⟨את⟩ народ, що він у злі",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "нехай не запалиться"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гнів"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "пана мого"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаєш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "у злі"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    }
+  ],
+  "timestamp": "2026-08-23T21:35:14.179521019Z",
+  "model": "glm-5.3"
+}

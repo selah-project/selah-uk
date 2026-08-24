@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Вітер, повний від цих ⟨ним⟩, прийде до мене; тепер і я промовлю присуди проти ⟨את⟩ них.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "вітер"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "повний"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "від цих"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "прийде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "тепер"
+    },
+    {
+      "surface": "גם",
+      "gloss": "і"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "промовлю"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "присуди"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ їх"
+    }
+  ],
+  "timestamp": "2026-08-23T23:23:40.105713015Z",
+  "model": "glm-5.3"
+}

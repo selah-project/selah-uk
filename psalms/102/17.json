@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 102,
+  "translation": "Бо збудував Яхве Ціййон, явився у славі ⟨Своїй⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "збудував"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ціййон"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "явився"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "у славі ⟨Своїй⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:42.568548242Z",
+  "model": "glm-5.3"
+}

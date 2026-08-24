@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І Zig--- І кликав народ до Моше, і молився Моше до Яхве, і вгамувався огонь.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "І кликав"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "і молився"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "і вгамувався"
+    },
+    {
+      "surface": "האש",
+      "gloss": "огонь"
+    }
+  ],
+  "timestamp": "2026-08-23T21:51:14.731162118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Криклива вона і вперта — в домі її не затримуються ноги її.",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "криклива"
+    },
+    {
+      "surface": "היא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "і вперта"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "в домі її"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "затримуються"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "ноги її"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:32.041312302Z",
+  "model": "glm-5.3"
+}

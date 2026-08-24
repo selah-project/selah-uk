@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 15:19",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "їм одним дана ⟨була⟩ земля, і не проходив чужинець поміж ними.",
+  "tokens": [
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "одним"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "дана"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "проходив"
+    },
+    {
+      "surface": "זר",
+      "gloss": "чужинець"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "поміж ними"
+    }
+  ],
+  "timestamp": "2026-08-24T00:42:18.235622473Z",
+  "model": "glm-5.3"
+}

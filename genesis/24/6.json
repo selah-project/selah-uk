@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І сказав йому Аврагам: стережися, щоб не повернув ти ⟨את⟩ мого сина туди.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагам"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "стережися"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    },
+    {
+      "surface": "פן",
+      "gloss": "щоб не"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ти повернув"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мого сина"
+    },
+    {
+      "surface": "בני",
+      "gloss": "мого сина"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "туди"
+    }
+  ],
+  "timestamp": "2026-08-23T21:14:24.946247374Z",
+  "model": "glm-5.3"
+}

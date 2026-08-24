@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "numbers 7:63",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "один бик, син худоби, один овен, один ягня, син року свого, на всепалення.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "бик"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "худоби"
+    },
+    {
+      "surface": "איל",
+      "gloss": "овен"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ягня"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "року свого"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "на всепалення"
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:21.003465882Z",
+  "model": "glm-5.3"
+}

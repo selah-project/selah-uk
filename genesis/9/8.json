@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І сказав Елогім Ноаху та синам його ⟨את⟩ ним, говорячи:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноаху"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "та"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синам його"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ним"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:04.502060067Z",
+  "model": "glm-5.3"
+}

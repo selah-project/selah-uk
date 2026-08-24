@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І повернувся Ґідʼон, син Йоаша, з битви, зі сходу Гахересу.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "І повернувся"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Ґідʼон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаша"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "битви"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "зі сходу"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "Гахересу"
+    }
+  ],
+  "timestamp": "2026-08-23T22:22:05.412782135Z",
+  "model": "glm-5.3"
+}

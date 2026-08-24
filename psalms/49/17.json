@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 49,
+  "translation": "Не бійся, коли розбагатіє муж, коли примножиться слава дому його;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бійся"
+    },
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "розбагатіє"
+    },
+    {
+      "surface": "איש",
+      "gloss": "муж"
+    },
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "примножиться"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "дому його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:46.605118633Z",
+  "model": "glm-5.3"
+}

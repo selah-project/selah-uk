@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 22:6",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Ось князі Ізраїлю — кожен за силою своєю — були в тобі, щоб проливати кров.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "князі"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлю"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кожен"
+    },
+    {
+      "surface": "לזרעו",
+      "gloss": "за силою своєю"
+    },
+    {
+      "surface": "היו",
+      "gloss": "були"
+    },
+    {
+      "surface": "בך",
+      "gloss": "у тобі"
+    },
+    {
+      "surface": "למען",
+      "gloss": "щоб"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "проливати"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кров"
+    }
+  ],
+  "timestamp": "2026-08-23T23:46:50.200853090Z",
+  "model": "glm-5.3"
+}

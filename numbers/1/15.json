@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Для Нафталі — Ахіра, син Ейнана.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "Для Нафталі"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Ахіра"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Ейнана"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:31.387343416Z",
+  "model": "glm-5.3"
+}

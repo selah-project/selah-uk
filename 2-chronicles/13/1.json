@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "У вісімнадцятому році царя Яровама Авія став царювати над Єгоудою.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "У вісімнадцятому році"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "вісім"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-надцять"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яровама"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "і став царювати"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авія"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгоудою"
+    }
+  ],
+  "timestamp": "2026-08-24T01:58:44.869761318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "І їстимете старе, вельми старе, і старе вивезете ⟨перед⟩ новим.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "І їстимете"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "старе"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "вельми старе"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "і старе"
+    },
+    {
+      "surface": "мфні",
+      "gloss": "через"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нове"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "вивезете"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:32.876699786Z",
+  "model": "glm-5.3"
+}

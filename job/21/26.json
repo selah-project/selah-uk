@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 21:26",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Разом на поросі вони лягають, і хробак вкриє їх.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Разом"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "поросі"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "лягають"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "і хробак"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "вкриє"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "їх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:43:44.646012431Z",
+  "model": "glm-5.3"
+}

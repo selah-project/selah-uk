@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І Азарія породив ⟨את⟩ Хелеца, і Хелец породив ⟨את⟩ Ел’асу.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "І Азарія"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хелеца"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Хелец"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "і Хелец"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ел’асу"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Ел’аса"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:39.892568618Z",
+  "model": "glm-5.3"
+}

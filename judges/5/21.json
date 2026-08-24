@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 5:21",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Поток Кішон змів їх, поток давній — поток Кішон; топчи, душе моя, силою!",
+  "tokens": [
+    {
+      "surface": "נחל",
+      "gloss": "поток"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Кішон"
+    },
+    {
+      "surface": "גרפם",
+      "gloss": "змів їх"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "поток"
+    },
+    {
+      "surface": "קדומים",
+      "gloss": "давній"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "поток"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Кішон"
+    },
+    {
+      "surface": "תדרכי",
+      "gloss": "топчи"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душе моя"
+    },
+    {
+      "surface": "עז",
+      "gloss": "силою"
+    }
+  ],
+  "timestamp": "2026-08-24T01:40:35.062038565Z",
+  "model": "glm-5.3"
+}

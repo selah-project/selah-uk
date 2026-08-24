@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Що зробите ви в день призначений, і в день свята Яхве?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Що"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "зробите"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "призначений"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "і в день"
+    },
+    {
+      "surface": "חג",
+      "gloss": "свята"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:59:07.556114036Z",
+  "model": "glm-5.3"
+}

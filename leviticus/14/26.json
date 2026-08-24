@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "А з олії виллє коен на долоню коена ліву.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "А з"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "олії"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "виллє"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коен"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כף",
+      "gloss": "долоню"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коена"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ліву"
+    }
+  ],
+  "timestamp": "2026-08-23T21:41:51.671121836Z",
+  "model": "glm-5.3"
+}

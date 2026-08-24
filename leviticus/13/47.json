@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І одяг, коли буде в ньому ураження цараат — в одязі вовняному або в одязі лляному,",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "І одяг"
+    },
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в ньому"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ураження"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "цараат"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "в одязі"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "вовняному"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "в одязі"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "лляному"
+    }
+  ],
+  "timestamp": "2026-08-24T01:38:04.540676148Z",
+  "model": "glm-5.3"
+}

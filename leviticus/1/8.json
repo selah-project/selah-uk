@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І укладать сини Агарона, ⟨the⟩ священики, ⟨את⟩ шматки, ⟨את⟩ голову і ⟨את⟩ лій на ⟨the⟩ дрова, що на ⟨the⟩ огні, що на ⟨the⟩ жертовнику.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "укладать"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарона"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "священики"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шматки"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "шматки"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "голову"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "голову"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "лій"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "лій"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дрова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "האש",
+      "gloss": "огні"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жертовнику"
+    }
+  ],
+  "timestamp": "2026-08-23T21:38:19.908377288Z",
+  "model": "glm-5.3"
+}

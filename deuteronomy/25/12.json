@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "то відтятиш ⟨את⟩ руку її; око твоє не пошкодує.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "то відтятиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руку її"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "руку її"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "пошкодує"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "око твоє"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:30.649155743Z",
+  "model": "glm-5.3"
+}

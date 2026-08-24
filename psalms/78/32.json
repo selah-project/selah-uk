@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 78,
+  "translation": "При всьому цьому грішили ще, і не вірили в чудеса Його.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "При всьому"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "цьому"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "грішили"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "вірили"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "в чудеса Його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:58.538770732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 49:22",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 49,
+  "translation": "Син плідний Йосеф, син плідний над джерелом; донини ⟨його⟩ ступають по стіні.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "плідний"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "плідний"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "над"
+    },
+    {
+      "surface": "עין",
+      "gloss": "джерелом"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "донини"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "ступають"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "по"
+    },
+    {
+      "surface": "שור",
+      "gloss": "стіні"
+    }
+  ],
+  "timestamp": "2026-08-23T21:24:42.119605275Z",
+  "model": "glm-5.3"
+}

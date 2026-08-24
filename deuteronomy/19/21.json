@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І нехай не щадить твоє око: нефеш за нефеш, око за око, зуб за зуб, рука за руку, нога за ногу.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "нехай не щадить"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "твоє око"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "за нефеш"
+    },
+    {
+      "surface": "עין",
+      "gloss": "око"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "за око"
+    },
+    {
+      "surface": "שן",
+      "gloss": "зуб"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "за зуб"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "за руку"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "нога"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "за ногу"
+    }
+  ],
+  "timestamp": "2026-08-23T22:05:18.955368346Z",
+  "model": "glm-5.3"
+}

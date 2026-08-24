@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Посланець-лиходій упаде в лихо, а вісник вірний — зцілення.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "посланець"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "лиходій"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "упаде"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "в лихо"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "а вісник"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "вірний"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "зцілення"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:14.343189538Z",
+  "model": "glm-5.3"
+}

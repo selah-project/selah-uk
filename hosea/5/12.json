@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "А я — як міль Ефраїму і як гниль дому Єгуди.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А я"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "як міль"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Ефраїму"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "і як гниль"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    }
+  ],
+  "timestamp": "2026-08-23T23:56:30.471469649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "А над військом племені синів Зевулуна — Еліав, син Хелона.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "а над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "військом"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "племені"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зевулуна"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Еліав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "Хелона"
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:50.561837261Z",
+  "model": "glm-5.3"
+}

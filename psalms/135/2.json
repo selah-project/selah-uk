@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 135,
+  "translation": "ви, що стоїте в домі Яхве, у дворах дому Елогіму нашого!",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "що стоїте"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "в домі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "у дворах"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елогіму нашого"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:20.368556011Z",
+  "model": "glm-5.3"
+}

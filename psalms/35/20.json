@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "Бо не мир говорять, а на спокійних на землі слова підступні замислюють.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "говорять"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "а на"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "спокійних"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на землі"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "підступні"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "замислюють"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:55.966251274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 9:14",
+  "book": "hosea",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Дай їм, Яхве! Що даси Ти їм? Дай їм утробу, що викидає, і груди, що висохли.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Дай"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Що"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "даси Ти"
+    },
+    {
+      "surface": "תן",
+      "gloss": "Дай"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "утробу"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "що викидає"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "і груди"
+    },
+    {
+      "surface": "צמקים",
+      "gloss": "що висохли"
+    }
+  ],
+  "timestamp": "2026-08-23T23:58:23.929465093Z",
+  "model": "glm-5.3"
+}

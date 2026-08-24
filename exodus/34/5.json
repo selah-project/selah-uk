@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "І зійшов Яхве в хмарі, і став із ним там, і прикликав в Імені Яхве.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "І зійшов"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "в хмарі"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "і став"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "із ним"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "і прикликав"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "в Імені"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:35:58.719710249Z",
+  "model": "glm-5.3"
+}

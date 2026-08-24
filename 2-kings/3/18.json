@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І ⟨це⟩ легке ⟨є⟩ в очах Яхве, і Він віддасть ⟨את⟩ Моава в вашу руку.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "і легке"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "і віддасть"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моава"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "в вашу руку"
+    }
+  ],
+  "timestamp": "2026-08-24T01:43:56.125645922Z",
+  "model": "glm-5.3"
+}

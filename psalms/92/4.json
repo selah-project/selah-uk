@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 92,
+  "translation": "на десятиструнному і на невелі, на гігайоні з кінорою.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "на"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "десятиструнному"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "і на"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "невелі"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "гігайоні"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "з кінорою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:19.762802206Z",
+  "model": "glm-5.3"
+}

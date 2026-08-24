@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 2:34",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І не було в Шешана синів, тільки дочки. А в Шешана ⟨був⟩ раб-єгиптянин, ім'я його Ярха.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "І не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "було"
+    },
+    {
+      "surface": "לששן",
+      "gloss": "в Шешана"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синів"
+    },
+    {
+      "surface": "כי",
+      "gloss": "тільки"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дочки"
+    },
+    {
+      "surface": "ולששן",
+      "gloss": "А в Шешана"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "раб"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "єгиптянин"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ім'я його"
+    },
+    {
+      "surface": "ירחע",
+      "gloss": "Ярха"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:51.324428764Z",
+  "model": "glm-5.3"
+}

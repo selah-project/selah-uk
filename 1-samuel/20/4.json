@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І сказав Єгонатан Давидові: що скаже душа твоя, — і я зроблю тобі.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Єгонатан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "скаже"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "душа твоя"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "і я зроблю"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    }
+  ],
+  "timestamp": "2026-08-23T22:32:15.162200830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І вчинив Аса ⟨те, що⟩ добре й праведне в очах Яхве, Елогіма свого.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "і вчинив"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "добре"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "й праведне"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Елогіма свого"
+    }
+  ],
+  "timestamp": "2026-08-24T01:25:53.973855693Z",
+  "model": "glm-5.3"
+}

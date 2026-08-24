@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 10:22",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Мешезавел, Цадок, Яддуа.",
+  "tokens": [
+    {
+      "surface": "משיזבאל",
+      "gloss": "Мешезавел"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Яддуа"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:32.759446387Z",
+  "model": "glm-5.3"
+}

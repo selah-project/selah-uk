@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І жив Лемех вісімдесят два роки і сто років, і породив сина.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "І жив"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Лемех"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "два"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "і вісімдесят"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "роки"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "і сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "і породив"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:44.477498881Z",
+  "model": "glm-5.3"
+}

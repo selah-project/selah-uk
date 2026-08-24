@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 9:4",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "«Хто наївний — хай завернеться сюди!» тому, хто бракує серця, вона каже йому:",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Хто"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "наївний"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "хай завернеться"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "сюди"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "бракує"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серця"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "каже"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:19.210428312Z",
+  "model": "glm-5.3"
+}

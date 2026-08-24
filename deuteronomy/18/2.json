@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 18:2",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Наділу не буде йому серед братів його: Яхве — ⟨це⟩ наділ його, як Він говорив йому.",
+  "tokens": [
+    {
+      "surface": "ונחלה",
+      "gloss": "наділу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "серед"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "братів його"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨це⟩ Він"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "наділ його"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Він говорив"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    }
+  ],
+  "timestamp": "2026-08-23T22:06:19.399148422Z",
+  "model": "glm-5.3"
+}

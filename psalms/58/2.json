@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 58,
+  "translation": "Хіба справді німо правду говорите, прямо судите, сини людей?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Хіба справді"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "німо"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правду"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "говорите"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "прямо"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "судите"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людей"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:49.701338558Z",
+  "model": "glm-5.3"
+}

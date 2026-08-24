@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 47,
+  "translation": "Керівникові; синам Кораха; музичний твір.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синам"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кораха"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "музичний твір"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:12.180364266Z",
+  "model": "glm-5.3"
+}

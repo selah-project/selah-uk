@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 46,
+  "translation": "Те, що сталося ⟨як⟩ слово Яхве до Єрміяу пророка про народи.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Те, що"
+    },
+    {
+      "surface": "היה",
+      "gloss": "сталося"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Єрміяу"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨пророка⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "про"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    }
+  ],
+  "timestamp": "2026-08-23T23:36:40.471270780Z",
+  "model": "glm-5.3"
+}

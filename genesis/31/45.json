@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 31:45",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "І взяв Яаков камінь і поставив його ⟨як⟩ пам'ятний стовп.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "і взяв"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камінь"
+    },
+    {
+      "surface": "וירימה",
+      "gloss": "і поставив його"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "пам'ятний стовп"
+    }
+  ],
+  "timestamp": "2026-08-23T21:17:56.673339551Z",
+  "model": "glm-5.3"
+}

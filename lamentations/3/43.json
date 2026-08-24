@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Вкрив ⟨Ти⟩ гнівом і переслідував нас; вбивав — не щадив ⟨Ти⟩.",
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "вкрив Ти"
+    },
+    {
+      "surface": "באף",
+      "gloss": "гнівом"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "і переслідував нас"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "вбивав"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "щадив"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:21.214861986Z",
+  "model": "glm-5.3"
+}

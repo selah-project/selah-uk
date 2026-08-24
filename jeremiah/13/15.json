@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Слухайте й уважайте вухом, не гордуйтеся, бо Яхве говорив.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Слухайте"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "й уважайте вухом"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "гордуйтеся"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорив"
+    }
+  ],
+  "timestamp": "2026-08-24T01:47:03.212266892Z",
+  "model": "glm-5.3"
+}

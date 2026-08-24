@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 9:35",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "А у Гів'оні мешкали: батько Гів'она Єїел, а ім'я його дружини — Мааха.",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "А у Гів'оні"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "мешкали"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батько"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гів'она"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "Єїел"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а ім'я"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "його дружини"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:34.614907062Z",
+  "model": "glm-5.3"
+}

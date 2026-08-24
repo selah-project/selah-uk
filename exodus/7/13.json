@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І затверділо ⟨себе⟩ серце Паро, і не вислухав він їх, як промовив Яхве.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "І затверділо"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "вислухав"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "їх"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "промовив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:26:54.760606952Z",
+  "model": "glm-5.3"
+}

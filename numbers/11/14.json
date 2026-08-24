@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Не можу я сам понести ⟨את⟩ увесь цей народ, бо це надто тяжке для мене.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "можу"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "сам"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "понести"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "увесь цей народ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "увесь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цей"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "тяжке"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "для мене"
+    }
+  ],
+  "timestamp": "2026-08-23T21:52:22.056707807Z",
+  "model": "glm-5.3"
+}

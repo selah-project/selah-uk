@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "ezekiel 16:62",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І Я встановлю ⟨את⟩ заповіт Мій ⟨את⟩ тобою, і пізнаєш, що Я — Яхве.",
+  "tokens": [
+    {
+      "surface": "והקימותי",
+      "gloss": "І Я встановлю"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "заповіт Мій"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "заповіт Мій"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ тобою"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "і пізнаєш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:44:30.164247310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 39,
+  "translation": "Замовк я, не відкриваю рота мого, бо Ти вчинив ⟨це⟩.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "замовк я"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "відкриваю"
+    },
+    {
+      "surface": "פי",
+      "gloss": "рота мого"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "вчинив"
+    }
+  ],
+  "timestamp": "2026-08-24T00:15:44.762319887Z",
+  "model": "glm-5.3"
+}

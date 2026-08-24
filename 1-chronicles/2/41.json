@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "А Шаллум породив ⟨את⟩ Єкам'ю, і Єкам'я породив ⟨את⟩ Елішаму.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "А Шаллум"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Єкам'ю"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Єкам'я"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "і Єкам'я"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елішаму"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Елішаму"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:52.434571104Z",
+  "model": "glm-5.3"
+}

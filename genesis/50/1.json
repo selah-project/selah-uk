@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 50,
+  "translation": "І впав Йосеф на обличчя свого батька, і плакав над ним, і цілував його.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "і впав"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "обличчя"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "свого батька"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "і плакав"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "над ним"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "і цілував"
+    },
+    {
+      "surface": "לו",
+      "gloss": "його"
+    }
+  ],
+  "timestamp": "2026-08-23T21:25:11.778553582Z",
+  "model": "glm-5.3"
+}

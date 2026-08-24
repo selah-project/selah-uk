@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 94,
+  "translation": "Доки, нечестиві — Яхве, доки нечестиві тішитимуться?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Доки"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "⟨доки⟩"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестиві"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עד",
+      "gloss": "доки"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "⟨доки⟩"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестиві"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "тішитимуться"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:46.425489543Z",
+  "model": "glm-5.3"
+}

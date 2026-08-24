@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Звідти рушили, і стали табором у потоці Зеред.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "Звідти"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "рушили"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і стали табором"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "у потоці"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Зеред"
+    }
+  ],
+  "timestamp": "2026-08-23T21:54:09.038428509Z",
+  "model": "glm-5.3"
+}

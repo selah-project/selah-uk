@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 26:3",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Як ти радив немудрому, як щедро сповістив розуміння!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Як"
+    },
+    {
+      "surface": "יעצת",
+      "gloss": "ти радив"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "без"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрості"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "і розуміння"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "щедро"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "сповістив"
+    }
+  ],
+  "timestamp": "2026-08-24T00:44:29.072699430Z",
+  "model": "glm-5.3"
+}

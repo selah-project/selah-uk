@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 26:22",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Слова наклепника — як ласощі, і вони сходять у покої черева.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "наклепника"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "як ласощі"
+    },
+    {
+      "surface": "והם",
+      "gloss": "і вони"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "сходять"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "у покої"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "черева"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:48.635976505Z",
+  "model": "glm-5.3"
+}

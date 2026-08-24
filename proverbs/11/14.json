@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 11:14",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Без порад падає народ, а порятунок — у множині порадників.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "без"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "порад (керування)"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "падає"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "а порятунок"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "у множині"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "порадників"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:38.820773847Z",
+  "model": "glm-5.3"
+}

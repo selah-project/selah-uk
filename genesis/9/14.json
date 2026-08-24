@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 9:14",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І станеться, коли пошлю хмару над ⟨the⟩ землею, — і з'явиться лук у хмарі,",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "і станеться"
+    },
+    {
+      "surface": "בענני",
+      "gloss": "коли пошлю хмару"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "хмару"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землею"
+    },
+    {
+      "surface": "ונראתה",
+      "gloss": "і з'явиться"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "лук"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "у хмарі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:44.531456732Z",
+  "model": "glm-5.3"
+}

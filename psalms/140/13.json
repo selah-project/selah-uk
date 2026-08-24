@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 140,
+  "translation": "Знаю, що Яхве вчинить суд пригніченого, право вбогих.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Знаю"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "вчинить"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דין",
+      "gloss": "суд"
+    },
+    {
+      "surface": "עני",
+      "gloss": "пригніченого"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "право"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "вбогих"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:33.234155250Z",
+  "model": "glm-5.3"
+}

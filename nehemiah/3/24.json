@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 3:24",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Після нього зміцнив Біннуй, син Хенадада, другу ділянку — від дому Азарії до ⟨the⟩ кута і до ⟨the⟩ наріжжя.",
+  "tokens": [
+    {
+      "surface": "אחריו",
+      "gloss": "після нього"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "зміцнив"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "Біннуй"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חנדד",
+      "gloss": "Хенадада"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ділянку"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "другу"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "від дому"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарії"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "המקצוע",
+      "gloss": "кута"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "і до"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "наріжжя"
+    }
+  ],
+  "timestamp": "2026-08-24T01:08:00.212880023Z",
+  "model": "glm-5.3"
+}

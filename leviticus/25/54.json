@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 25:54",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "А якщо не буде викуплений цими ⟨способами⟩, то вийде він у році ювілею — він і сини його з ним.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а якщо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "буде викуплений"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "цими"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "то вийде"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "у році"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "ювілею"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "і сини його"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "з ним"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:11.226514876Z",
+  "model": "glm-5.3"
+}

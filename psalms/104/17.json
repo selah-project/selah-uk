@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 104,
+  "translation": "Де птахи в'ють гнізда, лелека-хасіда — кипариси ⟨є⟩ її домом.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "де"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "птахи"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "в'ють гнізда"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "лелека"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "кипариси"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "її дім"
+    }
+  ],
+  "timestamp": "2026-08-24T01:53:16.328538853Z",
+  "model": "glm-5.3"
+}

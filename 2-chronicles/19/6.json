@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 19:6",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "і сказав суддям: Дивіться, що ви робите, бо не людині ви судите, а Яхве, і Він ⟨з⟩ вами в ➡ справі суду.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "суддів"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Дивіться"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "робите"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "людині"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "ви судите"
+    },
+    {
+      "surface": "כי",
+      "gloss": "а"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "і ⟨Він⟩ з вами"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "в справі"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суду"
+    }
+  ],
+  "timestamp": "2026-08-24T01:28:05.945654968Z",
+  "model": "glm-5.3"
+}

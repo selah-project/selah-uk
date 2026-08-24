@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Також оці притчі Шломо, яких переклали мужі Хізкіягу, царя Єгоди.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Також"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "оці"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "притчі"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яких"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "переклали"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мужі"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Хізкіягу"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгоди"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:39.470195052Z",
+  "model": "glm-5.3"
+}

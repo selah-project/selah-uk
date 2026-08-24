@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 23:31",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Аві-Альбон араватянин; Азмавет бархумит.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Аві-"
+    },
+    {
+      "surface": "עלבון",
+      "gloss": "Альбон"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "араватянин"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Азмавет"
+    },
+    {
+      "surface": "הברחמי",
+      "gloss": "бархумит"
+    }
+  ],
+  "timestamp": "2026-08-23T22:45:15.606957149Z",
+  "model": "glm-5.3"
+}

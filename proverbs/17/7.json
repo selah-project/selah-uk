@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Не личить нікчемнику вишукана устна, тим паче вельможі — устна неправди.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "личить"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "нікчемнику"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "устна"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "вишукана"
+    },
+    {
+      "surface": "אף",
+      "gloss": "тим паче"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "вельможі"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "устна"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "неправди"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:56.730032787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 4:17",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Ще досі TableName знемагають очі наші, чекаючи на поміч нашу — марно; у чатуванні нашому чатували ми на народ, що не спасає.",
+  "tokens": [
+    {
+      "surface": "עודינה",
+      "gloss": "ще досі"
+    },
+    {
+      "surface": "תכלינה",
+      "gloss": "знемагають"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "очі наші"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "עזרתנו",
+      "gloss": "поміч нашу"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "марно"
+    },
+    {
+      "surface": "בצפיתנו",
+      "gloss": "у чатуванні нашому"
+    },
+    {
+      "surface": "צפינו",
+      "gloss": "чатували"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "спасає"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:57.852792854Z",
+  "model": "glm-5.3"
+}

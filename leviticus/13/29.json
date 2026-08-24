@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "А коли чоловік або жінка матиме на собі ураження на голові або на бороді,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "а чоловік"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жінка"
+    },
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "матиме"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на ньому"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ураження"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "на голові"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "на бороді"
+    }
+  ],
+  "timestamp": "2026-08-23T21:42:42.611733993Z",
+  "model": "glm-5.3"
+}

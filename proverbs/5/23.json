@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 5:23",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Він помре без ⟨ настави ⟩, і в надмірі глупоти своєї заблукає.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Він"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "помре"
+    },
+    {
+      "surface": "באין",
+      "gloss": "без"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "настави"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "і в надмірі"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "глупоти своєї"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "заблукає"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:16.634831829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І додав Аврагам, і взяв жінку, а ім'я її — Ктура.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "І додав"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагам"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "і взяв"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жінку"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "а ім'я її"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Ктура"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:41.981997581Z",
+  "model": "glm-5.3"
+}

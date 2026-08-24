@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "І піднявся звідти до Беер-Шеви.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "і піднявся"
+    },
+    {
+      "surface": "משם",
+      "gloss": "звідти"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беер"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шеви"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:41.394874868Z",
+  "model": "glm-5.3"
+}

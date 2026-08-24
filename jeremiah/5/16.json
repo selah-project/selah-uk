@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Сагайдак його — як розкрита гробниця, усі вони — силачі.",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "сагайдак його"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "як гробниця"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "розкрита"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "усі вони"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "силачі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:24:21.612805249Z",
+  "model": "glm-5.3"
+}

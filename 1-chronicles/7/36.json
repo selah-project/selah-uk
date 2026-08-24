@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Сини Цофаха: Суах, і Гарнефер, і Шуал, і Бері, і Їмра.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "Цофаха"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "Суах"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "і Гарнефер"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "і Шуал"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "і Бері"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "і Їмра"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:16.571316307Z",
+  "model": "glm-5.3"
+}

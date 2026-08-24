@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І піднявся Давид за словом Гада, як заповів Яхве.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "і піднявся"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "за словом"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T22:45:33.457013621Z",
+  "model": "glm-5.3"
+}

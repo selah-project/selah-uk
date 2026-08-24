@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Утай, син Аммігуда, син Омрі, син Імрі, син Бані, з синів Переца, сина Єгуди.",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "Утай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Аммігуда"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Омрі"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Імрі"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бані"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Переца"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    }
+  ],
+  "timestamp": "2026-08-24T01:57:56.653176399Z",
+  "model": "glm-5.3"
+}

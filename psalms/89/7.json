@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 89,
+  "translation": "Бо хто в хмарах зрівняється з Яхве, хто подібний до Яхве серед синів Ела?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "в хмарах"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "зрівняється"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "з Яхве"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "подібний"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "до Яхве"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "серед синів"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Ела"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:01.104014933Z",
+  "model": "glm-5.3"
+}

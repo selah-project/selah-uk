@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І дали сини Ізраїля левітам ⟨את⟩ міста та ⟨את⟩ їхні пасовища.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "і дали"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "левітам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "міста"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "міста"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "та ⟨את⟩",
+      "marks": "їхні пасовища"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "їхні пасовища"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:24.414301702Z",
+  "model": "glm-5.3"
+}

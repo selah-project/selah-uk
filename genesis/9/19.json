@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Троє цих — сини Ноаха, і від цих розсілилася вся земля.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "Троє"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "цих"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноаха"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "і від цих"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "розсілилася"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:54.921345706Z",
+  "model": "glm-5.3"
+}

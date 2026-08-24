@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 27:23",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Харан, і Канне, і Еден, купці Шеви, Ашшур ⟨і⟩ Кілмад — торговці твої.",
+  "tokens": [
+    {
+      "surface": "חרן",
+      "gloss": "Харан"
+    },
+    {
+      "surface": "וכנה",
+      "gloss": "і Канне"
+    },
+    {
+      "surface": "ועדן",
+      "gloss": "і Еден"
+    },
+    {
+      "surface": "רכלי",
+      "gloss": "купці"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Шеви"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "כלמד",
+      "gloss": "Кілмад"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "торговці твої"
+    }
+  ],
+  "timestamp": "2026-08-23T23:49:03.353968788Z",
+  "model": "glm-5.3"
+}

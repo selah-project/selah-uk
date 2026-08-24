@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Бо десять цімдерів винограднику дадуть один бат, і хомер насіння дасть одну ефу.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "десять"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "цімдерів"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "винограднику"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "дадуть"
+    },
+    {
+      "surface": "בת",
+      "gloss": "бат"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "один"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "і насіння"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "хомер"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "дасть"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ефу"
+    }
+  ],
+  "timestamp": "2026-08-23T23:06:16.626913846Z",
+  "model": "glm-5.3"
+}

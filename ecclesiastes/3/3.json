@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Пора вбивати, і пора лікувати; пора руйнувати, і пора будувати;",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Пора"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "вбивати"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "і пора"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "лікувати"
+    },
+    {
+      "surface": "עת",
+      "gloss": "пора"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "руйнувати"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "і пора"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "будувати"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:12.514204070Z",
+  "model": "glm-5.3"
+}

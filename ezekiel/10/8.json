@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І видно було на керувім подобу руки людини під їхніми крилами.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "і видно було"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "на керувім"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "подобу"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руки"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людини"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "їхніми крилами"
+    }
+  ],
+  "timestamp": "2026-08-23T23:42:43.611220712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "А це їхні імена: Бен-Хур, у горах Ефраїма.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "А це"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "їхні імена"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Бен-Хур (син)"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Хура"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "у горах"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраїма"
+    }
+  ],
+  "timestamp": "2026-08-23T22:46:06.744089399Z",
+  "model": "glm-5.3"
+}

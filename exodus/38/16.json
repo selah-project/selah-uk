@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "Усі завіси двору навколо ⟨з⟩ тонкого крученого льону.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "завіси"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "двору"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "навколо"
+    },
+    {
+      "surface": "שש",
+      "gloss": "тонкого льону"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "крученого"
+    }
+  ],
+  "timestamp": "2026-08-24T01:37:41.173036940Z",
+  "model": "glm-5.3"
+}

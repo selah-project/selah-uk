@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І Боаз породив ⟨את⟩ Оведа, і Овед породив ⟨את⟩ Їшая.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "І Боаз"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Оведа"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Оведа"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "і Овед"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Їшая"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Їшая"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:41.896266410Z",
+  "model": "glm-5.3"
+}

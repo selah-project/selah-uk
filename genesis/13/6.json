@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І не могла земля носити ⟨את⟩ їх, щоб жити разом, бо майно їхнє було велике, і не могли вони жити разом.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "І не"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "могла носити"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "їх"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "жити"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "разом"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "היה",
+      "gloss": "було"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "майно їхнє"
+    },
+    {
+      "surface": "רב",
+      "gloss": "велике"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "могли вони"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "жити"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "разом"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:28.299080857Z",
+  "model": "glm-5.3"
+}

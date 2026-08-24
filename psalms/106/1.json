@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 106,
+  "translation": "Хваліть Яха, дякуйте Яхве, бо ⟨він⟩ добрий, бо навіки його хесед.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Хваліть"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "дякуйте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добрий"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "його хесед"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:19.408654081Z",
+  "model": "glm-5.3"
+}

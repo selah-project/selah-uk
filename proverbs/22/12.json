@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Очі Яхве стережуть знання, а слова зрадника Він викриває.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "очі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "стережуть"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знання"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "а Він викриває"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "зрадника"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:16.095688205Z",
+  "model": "glm-5.3"
+}

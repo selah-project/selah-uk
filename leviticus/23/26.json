@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 23:26",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І говорив Яхве до Моше, кажучи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "І говорив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:24.812424849Z",
+  "model": "glm-5.3"
+}

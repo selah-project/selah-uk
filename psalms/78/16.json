@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 78,
+  "translation": "І вивів потоки зі скелі, і спустив води, як ріки.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "І вивів"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "потоки"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "зі скелі"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "і спустив"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "як ріки"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:08.623136595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 31:17",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Підперезала силою стегна свої, і міцнить руки свої.",
+  "tokens": [
+    {
+      "surface": "חגרה",
+      "gloss": "Підперезала"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "силою"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "стегна свої"
+    },
+    {
+      "surface": "ותאמץ",
+      "gloss": "і міцнить"
+    },
+    {
+      "surface": "זרעותיה",
+      "gloss": "руки свої"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:45.486367933Z",
+  "model": "glm-5.3"
+}

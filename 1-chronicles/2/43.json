@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "А сини Хеврона: Корах, і Таппуах, і Рекем, і Шама.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А сини"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Хеврона"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "і Таппуах"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "і Рекем"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "і Шама"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:52.434997679Z",
+  "model": "glm-5.3"
+}

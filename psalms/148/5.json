@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 148,
+  "translation": "Нехай хвалять ⟨את⟩ ім'я Яхве, бо Він повелів — і ⟨вони⟩ були створені.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Нехай хвалять"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ім'я Яхве"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ім'я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Він"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелів"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "і були створені"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:11.985776170Z",
+  "model": "glm-5.3"
+}

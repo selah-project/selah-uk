@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 145,
+  "translation": "Добрий Яхве до всіх, і милосердя Його — над усіма Його ділами.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Добрий"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "до всіх"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "і милосердя Його"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіма"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "Його ділами"
+    }
+  ],
+  "timestamp": "2026-08-24T00:30:41.623372588Z",
+  "model": "glm-5.3"
+}

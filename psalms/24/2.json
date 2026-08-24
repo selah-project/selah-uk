@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Бо Він над морями заснував її, і над ріками встановлює її.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Він"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "морями"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "заснував її"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і над"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ріками"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "встановлює її"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:04.074838892Z",
+  "model": "glm-5.3"
+}

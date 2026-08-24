@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 28:6",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Тому так сказав Адонай Яхве: за те, що ти дав ⟨את⟩ своє серце як серце Елогім, —",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יען",
+      "gloss": "за те, що"
+    },
+    {
+      "surface": "תתך",
+      "gloss": "ти дав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "своє серце"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "своє серце"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "як серце"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    }
+  ],
+  "timestamp": "2026-08-23T23:48:57.978263537Z",
+  "model": "glm-5.3"
+}

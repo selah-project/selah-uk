@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 39,
+  "translation": "⟨את⟩ Стіл, ⟨את⟩ всі його посудини, і ⟨את⟩ хліб Обличчя.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Стіл"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "Стіл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всі його посудини"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "його посудини"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "хліб Обличчя"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хліб"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "Обличчя"
+    }
+  ],
+  "timestamp": "2026-08-23T21:38:09.640348864Z",
+  "model": "glm-5.3"
+}

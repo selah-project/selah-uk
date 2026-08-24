@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "Бо ви сказали: «Поставив нам Яхве пророків у Вавилоні».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "ви сказали"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "Поставив"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "пророків"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "у Вавилоні"
+    }
+  ],
+  "timestamp": "2026-08-23T23:32:17.445305792Z",
+  "model": "glm-5.3"
+}

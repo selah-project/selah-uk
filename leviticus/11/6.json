@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І ⟨את⟩ арнебет, бо підносить жуйку вона, а копито не розсікла — нечиста вона для вас.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "арнебет"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "арнебет"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "підносить"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "жуйку"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "а копито"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "розсікла"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "нечиста"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для вас"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:20.033290185Z",
+  "model": "glm-5.3"
+}

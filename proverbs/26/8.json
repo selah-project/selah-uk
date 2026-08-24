@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Як прив'язування каменя в пращу — так дає шану глупцеві ⟨він⟩.",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "як прив'язування"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "каменя"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "в пращу"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "дає"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "глупцеві"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "шану"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:53.341708325Z",
+  "model": "glm-5.3"
+}

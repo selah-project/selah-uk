@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Проклятий той, хто викривляє суд приїзжого, сироти й удови; і скаже ввесь народ: Амейн.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Проклятий"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "той, хто викривляє"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "גר",
+      "gloss": "приїзжого"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "сироти"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "й удови"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "і скаже"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ввесь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амейн"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:57.660264867Z",
+  "model": "glm-5.3"
+}

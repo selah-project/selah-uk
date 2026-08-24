@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І сини Хецрона, що народилися йому: ⟨את⟩ Єрахмеель, і ⟨את⟩ Рам, і ⟨את⟩ Келувай.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "і сини"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецрона"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "народилися"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Єрахмеель"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Єрахмеель"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Рам"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Рам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Келувай"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Келувай"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:41.895695072Z",
+  "model": "glm-5.3"
+}

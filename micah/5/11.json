@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 5:11",
+  "book": "micah",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І винищу чари з руки твоєї, і ворожбитів не буде в тебе.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "І винищу"
+    },
+    {
+      "surface": "כשפים",
+      "gloss": "чари"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "з руки твоєї"
+    },
+    {
+      "surface": "ומעוננים",
+      "gloss": "і ворожбитів"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "в тебе"
+    }
+  ],
+  "timestamp": "2026-08-24T00:02:38.444306399Z",
+  "model": "glm-5.3"
+}

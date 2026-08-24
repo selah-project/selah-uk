@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 41,
+  "translation": "І сказав Йосеф до Паро: сон Паро — один він; ⟨את⟩ що Елогім робить, Він переказав Паро.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "сон"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "що Елогім робить"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "робить"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "переказав"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Паро"
+    }
+  ],
+  "timestamp": "2026-08-23T21:21:24.758467034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 38:24",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "І сказав Цідкіяѓу до Єрміяѓу: «Ніхто нехай не знає про ці слова, і ти не вмреш.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цідкіяѓу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Єрміяѓу"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ніхто"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нехай не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знає"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "про слова"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "вмреш"
+    }
+  ],
+  "timestamp": "2026-08-23T23:35:35.772831499Z",
+  "model": "glm-5.3"
+}

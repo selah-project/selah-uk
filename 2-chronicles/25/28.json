@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І перевезли його на конях, і поховали ⟨את⟩ нього з отцями його в місті Єгуди.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "і перевезли його"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "конях"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "і поховали"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "нього"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "отцями його"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "у місті"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    }
+  ],
+  "timestamp": "2026-08-24T01:59:08.321347849Z",
+  "model": "glm-5.3"
+}

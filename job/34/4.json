@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 34:4",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "Суд собі оберемо, пізнаємо поміж нами, що ⟨є⟩ добре.",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "Суд"
+    },
+    {
+      "surface": "נבחרה",
+      "gloss": "оберемо"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "собі"
+    },
+    {
+      "surface": "נדעה",
+      "gloss": "пізнаємо"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "поміж нами"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добре"
+    }
+  ],
+  "timestamp": "2026-08-24T00:46:31.763979084Z",
+  "model": "glm-5.3"
+}

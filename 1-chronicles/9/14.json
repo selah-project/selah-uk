@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 9:14",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "А з левитів: Шма'яху, син Хашува, син Азрікама, син Хашав'яху, з синів Мерарі.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "А з"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитів"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шма'яху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "Хашува"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Азрікама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашав'яху"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерарі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:26.103192036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 15:8",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Синам Еліцефану — Шемайя ⟨the⟩ начальник та його брати, двісті.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "синам"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "Еліцефану"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемайя"
+    },
+    {
+      "surface": "השר",
+      "gloss": "⟨the⟩ начальник"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "та його брати"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двісті"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:35.208034771Z",
+  "model": "glm-5.3"
+}

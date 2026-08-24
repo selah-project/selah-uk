@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І почув Тої, цар Хамату, що Давид уразив ⟨את⟩ усе військо Гададезера.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "і почув"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Тої"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамату"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "уразив"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усе військо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "військо"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Гададезера"
+    }
+  ],
+  "timestamp": "2026-08-23T22:39:00.208257976Z",
+  "model": "glm-5.3"
+}

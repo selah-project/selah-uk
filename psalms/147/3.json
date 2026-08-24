@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 147,
+  "translation": "Лікує зламаних серцем і перев'язує ⟨їхні⟩ рани.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "Лікує"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "зламаних"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серцем"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "і перев'язує"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "⟨їхні⟩ рани"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:01.174921329Z",
+  "model": "glm-5.3"
+}

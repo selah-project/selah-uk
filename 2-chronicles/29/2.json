@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 29:2",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І чинив ⟨він⟩ праве в очах Яхве, за всім, що робив Давид, батько його.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "І чинив"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "праве"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "за всім"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "робив"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "батько його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:30:52.557765684Z",
+  "model": "glm-5.3"
+}

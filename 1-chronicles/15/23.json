@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 15:23",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "і Берех'я та Елкана — воротарі для ковчега.",
+  "tokens": [
+    {
+      "surface": "וברכיה",
+      "gloss": "Берех'я"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "Елкана"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "воротарі"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "для ковчега"
+    }
+  ],
+  "timestamp": "2026-08-24T01:58:14.678999610Z",
+  "model": "glm-5.3"
+}

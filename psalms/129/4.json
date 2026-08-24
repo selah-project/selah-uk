@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 129,
+  "translation": "Яхве ⟨є⟩ праведний: порубав шнури нечестивих",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведний"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "порубав"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "шнури"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивих"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:59.837256985Z",
+  "model": "glm-5.3"
+}

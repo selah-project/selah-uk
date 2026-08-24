@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 2:15",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Адіна: чотириста п'ятдесят і чотири.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "Адіна"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чотири"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "п'ятдесят"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "і чотири"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:15.592215980Z",
+  "model": "glm-5.3"
+}

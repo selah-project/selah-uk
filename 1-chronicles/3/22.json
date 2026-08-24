@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 3:22",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І сини Шханьї: Шемайя; і сини Шемайї: Хаттуш, і Їґал, і Барья, і Неарья, і Шафат — шість.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "І сини"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "Шханьї"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемайя"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "і сини"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемайї"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "Хаттуш"
+    },
+    {
+      "surface": "ויגאל",
+      "gloss": "і Їґал"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "і Барья"
+    },
+    {
+      "surface": "ונעריה",
+      "gloss": "і Неарья"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "і Шафат"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шість"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:16.966418312Z",
+  "model": "glm-5.3"
+}

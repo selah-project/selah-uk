@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Ходи, мій коханий, вийдемо в ⟨את⟩ поле, переночуємо в селах.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "ходи"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "мій коханий"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "вийдемо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "поле"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поле"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "переночуємо"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "в селах"
+    }
+  ],
+  "timestamp": "2026-08-24T01:56:18.033209775Z",
+  "model": "glm-5.3"
+}

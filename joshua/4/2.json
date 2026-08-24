@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Візьміть собі з народу дванадцять мужів, чоловік один, чоловік один від коліна.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Візьміть"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "собі"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "десять"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "мужів"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "від коліна"
+    }
+  ],
+  "timestamp": "2026-08-23T22:11:44.715439818Z",
+  "model": "glm-5.3"
+}

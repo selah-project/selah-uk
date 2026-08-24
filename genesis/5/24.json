@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І ходив Ханох ⟨את⟩ ⟨з⟩ Елогім, і його нема, бо взяв його Елогім.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "І ходив"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханох"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨з⟩",
+      "marks": "Елогім"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "і його нема"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "взяв"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ його",
+      "marks": "Ханоха"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:47.045498666Z",
+  "model": "glm-5.3"
+}

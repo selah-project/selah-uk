@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 14:3",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І вийде Яхве, і воюватиме проти тих народів, як воює Він у день битви.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "і вийде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "і воюватиме"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "проти тих народів"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "тих"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "як"
+    },
+    {
+      "surface": "הלחמו",
+      "gloss": "воює"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у день"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "битви"
+    }
+  ],
+  "timestamp": "2026-08-24T00:09:22.820377197Z",
+  "model": "glm-5.3"
+}

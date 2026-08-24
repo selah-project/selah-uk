@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Каже ледар: лев ⟨у⟩ дорозі, лев серед площ",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "каже"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ледар"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "лев"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "у дорозі"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "лев"
+    },
+    {
+      "surface": "בין",
+      "gloss": "серед"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "площ"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:20.754372622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Слова Когелет, сина Давіда, царя в Єрушалаїмі.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Слова"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Когелет"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давіда"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "в Єрушалаїмі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:53.437320017Z",
+  "model": "glm-5.3"
+}

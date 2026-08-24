@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "joshua 15:51",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "і Гошен, і Холон, і Гіло: міст одинадцять і села їхні.",
+  "tokens": [
+    {
+      "surface": "וגשן",
+      "gloss": "і Гошен"
+    },
+    {
+      "surface": "וחלן",
+      "gloss": "і Холон"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "і Гіло"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "міст"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одинадцять — один"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десять"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "і села їхні"
+    }
+  ],
+  "timestamp": "2026-08-23T22:15:35.861038571Z",
+  "model": "glm-5.3"
+}

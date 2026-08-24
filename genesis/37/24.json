@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "І взяли його, і кинули ⟨את⟩ його в яму; а яма порожня — немає в ній води.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "І взяли його"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "і кинули"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "нього"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "в яму"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "а яма"
+    },
+    {
+      "surface": "רק",
+      "gloss": "порожня"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в ній"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    }
+  ],
+  "timestamp": "2026-08-23T21:20:47.827927970Z",
+  "model": "glm-5.3"
+}

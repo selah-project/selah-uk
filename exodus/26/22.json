@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 26:22",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "і для задніх кутів ⟨the⟩ скинії, на захід, зробиш шість дошок.",
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "і для задніх кутів"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "⟨the⟩ скинії"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "на захід"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "зробиш"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шість"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "дошок"
+    }
+  ],
+  "timestamp": "2026-08-23T21:32:59.958924723Z",
+  "model": "glm-5.3"
+}

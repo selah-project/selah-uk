@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 126,
+  "translation": "Велике вчинив Яхве з нами — ми стали радісними.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "Велике"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "вчинив"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "з нами"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ми стали"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "радісними"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:07.750049455Z",
+  "model": "glm-5.3"
+}

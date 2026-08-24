@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Прив'яжи їх на пальцях своїх, напиши їх на скрижалі серця твого.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "прив'яжи їх"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "пальцях своїх"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "напиши їх"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "скрижалі"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "серця твого"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:37.856943130Z",
+  "model": "glm-5.3"
+}

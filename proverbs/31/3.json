@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Не віддавай жінкам сили твоєї, а доріг твоїх — тим, що винищують царів.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "віддавай"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "жінкам"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "сили твоєї"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "а доріг твоїх"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "винищують"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "царів"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:46.762024611Z",
+  "model": "glm-5.3"
+}

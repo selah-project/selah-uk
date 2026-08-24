@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Розбите місто пустки, замкнено кожен дім від входу.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "розбите"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "місто"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "пустки"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "замкнено"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кожен"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "від входу"
+    }
+  ],
+  "timestamp": "2026-08-23T23:10:22.055049043Z",
+  "model": "glm-5.3"
+}

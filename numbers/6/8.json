@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Усі дні посвячення його — святий він Яхві.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Усі"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дні"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "посвячення його"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "святий"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхві"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:11.191778711Z",
+  "model": "glm-5.3"
+}

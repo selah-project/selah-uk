@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "У день добра будь у добрі, а в день лиха дивись: також ⟨את⟩ це навпроти того вчинив Елогім — на те, щоб людина не знайшла після ⟨його⟩ нічого.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "У день"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добра"
+    },
+    {
+      "surface": "היה",
+      "gloss": "будь"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "у добрі"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "а в день"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "лиха"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "дивись"
+    },
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "це"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "навпроти"
+    },
+    {
+      "surface": "זה",
+      "gloss": "того"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "вчинив"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "те, щоб"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "знайшла"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людина"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "після ⟨його⟩"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "нічого"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:28.273189170Z",
+  "model": "glm-5.3"
+}

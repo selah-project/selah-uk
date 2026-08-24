@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Ахі, син Абдіеля, сина Гуні, ⟨був⟩ головою дому батьків їхніх.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Ахі"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "Абдіеля"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "Гуні"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "головою"
+    },
+    {
+      "surface": "לבית",
+      "gloss": " дому"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "батьків їхніх"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:40.825176910Z",
+  "model": "glm-5.3"
+}

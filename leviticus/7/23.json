@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Промовляй до синів Ісраеля, кажучи: будь-який лій вола, і вівці, і кози — не їжте.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "промовляй"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраеля"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "будь-який"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "лій"
+    },
+    {
+      "surface": "שור",
+      "gloss": "вола"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "і вівці"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "і кози"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "їжте"
+    }
+  ],
+  "timestamp": "2026-08-23T21:39:06.874413172Z",
+  "model": "glm-5.3"
+}

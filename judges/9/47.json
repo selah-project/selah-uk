@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "judges 9:47",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І повідомили Авімелеху, що зібралися всі володарі вежі Шхем.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "І повідомили"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "Авімелеху"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "зібралися"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "володарі"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "вежі"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шхем"
+    }
+  ],
+  "timestamp": "2026-08-23T22:22:36.546830924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 46,
+  "translation": "І сини Реувена: Ханох, і Паллу, і Хецрон, і Кармі.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "І сини"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувена"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханох"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "і Паллу"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "і Хецрон"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "і Кармі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:23:27.329426184Z",
+  "model": "glm-5.3"
+}

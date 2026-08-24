@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Бо одуріли пастирі, і ⟨את⟩ Яхве не шукали, тому не розуміли, і вся отара їхня розпорошена.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "одуріли"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "пастирі"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "шукали"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "розуміли"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і вся"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "отара їхня"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "розпорошена"
+    }
+  ],
+  "timestamp": "2026-08-23T23:25:33.721082541Z",
+  "model": "glm-5.3"
+}

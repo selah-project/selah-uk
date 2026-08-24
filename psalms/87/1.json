@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 87,
+  "translation": "Синам Кораха. Мізмор, пісня. Основи його — на горах святості.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Синам"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кораха"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Мізмор"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "пісня"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "Основи його"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "на горах"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "святості"
+    }
+  ],
+  "timestamp": "2026-08-24T01:53:06.023638154Z",
+  "model": "glm-5.3"
+}

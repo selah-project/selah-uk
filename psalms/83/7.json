@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 83,
+  "translation": "Шатри Едому та Ішмаеліти, Моав і ⟨את⟩ гаґарян.",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "Шатри"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едому"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "та Ішмаеліти"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "і ⟨את⟩ гаґаряни"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:38.298204558Z",
+  "model": "glm-5.3"
+}

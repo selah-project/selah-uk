@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 5:12",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Заперечили Яхве й сказали: «Не ⟨він⟩ це, і не прийде на нас лихо, і меча й голоду не побачимо».",
+  "tokens": [
+    {
+      "surface": "כחשו",
+      "gloss": "заперечили"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "й сказали"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "прийде"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "на нас"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "лихо"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "і меча"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "й голоду"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "побачимо"
+    }
+  ],
+  "timestamp": "2026-08-23T23:23:31.437158965Z",
+  "model": "glm-5.3"
+}

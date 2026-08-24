@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Бігвая: дві тисячі п'ятдесят і шість.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "Бігвая"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "дві тисячі"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "п'ятдесят"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "і шість"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:15.592081937Z",
+  "model": "glm-5.3"
+}

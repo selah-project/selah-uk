@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Неціаха, сини Хатіфи",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "Неціаха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "Хатіфи"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:40.295134500Z",
+  "model": "glm-5.3"
+}

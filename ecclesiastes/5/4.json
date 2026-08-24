@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Краще, що не даєш обітниці, ніж що даєш обітницю і не виконуєш.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "краще"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "даєш обітниці"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "ніж що даєш обітницю"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "виконуєш"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:27.915121098Z",
+  "model": "glm-5.3"
+}

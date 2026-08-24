@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І Моца породив ⟨את⟩ Бін'а; Рафа — син його, Ел'аса — син його, Ацел — син його.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "І Моца"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бін'а"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "Бін'а"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "Рафа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Ел'аса"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "Ацел"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:52.508865083Z",
+  "model": "glm-5.3"
+}

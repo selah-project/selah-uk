@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Дім праведника — багате багатство, а в прибутку лихого — маячня.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "багатство"
+    },
+    {
+      "surface": "רב",
+      "gloss": "багате"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "а в прибутку"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "лихого"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "маячня"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:36.784061673Z",
+  "model": "glm-5.3"
+}

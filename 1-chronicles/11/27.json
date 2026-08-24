@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Шаммот ⟨з⟩ га-Харорі, Хелец ⟨з⟩ га-Пелоні,",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "Шаммот"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "га-Харорі"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Хелец"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "га-Пелоні"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:53.318161303Z",
+  "model": "glm-5.3"
+}

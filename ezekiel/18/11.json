@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 18:11",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "А він ⟨את⟩ усього цього не робив: бо й на гори їв, і ⟨את⟩ жону ближнього свого осквернив.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "а він"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всього цього"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всього"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "цього"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "робив"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "גם",
+      "gloss": "й"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "гори"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "їв"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "жону ближнього"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жону"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ближнього свого"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "осквернив"
+    }
+  ],
+  "timestamp": "2026-08-23T23:45:01.912779477Z",
+  "model": "glm-5.3"
+}

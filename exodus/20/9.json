@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Шість днів будеш працювати і зробиш усю працю свою,",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Шість"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "будеш-працювати"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "і-зробиш"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усю"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "працю-свою"
+    }
+  ],
+  "timestamp": "2026-08-23T21:30:54.466683636Z",
+  "model": "glm-5.3"
+}

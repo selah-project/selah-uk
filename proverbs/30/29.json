@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 30:29",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Троє ⟨є⟩ вони, що добре крокують, і четверо, що добре ходять:",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "Троє"
+    },
+    {
+      "surface": "המה",
+      "gloss": "вони"
+    },
+    {
+      "surface": "מיטיבי",
+      "gloss": "що добре крокують"
+    },
+    {
+      "surface": "צעד",
+      "gloss": "крок"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "і четверо"
+    },
+    {
+      "surface": "מיטבי",
+      "gloss": "що добре ходять"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "ходити"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:40.372341536Z",
+  "model": "glm-5.3"
+}

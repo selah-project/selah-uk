@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 116,
+  "translation": "А в Ім'я Яхве я кликав: о ж бо, Яхве, вирятуй ⟨את⟩ душу мою!",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "А в Ім'я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "я кликав"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "о ж бо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "вирятуй"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душу мою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:21.893538823Z",
+  "model": "glm-5.3"
+}

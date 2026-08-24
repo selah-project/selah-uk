@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І побачив Яхве, що велике лихо людини на землі, і що усякий задум думок серця її — лихе лише цілий день.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "І побачив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "велике"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "лихо"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людини"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на землі"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і що усякий"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "задум"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "думок"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "серця її"
+    },
+    {
+      "surface": "רק",
+      "gloss": "лише"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лихе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цілий"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:22.274880859Z",
+  "model": "glm-5.3"
+}

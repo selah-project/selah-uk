@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 126,
+  "translation": "Ті, хто сіють у слізах, — із співом пожнуть.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "ті, хто сіють"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "у слізах"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "із співом"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "пожнуть"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:35.228747962Z",
+  "model": "glm-5.3"
+}

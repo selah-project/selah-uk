@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zephaniah 1:14",
+  "book": "zephaniah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Близький день Яхве, великий, близький і прудкий вельми! Голос дня Яхве — гірко кричить там сильний.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "близький"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "близький"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "і прудкий"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "вельми"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מר",
+      "gloss": "гірко"
+    },
+    {
+      "surface": "צרח",
+      "gloss": "кричить"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "сильний"
+    }
+  ],
+  "timestamp": "2026-08-24T00:05:57.963248854Z",
+  "model": "glm-5.3"
+}

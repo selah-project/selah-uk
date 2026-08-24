@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 36:16",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "князь Корах, князь Гатам, князь Амалек; це князі Еліфаза в землі Едому; це сини Ади.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "князь"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "князь"
+    },
+    {
+      "surface": "געתם",
+      "gloss": "Гатам"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "князь"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "князі"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Еліфаза"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землі"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едому"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ади"
+    }
+  ],
+  "timestamp": "2026-08-23T21:20:06.175249609Z",
+  "model": "glm-5.3"
+}

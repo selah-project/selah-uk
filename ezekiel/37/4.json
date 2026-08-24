@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 37:4",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "І сказав мені: пророкуй на ці кістки, і скажи їм: кістки сухі, слухайте слово Яхве!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "пророкуй"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "кістки"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "і скажи"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "кістки"
+    },
+    {
+      "surface": "היבשות",
+      "gloss": "сухі"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слухайте"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:52:19.295635447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 58,
+  "translation": "Отрута їхня немов отрута зміїна, немов глухий аспід, що затуляє вухо своє.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "отрута"
+    },
+    {
+      "surface": "למו",
+      "gloss": "їхня"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "немов"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "отрута"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "зміїна"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "немов"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "аспід"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "глухий"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "затуляє"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "вухо своє"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:57.178031670Z",
+  "model": "glm-5.3"
+}

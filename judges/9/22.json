@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І володарював Авімелех над Ізраїлем три роки.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "і володарював"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авімелех"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлем"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "роки"
+    }
+  ],
+  "timestamp": "2026-08-23T22:21:48.210162028Z",
+  "model": "glm-5.3"
+}

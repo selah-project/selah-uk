@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 12:17",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Але якщо не послухають, то вирву ⟨את⟩ той народ — вирву і знищу, — промовляє Яхве.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Але якщо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "послушають"
+    },
+    {
+      "surface": "ונתשתי",
+      "gloss": "то вирву"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "той народ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "той народ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "נתוש",
+      "gloss": "вирву"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "і знищу"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "промовляє"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:26:34.527622660Z",
+  "model": "glm-5.3"
+}

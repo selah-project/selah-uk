@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Добро вчинив Ти з рабом Твоїм, Яхве, за Словом Твоїм.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Добро"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "вчинив"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "рабом Твоїм"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "за Словом Твоїм"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:42.681575656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І відповів Яхве ⟨את⟩ анґела, що промовляв у мені, — слова добрі, слова втіхи.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "І відповів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анґела"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "анґела"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "що промовляв"
+    },
+    {
+      "surface": "בי",
+      "gloss": "у мені"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "добрі"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "втіхи"
+    }
+  ],
+  "timestamp": "2026-08-24T00:07:10.311370783Z",
+  "model": "glm-5.3"
+}

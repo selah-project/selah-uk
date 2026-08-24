@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Ти бачив, Яхве, кривду мою, розсуди мою справу.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Ти бачив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "кривду мою"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "розсуди"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "мою справу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:24.472547962Z",
+  "model": "glm-5.3"
+}

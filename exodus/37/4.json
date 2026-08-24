@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "І зробив жердини з дерева шиттим, і обкладив ⟨את⟩ них золотом.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "І зробив"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "жердини"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "з дерева"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шиттим"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "і обкладив"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "них"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золотом"
+    }
+  ],
+  "timestamp": "2026-08-23T21:36:52.334969569Z",
+  "model": "glm-5.3"
+}

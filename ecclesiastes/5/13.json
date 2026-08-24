@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "і загине ⟨ה⟩а багатство те в лихій пригоді, і породив сина — і немає в руці його нічого.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "і загине"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "багатство ⟨ה⟩"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "те"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "в пригоді"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лихій"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "і породив"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "і немає"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "в руці його"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "нічого"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:52.806213807Z",
+  "model": "glm-5.3"
+}

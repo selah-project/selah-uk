@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І чотири обличчя в однієї, і чотири крила в однієї з них.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "і чотири"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "обличчя"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "в однієї"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "і чотири"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "крила"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "в однієї"
+    },
+    {
+      "surface": "להם",
+      "gloss": "з них"
+    }
+  ],
+  "timestamp": "2026-08-23T23:39:33.345689740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Повік, Яхве, слово Твоє стоїть у небесах.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "повік"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "слово Твоє"
+    },
+    {
+      "surface": "נצב",
+      "gloss": " стоїть"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "у небесах"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:45.299152336Z",
+  "model": "glm-5.3"
+}

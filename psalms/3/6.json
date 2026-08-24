@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Я ліг і спав, прокинувся, бо Яхве підпирає мене.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "ліг"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "і спав"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "прокинувся"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "підпирає мене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:09:42.597773577Z",
+  "model": "glm-5.3"
+}

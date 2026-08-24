@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Так сказав Яхве: так зіпсую ⟨את⟩ гордесть Єгуди і ⟨את⟩ велику гордесть Єрушалаїму.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "зіпсую"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гордесть"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "гордесть"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "гордесть"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "гордесть"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Єрушалаїму"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "велику"
+    }
+  ],
+  "timestamp": "2026-08-23T23:27:36.746768284Z",
+  "model": "glm-5.3"
+}

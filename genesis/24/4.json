@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "бо в землю мою і в родину мою підеш, і візьмеш жінку синові моєму Їцхаку.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "землю мою"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і в"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "родину мою"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "підеш"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "і візьмеш"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жінку"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синові моєму"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Їцхаку"
+    }
+  ],
+  "timestamp": "2026-08-23T21:14:17.073130399Z",
+  "model": "glm-5.3"
+}

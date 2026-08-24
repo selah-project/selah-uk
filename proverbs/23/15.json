@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 23:15",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Сину мій, якщо мудре серце твоє, зрадіє серце моє, навіть я.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сину мій"
+    },
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудре"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "серце твоє"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "зрадіє"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "серце моє"
+    },
+    {
+      "surface": "גם",
+      "gloss": "навіть"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:06.571697390Z",
+  "model": "glm-5.3"
+}

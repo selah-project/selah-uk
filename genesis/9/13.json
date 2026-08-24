@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "⟨את⟩ лука мого дав я у хмарі, і буде вона на знак заповіту між мною і між ⟨the⟩ землею.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лука мого"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "лука мого"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дав я"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "у хмарі"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "і буде вона"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "на знак"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "заповіту"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "між мною"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "і між"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землею"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:44.531241210Z",
+  "model": "glm-5.3"
+}

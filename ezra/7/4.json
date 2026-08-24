@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Син Зерах'ї, син Уззі, син Буккі.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Син"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Зерах'ї"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Уззі"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Буккі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:05:25.381948036Z",
+  "model": "glm-5.3"
+}

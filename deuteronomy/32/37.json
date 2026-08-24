@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І скаже: де ⟨їхні⟩ боги, скеля, в якій вони шукали притулку?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "і скаже"
+    },
+    {
+      "surface": "אי",
+      "gloss": "де"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "їхні боги"
+    },
+    {
+      "surface": "צור",
+      "gloss": "скеля"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "шукали притулку"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в якій"
+    }
+  ],
+  "timestamp": "2026-08-23T22:09:43.810997862Z",
+  "model": "glm-5.3"
+}

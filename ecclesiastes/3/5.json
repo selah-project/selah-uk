@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Час кидати каміння, і час збирати каміння; час обіймати, і час віддалятися від обіймів.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "час"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "кидати"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "каміння"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "і час"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "збирати"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "каміння"
+    },
+    {
+      "surface": "עת",
+      "gloss": "час"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "обіймати"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "і час"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "віддалятися"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "від обіймів"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:13.215200674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 14:27",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Страх Яхве — ⟨це⟩ джерело життя, щоб відвертатися від тенет смерті.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "джерело"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "життя"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "щоб відвертатися"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "від тенет"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерті"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:06.276479123Z",
+  "model": "glm-5.3"
+}

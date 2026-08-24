@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Пошліть ягня володареві землі від Сели в ⟨⟩ пустелю, до гори дочки Ційона.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "пошліть"
+    },
+    {
+      "surface": "כר",
+      "gloss": "ягня"
+    },
+    {
+      "surface": "משל",
+      "gloss": "володареві"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "від Сели"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "в пустелю"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гори"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочки"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ційона"
+    }
+  ],
+  "timestamp": "2026-08-23T23:09:33.345247446Z",
+  "model": "glm-5.3"
+}

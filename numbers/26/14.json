@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Оце роди Шимонітів: двадцять два тисячі ⟨and⟩ двісті.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Оце"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "роди"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "Шимонітів"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "двадцять"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисячі"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "двісті"
+    }
+  ],
+  "timestamp": "2026-08-23T21:56:11.110934601Z",
+  "model": "glm-5.3"
+}

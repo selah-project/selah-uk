@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "Це сини Сеїра-хорія, мешканців землі: Лотан, і Шоваль, і Ців'он, і Ана.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Це"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеїра"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "хорія"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "мешканців"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотан"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "і Шоваль"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "і Ців'он"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "і Ана"
+    }
+  ],
+  "timestamp": "2026-08-23T21:20:03.910420929Z",
+  "model": "glm-5.3"
+}

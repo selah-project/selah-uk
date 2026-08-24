@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 35:13",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "Проте марноту Ель не почує, і Шаддай її не побачить.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "проте"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "марноту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "почує"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "і Шаддай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "її не побачить"
+    }
+  ],
+  "timestamp": "2026-08-24T00:47:00.767300023Z",
+  "model": "glm-5.3"
+}

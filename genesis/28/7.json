@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "І послухався Яаков батька свого та матері своєї, і пішов до Падан-Араму.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "І послухався"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "батька свого"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "та"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "матері своєї"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "і пішов"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Падан"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Араму"
+    }
+  ],
+  "timestamp": "2026-08-23T21:16:23.205551370Z",
+  "model": "glm-5.3"
+}

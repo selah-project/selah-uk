@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 77,
+  "translation": "Ти охопив віжді моїх очей; я стривожений і не промовлю.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "Ти охопив"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "віжді"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "моїх очей"
+    },
+    {
+      "surface": "נפעмуתי",
+      "gloss": "я стривожений"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "промовлю"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:57.329401090Z",
+  "model": "glm-5.3"
+}

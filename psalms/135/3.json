@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 135,
+  "translation": "Хваліть Яха, бо добрий ⟨є⟩ Яхве, співайте Імені Його, бо воно приємне ⟨є⟩!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Хваліть"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яха"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добрий"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "співайте"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "Імені Його"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "приємне"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:20.368717194Z",
+  "model": "glm-5.3"
+}

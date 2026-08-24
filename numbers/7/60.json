@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 7:60",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Дев'ятого дня — князь синів Біньяміна, Авідан, син Ґідоні",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "дев'ятого"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князь"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Біньяміна"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "Авідан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "Ґідоні"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:37.070538937Z",
+  "model": "glm-5.3"
+}

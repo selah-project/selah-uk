@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 22:16",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "яких вирвано не ⟨в⟩ час, рікою розлито основу їхню.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "яких"
+    },
+    {
+      "surface": "קמטו",
+      "gloss": "вирвано"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עת",
+      "gloss": "⟨в⟩ час"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "рікою"
+    },
+    {
+      "surface": "יוצק",
+      "gloss": "розлито"
+    },
+    {
+      "surface": "יסודם",
+      "gloss": "основу їхню"
+    }
+  ],
+  "timestamp": "2026-08-24T00:44:13.957527905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І не відповідай на ближнього твого свідка марного.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "відповідай"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "на ближнього твого"
+    },
+    {
+      "surface": "עד",
+      "gloss": "свідка"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "марного"
+    }
+  ],
+  "timestamp": "2026-08-23T22:01:24.198463568Z",
+  "model": "glm-5.3"
+}

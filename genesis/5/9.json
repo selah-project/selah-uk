@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І жив Енош дев'яносто років, і породив ⟨את⟩ Кейнана.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "і жив"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Енош"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "дев'яносто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "і породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Кейнана"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Кейнана"
+    }
+  ],
+  "timestamp": "2026-08-24T01:35:51.877377665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Пам'ятай ⟨את⟩ те, що вчинив тобі Амалек у дорозі, коли ви виходили з Міцраїму.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Пам'ятай"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "те, що вчинив"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "вчинив"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "у дорозі"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "коли ви виходили"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "з Міцраїму"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:32.306705862Z",
+  "model": "glm-5.3"
+}

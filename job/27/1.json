@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 27:1",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "І додав Аїв підняти ⟨את⟩ свою притчу, і сказав:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "і додав"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Аїв"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "підняти"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "свою притчу"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    }
+  ],
+  "timestamp": "2026-08-24T00:45:13.931030342Z",
+  "model": "glm-5.3"
+}

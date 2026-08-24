@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Три ⟨є⟩ вони, що дивують мене, і чотирьох я не пізнав.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "המה",
+      "gloss": "вони"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "дивують"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "мене"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "і чотирьох"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "пізнав"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:58.895203570Z",
+  "model": "glm-5.3"
+}

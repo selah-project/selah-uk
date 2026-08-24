@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І було слово Яхве рукою Хаггая, пророка, говорячи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І було"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "рукою"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Хаггая"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророка"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    }
+  ],
+  "timestamp": "2026-08-24T01:50:45.345232687Z",
+  "model": "glm-5.3"
+}

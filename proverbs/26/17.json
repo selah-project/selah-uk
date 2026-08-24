@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 26:17",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Хто хапає пса за вуха, — той, хто минає й гнівиться через сварку не його.",
+  "tokens": [
+    {
+      "surface": "מחזיק",
+      "gloss": "хапає"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "за вуха"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "пес"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "той, хто минає"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "гнівиться"
+    },
+    {
+      "surface": "על",
+      "gloss": "через"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "сварку"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לו",
+      "gloss": "його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:55.625106785Z",
+  "model": "glm-5.3"
+}

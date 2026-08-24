@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Талант золота чистого — зроблять ⟨את⟩ неї, ⟨את⟩ усіх цих приладь.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "талант"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золота"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чистого"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "зроблять"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "неї"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усіх цих приладь"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіх"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "цих приладь"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "цих"
+    }
+  ],
+  "timestamp": "2026-08-23T21:32:34.982947413Z",
+  "model": "glm-5.3"
+}

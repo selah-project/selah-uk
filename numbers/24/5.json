@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Як гарні шатра твої, Яакове, оселі твої, Ізраїлю!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "як"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "гарні"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "шатра твої"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакове"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "оселі твої"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлю"
+    }
+  ],
+  "timestamp": "2026-08-23T21:56:02.901897617Z",
+  "model": "glm-5.3"
+}

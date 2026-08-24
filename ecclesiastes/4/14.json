@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Бо з дому в'язнів вийшов ⟨він⟩, щоб царювати, бо навіть у царстві його народився ⟨він⟩ бідним.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "з дому"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "в'язнів"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "вийшов"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "щоб царювати"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "גם",
+      "gloss": "навіть"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "у царстві його"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "народився"
+    },
+    {
+      "surface": "רש",
+      "gloss": "бідним"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:52.103519562Z",
+  "model": "glm-5.3"
+}

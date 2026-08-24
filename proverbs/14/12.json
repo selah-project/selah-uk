@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Є путь, права перед людиною, та кінець її — ⟨це⟩ путі смерті.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Є"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "путь"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "права"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "איש",
+      "gloss": "людиною"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "та кінець її"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "⟨це⟩ путі"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерті"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:39.179722971Z",
+  "model": "glm-5.3"
+}

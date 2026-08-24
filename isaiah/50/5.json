@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 50,
+  "translation": "Адонай Яхве відкрив мені вухо, і я не бунтував, назад не відступав.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "відкрив"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "вухо"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "і я"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "бунтував"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "назад"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "відступав"
+    }
+  ],
+  "timestamp": "2026-08-23T23:18:21.740661218Z",
+  "model": "glm-5.3"
+}

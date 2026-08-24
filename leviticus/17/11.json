@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 17:11",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Бо нефеш тіла — у крові вона, і Я дав її вам на жертівнику, щоб вкривати за ваші нефеш; бо кров — вона в нефеш — вкриває.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "тіла"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "у крові"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "і Я"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "дав її"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жертівнику"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "щоб вкривати"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ваші нефеш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кров"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "у нефеш"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "вкриває"
+    }
+  ],
+  "timestamp": "2026-08-23T21:44:11.789186617Z",
+  "model": "glm-5.3"
+}

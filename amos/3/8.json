@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Лев заревів — хто не злякається? Адонай Яхве говорить — хто не пророкуватиме?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "лев"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "заревів"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "лא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "злякається"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорить"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "пророкуватиме"
+    }
+  ],
+  "timestamp": "2026-08-23T23:59:44.401075692Z",
+  "model": "glm-5.3"
+}

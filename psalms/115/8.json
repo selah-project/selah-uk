@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 115,
+  "translation": "Подібні до них стануть ті, хто їх робить, кожен, хто довіряє їм.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "подібні до них"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "стануть"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ті, хто їх робить"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кожен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хто"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "довіряє"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "їм"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:44.542112683Z",
+  "model": "glm-5.3"
+}

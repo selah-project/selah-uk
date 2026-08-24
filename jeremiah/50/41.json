@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "jeremiah 50:41",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 50,
+  "translation": "Ось, народ іде з півночі, і нація велика, і царі багаті пробудяться з країв землі.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "іде"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "з півночі"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "і нація"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велика"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "і царі"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "багаті"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "пробудяться"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "з країв"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:39:14.489419390Z",
+  "model": "glm-5.3"
+}

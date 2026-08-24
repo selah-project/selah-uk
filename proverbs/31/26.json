@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Відкриває уста ⟨свої⟩ в мудрості, і наука хеседу — на язику ⟨її⟩.",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "уста ⟨її⟩"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "відкриває"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "в мудрості"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "і наука"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хеседу"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "язику ⟨її⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:35.592707772Z",
+  "model": "glm-5.3"
+}

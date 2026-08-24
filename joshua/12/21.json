@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 12:21",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "цар Таанаха, один; цар Мегіддо, один;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Таанаха"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Мегіддо"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-24T01:39:51.886489449Z",
+  "model": "glm-5.3"
+}

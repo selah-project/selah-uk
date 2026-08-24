@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 73,
+  "translation": "Ось нечестиві ці, і спокійні вічно — досягли вони багатства.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестиві"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "і спокійні"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вічно"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "досягли"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "багатства"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:42.897991706Z",
+  "model": "glm-5.3"
+}

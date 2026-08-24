@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 29:19",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "Слова не навчать раба, бо хоч він і розуміє, та відповіді немає.",
+  "tokens": [
+    {
+      "surface": "בדברים",
+      "gloss": "словами"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוסר",
+      "gloss": "навчать"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "раба"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "розуміє"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "та немає"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "відповіді"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:01.814657259Z",
+  "model": "glm-5.3"
+}

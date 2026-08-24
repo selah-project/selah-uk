@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І підніс ⟨את⟩ всепалення, і вчинив його за постановою.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "і підніс"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всепалення"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "всепалення"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "і вчинив"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "його за постановою"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:19.271060841Z",
+  "model": "glm-5.3"
+}

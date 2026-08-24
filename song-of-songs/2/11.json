@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Бо ось зима проминула, дощ проминув, пішов собі.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "зима"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "проминула"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "дощ"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "проминув"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "пішов"
+    },
+    {
+      "surface": "לו",
+      "gloss": "собі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:49:54.260465549Z",
+  "model": "glm-5.3"
+}

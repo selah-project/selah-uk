@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Тягар долини видіння. Що тобі тепер, що ти вийшла вся на дахи?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "тягар"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "долини"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "видіння"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "тепер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "вийшла"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "вся ти"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "на дахи"
+    }
+  ],
+  "timestamp": "2026-08-23T23:09:47.270217267Z",
+  "model": "glm-5.3"
+}

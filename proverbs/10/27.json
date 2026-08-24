@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 10:27",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Страх Яхве додає днів, а роки лиходіїв скоротяться.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "додає"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "а роки"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "лиходіїв"
+    },
+    {
+      "surface": "תקצרנה",
+      "gloss": "скоротяться"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:31.706975983Z",
+  "model": "glm-5.3"
+}

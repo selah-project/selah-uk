@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 76,
+  "translation": "І сталося в Шалемі Його намет, і Його оселі в Ційоні.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "в Шалемі"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "Його намет"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "і Його оселі"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "в Ційоні"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:54.415885834Z",
+  "model": "glm-5.3"
+}

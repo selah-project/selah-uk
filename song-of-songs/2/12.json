@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 2:12",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Квіти з'явилися на землі, час співу настав, і голос горлиці чути в нашій землі.",
+  "tokens": [
+    {
+      "surface": "הנצנים",
+      "gloss": "квіти"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "з'явилися"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на землі"
+    },
+    {
+      "surface": "עת",
+      "gloss": "час"
+    },
+    {
+      "surface": "הזמיר",
+      "gloss": "співу"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "настав"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "і голос"
+    },
+    {
+      "surface": "התור",
+      "gloss": "горлиці"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "чути"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "в нашій землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:49:54.260642825Z",
+  "model": "glm-5.3"
+}

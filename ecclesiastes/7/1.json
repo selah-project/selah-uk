@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Добре ⟨є⟩ ім'я — краще за добре миро, і день смерті — за день народження ⟨його⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Добре"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ім'я"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ніж миро"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добре"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "і день"
+    },
+    {
+      "surface": "המות",
+      "gloss": "смерті"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ніж день"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "народження ⟨його⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:25.812577503Z",
+  "model": "glm-5.3"
+}

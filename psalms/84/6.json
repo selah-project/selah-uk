@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 84,
+  "translation": "Щасливий людина, сила якої у Тобі, ⟨з⟩ шляхами в серці їхньому.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "щасливий"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людина"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "сила"
+    },
+    {
+      "surface": "לו",
+      "gloss": "якої (йому)"
+    },
+    {
+      "surface": "בך",
+      "gloss": "у Тобі"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "шляхи"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "в серці їхньому"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:39.409302807Z",
+  "model": "glm-5.3"
+}

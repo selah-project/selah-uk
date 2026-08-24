@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 35:31",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "І не беріть викупу за життя вбивці, який винен на смерть, бо смертю він буде вбитий.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "І не"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "беріть"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "викупу"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "за життя"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "вбивці"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "винен"
+    },
+    {
+      "surface": "למות",
+      "gloss": "на смерть"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смертю"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "буде вбитий"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:14.048868675Z",
+  "model": "glm-5.3"
+}

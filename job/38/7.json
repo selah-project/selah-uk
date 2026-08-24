@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 38:7",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": " коли співали разом зорі ранку, і лунали всі сини Елогіма?",
+  "tokens": [
+    {
+      "surface": "ברן",
+      "gloss": "коли співали"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "разом"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "зорі"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ранку"
+    },
+    {
+      "surface": "ויריעו",
+      "gloss": "і лунали"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогіма"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:17.852875237Z",
+  "model": "glm-5.3"
+}

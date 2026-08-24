@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Коли минає вихор — лиходія немає, а праведник ⟨є⟩ основа навіки.",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "Коли минає"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "вихор"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "лиходій"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "а праведник"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "основа"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "навіки"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:31.706561835Z",
+  "model": "glm-5.3"
+}

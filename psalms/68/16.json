@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 68,
+  "translation": "Гора Елогім — гора Башану, гора вершин — гора Башану.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "Гора"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гора"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Башану"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гора"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "вершин"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гора"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Башану"
+    }
+  ],
+  "timestamp": "2026-08-24T00:19:15.404658680Z",
+  "model": "glm-5.3"
+}

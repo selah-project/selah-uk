@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 2:13",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І на всі кедри Лівану, високі та піднесені, і на всі дуби Башану,",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "кедри"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Лівану"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "високі"
+    },
+    {
+      "surface": "והנשאים",
+      "gloss": "та піднесені"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "אלוני",
+      "gloss": "дуби"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Башану"
+    }
+  ],
+  "timestamp": "2026-08-23T23:04:01.950190120Z",
+  "model": "glm-5.3"
+}

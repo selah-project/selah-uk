@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І заріже ⟨את⟩ одного птаха в посудині глиняній над водою живою.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "і заріже"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "одного птаха"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "птаха"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "одного"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "посудині"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "глиняній"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "מים",
+      "gloss": "водою"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живою"
+    }
+  ],
+  "timestamp": "2026-08-23T21:42:19.754124780Z",
+  "model": "glm-5.3"
+}

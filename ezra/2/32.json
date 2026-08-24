@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Харіма — триста і двадцять.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Харім"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотні"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "і двадцять"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:12.019421591Z",
+  "model": "glm-5.3"
+}

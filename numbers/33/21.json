@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 33:21",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І вирушили вони з Лівни, і станули табором у Ріссі.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І вирушили"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "з Лівни"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і станули табором"
+    },
+    {
+      "surface": "ברסה",
+      "gloss": "у Ріссі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:12.152107376Z",
+  "model": "glm-5.3"
+}

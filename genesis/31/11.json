@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "І сказав до мене вісник Елогіма в сні: Яакове! І я сказав: ось я.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "вісник"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогіма"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "в сні"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакове"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "і я сказав"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ось я"
+    }
+  ],
+  "timestamp": "2026-08-23T21:17:43.549886348Z",
+  "model": "glm-5.3"
+}

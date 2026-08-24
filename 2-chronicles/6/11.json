@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "і я поставив там ⟨את⟩ ковчег, де ⟨перебуває⟩ заповіт Яхве, який Він уклав із синами Ісраелю.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "і я поставив"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ковчег"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "де"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "заповіт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "Він уклав"
+    },
+    {
+      "surface": "עם",
+      "gloss": "із"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синами"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраелю"
+    }
+  ],
+  "timestamp": "2026-08-24T01:23:25.514918291Z",
+  "model": "glm-5.3"
+}

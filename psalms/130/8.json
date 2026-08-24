@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 130,
+  "translation": "І Він викупить ⟨את⟩ Ісраеля з усіх провин його.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "І Він"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "викупить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ісраеля"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраеля"
+    },
+    {
+      "surface": "мכל",
+      "gloss": "з усіх"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "провин його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:23.465424993Z",
+  "model": "glm-5.3"
+}

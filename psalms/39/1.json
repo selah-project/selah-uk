@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 39,
+  "translation": "Керівникові музик, Єдутунові; псалом Давидів.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові музик"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "Єдутунові"
+    },
+    {
+      "surface": "мזמור",
+      "gloss": "псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидів"
+    }
+  ],
+  "timestamp": "2026-08-24T00:14:56.881364410Z",
+  "model": "glm-5.3"
+}

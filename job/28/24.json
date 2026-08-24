@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 28:24",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Бо ⟨він⟩ на край землі визирає, під усіма небесами бачить.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "לקצות",
+      "gloss": "на край"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "визирає"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіма"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесами"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "бачить"
+    }
+  ],
+  "timestamp": "2026-08-24T00:45:18.830389994Z",
+  "model": "glm-5.3"
+}

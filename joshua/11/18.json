@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Багато днів вів Єгошуа війну ⟨את⟩ з усіма цими царями.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "багато"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "вів"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Єгошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ з"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіма"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "цими царями"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "цими"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "війну"
+    }
+  ],
+  "timestamp": "2026-08-23T22:15:02.084508610Z",
+  "model": "glm-5.3"
+}

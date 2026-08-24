@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І промовив я до вигнання ⟨את⟩ усе — слова Яхве, які Він показав мені.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "і промовив я"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "вигнання"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усе — слова Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "показав мені"
+    }
+  ],
+  "timestamp": "2026-08-23T23:42:16.531553296Z",
+  "model": "glm-5.3"
+}

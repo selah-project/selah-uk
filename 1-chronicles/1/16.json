@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І ⟨את⟩ Арвадея, і ⟨את⟩ Цемарея, і ⟨את⟩ Хаматея.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "І ⟨את⟩",
+      "marks": "Арвадея"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Арвадея"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Цемарея"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Цемарея"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Хаматея"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Хаматея"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:58.805832333Z",
+  "model": "glm-5.3"
+}

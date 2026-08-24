@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Дивними ⟨є⟩ твої свідоцтва, тому зберегла їх душа моя.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "дивними"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "твої свідоцтва"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "зберегла"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:06.083223170Z",
+  "model": "glm-5.3"
+}

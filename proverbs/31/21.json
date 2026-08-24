@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Не боїться вона за дім свій снігу, бо ввесь дім її зодягнений у кармазин.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "боїться"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "за дім її"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "снігу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ввесь"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "дім її"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "зодягнений"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "у кармазин"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:40.550151604Z",
+  "model": "glm-5.3"
+}

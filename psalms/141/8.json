@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 141,
+  "translation": "Бо до Тебе, Яхве, Адонай, очі мої; у Тобі я заховався — не виливай душі моєї.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "до Тебе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очі мої"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "у Тобі"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "я заховався"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תער",
+      "gloss": "виливай"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ду́шу мою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:30:01.060123676Z",
+  "model": "glm-5.3"
+}

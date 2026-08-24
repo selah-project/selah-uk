@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 23:24",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Асаель, брат Йоава, серед Тридцяти; Елханан, син Додо, ⟨з⟩ Бейт-Лехема.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Асаель"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоава"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "серед Тридцяти"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Елханан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "Додо"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехема"
+    }
+  ],
+  "timestamp": "2026-08-23T22:45:02.013088428Z",
+  "model": "glm-5.3"
+}

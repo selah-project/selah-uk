@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Згадай, Яхве, що сталося з нами; поглянь і побач ⟨את⟩ ганьбу нашу.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Згадай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "היה",
+      "gloss": "сталося"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "з нами"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "поглянь"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "і побач"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ганьбу нашу"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "ганьбу нашу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:03.042822834Z",
+  "model": "glm-5.3"
+}

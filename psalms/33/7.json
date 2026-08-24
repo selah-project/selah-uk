@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "Збирає, немов ⟨в⟩ купу, води моря, дає у сховища безодні.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "збирає"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "немов купу"
+    },
+    {
+      "surface": "מי",
+      "gloss": "води"
+    },
+    {
+      "surface": "הים",
+      "gloss": "моря"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дає"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "у сховища"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "безодні"
+    }
+  ],
+  "timestamp": "2026-08-24T00:14:32.400049026Z",
+  "model": "glm-5.3"
+}

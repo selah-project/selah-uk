@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "І це ⟨є⟩ родовід Есава, батька Едома, на горі Сеїр.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "І це"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "родовід"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есава"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батька"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едома"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на горі"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеїр"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:43.354388034Z",
+  "model": "glm-5.3"
+}

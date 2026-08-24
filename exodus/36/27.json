@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 36:27",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "І для тилу скинії, на захід, зробив шість дощок.",
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "і для тилу"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "скинії"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "на захід"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "зробив"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шість"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "дошок"
+    }
+  ],
+  "timestamp": "2026-08-23T21:36:55.229129190Z",
+  "model": "glm-5.3"
+}

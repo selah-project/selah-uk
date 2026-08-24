@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 7:24",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "А тепер, сини, слухайте мене, і вважайте на слова уст моїх.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а тепер"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сини"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слухайте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "і вважайте"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "на слова"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уст моїх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:22.893424589Z",
+  "model": "glm-5.3"
+}

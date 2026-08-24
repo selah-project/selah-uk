@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 1:6",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І гнітила її суперниця також на злобу, через те що Яхве замкнув її лоно.",
+  "tokens": [
+    {
+      "surface": "וכעסתה",
+      "gloss": "І гнітила"
+    },
+    {
+      "surface": "צרתה",
+      "gloss": "її суперниця"
+    },
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "на злобу"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "через те що"
+    },
+    {
+      "surface": "הרעמה",
+      "gloss": "змучив"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "замкнув"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "її"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "лоно"
+    }
+  ],
+  "timestamp": "2026-08-23T22:26:30.068429585Z",
+  "model": "glm-5.3"
+}

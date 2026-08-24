@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "А князь дому батька родів гегатитів — Еліцафан, син Узzielа.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "а князь"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "אב",
+      "gloss": "батька"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "родів"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "гегатитів"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "Еліцафан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Узzielа"
+    }
+  ],
+  "timestamp": "2026-08-23T21:48:32.414085735Z",
+  "model": "glm-5.3"
+}

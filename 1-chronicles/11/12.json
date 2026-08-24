@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "А після нього — Ельазар, син Додо, Ахохієць; він ⟨був⟩ серед трьох героїв.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "А після нього"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Ельазар"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "Додо"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "Ахохієць"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "серед трьох"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "героїв"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:00.261204884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 8:32",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І прийшли ми до Єрушалаїма й пробули там три дні.",
+  "tokens": [
+    {
+      "surface": "ונבוא",
+      "gloss": "І прийшли ми"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "до Єрушалаїма"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "й пробули"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дні"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    }
+  ],
+  "timestamp": "2026-08-24T01:06:44.882081829Z",
+  "model": "glm-5.3"
+}

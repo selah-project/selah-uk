@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Бо також багато разів знало твоє серце, що також ти проклинав ⟨את⟩ інших.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "разів"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "багато"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знало"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "твоє серце"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "проклинав"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "проклинав"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "інших"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:48.472034097Z",
+  "model": "glm-5.3"
+}

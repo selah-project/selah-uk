@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 12:8",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "За розумом своїм хвалений чоловік, а вивернений серцем буде на глум.",
+  "tokens": [
+    {
+      "surface": "לפי",
+      "gloss": "за"
+    },
+    {
+      "surface": "שכלו",
+      "gloss": "розумом своїм"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "хвалений"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "ונעוה",
+      "gloss": "а вивернений"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серцем"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לבוז",
+      "gloss": "на глум"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:37.434343021Z",
+  "model": "glm-5.3"
+}

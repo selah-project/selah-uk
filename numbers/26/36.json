@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "А ці сини Шутелаха: від Ерана — рід еранітів.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "А ці"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "Шутелаха"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "від Ерана"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "рід"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "еранітів"
+    }
+  ],
+  "timestamp": "2026-08-23T21:56:47.789170846Z",
+  "model": "glm-5.3"
+}

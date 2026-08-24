@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Так сказав Яхве Цеваот: ось Я визволяю ⟨את⟩ народ Мій із землі сходу та із землі заходу сонця.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ось Я"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "визволяю"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ Мій"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народ Мій"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "із землі"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "сходу"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "та із землі"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "заходу"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонця"
+    }
+  ],
+  "timestamp": "2026-08-24T00:07:39.846144708Z",
+  "model": "glm-5.3"
+}

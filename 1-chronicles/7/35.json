@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І син Гелема, брата його: Цофах, і Їмна, і Шелеш, і Амал.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "І син"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "Гелема"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "брата його"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "Цофах"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "і Їмна"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "і Шелеш"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "і Амал"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:16.571187194Z",
+  "model": "glm-5.3"
+}

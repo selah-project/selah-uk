@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 38:19",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "Де ⟨це⟩ — шлях, що мешкає світло, а темрява — де ⟨це⟩ її місце?",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "де"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨це⟩"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "шлях"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "мешкає"
+    },
+    {
+      "surface": "אור",
+      "gloss": "світло"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "а темрява"
+    },
+    {
+      "surface": "אי",
+      "gloss": "де"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨це⟩"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "її місце"
+    }
+  ],
+  "timestamp": "2026-08-24T00:47:59.687174948Z",
+  "model": "glm-5.3"
+}

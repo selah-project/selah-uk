@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Це породження Шема: Шем, син ста років, породив ⟨את⟩ Арпахшада, два роки по Потопі.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Це"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "породження"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шема"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ста"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Арпахшада"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Арпахшада"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "два роки"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "по"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "Потопі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:08.193127728Z",
+  "model": "glm-5.3"
+}

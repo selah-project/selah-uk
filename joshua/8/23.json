@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "А ⟨את⟩ царя Гаю схопили живим, і привели його до Єгошуа.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "А ⟨את⟩",
+      "marks": "царя Гаю"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Гаю"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "схопили"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живим"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "і привели"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ його",
+      "marks": "його"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Єгошуа"
+    }
+  ],
+  "timestamp": "2026-08-23T22:13:39.821374763Z",
+  "model": "glm-5.3"
+}

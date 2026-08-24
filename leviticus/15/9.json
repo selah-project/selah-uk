@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "І кожне сідло, на якому їде зим, стане нечистим.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "і кожне"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "сідло"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "їде"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на ньому"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "зим"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "стане нечистим"
+    }
+  ],
+  "timestamp": "2026-08-23T21:43:37.431354469Z",
+  "model": "glm-5.3"
+}

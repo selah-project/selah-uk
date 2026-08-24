@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Припинилася радість серця нашого, обернувся на жалобу танок наш.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "припинилася"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "радість"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "серця нашого"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "обернувся"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "на жалобу"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "танок наш"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:00.748917762Z",
+  "model": "glm-5.3"
+}

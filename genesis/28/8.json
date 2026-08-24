@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "І побачив Есав, що дочок Кнаану ⟨це⟩ зло в очах Їцхака, батька його.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "І побачив"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дочки"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кнаану"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Їцхака"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "батька його"
+    }
+  ],
+  "timestamp": "2026-08-23T21:16:23.205676705Z",
+  "model": "glm-5.3"
+}

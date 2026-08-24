@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Хто збирає влітку — син розумний, хто спить під час жнив — син, що посоромить.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "збирає"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "влітку"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "розумний"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "спить"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "під час жнив"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "що посоромить"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:04.262880878Z",
+  "model": "glm-5.3"
+}

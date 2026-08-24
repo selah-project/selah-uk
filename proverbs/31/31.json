@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 31:31",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Дайте їй від плоду рук її, і хай прославлять її в брамах діла її.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "Дайте"
+    },
+    {
+      "surface": "לה",
+      "gloss": "їй"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "від плоду"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "рук її"
+    },
+    {
+      "surface": "ויהללוה",
+      "gloss": "і хай прославлять її"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "в брамах"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "діла її"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:36.304443257Z",
+  "model": "glm-5.3"
+}

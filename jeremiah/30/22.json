@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "І станете Мені народом, і Я буду вам Елогім.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "і станете"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мені"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "народом"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "і Я"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "буду"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елогім"
+    }
+  ],
+  "timestamp": "2026-08-23T23:31:42.130012366Z",
+  "model": "glm-5.3"
+}

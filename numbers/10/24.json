@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 10:24",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І над військом племені синів Біньяміна ⟨був⟩ Авідан, син Гідоні.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "і над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "військом"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "племені"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Біньяміна"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "Авідан ⟨був⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "גדעוני",
+      "gloss": "Гідоні"
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:53.535312865Z",
+  "model": "glm-5.3"
+}

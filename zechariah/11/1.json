@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Відчини, Ливане, двері твої, і хай огонь пожере кедри твої.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Відчини"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Ливане"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "двері твої"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "і хай пожере"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огонь"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "кедри твої"
+    }
+  ],
+  "timestamp": "2026-08-24T00:08:17.732598352Z",
+  "model": "glm-5.3"
+}

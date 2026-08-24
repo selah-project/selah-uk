@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 49:27",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 49,
+  "translation": "І запалю Я вогонь у стіні Дамасеку, і він пожере палаци Бен-Гадада.",
+  "tokens": [
+    {
+      "surface": "והצתי",
+      "gloss": "І запалю Я"
+    },
+    {
+      "surface": "אש",
+      "gloss": "вогонь"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "у стіні"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Дамасеку"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "і він пожере"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "palacio палаци"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Бен"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Гадада"
+    }
+  ],
+  "timestamp": "2026-08-23T23:38:16.096847217Z",
+  "model": "glm-5.3"
+}

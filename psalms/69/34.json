@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 69,
+  "translation": "Бо чує Яхве нужденних, і ⟨את⟩ в'язнів Своїх не погорджує.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чує"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "нужденних"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "в'язнів Своїх"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "в'язнів Своїх"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "погорджує"
+    }
+  ],
+  "timestamp": "2026-08-24T01:52:31.783397188Z",
+  "model": "glm-5.3"
+}

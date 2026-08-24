@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 1:9",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І сказав я: що оці, Адонай мій? І сказав мені ангел, що говорить у мені: я покажу тобі, що оці.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "оці"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай мій"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ангел"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "що говорить"
+    },
+    {
+      "surface": "בי",
+      "gloss": "у мені"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "покажу тобі"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "המה",
+      "gloss": "вони"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "оці"
+    }
+  ],
+  "timestamp": "2026-08-24T00:06:29.411122065Z",
+  "model": "glm-5.3"
+}

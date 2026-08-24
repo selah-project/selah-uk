@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини іншого Ейламу — тисяча двісті пʼятдесят і чотири.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Ейлам"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "інший"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяча"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двісті"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "пʼятдесят"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "і чотири"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:12.019298219Z",
+  "model": "glm-5.3"
+}

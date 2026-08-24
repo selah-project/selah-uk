@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Усі руки послабнуть, і всі коліна підуть ⟨як⟩ вода.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "руки"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "послабнуть"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і всі"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "коліна"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "підуть"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    }
+  ],
+  "timestamp": "2026-08-24T01:49:09.257808156Z",
+  "model": "glm-5.3"
+}

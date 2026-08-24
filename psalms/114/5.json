@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 114,
+  "translation": "Що тобі, море, що ти тікаєш, Ярден, що ти повертаєшся назад?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Що"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "тікаєш"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярден"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "повертаєшся"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "назад"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:44.998485127Z",
+  "model": "glm-5.3"
+}

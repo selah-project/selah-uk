@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Слово Яхве, що було до Йоеля, сина Петуела.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "היה",
+      "gloss": "було"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Йоеля"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Петуела"
+    }
+  ],
+  "timestamp": "2026-08-24T01:50:26.492090450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 118,
+  "translation": "Яхве ⟨для⟩ мене — не боюся: що зробить мені людина?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨для⟩ мене"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "боюся"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "зробить"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людина"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:02.657992204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Шістдесят їх — цариць, і вісімдесят — наложниць, і дівчат без ліку.",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "шістдесят"
+    },
+    {
+      "surface": "המה",
+      "gloss": "їх"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "цариць"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "і вісімдесят"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "наложниць"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "і дівчат"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ліку"
+    }
+  ],
+  "timestamp": "2026-08-24T00:49:42.358358935Z",
+  "model": "glm-5.3"
+}

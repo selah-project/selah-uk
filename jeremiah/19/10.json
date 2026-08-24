@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 19:10",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І ти розіб'єш глечик на очах у людей, що ходять ⟨את⟩ з тобою.",
+  "tokens": [
+    {
+      "surface": "ושברת",
+      "gloss": "і ти розіб'єш"
+    },
+    {
+      "surface": "הבקבק",
+      "gloss": "глечик"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "на очах у"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "людей"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "що ходять"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ з тобою"
+    }
+  ],
+  "timestamp": "2026-08-23T23:28:32.587000052Z",
+  "model": "glm-5.3"
+}

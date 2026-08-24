@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 44:27",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 44,
+  "translation": "І сказав твій раб, мій батько, нам: Ви знаєте, що двох породила мені моя жінка.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "твій раб"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "мій батько"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Ви"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "знаєте"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двох"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "породила"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "моя жінка"
+    }
+  ],
+  "timestamp": "2026-08-23T21:22:58.509874156Z",
+  "model": "glm-5.3"
+}

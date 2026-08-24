@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Я — Яхве, Елогім твій, що вивів тебе з землі Міцраїм, з дому рабства.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елогім твій"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "вивів тебе"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "з землі"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїм"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "з дому"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "рабства"
+    }
+  ],
+  "timestamp": "2026-08-23T21:29:43.719698655Z",
+  "model": "glm-5.3"
+}

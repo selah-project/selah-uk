@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 46,
+  "translation": "Елогім ⟨є⟩ нам притулок і сила, поміч у скрутах, знайдена вельми.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "притулок"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "і сила"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "поміч"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "у скрутах"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "знайдена"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "вельми"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:09.132314580Z",
+  "model": "glm-5.3"
+}

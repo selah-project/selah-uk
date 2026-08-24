@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І почула вся Явеш-Ґілеадська ⟨את⟩ усе, що вчинили Плиштим Шаулові.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "і почула"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Явеш"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Ґілеад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "вчинили"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштим"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шаулові"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:03.298111164Z",
+  "model": "glm-5.3"
+}

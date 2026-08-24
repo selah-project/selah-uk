@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 46:23",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 46,
+  "translation": "Вирубали ліс її, — говорить Яхве, — бо його не обстежити, бо численніші за сарану, і ліку немає їм.",
+  "tokens": [
+    {
+      "surface": "כרתו",
+      "gloss": "вирубали"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "ліс її"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "говорить"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "обстежити"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "численніші"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "за сарану"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "і немає"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "лику"
+    }
+  ],
+  "timestamp": "2026-08-23T23:36:08.533691820Z",
+  "model": "glm-5.3"
+}

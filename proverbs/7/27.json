@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Шеолу дороги — дім її, що сходять до покоїв смерті.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "дороги"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеолу"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "дім її"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "що сходять"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "покоїв"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерті"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:44.004811121Z",
+  "model": "glm-5.3"
+}

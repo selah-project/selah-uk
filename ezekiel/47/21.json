@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 47:21",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 47,
+  "translation": "І розділите ви ⟨את⟩ землю цю собі, за племенами Їсраеля.",
+  "tokens": [
+    {
+      "surface": "וחלקתם",
+      "gloss": "і розділите ви"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цю"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "собі"
+    },
+    {
+      "surface": "לשבטי",
+      "gloss": "за племенами"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраеля"
+    }
+  ],
+  "timestamp": "2026-08-23T23:55:15.323913981Z",
+  "model": "glm-5.3"
+}

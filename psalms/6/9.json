@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Відверніться від мене, всі чинителі безладдя, бо почув Яхве голос мого плачу.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Відверніться"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "від мене"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "чинителі"
+    },
+    {
+      "surface": "און",
+      "gloss": "безладдя"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "почув"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "мого плачу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:10.550153032Z",
+  "model": "glm-5.3"
+}

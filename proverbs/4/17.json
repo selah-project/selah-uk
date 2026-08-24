@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Бо їдять вони хліб нечестя, і вино насильства п'ють.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "їдять"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хліб"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "нечестя"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "і вино"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "насильства"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "п'ють"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:05.331548602Z",
+  "model": "glm-5.3"
+}

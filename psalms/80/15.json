@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 80,
+  "translation": "Елогім Цеваот, повернись же, поглянь з небес і побачь, і відвідай лозу цю.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "повернись"
+    },
+    {
+      "surface": "נא",
+      "gloss": "же"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "поглянь"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "з небес"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "і побачь"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "і відвідай"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "лозу"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "цю"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:16.008025743Z",
+  "model": "glm-5.3"
+}

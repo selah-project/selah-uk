@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Хіба ⟨העבד⟩ раб Ізраїль? Чи раб народжений в домі ⟨він⟩? Чому став він здобиччю?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "раб"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїль"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Хіба"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "народжений"
+    },
+    {
+      "surface": "בית",
+      "gloss": "в домі"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨він⟩"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Чому"
+    },
+    {
+      "surface": "היה",
+      "gloss": "став"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "здобиччю"
+    }
+  ],
+  "timestamp": "2026-08-24T01:47:09.902018673Z",
+  "model": "glm-5.3"
+}

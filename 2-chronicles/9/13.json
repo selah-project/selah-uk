@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І була ⟨вага⟩ золота, що приходило Шломо в один рік, — шістсот шістдесят шість талантів золота.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І була"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "вага"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "золота"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "בא",
+      "gloss": "приходило"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "в рік"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "один"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шістсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "шістсот"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "шістдесят"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "шість"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "талантів"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золота"
+    }
+  ],
+  "timestamp": "2026-08-24T01:25:14.428956066Z",
+  "model": "glm-5.3"
+}

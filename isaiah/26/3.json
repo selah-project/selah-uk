@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Думку утверджену Ти охорониш: мир, мир, бо на Тобі ⟨вона⟩ покладається.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "Думку"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "утверджену"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "Ти охорониш"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בך",
+      "gloss": "на Тобі"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "покладається"
+    }
+  ],
+  "timestamp": "2026-08-23T23:10:40.154949643Z",
+  "model": "glm-5.3"
+}

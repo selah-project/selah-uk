@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І сказав Яхве до Моше: Я бачив ⟨את⟩ цей народ, і ось народ твердий потилицею він ⟨є⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Я бачив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цей народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цей"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "і ось"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "твердий"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "потилицею"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    }
+  ],
+  "timestamp": "2026-08-23T21:35:34.833239307Z",
+  "model": "glm-5.3"
+}

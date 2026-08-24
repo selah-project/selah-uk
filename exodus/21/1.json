@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І оце постанови, які ти покладеш перед ними:",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "І оце"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "постанови"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ти покладеш"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "перед ними"
+    }
+  ],
+  "timestamp": "2026-08-23T21:31:59.815531978Z",
+  "model": "glm-5.3"
+}

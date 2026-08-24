@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Так сказав Яхве Цаваот: запитай же ⟨את⟩ священиків щодо тори, кажучи:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цаваот"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "запитай"
+    },
+    {
+      "surface": "נא",
+      "gloss": "же"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "священиків"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "священиків"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "тори"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи:"
+    }
+  ],
+  "timestamp": "2026-08-24T00:06:28.940315678Z",
+  "model": "glm-5.3"
+}

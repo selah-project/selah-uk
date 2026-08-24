@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Не чиніть кривди в суді, в мірі довжини, в вазі й у мірі об'єму.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "чиніть"
+    },
+    {
+      "surface": "עול",
+      "gloss": "кривди"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "в суді"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "в мірі довжини"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "в вазі"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "й у мірі об'єму"
+    }
+  ],
+  "timestamp": "2026-08-23T21:44:26.024852565Z",
+  "model": "glm-5.3"
+}

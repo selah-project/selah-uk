@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Ось ви покладаєтесь на слова обману — на те, що не помогло б.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "покладаєтесь"
+    },
+    {
+      "surface": "лכם",
+      "gloss": "собі"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "обману"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "що не"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "помогло б"
+    }
+  ],
+  "timestamp": "2026-08-23T23:24:27.892496328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 28:17",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "І ще едоміяни прийшли, й уразили в Єгуді, і повели полон.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "і ще"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "едоміяни"
+    },
+    {
+      "surface": "באו",
+      "gloss": "прийшли"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "й уразили"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "в Єгуді"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "і повели"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "полон"
+    }
+  ],
+  "timestamp": "2026-08-24T01:31:16.139045729Z",
+  "model": "glm-5.3"
+}

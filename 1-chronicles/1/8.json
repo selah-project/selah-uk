@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Сини Хама: Куш, і Міцраїм, Пут і Кенаан.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хама"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "і Міцраїм"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "Пут"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "і Кенаан"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:15.280540148Z",
+  "model": "glm-5.3"
+}

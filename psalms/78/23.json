@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 78,
+  "translation": "І звелів хмарам згори, і двері небес відчинив.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "і звелів"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "хмарам"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "згори"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "і двері"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "відчинив"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:58.090441871Z",
+  "model": "glm-5.3"
+}

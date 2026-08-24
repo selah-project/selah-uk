@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 15:7",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Синам Гершону — Йоель ⟨the⟩ начальник та його брати, сто і тридцять.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "синам"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Гершону"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Йоель"
+    },
+    {
+      "surface": "השר",
+      "gloss": "⟨the⟩ начальник"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "та його брати"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "і тридцять"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:35.207933653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 2:11",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І робили сини Їсраеля ⟨את⟩ зло в очах Яхве, і служили ⟨את⟩ Баалім.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "і робили"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраеля"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зло"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "і служили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Баалім"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Баалім"
+    }
+  ],
+  "timestamp": "2026-08-23T22:17:45.912157857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 20:3",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І сказав Яхве: Як ходив раб мій Їшайагу оголений і босий три роки — знак і див на Міцрайм і на Куш,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ходив"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "раб мій"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Їшайагу"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "оголений"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "і босий"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "роки"
+    },
+    {
+      "surface": "אות",
+      "gloss": "знак"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "і див"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцрайм"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    }
+  ],
+  "timestamp": "2026-08-23T23:08:48.129636677Z",
+  "model": "glm-5.3"
+}

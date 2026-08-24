@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Згасло від досади око моє, постаріло від усіх ворогів моїх.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "Згасло"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "від досади"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "око моє"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "постаріло"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "від усіх"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ворогів моїх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:10.032402015Z",
+  "model": "glm-5.3"
+}

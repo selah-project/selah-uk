@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 8:9",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Якщо вона — стіна, збудуємо на ній вежу срібла, а якщо вона — двері, огородимо її дошкою кедру.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "стіна"
+    },
+    {
+      "surface": "היא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "збудуємо"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на ній"
+    },
+    {
+      "surface": "טירת",
+      "gloss": "вежу"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "срібла"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "а якщо"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "двері"
+    },
+    {
+      "surface": "היא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "огородимо"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "її"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "дошкою"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "кедру"
+    }
+  ],
+  "timestamp": "2026-08-24T00:50:21.643159205Z",
+  "model": "glm-5.3"
+}

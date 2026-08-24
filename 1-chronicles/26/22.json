@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 26:22",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Сини Єхіїлі: Зетам і Йоель, брат його, над сховищами дому Яхве.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "יחיאלי",
+      "gloss": "Єхіїлі"
+    },
+    {
+      "surface": "זתם",
+      "gloss": "Зетам"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "і Йоель"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "брат його"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "сховищами"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:21:03.629234372Z",
+  "model": "glm-5.3"
+}

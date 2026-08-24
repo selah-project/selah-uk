@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 105,
+  "translation": "Перевернув ⟨את⟩ води їхні на кров, і вбив ⟨את⟩ рибу їхню.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Перевернув"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "води їхні"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "води їхні"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "на кров"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "і вбив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рибу їхню"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "рибу їхню"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:31.600164201Z",
+  "model": "glm-5.3"
+}

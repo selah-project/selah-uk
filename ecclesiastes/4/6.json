@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Краще ⟨את⟩ повну долоню спокою, ніж дві повні пригорщі праці й мучення духу.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Краще"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "повну"
+    },
+    {
+      "surface": "כף",
+      "gloss": "долоню"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "спокою"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "ніж повні"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "пригорщі"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "праці"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "й мучення"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "духу"
+    }
+  ],
+  "timestamp": "2026-08-24T01:56:23.339350526Z",
+  "model": "glm-5.3"
+}

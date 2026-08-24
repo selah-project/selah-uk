@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Обличчям до обличчя говорив Яхве з вами на горі, з середини огню.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "Обличчям"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "до обличчя"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "з вами"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на горі"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "з середини"
+    },
+    {
+      "surface": "האש",
+      "gloss": "огню"
+    }
+  ],
+  "timestamp": "2026-08-23T22:01:57.249682545Z",
+  "model": "glm-5.3"
+}

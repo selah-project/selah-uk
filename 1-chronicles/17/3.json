@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І сталося тієї ночі, і було слово Елогім до Натана, говорячи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "тієї ночі"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тієї"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і було"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натана"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    }
+  ],
+  "timestamp": "2026-08-24T01:18:16.909122729Z",
+  "model": "glm-5.3"
+}

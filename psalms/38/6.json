@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "Смердять, гниють рани мої через безумство моє.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "Смердять"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "гниють"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "рани мої"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "через"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "безумство моє"
+    }
+  ],
+  "timestamp": "2026-08-24T00:15:17.697563753Z",
+  "model": "glm-5.3"
+}

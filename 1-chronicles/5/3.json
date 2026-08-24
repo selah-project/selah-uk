@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 5:3",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Сини Реувена, первенця Ізраїля: Ханох і Паллу, Хецрон і Кармі.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувена"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "первенця"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханох"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "і Паллу"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецрон"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "і Кармі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:58.896984014Z",
+  "model": "glm-5.3"
+}

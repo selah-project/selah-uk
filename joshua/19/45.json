@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "і Єгуд, і Бней-Верак, і Ґат-Ріммон,",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "і Єгуд"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "і Бней-"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Верак"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "і Ґат-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Ріммон"
+    }
+  ],
+  "timestamp": "2026-08-23T22:16:28.839026980Z",
+  "model": "glm-5.3"
+}

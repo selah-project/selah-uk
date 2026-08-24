@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Чи не кличе ⟨лише⟩ мудрість, і розум подає голос свій?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "чи не"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрість"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "кличе"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "і розум"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "подає"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "голос свій"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:11.197830707Z",
+  "model": "glm-5.3"
+}

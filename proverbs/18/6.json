@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 18:6",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Губи глупця заходять у сварку, і його уста на побої кличуть.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "губи"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупця"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "заходять"
+    },
+    {
+      "surface": "בריב",
+      "gloss": "у сварку"
+    },
+    {
+      "surface": "ופיו",
+      "gloss": "і його уста"
+    },
+    {
+      "surface": "למהלמות",
+      "gloss": "на побої"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "кличуть"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:25.023666700Z",
+  "model": "glm-5.3"
+}

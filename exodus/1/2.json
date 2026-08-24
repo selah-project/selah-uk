@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Реувен, Шимон, Леві та Єгуда,",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леві"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "та Єгуда"
+    }
+  ],
+  "timestamp": "2026-08-23T21:24:55.619660276Z",
+  "model": "glm-5.3"
+}

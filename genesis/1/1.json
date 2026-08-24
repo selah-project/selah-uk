@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "На початку створив Елогім ⟨את⟩ небеса і ⟨את⟩ землю.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "На початку"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "створив"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "небеса"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    }
+  ],
+  "timestamp": "2026-08-23T21:07:39.451097239Z",
+  "model": "glm-5.3"
+}

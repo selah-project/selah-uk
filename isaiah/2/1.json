@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Слово, яке бачив Їшайагу, син Амоца, про Єгуду та Єрушалаїм.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "бачив"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Їшайагу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Амоца"
+    },
+    {
+      "surface": "על",
+      "gloss": "про"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуду"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "та Єрушалаїм"
+    }
+  ],
+  "timestamp": "2026-08-23T23:05:17.513112433Z",
+  "model": "glm-5.3"
+}

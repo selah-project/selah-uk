@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Бо Мені — сини Ізраїлю — слуги; слуги Мої вони, яких Я вивів ⟨את⟩ них із землі Міцраїму; Я — Яхве, Елогім ваш.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мені"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлю"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "слуги"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слуги"
+    },
+    {
+      "surface": "הם",
+      "gloss": "вони"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яких"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "Я вивів"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "них"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "із землі"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїму"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елогім ваш"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:11.226676843Z",
+  "model": "glm-5.3"
+}

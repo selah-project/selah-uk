@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сальма, батько Бейт-Лехема; Хареф, батько Бейт-Ґадера.",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "Сальма"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батько"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехема"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "Хареф"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батько"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "Ґадера"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:58.554366858Z",
+  "model": "glm-5.3"
+}

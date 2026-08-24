@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І солодке ⟨є⟩ світло, і добре для очей — бачити ⟨את⟩ сонце.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "і солодке"
+    },
+    {
+      "surface": "האור",
+      "gloss": "світло"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "і добре"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "для очей"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "бачити"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сонце"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонце"
+    }
+  ],
+  "timestamp": "2026-08-24T00:55:06.224770691Z",
+  "model": "glm-5.3"
+}

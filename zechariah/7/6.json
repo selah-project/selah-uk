@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І коли їсте та коли п'єте, — хіба не ви їсте, і ви п'єте?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "І коли"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "їсте"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "та коли"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "п'єте"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "хіба не"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "їсте"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "і ви"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "п'єте"
+    }
+  ],
+  "timestamp": "2026-08-24T00:07:44.493867714Z",
+  "model": "glm-5.3"
+}

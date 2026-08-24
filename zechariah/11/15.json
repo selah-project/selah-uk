@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І сказав Яхве до мене: Ще візьми собі начиння пастуха нерозумного.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "קח",
+      "gloss": "візьми"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "начиння"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "пастуха"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "нерозумного"
+    }
+  ],
+  "timestamp": "2026-08-24T00:08:31.827383193Z",
+  "model": "glm-5.3"
+}

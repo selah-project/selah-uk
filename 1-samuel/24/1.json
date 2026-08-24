@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І піднявся Давид звідти, і сидів у твердинях Ейн-Геді.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "І піднявся"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "משם",
+      "gloss": "звідти"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "і сидів"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "у твердинях"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ейн"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Геді"
+    }
+  ],
+  "timestamp": "2026-08-23T22:34:25.938213884Z",
+  "model": "glm-5.3"
+}

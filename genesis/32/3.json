@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 32:3",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І сказав Яаков, як побачив їх: табір Елогім це; і назвав ім'я того місця Маханаїм.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "ראם",
+      "gloss": "побачив їх"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "табір"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "і назвав"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ім'я"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "того місця"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "того"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Маханаїм"
+    }
+  ],
+  "timestamp": "2026-08-23T21:18:11.618818702Z",
+  "model": "glm-5.3"
+}

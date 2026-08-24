@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Уззійя аштератієць, Шама і Єїель, сини Хотама, ароерієць.",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "Уззійя"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "аштератієць"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Шама"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "і Єїель"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Хотама"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "ароерієць"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:12.249503910Z",
+  "model": "glm-5.3"
+}

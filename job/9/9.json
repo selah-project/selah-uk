@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Хто робить Аш, Кесіл, і Кіму, і кімнати півдня.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "робить"
+    },
+    {
+      "surface": "עש",
+      "gloss": "Аш"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "Кесіл"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "і Кіму"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "і кімнати"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "півдня"
+    }
+  ],
+  "timestamp": "2026-08-24T00:40:39.122785814Z",
+  "model": "glm-5.3"
+}

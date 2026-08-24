@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Вродливі щоки твої у віночках, шия твоя у намистинах.",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "вродливі"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "щоки твої"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "у віночках"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "шия твоя"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "у намистинах"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:57.861435537Z",
+  "model": "glm-5.3"
+}

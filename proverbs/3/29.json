@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Не задумуй проти ближнього твого зла, коли він сидить безпечно при тобі.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "задумуй"
+    },
+    {
+      "surface": "על",
+      "gloss": "проти"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ближнього твого"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зла"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "і він"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "сидить"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "безпечно"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ тобою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:00.176747349Z",
+  "model": "glm-5.3"
+}

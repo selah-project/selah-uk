@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 5:13",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Юнаки жорна носили, і хлопці під деревом спотикалися.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "юнаки"
+    },
+    {
+      "surface": "טחון",
+      "gloss": "жорна"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "носили"
+    },
+    {
+      "surface": "ונערים",
+      "gloss": "і хлопці"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "під деревом"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "спотикалися"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:00.748525876Z",
+  "model": "glm-5.3"
+}

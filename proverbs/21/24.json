@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 21:24",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Зухвалий, пихатий — насмішник ім'я його, чинить у запалі гординю.",
+  "tokens": [
+    {
+      "surface": "זד",
+      "gloss": "Зухвалий"
+    },
+    {
+      "surface": "יהיר",
+      "gloss": "пихатий"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "насмішник"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ім'я його"
+    },
+    {
+      "surface": "עושה",
+      "gloss": "чинить"
+    },
+    {
+      "surface": "בעברת",
+      "gloss": "у запалі"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "гординю"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:39.571705115Z",
+  "model": "glm-5.3"
+}

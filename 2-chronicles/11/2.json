@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 11:2",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І сталося слово Яхве до Шмаїягу, людини ⟨ה⟩ Елогім, кажучи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "Шмаїягу"
+    },
+    {
+      "surface": "איש",
+      "gloss": "людини"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-24T01:25:10.386322016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Чи це ти знаєш здавна, відколи поставлено людину на землі?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "чи це"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ти знаєш"
+    },
+    {
+      "surface": "מני",
+      "gloss": "здавна"
+    },
+    {
+      "surface": "עד",
+      "gloss": "відколи"
+    },
+    {
+      "surface": "מני",
+      "gloss": "від"
+    },
+    {
+      "surface": "שים",
+      "gloss": "поставлено"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людину"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:43:06.138013784Z",
+  "model": "glm-5.3"
+}

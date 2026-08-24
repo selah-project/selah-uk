@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Сину мій, стережи мої слова, і мої заповіді притай ⟨את⟩ при тобі.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сину мій"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "стережи"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "мої слова"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "і мої заповіді"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "притай"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ при тобі",
+      "marks": "при тобі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:37.856469858Z",
+  "model": "glm-5.3"
+}

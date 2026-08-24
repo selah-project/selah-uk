@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "І зачала ще Лея, і народила Яакову сина шостого.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "І зачала"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лея"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "і народила"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "шостого"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яакову"
+    }
+  ],
+  "timestamp": "2026-08-23T21:17:03.668103445Z",
+  "model": "glm-5.3"
+}

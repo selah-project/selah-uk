@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 122,
+  "translation": "Бо там поставлені трони на суд, трони дому Давида.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "там"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "поставлені"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "трони"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "на суд"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "трони"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:41.546087726Z",
+  "model": "glm-5.3"
+}

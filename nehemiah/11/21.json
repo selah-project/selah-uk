@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 11:21",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "А натіни мешкали в Офелі, а Ціха та Ґішпа ⟨були⟩ над натінами.",
+  "tokens": [
+    {
+      "surface": "והנתינים",
+      "gloss": "а натіни"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "мешкали"
+    },
+    {
+      "surface": "בעפל",
+      "gloss": "в Офелі"
+    },
+    {
+      "surface": "וציחא",
+      "gloss": "а Ціха"
+    },
+    {
+      "surface": "וגשפא",
+      "gloss": "та Ґішпа"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "натінами"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:25.031404026Z",
+  "model": "glm-5.3"
+}

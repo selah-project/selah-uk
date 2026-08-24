@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Людина негідна, муж беззаконня, — той, хто ходить криворотою вуст.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "людина"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "негідна"
+    },
+    {
+      "surface": "איש",
+      "gloss": "муж"
+    },
+    {
+      "surface": "און",
+      "gloss": "беззаконня"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ходить"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "криворотою"
+    },
+    {
+      "surface": "פה",
+      "gloss": "вуст"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:31.417090630Z",
+  "model": "glm-5.3"
+}

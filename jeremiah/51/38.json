@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 51:38",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 51,
+  "translation": "Разом, як леви, ревуть, гарчать, як левенята левів.",
+  "tokens": [
+    {
+      "surface": "יחדו",
+      "gloss": "разом"
+    },
+    {
+      "surface": "ככפרים",
+      "gloss": "як-леви"
+    },
+    {
+      "surface": "ישאגו",
+      "gloss": "ревуть"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "гарчать"
+    },
+    {
+      "surface": "כגורי",
+      "gloss": "як-левенята"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "левів"
+    }
+  ],
+  "timestamp": "2026-08-23T23:39:37.452038317Z",
+  "model": "glm-5.3"
+}

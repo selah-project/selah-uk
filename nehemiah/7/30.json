@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Люди ⟨ה⟩ Рами й Ґеви: шістсот двадцять і один.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "люди"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Рами"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "й Ґеви"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шістсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцять"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "і один"
+    }
+  ],
+  "timestamp": "2026-08-24T01:09:41.873984178Z",
+  "model": "glm-5.3"
+}

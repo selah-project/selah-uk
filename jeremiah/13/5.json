@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І я пішов, і сховав його в Ператі, як Яхве заповів ⟨мене⟩ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "І я пішов"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "і сховав його"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "в Ператі"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "мене"
+    }
+  ],
+  "timestamp": "2026-08-23T23:27:16.090272793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Бо добру науку я дав вам; моєї тори не залишайте.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "науку"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добру"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "я дав"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "моєї тори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "залишайте"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:03.818631036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 130,
+  "translation": "Нехай надіється Ісраель на Яхве, бо з Яхве — хесед, і з Ним — велике визволення.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Нехай надіється"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраель"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "і велике"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "з Ним"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "визволення"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:23.465304208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І сказав: Моє обличчя піде, і Я дам тобі спокій.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Моє обличчя"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "піде"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "і Я дам спокій"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:36:17.601116470Z",
+  "model": "glm-5.3"
+}

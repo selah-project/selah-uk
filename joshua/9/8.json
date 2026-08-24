@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 9:8",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І сказали вони Єгошуа: «Раби твої ми». І сказав їм Єгошуа: «Хто ви, і звідки прийшли?»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "і сказали"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Єгошуа"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "раби твої"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ми"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Єгошуа"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "і звідки"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "прийшли"
+    }
+  ],
+  "timestamp": "2026-08-23T22:12:53.743800574Z",
+  "model": "glm-5.3"
+}

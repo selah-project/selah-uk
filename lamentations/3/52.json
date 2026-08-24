@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Полювали на мене, як на птаха, вороги мої — безвинно.",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "полювали"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "на мене"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "як на птаха"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "вороги мої"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "безвинно"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:38.298103308Z",
+  "model": "glm-5.3"
+}

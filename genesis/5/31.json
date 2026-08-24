@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 5:31",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І були всі дні Лемеха сімдесят сім ⟨і⟩ сімсот років, і помер він.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І були"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дні"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Лемеха"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "сім"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "і сімдесят"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "і сім"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "і помер"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:03.050021101Z",
+  "model": "glm-5.3"
+}

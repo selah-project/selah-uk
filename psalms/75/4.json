@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 75,
+  "translation": "Тануть ⟨є⟩ земля та всі її мешканці — я утверджую стовпи її. Села.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "Тануть"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "та всі"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "мешканці її"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "утверджую"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "стовпи її"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:32.416718777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Чорна я, та вродлива, дочко Єрушалаїму, як шатри Кедару, як завіси Шломо.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "Чорна"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "та вродлива"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дочко"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Єрушалаїму"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "як шатри"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Кедару"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "як завіси"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    }
+  ],
+  "timestamp": "2026-08-24T00:49:30.114555161Z",
+  "model": "glm-5.3"
+}

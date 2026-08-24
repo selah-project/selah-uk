@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Сини Єгуди: Ер і Онан; і померли Ер і Онан в землі Кенаан.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ер"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "і Онан"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "і померли"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ер"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "і Онан"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землі"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    }
+  ],
+  "timestamp": "2026-08-23T21:56:00.370086161Z",
+  "model": "glm-5.3"
+}

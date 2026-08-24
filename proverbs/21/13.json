@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Зачиняє своє вухо від крику вбогого — також він крикатиме, і не буде почутий.",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "Зачиняє"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "своє вухо"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "від крику"
+    },
+    {
+      "surface": "דל",
+      "gloss": "вбогого"
+    },
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "крикатиме"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "буде почутий"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:54.439872729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І заповів Яхве Елогім людині, говорячи: з усякого дерева саду їж ⟨ будеш ⟩ їсти.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "І заповів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "על",
+      "gloss": "людині"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людині"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "з усякого"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дерева"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "саду"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "їж"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "⟨ будеш ⟩ їсти"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:37.191747624Z",
+  "model": "glm-5.3"
+}

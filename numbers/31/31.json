@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 31:31",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "І зробив Моше, і Елеазар-священик, як заповів Яхве ⟨את⟩ Моше.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "І зробив"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "і Елеазар"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "священик"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-23T21:58:25.443565124Z",
+  "model": "glm-5.3"
+}

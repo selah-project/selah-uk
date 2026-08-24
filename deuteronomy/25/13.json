@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Нехай не буде в тобі в мішку твоєму камінь і камінь, великий і малий.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "в тобі"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "в мішку твоєму"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камінь"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "і камінь"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "великий"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "і малий"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:23.199911143Z",
+  "model": "glm-5.3"
+}

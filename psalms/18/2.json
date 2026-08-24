@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І сказав: кохаю Тебе, Яхве, підмого моя!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "кохаю Тебе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "підмого моя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:11:40.147916730Z",
+  "model": "glm-5.3"
+}

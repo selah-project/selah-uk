@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Дивись, покликав Я на ім'я Бецалела, сина Урі, сина Хура, з племени Єгуди,",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Дивись"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "покликав Я"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "на ім'я"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Бецалела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Урі"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Хура"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "з племени"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    }
+  ],
+  "timestamp": "2026-08-23T21:33:25.110340409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 2:6",
+  "book": "micah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Не крапайте — крапають; не крапатимуть цим, не відступить ганьба.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תטפו",
+      "gloss": "крапайте"
+    },
+    {
+      "surface": "יטיפון",
+      "gloss": "крапають"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יטפו",
+      "gloss": "крапатимуть"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "цим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יסג",
+      "gloss": "відступить"
+    },
+    {
+      "surface": "כלמות",
+      "gloss": "ганьба"
+    }
+  ],
+  "timestamp": "2026-08-24T00:03:23.211462446Z",
+  "model": "glm-5.3"
+}

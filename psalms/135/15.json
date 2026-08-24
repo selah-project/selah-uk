@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 135,
+  "translation": "Ідоли народів — срібло й золото, витвір рук людських.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "ідоли"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народів"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "срібло"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "й золото"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "витвір"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "рук"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людських"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:13.217261442Z",
+  "model": "glm-5.3"
+}

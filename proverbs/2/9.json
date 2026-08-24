@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Тоді зрозумієш праведність і право, і прямоту — ⟨кожну⟩ стежку добра.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "тоді"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "зрозумієш"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "праведність"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "і право"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "і прямоту"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кожну"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "стежку"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:33.245687321Z",
+  "model": "glm-5.3"
+}

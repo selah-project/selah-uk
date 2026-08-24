@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 73,
+  "translation": "Тому гордість — нашийник на них, насильство огортає їх ⟨мов⟩ шату.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "нашийник на них"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "гордість"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "огортає"
+    },
+    {
+      "surface": "שית",
+      "gloss": "шату"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насильство"
+    },
+    {
+      "surface": "למו",
+      "gloss": "їх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:55.070861507Z",
+  "model": "glm-5.3"
+}

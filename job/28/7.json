@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 28:7",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Стежку ту не пізнав хижий птах, і не оглянуло її око сокола.",
+  "tokens": [
+    {
+      "surface": "נתיב",
+      "gloss": "стежку"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "пізнав"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "хижий птах"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "оглянуло"
+    },
+    {
+      "surface": "עין",
+      "gloss": "око"
+    },
+    {
+      "surface": "איה",
+      "gloss": "соколá"
+    }
+  ],
+  "timestamp": "2026-08-24T00:44:49.579565636Z",
+  "model": "glm-5.3"
+}

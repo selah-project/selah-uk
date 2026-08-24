@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І насадив Аврагам тамариск у Беер-Шеві, і прикликав там Ім'я Яхве, Еля Вічного.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "і насадив"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "тамариск"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "у Беер-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шеві"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "і прикликав"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Ім'я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Вічний"
+    }
+  ],
+  "timestamp": "2026-08-23T21:13:11.815193514Z",
+  "model": "glm-5.3"
+}

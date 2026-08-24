@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 118,
+  "translation": "Хай скажуть нині дім Агарона: бо навіки хесед Його.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "хай скажуть"
+    },
+    {
+      "surface": "נא",
+      "gloss": "нині"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарона"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед Його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:04.811697312Z",
+  "model": "glm-5.3"
+}

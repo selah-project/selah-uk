@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Гроно хни мій коханий для мене, у виноградниках Ейн-Ґеді.",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "гроно"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "хни"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "мій коханий"
+    },
+    {
+      "surface": "לי",
+      "gloss": "для мене"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "у виноградниках"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ейн"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Ґеді"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:49.124770501Z",
+  "model": "glm-5.3"
+}

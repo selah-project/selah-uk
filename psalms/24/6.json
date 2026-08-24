@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Це рід тих, хто шукає Його, хто шукає обличчя Твого — Яаков. Села.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "дור",
+      "gloss": "рід"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "шукає"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "хто шукає"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "обличчя Твого"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:22.076551505Z",
+  "model": "glm-5.3"
+}

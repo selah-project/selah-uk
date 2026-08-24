@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 38:26",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "щоб лити дощ на землю без людини, на пустелю, де нема ⟨в⟩ ній людини,",
+  "tokens": [
+    {
+      "surface": "להמטיר",
+      "gloss": "щоб лити"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "לא",
+      "gloss": "без"
+    },
+    {
+      "surface": "איש",
+      "gloss": "людини"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "на пустелю"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людини"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨в⟩ ній"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:14.590238788Z",
+  "model": "glm-5.3"
+}

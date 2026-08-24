@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "Якщо оправдався ти — що ти даєш Йому? Або що з руки твоєї Він прийме?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Якщо"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "оправдався"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ти даєш"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Йому"
+    },
+    {
+      "surface": "או",
+      "gloss": "Або"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "з руки твоєї"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "Він прийме"
+    }
+  ],
+  "timestamp": "2026-08-24T00:47:19.960324069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Сини Неціаха, сини Хатіфи.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "Неціаха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "Хатіфи"
+    }
+  ],
+  "timestamp": "2026-08-24T01:09:53.116356474Z",
+  "model": "glm-5.3"
+}

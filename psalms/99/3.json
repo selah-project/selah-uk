@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 99,
+  "translation": "Нехай хвалять ім'я Твоє велике і страшне — святий Воно ⟨є⟩.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "нехай хвалять"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ім'я Твоє"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велике"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "і страшне"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "святий"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Воно"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:23.326503510Z",
+  "model": "glm-5.3"
+}

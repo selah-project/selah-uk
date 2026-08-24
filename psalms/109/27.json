@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 109,
+  "translation": "І нехай пізнають, що це рука Твоя — Ти, Яхве, учинив ⟨את⟩ це.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "і нехай пізнають"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "рука Твоя"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "учинив ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:25.790944908Z",
+  "model": "glm-5.3"
+}

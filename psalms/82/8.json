@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 82,
+  "translation": "Встань, Елогім, суди ⟨את⟩ землю, бо Ти успадкуєш усі народи.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Встань"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "суди"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "успадкуєш"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:14.659623279Z",
+  "model": "glm-5.3"
+}

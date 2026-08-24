@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 35:26",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "А решта справ Йошиягу та його хеседів, як написано в Торі Яхве,",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "а решта"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "справ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Йошиягу"
+    },
+    {
+      "surface": "וחסדיו",
+      "gloss": "та його хеседів"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "як написано"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "в Торі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:34:44.180704621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Я — квітка Шарону, лілея долин.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "квітка"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Шарону"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "лілея"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "долин"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:58.497661885Z",
+  "model": "glm-5.3"
+}

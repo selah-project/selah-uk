@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 95,
+  "translation": "що в руці Його глибини землі, і верхи гір — Йому",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "в руці Його"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "глибини"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "і верхи"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "гір"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Йому"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:32.827229597Z",
+  "model": "glm-5.3"
+}

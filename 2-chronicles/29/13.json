@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 29:13",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І з синів Еліцафана: Шімрі та Йоель; і з синів Асафа: Захар'ягу та Матан'ягу.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "і з"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "Еліцафана"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "Шімрі"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "та Йоель"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "і з"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асафа"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Захар'ягу"
+    },
+    {
+      "surface": "ומתניהו",
+      "gloss": "та Матан'ягу"
+    }
+  ],
+  "timestamp": "2026-08-24T01:31:19.109050565Z",
+  "model": "glm-5.3"
+}

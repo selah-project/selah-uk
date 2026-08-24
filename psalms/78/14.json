@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 78,
+  "translation": "І вів їх хмарою вдень, і всю ніч — світлом огню.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "І вів їх"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "хмарою"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "вдень"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і всю"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ніч"
+    },
+    {
+      "surface": "באור",
+      "gloss": "світлом"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огню"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:08.622687596Z",
+  "model": "glm-5.3"
+}

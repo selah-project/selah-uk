@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "Охороняє ⟨він⟩ усі кістки його; жодна з них не буде зламана.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Охороняє"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "кістки його"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "жодна"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "з них"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "буде зламана"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:56.904525200Z",
+  "model": "glm-5.3"
+}

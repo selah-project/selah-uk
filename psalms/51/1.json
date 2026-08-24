@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 51,
+  "translation": "Керівникові ⟨співу⟩. Мізмор Давіда.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові ⟨співу⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Мізмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давіда"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:17.844281415Z",
+  "model": "glm-5.3"
+}

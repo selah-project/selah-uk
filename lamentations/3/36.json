@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "щоб кривдити людину в справі її — Адонай не побачив ⟨цього⟩.",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "щоб кривдити"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людину"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "у справі її"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "побачив"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:29.502408645Z",
+  "model": "glm-5.3"
+}

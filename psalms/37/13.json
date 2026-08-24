@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "Адонай насміхається з нього, бо бачив, що приходить день його.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "насміхається"
+    },
+    {
+      "surface": "לו",
+      "gloss": "з нього"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "бачив"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "приходить"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "день його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:14:17.761065425Z",
+  "model": "glm-5.3"
+}

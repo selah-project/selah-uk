@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Початок мудрості — страх Яхве, а пізнання Кедошім — розуміння.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "початок"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрості"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "а пізнання"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "Кедошім"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "розуміння"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:20.554761073Z",
+  "model": "glm-5.3"
+}

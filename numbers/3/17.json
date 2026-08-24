@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 3:17",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І ці були сини Леві за їхніми іменами: Гершон, і Кегат, і Мерарі.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "І були"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леві"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "за їхніми іменами"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершон"
+    },
+    {
+      "surface": "וקהת",
+      "gloss": "і Кегат"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "і Мерарі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:48:18.966393827Z",
+  "model": "glm-5.3"
+}

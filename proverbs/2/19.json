@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 2:19",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Усі, хто входить до неї, не вертаються, і не досягають шляхів життя.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Усі"
+    },
+    {
+      "surface": "באיה",
+      "gloss": "хто входить до неї"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "вертаються"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "досягають"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "шляхів"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "життя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:00.655411007Z",
+  "model": "glm-5.3"
+}

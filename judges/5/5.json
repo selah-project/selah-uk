@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Гори текли від обличчя Яхве, цей — Сінай — від обличчя Яхве, Елогім Ізраїля.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "гори"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "текли"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "від обличчя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "זה",
+      "gloss": "цей"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Сінай"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "від обличчя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    }
+  ],
+  "timestamp": "2026-08-24T01:40:28.473720360Z",
+  "model": "glm-5.3"
+}

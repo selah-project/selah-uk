@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "і худоби рогатої шість і тридцять тисяч,",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "і худоби рогатої"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шість"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "і тридцять"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяч"
+    }
+  ],
+  "timestamp": "2026-08-23T21:57:54.453787265Z",
+  "model": "glm-5.3"
+}

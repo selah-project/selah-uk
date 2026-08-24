@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "ezra 2:58",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Усі нетінім і сини слуг Шломо — три сотні дев'яносто і два.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Усі"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "нетінім"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "і сини"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слуг"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотні"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "дев'яносто"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "і два"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:46.072312923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І промовив Моше ⟨את⟩ призначені часи Яхве синам Ізраїлю.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "і промовив"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "призначені часи Яхве"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "призначені часи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "синам"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синам"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлю"
+    }
+  ],
+  "timestamp": "2026-08-23T21:45:39.264084547Z",
+  "model": "glm-5.3"
+}

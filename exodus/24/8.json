@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І взяв Моше ⟨את⟩ крові, і покропив на народ, і сказав: ось кров заповіту, який зрізав Яхве з вами про всі ці слова.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "і взяв"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кров"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "крові"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "і покропив"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кров"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "заповіту"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "зрізав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "з вами"
+    },
+    {
+      "surface": "על",
+      "gloss": "про"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ці"
+    }
+  ],
+  "timestamp": "2026-08-23T21:31:55.005402355Z",
+  "model": "glm-5.3"
+}

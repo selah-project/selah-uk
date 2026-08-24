@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І я відповів і сказав до ангела, що говорив у мені: що це, мій Адонай?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "І я відповів"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ангела"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "що говорив"
+    },
+    {
+      "surface": "בי",
+      "gloss": "у мені"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "мій Адонай"
+    }
+  ],
+  "timestamp": "2026-08-24T00:07:23.186047560Z",
+  "model": "glm-5.3"
+}

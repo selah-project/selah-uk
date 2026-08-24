@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І поставив там жертовник, і назвав його Ель Елогім-Ісраель.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "І поставив"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жертовник"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "і назвав"
+    },
+    {
+      "surface": "לו",
+      "gloss": "його"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраель"
+    }
+  ],
+  "timestamp": "2026-08-23T21:17:43.746041030Z",
+  "model": "glm-5.3"
+}

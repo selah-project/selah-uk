@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "Бо гори приносять йому поживу, і вся звірина польова грається там.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "בול",
+      "gloss": "поживу"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "гори"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "приносять"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і вся"
+    },
+    {
+      "surface": "חית",
+      "gloss": "звірина"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "польова"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "грається"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:29.691367517Z",
+  "model": "glm-5.3"
+}

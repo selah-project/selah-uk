@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "І зачала вона, і народила сина; і назвав ⟨את⟩ ім'я його Ер.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "І зачала"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "і народила"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "і назвав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ім'я його"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ім'я його"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ер"
+    }
+  ],
+  "timestamp": "2026-08-23T21:20:27.683158022Z",
+  "model": "glm-5.3"
+}

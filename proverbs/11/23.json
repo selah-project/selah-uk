@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Прагнення праведних — лише добро, надія безбожних — лють.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "прагнення"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведних"
+    },
+    {
+      "surface": "אך",
+      "gloss": "лише"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "надія"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "безбожних"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "лють"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:42.281132711Z",
+  "model": "glm-5.3"
+}

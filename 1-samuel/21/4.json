@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І тепер: що ⟨є⟩ під рукою твоєю? п'ять хлібів дай у руку мою, або що знайдеться.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "і тепер"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨є⟩"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "рукою твоєю"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "п'ять"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлібів"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "дай"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "у руку мою"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "що знайдеться"
+    }
+  ],
+  "timestamp": "2026-08-23T22:33:48.617204430Z",
+  "model": "glm-5.3"
+}

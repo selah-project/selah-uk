@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "І сказав Яхве Моше та Агарону: це — установа песаху; кожен син чужинця не їстиме з нього.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "та Агарона"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "установа"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "песаху"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кожен"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "чужинця"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "їстиме"
+    },
+    {
+      "surface": "בו",
+      "gloss": "з нього"
+    }
+  ],
+  "timestamp": "2026-08-23T21:28:42.366387560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 2:5",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "А вони — чи почують, чи зупиняться, — бо дім бунтівний вони, — і пізнають, що пророк був серед них.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "а вони"
+    },
+    {
+      "surface": "אם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "почують"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "зупиняться"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "бунтівний"
+    },
+    {
+      "surface": "המה",
+      "gloss": "вони"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "і пізнають"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "היה",
+      "gloss": "був"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "серед них"
+    }
+  ],
+  "timestamp": "2026-08-23T23:40:37.128687909Z",
+  "model": "glm-5.3"
+}

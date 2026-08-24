@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 87,
+  "translation": "І співаки, як граючі ⟨на інструментах⟩: усі мої джерела — в Тобі.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "і співаки"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "як граючі"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "мої джерела"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в Тобі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:32.067902438Z",
+  "model": "glm-5.3"
+}

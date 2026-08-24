@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Йори — сто і дванадцять.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "Йора"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "і дванадцять"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨десять⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:14.306798800Z",
+  "model": "glm-5.3"
+}

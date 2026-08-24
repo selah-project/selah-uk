@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І повернувся Агарон до Моше, до входу шатра зустрічі, і мора стрималася.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "і повернувся"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входу"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "зустрічі"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "і мора"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "стрималася"
+    }
+  ],
+  "timestamp": "2026-08-23T21:53:08.621103405Z",
+  "model": "glm-5.3"
+}

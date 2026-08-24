@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Того дня буде з'їдено ⟨її⟩; не лишайте від неї нічого до ранку: Я — Яхве.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "того дня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "того"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "буде з'їдено"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "лишайте"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "від неї"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ранку"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:45:18.893639397Z",
+  "model": "glm-5.3"
+}

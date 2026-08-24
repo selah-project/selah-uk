@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І Кіш ⟨був⟩ батьком Шаула, а Нер — батьком Авнера, сина Авієля.",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "І Кіш"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батьком"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаула"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "а Нер"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батьком"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнера"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "Авієля"
+    }
+  ],
+  "timestamp": "2026-08-24T01:41:26.091267889Z",
+  "model": "glm-5.3"
+}

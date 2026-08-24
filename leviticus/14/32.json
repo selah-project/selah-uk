@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 14:32",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Це — настанова про того, в кому ураження прокази, чия рука не сягає ⟨до⟩ очищення його.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "настанова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "про того, що"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у ньому"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ураження"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "прокази"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чия"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "сягає"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "рука"
+    },
+    {
+      "surface": "בטהרתו",
+      "gloss": "очищення його"
+    }
+  ],
+  "timestamp": "2026-08-23T21:42:21.142753287Z",
+  "model": "glm-5.3"
+}

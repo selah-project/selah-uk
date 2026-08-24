@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Не зсувай межі споконвічної, і в поля сиріт не входь.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "зсувай"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "межі"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "споконвічної"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "і в полях"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "сиріт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "входь"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:49.766723576Z",
+  "model": "glm-5.3"
+}

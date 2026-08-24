@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 36:41",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "алуф Оголівама, алуф Ела, алуф Пінон.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "алуф"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Оголівама"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "алуф"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "алуф"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "Пінон"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:46.544339401Z",
+  "model": "glm-5.3"
+}

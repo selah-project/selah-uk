@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І були дні Тераха п'ять років і двісті років, і помер Терах у Гарині.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "і були"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дні"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Тераха"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "п'ять"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "років"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "і двісті"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "і помер"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терах"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "у Гарині"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:51.937842307Z",
+  "model": "glm-5.3"
+}

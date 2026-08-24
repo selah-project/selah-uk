@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І сказав Яхве до Моше: тяжке серце Паро, відмовляється відпустити народ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "тяжке"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "відмовляється"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "відпустити"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-08-23T21:26:54.760867302Z",
+  "model": "glm-5.3"
+}

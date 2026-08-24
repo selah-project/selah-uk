@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І сиділи ви в Кадеші багато днів, як дні, що ви сиділи ⟨там⟩.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "І сиділи ви"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "у Кадеші"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "багато"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "як дні"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "ви сиділи"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:58.959513160Z",
+  "model": "glm-5.3"
+}

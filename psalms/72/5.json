@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 72,
+  "translation": "Хай бояться тебе ⟨із⟩ сонцем, і перед місяцем — рід родів.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "хай бояться тебе"
+    },
+    {
+      "surface": "עם",
+      "gloss": "із"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "сонцем"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "і перед"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "місяцем"
+    },
+    {
+      "surface": "דור",
+      "gloss": "рід"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "родів"
+    }
+  ],
+  "timestamp": "2026-08-24T00:19:51.696893855Z",
+  "model": "glm-5.3"
+}

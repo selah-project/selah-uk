@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 20:7",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Ось усі ви, сини Ісраейлю: дайте собі слово й раду тут!",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "усі ви"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраейлю"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "дайте"
+    },
+    {
+      "surface": "лכם",
+      "gloss": "собі"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "ועצה",
+      "gloss": "й раду"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "тут"
+    }
+  ],
+  "timestamp": "2026-08-23T22:25:22.876059749Z",
+  "model": "glm-5.3"
+}

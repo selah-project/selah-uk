@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 24:19",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І сказав мені ⟨the⟩ народ: хіба не перекажеш нам, що ці ⟨речі⟩ — нам, що ти робиш?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ народ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "хіба"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "не перекажеш"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "робиш"
+    }
+  ],
+  "timestamp": "2026-08-23T23:47:29.136309375Z",
+  "model": "glm-5.3"
+}

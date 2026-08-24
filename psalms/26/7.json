@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "щоб чувся голос подяки, і щоб оповідати всі Твої дива.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "щоб чувся"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "подяки"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "і щоб оповідати"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "Твої дива"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:54.642749085Z",
+  "model": "glm-5.3"
+}

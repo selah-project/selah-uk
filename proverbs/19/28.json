@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 19:28",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Свідок Бельяла глузує з суду, і уста нечестивих ковтають беззаконня.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "свідок"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Бельяла"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "глузує"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "з суду"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "і уста"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивих"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "ковтають"
+    },
+    {
+      "surface": "און",
+      "gloss": "беззаконня"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:39.194157167Z",
+  "model": "glm-5.3"
+}

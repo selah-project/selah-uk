@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 4:6",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Аж поки подихне день і втекуть тіні, піду собі до гори мирри і до пагорба Lebanon-ного ладану.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "аж поки"
+    },
+    {
+      "surface": "שיפוח",
+      "gloss": "подихне"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "і втекуть"
+    },
+    {
+      "surface": "הצללים",
+      "gloss": "тіні"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "піду"
+    },
+    {
+      "surface": "לי",
+      "gloss": "собі"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гори"
+    },
+    {
+      "surface": "המור",
+      "gloss": "мирри"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і до"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "пагорба"
+    },
+    {
+      "surface": "הלבונה",
+      "gloss": "ладану"
+    }
+  ],
+  "timestamp": "2026-08-24T00:49:46.950347825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "А я знаю, що цар Міцраїму не дасть вам іти ⟨את⟩ — і не ⟨буде⟩ рукою міцною.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а я"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знаю"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дасть"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вам"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїму"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "іти"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "рукою"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "міцною"
+    }
+  ],
+  "timestamp": "2026-08-23T21:26:47.665154072Z",
+  "model": "glm-5.3"
+}

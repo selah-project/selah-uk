@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Срібло шлаку, накладене на черепок, — уста палючі і серце лихе.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "срібло"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "шлаку"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "накладене"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "черепок"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "уста"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "палючі"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "і серце"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лихе"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:48.636140636Z",
+  "model": "glm-5.3"
+}

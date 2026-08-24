@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "У перший день ⟨буде⟩ святе зібрання; усякої роботи службової не робитимете.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "У день"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "перший"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "зібрання"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "святе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усякої"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "роботи"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "службової"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "робитимете"
+    }
+  ],
+  "timestamp": "2026-08-23T21:45:34.150018523Z",
+  "model": "glm-5.3"
+}

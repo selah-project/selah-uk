@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 44,
+  "translation": "Бо не в лука свого довіряюсь, і меч мій не спасе мене.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "в лука свого"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "довіряюсь"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "і меч мій"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "спасе мене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:15:21.090334497Z",
+  "model": "glm-5.3"
+}

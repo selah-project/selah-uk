@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 6:14",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Викривленість у серці його, задумує зло в кожен час, чвари посилає.",
+  "tokens": [
+    {
+      "surface": "תהפכות",
+      "gloss": "викривленість"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "у серці його"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "задумує"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "у кожен"
+    },
+    {
+      "surface": "עת",
+      "gloss": "час"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "чвари"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "посилає"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:09.427310874Z",
+  "model": "glm-5.3"
+}

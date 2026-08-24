@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І Елтеке, і Ґівветон, і Баалат.",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "і Елтеке"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "і Ґівветон"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "і Баалат"
+    }
+  ],
+  "timestamp": "2026-08-23T22:16:28.076819835Z",
+  "model": "glm-5.3"
+}

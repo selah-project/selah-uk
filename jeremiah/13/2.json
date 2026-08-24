@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І я набув ⟨את⟩ пояс, за словом Яхве, і поклав його на стегна свої.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "І я набув"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пояс"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "пояс"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "за словом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "і поклав"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "стегна свої"
+    }
+  ],
+  "timestamp": "2026-08-23T23:27:26.102181716Z",
+  "model": "glm-5.3"
+}

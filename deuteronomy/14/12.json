@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "А це те, чого не можете їсти з них: нешер, і перес, і азнійя.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "а це"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "їжте"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "з них"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "нешер"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "і перес"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "і азнійя"
+    }
+  ],
+  "timestamp": "2026-08-23T22:03:54.396163800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 74,
+  "translation": "До коли, Елогім, gadзить ворог, зневажатиме ворог Твоє Ім'я повіки?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "gadзить"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ворог"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "зневажатиме"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ворог"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Твоє Ім'я"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "повіки"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:12.252040752Z",
+  "model": "glm-5.3"
+}

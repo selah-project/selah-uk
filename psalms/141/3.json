@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 141,
+  "translation": "Постав, Яхве, варту для уст моих, стережи двері вуст моїх.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "постав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "варту"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "для уст моих"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "стережи"
+    },
+    {
+      "surface": "על",
+      "gloss": "в"
+    },
+    {
+      "surface": "דל",
+      "gloss": "двері"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "вуст моїх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:30:02.168277118Z",
+  "model": "glm-5.3"
+}

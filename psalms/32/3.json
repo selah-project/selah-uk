@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "Коли я мовчав, зотліли кості мої від мого рикання цілий день.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "я мовчав"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "зотліли"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "кості мої"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "від мого рикання"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цілий"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:59.825814378Z",
+  "model": "glm-5.3"
+}

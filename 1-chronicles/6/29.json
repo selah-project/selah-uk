@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 6:29",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І сини Мерарі, брати їхні, ⟨були⟩ по лівому боці: Ейтан, син Кіші, син Авді, син Маллуха.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "І сини"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерарі"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "брати їхні"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "השמאול",
+      "gloss": "лівому боці"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "Ейтан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "קישי",
+      "gloss": "Кіші"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Авді"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "Маллуха"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:33.310282045Z",
+  "model": "glm-5.3"
+}

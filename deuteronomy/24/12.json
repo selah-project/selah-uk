@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І якщо він — людина вбога, не спи з заставою його.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "і якщо"
+    },
+    {
+      "surface": "איש",
+      "gloss": "людина"
+    },
+    {
+      "surface": "עני",
+      "gloss": "вбога"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "спи"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "з заставою його"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:26.930886680Z",
+  "model": "glm-5.3"
+}

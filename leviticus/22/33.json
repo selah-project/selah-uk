@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Який вивів ⟨את⟩ вас із землі Міцраїм, щоб бути вам Елогім; я — Яхве.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "Який вивів"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "вас"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "із землі"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїм"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "щоб бути"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:44:13.103468895Z",
+  "model": "glm-5.3"
+}

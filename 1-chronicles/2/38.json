@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І Овед породив ⟨את⟩ Єгу, і Єгу породив ⟨את⟩ Азарію.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "І Овед"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Єгу"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Єгу"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "і Єгу"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Азарію"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарія"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:39.892431550Z",
+  "model": "glm-5.3"
+}

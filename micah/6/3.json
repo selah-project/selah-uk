@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Народе мій, що я зробив тобі, і чим я тебе стомив? Відповідай мені!",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Народе мій"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "я зробив"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "і чим"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "я тебе стомив"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Відповідай"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мені"
+    }
+  ],
+  "timestamp": "2026-08-24T00:04:53.557218251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 9:22",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Одне це — тому я сказав: цілого і злочинця він винищує.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Одне"
+    },
+    {
+      "surface": "היא",
+      "gloss": "це"
+    },
+    {
+      "surface": "על",
+      "gloss": "тому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "я сказав"
+    },
+    {
+      "surface": "תם",
+      "gloss": "цілого"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "і злочинця"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "מכלה",
+      "gloss": "винищує"
+    }
+  ],
+  "timestamp": "2026-08-24T00:40:59.031523817Z",
+  "model": "glm-5.3"
+}

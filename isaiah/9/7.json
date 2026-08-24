@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Слово послав Адонай у Яакова, і впало воно в Ісраелі.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "послав"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "у Яакова"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "і впало"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Ісраелі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:08:15.034332633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 9:21",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "А ⟨את⟩ груди та ⟨את⟩ праве стегно здійняв Агарон здійманням перед Яхве, як заповів Моше.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "груди"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "груди"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "праве стегно"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "стегно"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "праве"
+    },
+    {
+      "surface": "הניף",
+      "gloss": "здійняв"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарон"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "здійманням"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:42.597723134Z",
+  "model": "glm-5.3"
+}

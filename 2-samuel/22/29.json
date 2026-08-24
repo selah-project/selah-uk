@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 22:29",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Бо Ти — світильник мій, Яхве, і Яхве освітить темряву мою.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "נירי",
+      "gloss": "світильник мій"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "і Яхве"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "освітить"
+    },
+    {
+      "surface": "חשכי",
+      "gloss": "темряву мою"
+    }
+  ],
+  "timestamp": "2026-08-23T22:45:20.679889804Z",
+  "model": "glm-5.3"
+}

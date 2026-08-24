@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 11:23",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І сказав Яхве Моше: чи рука Яхве коротка? Тепер побачиш, чи спіткає тебе слово Моє, чи ні.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "היד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "коротка"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "тепер"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "побачиш"
+    },
+    {
+      "surface": "היקרך",
+      "gloss": "чи спіткає тебе"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слово Моє"
+    },
+    {
+      "surface": "אם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ні"
+    }
+  ],
+  "timestamp": "2026-08-23T21:52:00.935886262Z",
+  "model": "glm-5.3"
+}

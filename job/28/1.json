@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 28:1",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Бо для срібла ⟨є⟩ вихід, і місце для золота, де його плавлять.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "יש",
+      "gloss": "є"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "для срібла"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "вихід"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "і місце"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "для золота"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "плавлять"
+    }
+  ],
+  "timestamp": "2026-08-24T00:45:03.887869025Z",
+  "model": "glm-5.3"
+}

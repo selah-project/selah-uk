@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "Одне я говорив — і не відповім, і двічі — і не додам.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "одне"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "я говорив"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "відповім"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "і двічі"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "додам"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:22.089935672Z",
+  "model": "glm-5.3"
+}

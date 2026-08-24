@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 7:24",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Третього дня — князя синів Зевулуна, Еліава, сина Хелона.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "у дні"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третьому"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князя"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зевулуна"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Еліава"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Хелона"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:36.128282370Z",
+  "model": "glm-5.3"
+}

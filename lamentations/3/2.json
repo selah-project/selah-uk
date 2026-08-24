@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Мене ⟨את⟩ він погнав і провадив у темряву, а не в світло.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ Мене",
+      "marks": "погнав"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "погнав"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "і провадив"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "у темряву"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "אור",
+      "gloss": "у світло"
+    }
+  ],
+  "timestamp": "2026-08-24T00:51:39.953573658Z",
+  "model": "glm-5.3"
+}

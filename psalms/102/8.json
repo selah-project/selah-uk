@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 102,
+  "translation": "Чув я без сну, і став, немов птах самотній на даху.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "чув я без сну"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "і став"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "немов птах"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "самотній"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "גג",
+      "gloss": "даху"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:20.750884944Z",
+  "model": "glm-5.3"
+}

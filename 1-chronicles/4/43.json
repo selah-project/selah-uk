@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 4:43",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І побили ⟨את⟩ останок уцілілих з Амалека, і осіли там аж до дня цього.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "І побили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "останок"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "останок"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "уцілілих"
+    },
+    {
+      "surface": "לעמלק",
+      "gloss": "з Амалека"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "і осіли"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цього"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:05.101601272Z",
+  "model": "glm-5.3"
+}

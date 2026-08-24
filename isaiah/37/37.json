@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "isaiah 37:37",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "І вирушив, і пішов, і повернувся Сancherib, цар Ашшуру, і осів у Ніневі.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "І вирушив"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "і пішов"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "і повернувся"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Сancherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшуру"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "і осів"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "у Ніневі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:13:15.344006463Z",
+  "model": "glm-5.3"
+}

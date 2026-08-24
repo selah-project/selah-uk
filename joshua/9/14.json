@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І взяли ті чоловіки з їхньої їжі, а ⟨את⟩ уст Яхве не спитали.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "І взяли"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ті чоловіки"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "з їхньої їжі"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "уста Яхве"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уст"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "спитали"
+    }
+  ],
+  "timestamp": "2026-08-23T22:13:13.499565604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "ezra 2:57",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Шефатьї, сини Хаттіла, сини Похерет-Цеваїм, сини Амі.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Шефатьї"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "חטיל",
+      "gloss": "Хаттіла"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "פכרת",
+      "gloss": "Похерет"
+    },
+    {
+      "surface": "הצביים",
+      "gloss": "Цеваїм"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "Амі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:46.072013387Z",
+  "model": "glm-5.3"
+}

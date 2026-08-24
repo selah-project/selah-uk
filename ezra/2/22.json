@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Мужі Нетофаху — пʼятдесят і шість.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Мужі"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "Нетофаху"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "пʼятдесят"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "і шість"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:09.446081384Z",
+  "model": "glm-5.3"
+}

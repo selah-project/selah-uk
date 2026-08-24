@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 148,
+  "translation": "Гори і всі пагорби, плодові дерева і всі кедри —",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "гори"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і всі"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "пагорби"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дерева"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "плодові"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і всі"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "кедри"
+    }
+  ],
+  "timestamp": "2026-08-24T00:30:50.788138662Z",
+  "model": "glm-5.3"
+}

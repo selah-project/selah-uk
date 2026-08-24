@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "і Гашува, і Оель, і Берехья, і Гасадья, Юшав-Хесед, — п'ятеро.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "і Гашува"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "і Оель"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "і Берехья"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "і Гасадья"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Юшав"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Хесед"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "п'ятеро"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:18.213592190Z",
+  "model": "glm-5.3"
+}

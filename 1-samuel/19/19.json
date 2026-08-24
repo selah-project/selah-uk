@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І донесено Шаулю, говорячи: ось Давид у Наєоті, у Рамі.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "І донесено"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шаулю"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "у Наєоті"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "у Рамі"
+    }
+  ],
+  "timestamp": "2026-08-23T22:32:57.552335574Z",
+  "model": "glm-5.3"
+}

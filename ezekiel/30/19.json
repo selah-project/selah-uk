@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 30:19",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "І вчиню суди в Міцраїмі, і пізнають, що Я — Яхве.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "І вчиню"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "суди"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "в Міцраїмі"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "і пізнають"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:49:38.752119166Z",
+  "model": "glm-5.3"
+}

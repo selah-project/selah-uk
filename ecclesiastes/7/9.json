@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Не поспішай у своєму дусі до гніву, бо гнів у пазусі безумців спочиває.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "поспішай"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "у своєму дусі"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "до гніву"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "гнів"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "у пазусі"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "безумців"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "спочиває"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:22.954857554Z",
+  "model": "glm-5.3"
+}

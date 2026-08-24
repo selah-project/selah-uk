@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 107,
+  "translation": "Вони бачили діла Яхве і Його дивні діла в глибині.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "вони"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "бачили"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "діла"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "і Його дивні діла"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "в глибині"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:19.710274251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 5:4",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Тоді так сказали ⟨ми⟩ їм: які імена мужів, що цю будівлю будують?",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "тоді"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "сказали-ми"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "מן",
+      "gloss": "які"
+    },
+    {
+      "surface": "אנון",
+      "gloss": "вони"
+    },
+    {
+      "surface": "שמהת",
+      "gloss": "імена"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "мужів"
+    },
+    {
+      "surface": "די",
+      "gloss": "що"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "цю"
+    },
+    {
+      "surface": "בנינא",
+      "gloss": "будівлю"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "будують"
+    }
+  ],
+  "timestamp": "2026-08-24T01:05:42.765407339Z",
+  "model": "glm-5.3"
+}

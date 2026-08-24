@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 136,
+  "translation": "Тому, що побив великих царів, — бо на віки його хесед",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Тому, що побив"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "царів"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "великих"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "на віки"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "його хесед"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:29.475884610Z",
+  "model": "glm-5.3"
+}

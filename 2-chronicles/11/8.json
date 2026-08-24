@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "і ⟨את⟩ Гат, і ⟨את⟩ Марешу, і ⟨את⟩ Зіф,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Гат"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Гат"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Марешу"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Мареша"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Зіф"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Зіф"
+    }
+  ],
+  "timestamp": "2026-08-24T01:24:44.864609487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "А це сини Дішана: Хемдан і Ешбан, і Їтран, і Керан.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "А це"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Дішана"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "Хемдан"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "і Ешбан"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "і Їтран"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "і Керан"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:07.436749375Z",
+  "model": "glm-5.3"
+}

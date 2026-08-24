@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Мужі Анатота: сто двадцять і вісім.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "мужі"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Анатота"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцять"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "і вісім"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:03.639643373Z",
+  "model": "glm-5.3"
+}

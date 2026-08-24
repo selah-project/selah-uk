@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Бо я був сином у батька свого, ніжним і єдиним на очах у матері моєї.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сином"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "я був"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "у батька свого"
+    },
+    {
+      "surface": "רך",
+      "gloss": "ніжним"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "і єдиним"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "на очах у"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "матері моєї"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:03.818846235Z",
+  "model": "glm-5.3"
+}

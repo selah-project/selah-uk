@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "За чуттям вуха чують мене; сини чужини вдавано коряться мені.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "за чуттям"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "вуха"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "чують"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "чужини"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "вдавано коряться"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:01.021836028Z",
+  "model": "glm-5.3"
+}

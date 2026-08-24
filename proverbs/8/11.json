@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 8:11",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Бо мудрість краща за корали, і все бажане не зрівняється з нею.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "краща"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрість"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "за корали"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і все"
+    },
+    {
+      "surface": "חפצים",
+      "gloss": "бажане"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "зрівняється"
+    },
+    {
+      "surface": "בה",
+      "gloss": "з нею"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:44.301110340Z",
+  "model": "glm-5.3"
+}

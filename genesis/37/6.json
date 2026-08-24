@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "І сказав він до них: Послухайте ж ⟨on⟩, цей сон, який я наснив.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "до них"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Послухайте"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ж"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "цей сон"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цей"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "я наснив"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:20.111727256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 116,
+  "translation": "Бо схилив Своє вухо до мене, і по всі дні мої я кликатиму ⟨Його⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "схилив"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "Своє вухо"
+    },
+    {
+      "surface": "לי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "і по всі дні мої"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "я кликатиму"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:21.893195396Z",
+  "model": "glm-5.3"
+}

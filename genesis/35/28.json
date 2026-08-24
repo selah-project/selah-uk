@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "І були дні Їцхака сто років і вісімдесят років.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "І були"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дні"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Їцхака"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "і вісімдесят"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:49.798814758Z",
+  "model": "glm-5.3"
+}

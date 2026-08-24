@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 33:45",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І вирушили вони з Іїїму, і таборили в Дівоні-Ґаді.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І вирушили"
+    },
+    {
+      "surface": "מעיים",
+      "gloss": "з Іїїму"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і таборили"
+    },
+    {
+      "surface": "בדיבן",
+      "gloss": "у Дівоні"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Ґад"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:08.368799981Z",
+  "model": "glm-5.3"
+}

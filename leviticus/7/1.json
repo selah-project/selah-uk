@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І це ⟨це⟩ закон ашаму: святе святостей воно ⟨є⟩.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "І це"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "закон"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ашаму"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "святе"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "святостей"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "воно"
+    }
+  ],
+  "timestamp": "2026-08-23T21:38:48.666289560Z",
+  "model": "glm-5.3"
+}

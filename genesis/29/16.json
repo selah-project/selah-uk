@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "А в Лавана ⟨були⟩ дві дочки; ім'я старшої — Леа, а ім'я молодшої — Рахель.",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "А в Лавана"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "дві"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дочки"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ім'я"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "старшої"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леа"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а ім'я"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "молодшої"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахель"
+    }
+  ],
+  "timestamp": "2026-08-23T21:16:58.181149737Z",
+  "model": "glm-5.3"
+}

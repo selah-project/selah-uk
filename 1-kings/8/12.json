@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Тоді сказав Шеломо: Яхве сказав, що мешкатиме в імлі.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "тоді"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "мешкатиме"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "в імлі"
+    }
+  ],
+  "timestamp": "2026-08-23T22:49:00.421669593Z",
+  "model": "glm-5.3"
+}

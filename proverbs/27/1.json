@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Не хвалися днем завтрашнім, бо не знаєш, що породить день.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "хвалися"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "днем"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "завтрашнім"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "знаєш"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "породить"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:03.100684786Z",
+  "model": "glm-5.3"
+}

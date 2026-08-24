@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Для Шимона — Шлумієль, син Цурішаддая.",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "Для Шимона"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Шлумієль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "Цурішаддая"
+    }
+  ],
+  "timestamp": "2026-08-23T21:47:06.669307907Z",
+  "model": "glm-5.3"
+}

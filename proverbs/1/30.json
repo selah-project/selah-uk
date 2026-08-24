@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Не схотіли моєї поради, зневажили всяку мою докору.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "схотіли"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "моєї поради"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "зневажили"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяку"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "мою докору"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:00.155440913Z",
+  "model": "glm-5.3"
+}

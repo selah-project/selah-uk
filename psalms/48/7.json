@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "Тремтіння охопило їх там, мука — як у породіллі.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "Тремтіння"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "охопило їх"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "мука"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "як у породіллі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:30.376662167Z",
+  "model": "glm-5.3"
+}

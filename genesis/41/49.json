@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "genesis 41:49",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 41,
+  "translation": "І зібрав Йосеф зерно, мов пісок моря, дуже багато, аж поки перестали рахувати, бо числа нема.",
+  "tokens": [
+    {
+      "surface": "ויצבר",
+      "gloss": "І зібрав"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "בר",
+      "gloss": "зерно"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "мов пісок"
+    },
+    {
+      "surface": "הים",
+      "gloss": "моря"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "багато"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "дуже"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж поки"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "перестали"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "рахувати"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "числа"
+    }
+  ],
+  "timestamp": "2026-08-24T01:36:40.975992415Z",
+  "model": "glm-5.3"
+}

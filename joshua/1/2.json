@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 1:2",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Моше, раб мій, помер; а тепер устань, перейди ⟨את⟩ цей Йордан, ти й усьень цей народ, у землю, яку Я даю їм, синам Ісраейлу.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "раб мій"
+    },
+    {
+      "surface": "מת",
+      "gloss": "помер"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "а тепер"
+    },
+    {
+      "surface": "קום",
+      "gloss": "устань"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "перейди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цей Йордан"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Йордан"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цей"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "й увесь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "цей народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цей"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Я"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даю"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синам"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраейлу"
+    }
+  ],
+  "timestamp": "2026-08-23T22:12:17.681950634Z",
+  "model": "glm-5.3"
+}

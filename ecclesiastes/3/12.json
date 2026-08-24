@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Я пізнав, що немає добра в них, — тільки тішитися й робити добро в житті своєму.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "я пізнав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    },
+    {
+      "surface": "בם",
+      "gloss": "в них"
+    },
+    {
+      "surface": "כי",
+      "gloss": "тільки"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "тішитися"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "й робити"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "у житті своєму"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:27.182275429Z",
+  "model": "glm-5.3"
+}

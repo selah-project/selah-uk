@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Передумав Яхве щодо цього: не станеться, — сказав Яхве.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "передумав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "щодо"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "цього"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "станеться"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T00:02:07.423389230Z",
+  "model": "glm-5.3"
+}

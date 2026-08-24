@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І уразив ⟨את⟩ Моава, і стали моавити рабами Давидовими, носіями данини.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "І уразив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моава"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "і стали"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "моавити"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "рабами"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Давидовими"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "носіями"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "данини"
+    }
+  ],
+  "timestamp": "2026-08-24T01:18:42.199681501Z",
+  "model": "glm-5.3"
+}

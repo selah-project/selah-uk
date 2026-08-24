@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Сиротами ми стали, нема батька; матері наші — як удови.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "Сиротами"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ми стали"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "אב",
+      "gloss": "батька"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "матері наші"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "як удови"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:03.043204670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Бо немає чоловіка в домі його, пішов він у дорогу далеку.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "чоловіка"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "в домі його"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "пішов"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "у дорогу"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "далеку"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:19.227475823Z",
+  "model": "glm-5.3"
+}

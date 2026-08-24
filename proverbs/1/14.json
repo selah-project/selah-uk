@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Кинь твій жереб серед нас, — один гаманець буде для нас усіх.",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "твій жереб"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "кинь"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "серед нас"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "гаманець"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "для нас усіх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:30:50.505711197Z",
+  "model": "glm-5.3"
+}

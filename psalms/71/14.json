@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 71,
+  "translation": "А я завжди надіюся, і додаватиму до всієї хвали Твоєї.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а я"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "завжди"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "надіюся"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "і додаватиму"
+    },
+    {
+      "surface": "על",
+      "gloss": "до"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всієї"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "хвали Твоєї"
+    }
+  ],
+  "timestamp": "2026-08-24T00:19:30.035319500Z",
+  "model": "glm-5.3"
+}

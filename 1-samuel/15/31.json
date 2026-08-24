@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 15:31",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "І повернувся Шмуель за Шаулем, і поклонився Шауль Яхве.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "і повернувся"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шмуель"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "за"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулем"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "і поклонився"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шауль"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T22:30:25.800014673Z",
+  "model": "glm-5.3"
+}

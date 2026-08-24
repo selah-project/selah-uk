@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 12:26",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Тільки свої святині, що будуть у тебе, і свої обіти понесеш і прийдеш до місця, яке вибере Яхве.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "тільки"
+    },
+    {
+      "surface": "קדשיך",
+      "gloss": "свої святині"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "будуть"
+    },
+    {
+      "surface": "לך",
+      "gloss": "у тебе"
+    },
+    {
+      "surface": "ונדריך",
+      "gloss": "і свої обіти"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "понесеш"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "і прийдеш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "місця"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "вибере"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T22:04:05.308005141Z",
+  "model": "glm-5.3"
+}

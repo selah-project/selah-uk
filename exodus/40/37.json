@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "А якщо хмара не піднімалася, то й не рушали вони до дня її підняття.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А якщо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "піднімалася"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "хмара"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "то й не"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "рушали"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "її підняття"
+    }
+  ],
+  "timestamp": "2026-08-23T21:37:46.092490320Z",
+  "model": "glm-5.3"
+}

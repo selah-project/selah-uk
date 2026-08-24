@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Хецрона, ⟨рід⟩ хецронців; Кармі, ⟨рід⟩ карміїв.",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "Хецрона"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "рід"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "хецронців"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "Кармі"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "рід"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "карміїв"
+    }
+  ],
+  "timestamp": "2026-08-23T21:55:21.217576590Z",
+  "model": "glm-5.3"
+}

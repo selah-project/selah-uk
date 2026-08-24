@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 25:24",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І виповнилися дні її народити, і ось — близнюки в лоні її.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "і виповнилися"
+    },
+    {
+      "surface": "ימיה",
+      "gloss": "дні її"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "народити"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "і ось"
+    },
+    {
+      "surface": "תומם",
+      "gloss": "близнюки"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "в лоні її"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:41.144048157Z",
+  "model": "glm-5.3"
+}

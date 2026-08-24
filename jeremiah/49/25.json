@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 49,
+  "translation": "Як не покинуте місто похвали, місто потіхи моєї!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Як"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "покинуте"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "місто"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "похвали"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "місто"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "потіхи моєї"
+    }
+  ],
+  "timestamp": "2026-08-23T23:38:16.096426173Z",
+  "model": "glm-5.3"
+}

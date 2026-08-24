@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "А сини Ейтана: Аза́рʼя.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "а сини"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "Ейтан"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азар'я"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:39.129181668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "У році смерті царя Ахаза стався цей вантаж ⟨пророцтво⟩.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "У році"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерті"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаза"
+    },
+    {
+      "surface": "היה",
+      "gloss": "стався"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "цей вантаж"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨пророцтво⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T23:07:41.749396629Z",
+  "model": "glm-5.3"
+}

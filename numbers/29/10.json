@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "Десята ефа на кожне ягня, для семи ягнят.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "десята ефа"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "на кожне"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ягня"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "одне"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "для семи"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ягнят"
+    }
+  ],
+  "timestamp": "2026-08-23T21:57:03.790444150Z",
+  "model": "glm-5.3"
+}

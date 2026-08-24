@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Проклятий ти в місті, і проклятий ти в полі.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "проклятий"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "в місті"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "і проклятий"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "в полі"
+    }
+  ],
+  "timestamp": "2026-08-23T22:08:27.439037083Z",
+  "model": "glm-5.3"
+}

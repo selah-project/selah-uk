@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 3:29",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І ми сиділи в долині навпроти Бейт-Пеора.",
+  "tokens": [
+    {
+      "surface": "ונשב",
+      "gloss": "І ми сиділи"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "в долині"
+    },
+    {
+      "surface": "מול",
+      "gloss": "навпроти"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Пеора"
+    }
+  ],
+  "timestamp": "2026-08-23T22:01:11.511780988Z",
+  "model": "glm-5.3"
+}

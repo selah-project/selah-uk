@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І сказав Моше: так сказав Яхве: опівночі Я вийду посеред Міцраїм.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "опівночі"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ніч"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "вийду"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "посеред"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїм"
+    }
+  ],
+  "timestamp": "2026-08-23T21:28:13.394673397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Одного козла ⟨з⟩ коз ⟨для⟩ жертви за гріх",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "козла"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "коз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за гріх"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:37.070280211Z",
+  "model": "glm-5.3"
+}

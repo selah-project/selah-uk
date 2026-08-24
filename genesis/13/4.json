@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 13:4",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "до місця жертовника, який зробив він там уперше; і закликав там Аврам в Імені Яхве.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "місця"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жертовника"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "зробив"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "уперше"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "і закликав"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "в Імені"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:35.102918227Z",
+  "model": "glm-5.3"
+}

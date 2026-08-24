@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Яхве — ⟨є⟩ міра моєї частки й моя чаша; Ти підтримуєш мій жереб.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "міра"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "моєї частки"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "й моя чаша"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "підтримуєш"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "мій жереб"
+    }
+  ],
+  "timestamp": "2026-08-24T00:11:40.349963365Z",
+  "model": "glm-5.3"
+}

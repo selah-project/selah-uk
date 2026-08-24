@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 17:6",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "У ті дні не було царя в Ізраїлі; кожен робив те, що праве в очах його.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "У ті дні"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ті"
+    },
+    {
+      "surface": "אין",
+      "gloss": "не було"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Ізраїлі"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кожен чоловік"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "праве"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в очах його"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "робив"
+    }
+  ],
+  "timestamp": "2026-08-23T22:24:45.271928356Z",
+  "model": "glm-5.3"
+}

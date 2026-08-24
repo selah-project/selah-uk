@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І Сегув породив ⟨את⟩ Яіра, і було в нього двадцять і три міста в землі Гілеаду.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "І Сегув"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яіра"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Яіра"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і було"
+    },
+    {
+      "surface": "לו",
+      "gloss": "у нього"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцять"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "і три"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "міста"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землі"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гілеаду"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:54.997085223Z",
+  "model": "glm-5.3"
+}

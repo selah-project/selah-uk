@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Не вклонюй суду прибульця, сироти, і не бери в заставу одяг вдови.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "вклонюй"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "גר",
+      "gloss": "прибульця"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "сироти"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "бери в заставу"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "одяг"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "вдови"
+    }
+  ],
+  "timestamp": "2026-08-23T22:06:50.113879197Z",
+  "model": "glm-5.3"
+}

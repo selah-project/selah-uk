@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "І коли пошлеш його на волю від себе, не пошлеш його з порожніми руками.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "і коли"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "пошлеш його"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "на волю"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "від себе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "пошлеш його"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "з порожніми руками"
+    }
+  ],
+  "timestamp": "2026-08-23T22:04:36.386827025Z",
+  "model": "glm-5.3"
+}

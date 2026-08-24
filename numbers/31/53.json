@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "(Люди війська грабували — кожен для себе.)",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "люди"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "війська"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "грабували"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кожен"
+    },
+    {
+      "surface": "לו",
+      "gloss": "для себе"
+    }
+  ],
+  "timestamp": "2026-08-23T21:57:50.606133374Z",
+  "model": "glm-5.3"
+}

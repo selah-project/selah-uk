@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Каже він у серці своїм: «Не захитаю, поколінню й поколінню ⟨буду⟩ що не в лиху».",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Каже"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "у серці своїм"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "захитаю"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "поколінню"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "й поколінню"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "в лиху"
+    }
+  ],
+  "timestamp": "2026-08-24T00:11:06.672937621Z",
+  "model": "glm-5.3"
+}

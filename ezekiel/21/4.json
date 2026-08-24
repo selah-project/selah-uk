@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І побачить уся плоть, що Я, Яхве, запалив її; вона не погасне.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "І побачить"
+    },
+    {
+      "surface": "כל",
+      "gloss": "уся"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плоть"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "запалив її"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "погасне"
+    }
+  ],
+  "timestamp": "2026-08-23T23:46:55.105724053Z",
+  "model": "glm-5.3"
+}

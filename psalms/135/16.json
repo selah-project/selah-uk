@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 135,
+  "translation": "Γот у них, та не говорять; очі мають, та не бачать.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "рот"
+    },
+    {
+      "surface": "להם",
+      "gloss": "у них"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "та не"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "говорять"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "очі"
+    },
+    {
+      "surface": "להם",
+      "gloss": "мають"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "та не"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "бачать"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:13.217463104Z",
+  "model": "glm-5.3"
+}

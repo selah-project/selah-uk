@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 41:31",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 41,
+  "translation": "І не буде пізнаний достаток у землі через той голод після того, бо він дуже тяжкий.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "буде пізнаний"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "достаток"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у землі"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "через"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "той голод"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "після"
+    },
+    {
+      "surface": "כן",
+      "gloss": "того"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "тяжкий"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "дуже"
+    }
+  ],
+  "timestamp": "2026-08-23T21:21:32.955516784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 33:28",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І рушили з Терахи, і таборили в Мітці.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "מתרח",
+      "gloss": "з Терахи"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і таборили"
+    },
+    {
+      "surface": "במתקה",
+      "gloss": "в Мітці"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:02.159874091Z",
+  "model": "glm-5.3"
+}

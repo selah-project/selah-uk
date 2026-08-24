@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Він збудує Мені дім, і затверджу Я ⟨את⟩ престол його навіки.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Він"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "збудує"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мені"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "і затверджу Я"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "престол його"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "престол його"
+    },
+    {
+      "surface": "עד",
+      "gloss": "на"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "віки"
+    }
+  ],
+  "timestamp": "2026-08-24T01:18:29.702086042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "І до кого Мене уподобите, і з ким зрівняєте? — каже Святий.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "І до"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кого"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "Мене уподобите"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "і зрівняєте"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "каже"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Святий"
+    }
+  ],
+  "timestamp": "2026-08-23T23:15:34.983378509Z",
+  "model": "glm-5.3"
+}

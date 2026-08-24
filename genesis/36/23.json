@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "А це сини Шовала: Алван, і Манахат, і Евал, Шефо, і Онам.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "А це"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Шовала"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "Алван"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "і Манахат"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "і Евал"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "Шефо"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "і Онам"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:54.523254894Z",
+  "model": "glm-5.3"
+}

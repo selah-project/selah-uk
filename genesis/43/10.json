@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 43,
+  "translation": "Бо якби не зволікали ми, то вже тепер повернулися б двічі.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "якби не"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "зволікали ми"
+    },
+    {
+      "surface": "כי",
+      "gloss": "то"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "вже тепер"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "повернулися б"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "двічі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:22:49.213100911Z",
+  "model": "glm-5.3"
+}

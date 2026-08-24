@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 38:5",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "Хто поклав ⟨її⟩ міри — бо ти знаєш? Або хто розтягнув на ній шнур?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "שם",
+      "gloss": "поклав"
+    },
+    {
+      "surface": "ממדיה",
+      "gloss": "міри ⟨її⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ти знаєш"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "розтягнув"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на ній"
+    },
+    {
+      "surface": "קו",
+      "gloss": "шнур"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:17.852486717Z",
+  "model": "glm-5.3"
+}

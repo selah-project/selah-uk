@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 89,
+  "translation": "Скоротив Ти дні юності його, вкрив його сорому. Села.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "Скоротив Ти"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дні"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "юності його"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "вкрив"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "його"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "сорому"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:11.824215348Z",
+  "model": "glm-5.3"
+}

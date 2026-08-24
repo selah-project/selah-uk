@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "І візьмуть старійшини того міста ⟨את⟩ того чоловіка, і покарають ⟨את⟩ нього.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "І візьмуть"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старійшини"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "міста"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "того"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "того чоловіка"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "того чоловіка"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "і покарають"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "нього"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:10.117944587Z",
+  "model": "glm-5.3"
+}

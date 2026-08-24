@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 7:4",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І сталося тієї ночі, і було слово Яхве до Натана, говорячи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "тієї ночі"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тієї"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і було"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натана"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    }
+  ],
+  "timestamp": "2026-08-23T22:38:35.108574827Z",
+  "model": "glm-5.3"
+}

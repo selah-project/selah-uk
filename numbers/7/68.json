@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Долоня золота одна, десяти ⟨шеклів⟩, повна кадила.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "Долоня"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одна"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десяти"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золота"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "повна"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "кадила"
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:26.512627013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Хаґава, сини Шамлаю, сини Ханана.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "Хаґава"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "Шамлаю"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ханана"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:35.863780507Z",
+  "model": "glm-5.3"
+}

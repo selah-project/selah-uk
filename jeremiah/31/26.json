@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "На це пробудився Я й побачив, і сон Мій ⟨був⟩ солодкий Мені.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "На"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "пробудився Я"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "й побачив"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "і сон Мій"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "солодкий"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мені"
+    }
+  ],
+  "timestamp": "2026-08-23T23:31:47.796480466Z",
+  "model": "glm-5.3"
+}

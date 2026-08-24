@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 36:21",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "і Дішон, і Ецер, і Дішан; це вожді хорійців, синів Сеїра, в землі Едом.",
+  "tokens": [
+    {
+      "surface": "ודשון",
+      "gloss": "і Дішон"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "і Ецер"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "і Дішан"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "вожді"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "хорійців"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеїра"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землі"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:54.522842507Z",
+  "model": "glm-5.3"
+}

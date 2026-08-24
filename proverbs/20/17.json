@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 20:17",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Солодкий людині хліб неправди, та потім наповниться рот її гравієм.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "солодкий"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "людині"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хліб"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "неправди"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "та потім"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "наповниться"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "рот її"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "гравієм"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:56.003037538Z",
+  "model": "glm-5.3"
+}

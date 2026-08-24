@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 19:1",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І відповідав Ійов і сказав:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "і відповідав"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ійов"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    }
+  ],
+  "timestamp": "2026-08-24T00:42:49.081202831Z",
+  "model": "glm-5.3"
+}

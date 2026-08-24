@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 99,
+  "translation": "І міць Царя — суд любить Ти; Ти утвердив правоту, суд і правду в Яакові Ти вчинив.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "І міць"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Царя"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "люби́ть"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "Ти утвердив"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "правоту"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "і правду"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "в Яакові"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Ти вчинив"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:23.326649746Z",
+  "model": "glm-5.3"
+}

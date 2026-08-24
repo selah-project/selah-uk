@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І були сини Ноаха, що вийшли з ковчега: Шем, і Хам, і Йефет; а Хам — ⟨is⟩ батько Кнаана.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "І були"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноаха"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "що вийшли"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчега"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "і Хам"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "і Йефет"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "а Хам"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "— ⟨is⟩ він"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батько"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кнаана"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:54.921200692Z",
+  "model": "glm-5.3"
+}

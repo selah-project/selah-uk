@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 94,
+  "translation": "І кажуть вони: «Не побачить Ях, і не зрозуміє Елогім Яакова».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "і кажуть вони"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "побачить"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "зрозуміє"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:52.262274509Z",
+  "model": "glm-5.3"
+}

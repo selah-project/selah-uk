@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 31:17",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "і їв я шматок свій наодинці, і не їв із нього сирота;",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "і їв я"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "шматок мій"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "наодинці"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "їв"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "сирота"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "з нього"
+    }
+  ],
+  "timestamp": "2026-08-24T00:46:28.174113324Z",
+  "model": "glm-5.3"
+}

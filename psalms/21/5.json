@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Життя він випросив у Тебе, Ти дав йому довжоту днів, навіки й повіки.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "життя"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "він випросив"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "у Тебе"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Ти дав"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "довжоту"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "й повіки"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:29.726858236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Не чини зла надто й не будь безглуздим — навіщо вмирати не у свій час?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "чиниш зла"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "надто"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "й не"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "будь"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "безглуздим"
+    },
+    {
+      "surface": "למה",
+      "gloss": "навіщо"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "вмирати"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "у свій час"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:22.520616997Z",
+  "model": "glm-5.3"
+}

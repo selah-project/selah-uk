@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 17:26",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Також карати праведника — не добре, бити шляхетних за правоту.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "ענוש",
+      "gloss": "карати"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добре"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "бити"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "шляхетних"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "правоту"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:24.541263923Z",
+  "model": "glm-5.3"
+}

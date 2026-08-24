@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І Завад породив ⟨את⟩ Ефлала, і Ефлал породив ⟨את⟩ Оведа.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "І Завад"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ефлала"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Ефлал"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "і Ефлал"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Оведа"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Овед"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:39.892215908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 43,
+  "translation": "Так сказав Яхве, Той, Хто дає у морі дорогу і в могутніх водах стежку,",
+  "tokens": [
+    {
+      "surface": "кך",
+      "gloss": "Так",
+      "note": "placeholder"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "Той, Хто дає"
+    },
+    {
+      "surface": "בים",
+      "gloss": "у морі"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "дорогу"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "і в водах"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "могутніх"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "стежку"
+    }
+  ],
+  "timestamp": "2026-08-23T23:14:39.122126832Z",
+  "model": "glm-5.3"
+}

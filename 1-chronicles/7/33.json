@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 7:33",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І сини Яфлета: Пасах, і Бімгал, і Ашват; це ⟨сини⟩ Яфлета.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "І сини"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Яфлета"
+    },
+    {
+      "surface": "פסך",
+      "gloss": "Пасах"
+    },
+    {
+      "surface": "ובמהל",
+      "gloss": "і Бімгал"
+    },
+    {
+      "surface": "ועשות",
+      "gloss": "і Ашват"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Яфлета"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:16.570803303Z",
+  "model": "glm-5.3"
+}

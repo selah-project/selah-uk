@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "Слухай Мене, Яакове, і Ізраїлю, покликаний Мій: Я — ⟨це⟩ Я; Я — перший, і Я — останній.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Слухай"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Мене"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакове"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "і Ізраїлю"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "покликаний Мій"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨це⟩ Я"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "перший"
+    },
+    {
+      "surface": "אף",
+      "gloss": "і"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "останній"
+    }
+  ],
+  "timestamp": "2026-08-23T23:15:57.655205097Z",
+  "model": "glm-5.3"
+}

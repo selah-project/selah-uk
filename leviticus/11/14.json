@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "і ⟨את⟩ даа, і ⟨את⟩ аю за її видом.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "даа"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "даа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "аю"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "аю"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "за її видом"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:15.377506374Z",
+  "model": "glm-5.3"
+}

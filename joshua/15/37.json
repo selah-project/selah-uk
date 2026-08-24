@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Ценан, і Хадаша, і Міґдаль-Ґад,",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "Ценан"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "і Хадаша"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "і Міґдаль"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Ґад"
+    }
+  ],
+  "timestamp": "2026-08-23T22:15:44.324774135Z",
+  "model": "glm-5.3"
+}

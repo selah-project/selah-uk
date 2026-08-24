@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Рука до руки — не уникне кари лихий, а насіння праведних урятоване.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "до руки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "уникне кари"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лихий"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "а насіння"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведних"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "урятоване"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:42.280572769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 23:15",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І сказав до Балака: стань отут біля всепалення твого, а я зустріну ⟨Його⟩ отам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І-сказав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балака"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "стань"
+    },
+    {
+      "surface": "כה",
+      "gloss": "отут"
+    },
+    {
+      "surface": "על",
+      "gloss": "біля"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "всепалення-твого"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "а-я"
+    },
+    {
+      "surface": "אקרה",
+      "gloss": "зустріну"
+    },
+    {
+      "surface": "כה",
+      "gloss": "отам"
+    }
+  ],
+  "timestamp": "2026-08-23T21:55:40.374915579Z",
+  "model": "glm-5.3"
+}

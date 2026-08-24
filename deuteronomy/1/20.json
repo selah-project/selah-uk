@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І я сказав вам: ви прийшли до гори еморійця, яку Яхве, Елогім наш, дає нам.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "ви прийшли"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гори"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "еморійця"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елогім наш"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дає"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:11.446498571Z",
+  "model": "glm-5.3"
+}

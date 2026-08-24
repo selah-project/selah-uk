@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Очі піднесені, язик брехні, і руки, що проливають кров невинну.",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "очі"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "піднесені"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "язик"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "брехні"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "і руки"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "що проливають"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кров"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "невинну"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:48.213835512Z",
+  "model": "glm-5.3"
+}

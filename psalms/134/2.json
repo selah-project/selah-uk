@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 134,
+  "translation": "Зведіть ваші руки до святині, і благословляйте ⟨את⟩ Яхве!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Зведіть"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "ваші руки"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "до святині"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "і благословляйте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:08.070662064Z",
+  "model": "glm-5.3"
+}

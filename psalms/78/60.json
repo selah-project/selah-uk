@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 78,
+  "translation": "І покинув житло Шіло, шатро, яке定居илося серед людей.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "і покинув"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "житло"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Шіло"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатро"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "яке мешкало"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "серед людей"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:25.109643386Z",
+  "model": "glm-5.3"
+}

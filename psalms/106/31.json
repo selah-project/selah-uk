@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 106,
+  "translation": "І зараховано йому це за праведність, на рід і рід, аж до віку.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "і зараховано"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "за праведність"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "на рід"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "і рід"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "віку"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:04.495710435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "і ⟨את⟩ хетея, і ⟨את⟩ перізея, і ⟨את⟩ рефаїмів,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "хетея"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "хетея"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "перізея"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "перізея"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "рефаїмів"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "рефаїмів"
+    }
+  ],
+  "timestamp": "2026-08-23T21:12:10.597887542Z",
+  "model": "glm-5.3"
+}

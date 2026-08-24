@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 32:13",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "На ґрунт мого народу підніметься терн і шип — та над усіма домами втіхи в місті радісному.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ґрунт"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "мого народу"
+    },
+    {
+      "surface": "קוץ",
+      "gloss": "терн"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "шип"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "підніметься"
+    },
+    {
+      "surface": "כי",
+      "gloss": "та"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіма"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "домами"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "втіхи"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "місті"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "радісному"
+    }
+  ],
+  "timestamp": "2026-08-23T23:11:42.099079328Z",
+  "model": "glm-5.3"
+}

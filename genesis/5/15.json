@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І жив Магалал'ел п'ять років і шістдесят років, і породив ⟨את⟩ Йереда.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "І жив"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Магалал'ел"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "п'ять"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "років"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "і шістдесят"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "і породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йереда"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Йереда"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:46.217929026Z",
+  "model": "glm-5.3"
+}

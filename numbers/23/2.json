@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 23:2",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І зробив Балак, як говорив Білам; і підніс Балак і Білам бика й овна на жертовнику.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "І зробив"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорив"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Білам"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "і підняв"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "ובלעם",
+      "gloss": "і Білам"
+    },
+    {
+      "surface": "פר",
+      "gloss": "бика"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "й овна"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "на жертовнику"
+    }
+  ],
+  "timestamp": "2026-08-23T21:55:25.730905957Z",
+  "model": "glm-5.3"
+}

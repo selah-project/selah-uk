@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 5:23",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Бо з каменями поля запові́т твій, і звір полів у мирі з тобою.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "каменями"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поля"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "заповіт твій"
+    },
+    {
+      "surface": "וחית",
+      "gloss": "і звір"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "полів"
+    },
+    {
+      "surface": "השלמה",
+      "gloss": "у мирі"
+    },
+    {
+      "surface": "לך",
+      "gloss": "з тобою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:40:13.877025954Z",
+  "model": "glm-5.3"
+}

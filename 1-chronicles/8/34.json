@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "А син Єгонатана — Мерів-Баал, і Мерів-Баал породив ⟨את⟩ Міху.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Єгонатана"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Мерів-Баал"
+    },
+    {
+      "surface": "בעל",
+      "gloss": ""
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "і Мерів-Баал"
+    },
+    {
+      "surface": "בעל",
+      "gloss": ""
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Міху"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Міху"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:37.135322929Z",
+  "model": "glm-5.3"
+}

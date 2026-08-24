@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "А якщо правдою було це слово — не знайдені знаки дівицтва для юної —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А якщо"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "правдою"
+    },
+    {
+      "surface": "היה",
+      "gloss": "було"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "це слово"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "це"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "знайдені"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "знаки дівицтва"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "для юної"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:10.118305202Z",
+  "model": "glm-5.3"
+}

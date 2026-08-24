@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І тепер, Яхве, ти сам ⟨є⟩ ⟨той⟩ Елогім, і ⟨ти⟩ говорив про твого раба це добро.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "І тепер"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "сам"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "і говорив"
+    },
+    {
+      "surface": "על",
+      "gloss": "про"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "твого раба"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "добро"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "це"
+    }
+  ],
+  "timestamp": "2026-08-24T01:18:48.864580920Z",
+  "model": "glm-5.3"
+}

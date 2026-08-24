@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 15:7",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "А ви зміцніться, і нехай не слабнуть ваші руки, бо є нагорода для вашї праці.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "а ви"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "зміцніться"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і не"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "нехай слабнуть"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "ваші руки"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יש",
+      "gloss": "є"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "нагорода"
+    },
+    {
+      "surface": "לפעלתכם",
+      "gloss": "для вашої праці"
+    }
+  ],
+  "timestamp": "2026-08-24T01:26:26.508246196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 16:36",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Благословенний Яхве, Елогім Ісраеля, від віку й до віку. І сказав увесь народ: Амен, і хвала Яхве.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Благословенний"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраеля"
+    },
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "віку"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "і до"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "віку"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "כל",
+      "gloss": "увесь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    },
+    {
+      "surface": "והלל",
+      "gloss": "і хвала"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:18:14.462894696Z",
+  "model": "glm-5.3"
+}

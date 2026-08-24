@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 29:11",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "Увесь свій дух виявляє глупий, а мудрий потім вгамовує ⟨його⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "увесь"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "свій дух"
+    },
+    {
+      "surface": "йוציא",
+      "gloss": "виявляє"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупий"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "а мудрий"
+    },
+    {
+      "surface": "באחור",
+      "gloss": "потім"
+    },
+    {
+      "surface": "ישבחנה",
+      "gloss": "вгамовує"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:39.582795463Z",
+  "model": "glm-5.3"
+}

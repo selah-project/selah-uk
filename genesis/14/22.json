@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 14:22",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І сказав Аврам до царя Сдому: я звів руку свою до Яхве, Еля Ельйона, Творця ⟨the⟩ небес і ⟨the⟩ землі.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Сдому"
+    },
+    {
+      "surface": "הרימתי",
+      "gloss": "я звів"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "руку свою"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Еля"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ельйона"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "Творця"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "і землі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:46.025353700Z",
+  "model": "glm-5.3"
+}

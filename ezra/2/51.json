@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "ezra 2:51",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Бакбука, сини Хакуфи, сини Хархура",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "Бакбука"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "Хакуфи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "Хархура"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:53.566001089Z",
+  "model": "glm-5.3"
+}

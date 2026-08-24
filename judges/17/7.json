@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 17:7",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І був юнак з Бейт-Лехема Єгуди, з родини Єгуди, і він був левит, і він мешкав там.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І був"
+    },
+    {
+      "surface": "נער",
+      "gloss": "юнак"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "з Бейт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехема"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "з родини"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "і він"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "левит"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "і він"
+    },
+    {
+      "surface": "גר",
+      "gloss": "мешкав"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    }
+  ],
+  "timestamp": "2026-08-23T22:24:45.272050475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "одного козла, з кіз, на жертву за гріх.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "козла"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "з кіз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "на жертву за гріх"
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:26.992441808Z",
+  "model": "glm-5.3"
+}

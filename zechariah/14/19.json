@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "zechariah 14:19",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Це буде гріх Міцраїму і гріх усіх народів, які не зійдуть святкувати ⟨את⟩ свято Суккот.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Це"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "гріх"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїму"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "і гріх"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіх"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народів"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "зійдуть"
+    },
+    {
+      "surface": "לחג",
+      "gloss": "святкувати"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свято"
+    },
+    {
+      "surface": "חג",
+      "gloss": "свято"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Суккот"
+    }
+  ],
+  "timestamp": "2026-08-24T00:09:38.344665077Z",
+  "model": "glm-5.3"
+}

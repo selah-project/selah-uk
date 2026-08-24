@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Я бачив ⟨את⟩ усі вчинки, що вчинені під сонцем, і ось усе — марнота і томління духу.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "я бачив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усі вчинки"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "вчинки"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "що вчинені"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцем"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "і ось"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "марнота"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "і томління"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "духу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:36.046171375Z",
+  "model": "glm-5.3"
+}

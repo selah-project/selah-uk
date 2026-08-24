@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Тільки плоть із душею-нефеш її — кров її — не їжте.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Тільки"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плоть"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "із душею-нефеш її"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "кров її"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "їжте"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:03.305428377Z",
+  "model": "glm-5.3"
+}

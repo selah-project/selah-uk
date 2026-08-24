@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Скажи мудрості: «Сестра моя ти ⟨את⟩», і розуму дай пізнання — родичкою назви.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "скажи"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "мудрості"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "сестра моя"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ти"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "і пізнання"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "розуму"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "назви"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:37.857088884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 43:19",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 43,
+  "translation": "І приступили до чоловіка, що над домом Йосефа, і говорили до нього при вході дому.",
+  "tokens": [
+    {
+      "surface": "ויגשו",
+      "gloss": "і приступили"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "чоловіка"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домом"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефа"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "і говорили"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "до нього"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "при вході"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дому"
+    }
+  ],
+  "timestamp": "2026-08-23T21:22:56.051905379Z",
+  "model": "glm-5.3"
+}

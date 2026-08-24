@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Поспішив я і не вагався зберігати заповіді Твої.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "поспішив я"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "вагався"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "зберігати"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "заповіді Твої"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:31.014344341Z",
+  "model": "glm-5.3"
+}

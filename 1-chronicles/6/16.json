@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 6:16",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І ось тих, кого поставив Давид над службою співу в домі Яхве, від спокою ковчега.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "І ось тих"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яких"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "поставив"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "службою"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "співу"
+    },
+    {
+      "surface": "בית",
+      "gloss": "в домі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ממנוח",
+      "gloss": "від спокою"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ковчега"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:18.390496768Z",
+  "model": "glm-5.3"
+}

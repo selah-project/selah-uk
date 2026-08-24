@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 132,
+  "translation": "який поклявся Яхве, обіцяв Могутньому Яакова:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "поклявся"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "обіцяв"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Могутньому"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:23.689050434Z",
+  "model": "glm-5.3"
+}

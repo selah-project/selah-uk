@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Чи як дні смертного дні Твої, чи роки Твої — як дні мужа?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "чи як дні"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "смертного"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "дні Твої"
+    },
+    {
+      "surface": "אם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "роки Твої"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "як дні"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мужа"
+    }
+  ],
+  "timestamp": "2026-08-24T00:40:59.937786408Z",
+  "model": "glm-5.3"
+}

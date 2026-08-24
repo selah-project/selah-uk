@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І сини Улли: Арах, і Ганніел, і Ріція.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "і сини"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "Улли"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Арах"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "і Ганніел"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "і Ріція"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:05.778807961Z",
+  "model": "glm-5.3"
+}

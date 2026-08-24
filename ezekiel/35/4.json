@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 35:4",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "Міста твої руїною зроблю, і ти спустошенням станеш, і пізнаєш, що Я — Яхве.",
+  "tokens": [
+    {
+      "surface": "עריך",
+      "gloss": "Міста твої"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "руїною"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "зроблю"
+    },
+    {
+      "surface": "וידעת_placeholder",
+      "gloss": ""
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "і ти"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "спустошенням"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "станеш"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "і пізнаєш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:51:35.881209312Z",
+  "model": "glm-5.3"
+}

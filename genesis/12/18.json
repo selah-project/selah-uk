@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "І покликав Паро Аврама, і сказав: що це ти вчинив мені? Чому не сказав мені, що вона — жінка твоя?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "І покликав"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Аврама"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ти вчинив"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "למה",
+      "gloss": "чому"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "жінка твоя"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨вона⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:36.261410987Z",
+  "model": "glm-5.3"
+}

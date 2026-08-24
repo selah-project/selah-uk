@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Нашою нефеш ми носили хліб наш через меч пустелі.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "нашою нефеш"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ми носили"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "хліб наш"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "через"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "пустелі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:04.911830397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Прийдіть, їжте мій хліб і пийте вино, яке я змішала.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Прийдіть"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "їжте"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "мій хліб"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "і пийте"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "вино"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "яке я змішала"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:21.865612917Z",
+  "model": "glm-5.3"
+}

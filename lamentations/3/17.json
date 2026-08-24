@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І відкинуто від миру мою нефеш — я забув ⟨також⟩ добро.",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "і відкинуто"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "від миру"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "мою нефеш"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "я забув"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добро"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:54.063795523Z",
+  "model": "glm-5.3"
+}

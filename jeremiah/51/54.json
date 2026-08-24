@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "jeremiah 51:54",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 51,
+  "translation": "Голос крику з Вавилону, і велике зламання з землі касдимів.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Голос"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "крику"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "з Вавилону"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "і зламання"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велике"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "з землі"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "касдимів"
+    }
+  ],
+  "timestamp": "2026-08-23T23:40:04.508572203Z",
+  "model": "glm-5.3"
+}

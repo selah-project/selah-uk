@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 47,
+  "translation": "І сказав фараон до Яакова: скільки днів років життя твого?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "скільки"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "днів"
+    },
+    {
+      "surface": "שני",
+      "gloss": "років"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "життя твого"
+    }
+  ],
+  "timestamp": "2026-08-23T21:23:55.735415977Z",
+  "model": "glm-5.3"
+}

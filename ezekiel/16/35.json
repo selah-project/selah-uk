@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Тому, блуднице, слухай слово Яхве.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Тому"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "блуднице"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "слухай"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:45:08.746288977Z",
+  "model": "glm-5.3"
+}

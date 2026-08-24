@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "І стала ця річ на гріх, і ходив народ перед одним аж до Дану.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "і стала"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ця річ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ця"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "на гріх"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "і ходив"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "одним"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дану"
+    }
+  ],
+  "timestamp": "2026-08-24T01:43:33.655196606Z",
+  "model": "glm-5.3"
+}

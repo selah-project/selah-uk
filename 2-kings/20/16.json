@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І сказав Єшаяагу Хізкіяу: чуй слово Яхве.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Єшаяагу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Хізкіяу"
+    },
+    {
+      "surface": "חזקיהу",
+      "gloss": "(до)"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чуй"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:02:51.413995023Z",
+  "model": "glm-5.3"
+}

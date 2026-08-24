@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 20:14",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І не лише, поки я ще живий, ти зробиш мені хесед Яхве, — і не помру.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "אם",
+      "gloss": "лише"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "поки я ще"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живий"
+    },
+    {
+      "surface": "ולא",
+      "gloss": ""
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "зробиш"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "помру"
+    }
+  ],
+  "timestamp": "2026-08-24T01:42:24.070885583Z",
+  "model": "glm-5.3"
+}

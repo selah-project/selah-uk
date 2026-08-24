@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 49:35",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 49,
+  "translation": "Так сказав Яхве Цеваот: ось Я ламаю ⟨את⟩ лук Ейламу, початок сили їхньої.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ось"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ламаю"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лук Ейламу"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лук"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Ейламу"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "початок"
+    },
+    {
+      "surface": "גבורתם",
+      "gloss": "сили їхньої"
+    }
+  ],
+  "timestamp": "2026-08-23T23:38:44.346733280Z",
+  "model": "glm-5.3"
+}

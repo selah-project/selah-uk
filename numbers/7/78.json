@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "У дванадцятий день — начальник для синів Нефталі, Ахіра, син Ейнана.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "у день"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "десять"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "начальник"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "для синів"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нефталі"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Ахіра"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Ейнана"
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:40.326210563Z",
+  "model": "glm-5.3"
+}

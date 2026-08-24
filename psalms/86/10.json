@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 86,
+  "translation": "Бо Ти великий і чиниш чудеса — Ти ⟨⟨є⟩⟩ Елогім ⟨один⟩ Ти.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "і чиниш"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "чуда"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "⟨один⟩ Ти"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:30.161122009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 85,
+  "translation": "Хіба не Ти повернешся — оживиш нас, і народ Твій радітиме в Тобі?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Хіжа не"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "повернешся"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "оживиш нас"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "і народ Твій"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "радітиме"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в Тобі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:44.290485298Z",
+  "model": "glm-5.3"
+}

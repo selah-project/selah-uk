@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Свідок брехливий загине, а чоловік уважний повік говоритиме.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "свідок"
+    },
+    {
+      "surface": "кзавим",
+      "gloss": "брехливий"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "загине"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "а чоловік"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "уважний"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "повік"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "говоритиме"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:42.749612273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "то вийдуть твої старійшини і твої судді, і виміряють до міст, що навколо вбитого.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "то вийдуть"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "твої старійшини"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "і твої судді"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "і виміряють"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "міст"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "навколо"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "вбитого"
+    }
+  ],
+  "timestamp": "2026-08-23T22:06:31.772811053Z",
+  "model": "glm-5.3"
+}

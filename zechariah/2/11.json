@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Гой, Ціоне! Врятуйся, ти, що мешкаєш ⟨з⟩ дочкою Вавилону!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Гой"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ціоне"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "Врятуйся"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ти, що мешкаєш"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочкою"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилону"
+    }
+  ],
+  "timestamp": "2026-08-24T00:07:22.335308695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 7:38",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Одна золотая ложка ⟨вагою⟩ десять шеклів, повна кадила.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ложка"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "Одна"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десять"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золотая"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "повна"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "кадила"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:05.676820554Z",
+  "model": "glm-5.3"
+}

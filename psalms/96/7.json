@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 96,
+  "translation": "Придавайте Яхве, роди народів, придавайте Яхве славу і силу.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Придавайте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "роди"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народів"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "придавайте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славу"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "і силу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:04.325633596Z",
+  "model": "glm-5.3"
+}

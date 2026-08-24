@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І поцілував Яаков Рахель, і підвів ⟨את⟩ голос свій, і заплакав.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "і поцілував"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Рахель"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "і підвів"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "голос свій"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "голос свій"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "і заплакав"
+    }
+  ],
+  "timestamp": "2026-08-23T21:16:39.612750065Z",
+  "model": "glm-5.3"
+}

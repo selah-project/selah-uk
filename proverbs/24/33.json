@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Трохи сну, трохи дрімоти, трохи складення рук — щоб ліжкувати,",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "трохи"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "сну"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "трохи"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "дрімоти"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "трохи"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "складення"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "рук"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "ліжкувати"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:27.128515651Z",
+  "model": "glm-5.3"
+}

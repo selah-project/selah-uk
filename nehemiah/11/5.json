@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 11:5",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "і Маасея, син Баруха, син Кол-Хозе, син Хазаї, син Адаї, син Йоярива, син Захарії, син ⟨з роду⟩ Шілоні.",
+  "tokens": [
+    {
+      "surface": "ומעשיה",
+      "gloss": "і Маасея"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Баруха"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Кол-"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "Хозе"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חזיה",
+      "gloss": "Хазаї"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "Адаї"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "Йоярива"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Захарії"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "Шілоні"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:56.606918053Z",
+  "model": "glm-5.3"
+}

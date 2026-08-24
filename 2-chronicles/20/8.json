@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 20:8",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І осілися в ній, і збудували Тобі в ній святиню для Імені Твого, кажучи:",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "І осілися"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в ній"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "і збудували"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Тобі"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в ній"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "святиню"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "для Імені Твого"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-24T01:28:14.971379530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І сказав Яхве: ось місце ⟨את⟩ біля Мене, і ти станеш на скелі.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "місце"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ біля Мене",
+      "marks": "біля Мене"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "і ти станеш"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "скелі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:35:15.927693276Z",
+  "model": "glm-5.3"
+}

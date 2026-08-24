@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 7:5",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Бо задумав Арам проти тебе зло, Ефраїм і син Ремал'яху, кажучи:",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "задумав"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "проти тебе"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраїм"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "і син"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Ремал'яху"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T23:06:04.252312303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 31:13",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "На його падінні оселялися всі птахи небес, і на його віттях були всі звірі поля.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מפלתו",
+      "gloss": "його падінні"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "оселялися"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "птахи"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "פארתיו",
+      "gloss": "його віттях"
+    },
+    {
+      "surface": "היו",
+      "gloss": "були"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "חית",
+      "gloss": "звірі"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поля"
+    }
+  ],
+  "timestamp": "2026-08-23T23:51:22.676979603Z",
+  "model": "glm-5.3"
+}

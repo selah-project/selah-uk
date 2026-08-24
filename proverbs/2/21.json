@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 2:21",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Бо прямі мешкатимуть на землі, і непорочні залишаться на ній.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "прямі"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "мешкатимуть"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на землі"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "і непорочні"
+    },
+    {
+      "surface": "יותרу",
+      "gloss": "залишаться"
+    },
+    {
+      "surface": "בה",
+      "gloss": "на ній"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:24.411062432Z",
+  "model": "glm-5.3"
+}

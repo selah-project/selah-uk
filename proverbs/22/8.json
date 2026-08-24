@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 22:8",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Хто сіє кривду — пожне лихо, і жезл люті його знищиться.",
+  "tokens": [
+    {
+      "surface": "זורע",
+      "gloss": "хто сіє"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "кривду"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "пожне"
+    },
+    {
+      "surface": "און",
+      "gloss": "лихо"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "і жезл"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "люті його"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "знищиться"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:23.670442577Z",
+  "model": "glm-5.3"
+}

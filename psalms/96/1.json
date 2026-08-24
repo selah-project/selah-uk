@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 96,
+  "translation": "Співайте Яхве пісню нову, співайте Яхве, вся земля!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "співайте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "пісню"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нову"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "співайте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:04.975775375Z",
+  "model": "glm-5.3"
+}

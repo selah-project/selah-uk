@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 74,
+  "translation": "Ти розтрощив силою Твоєю море, розбив голови танінім над водами.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "розтрощив"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "силою Твоєю"
+    },
+    {
+      "surface": "ים",
+      "gloss": "море"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "розбив"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "голови"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "танінім"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "המים",
+      "gloss": "водами"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:27.584119340Z",
+  "model": "glm-5.3"
+}

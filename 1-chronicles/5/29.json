@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 5:29",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І сини Амрама: Агарон і Моше і Міріям; і сини Агарона: Надав і Авігу, Елазар і Ітамар.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "і сини"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрама"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарон"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "і Моше"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "і Міріям"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "і сини"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарона"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Надав"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "і Авігу"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Елазар"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "і Ітамар"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:44.445267937Z",
+  "model": "glm-5.3"
+}

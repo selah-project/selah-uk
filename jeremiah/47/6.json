@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 47:6",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 47,
+  "translation": "Горе, мечу Яхве! До коли не заспокоїшся? Зберися в піхви, заспокойся й замовкни!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Горе"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мечу"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "коли"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשקטי",
+      "gloss": "заспокоїшся"
+    },
+    {
+      "surface": "האספי",
+      "gloss": "зберися"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "תערך",
+      "gloss": "піхви"
+    },
+    {
+      "surface": "הרגעי",
+      "gloss": "заспокойся"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "й замовкни"
+    }
+  ],
+  "timestamp": "2026-08-23T23:36:08.310331523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І тішилося все людство землі, а місто спочивало, а ⟨את⟩ Атал'ягу вбили мечем.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "І тішилося"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "עם",
+      "gloss": "людство"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "а місто"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "спочивало"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Атал'ягу"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Атал'ягу"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "вбили"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "мечем"
+    }
+  ],
+  "timestamp": "2026-08-24T01:28:14.319471572Z",
+  "model": "glm-5.3"
+}

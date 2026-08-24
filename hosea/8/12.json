@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Йому пишу Я тисячі постанов Моїх יanco Тори — як чужі вони пораховані.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "пишу"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "тисячі"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "постанов Моєї Тори"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "як"
+    },
+    {
+      "surface": "זר",
+      "gloss": "чужі"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "вони пораховані"
+    }
+  ],
+  "timestamp": "2026-08-23T23:58:02.664488887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І був Даніель аж до першого року Короша, царя.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І був"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даніель"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "року"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "першого"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "Короша"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:57:06.075073799Z",
+  "model": "glm-5.3"
+}

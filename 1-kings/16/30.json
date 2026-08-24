@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І зробив Ахав, син Омрі, зло в очах Яхве, понад усе, що ⟨було⟩ перед ним.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "І зробив"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Омрі"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "понад усе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "перед ним"
+    }
+  ],
+  "timestamp": "2026-08-23T22:52:37.910728257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І боявся Шаул присутності Давида, бо ⟨був⟩ Яхве з ним, а від Шаула відійшов.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "І боявся"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "присутності"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨був⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "з ним"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "а від"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаула"
+    },
+    {
+      "surface": "סר",
+      "gloss": "відійшов"
+    }
+  ],
+  "timestamp": "2026-08-23T22:32:43.300148825Z",
+  "model": "glm-5.3"
+}

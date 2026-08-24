@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 16:26",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Бо всі боги народів — марнота, а Яхве ⟨את⟩ небеса вчинив.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "боги"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народів"
+    },
+    {
+      "surface": "אלילим",
+      "gloss": "марнота"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "а Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "небеса"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "вчинив"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:09.010014823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Камінь і камінь, ейфа і ейфа — обидва вони — мерзота для Яхве.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "камінь"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "і камінь"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ейфа"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "і ейфа"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "мерзота"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "обидва вони"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:17.157845590Z",
+  "model": "glm-5.3"
+}

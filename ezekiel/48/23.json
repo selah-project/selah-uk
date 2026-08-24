@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 48:23",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "А решта колін — від краю на схід аж до краю на захід: Біньямін — один.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "а решта"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "колін"
+    },
+    {
+      "surface": "мфאת",
+      "gloss": "від краю"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "на схід"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "краю"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "на захід"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Біньямін"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-23T23:56:33.132760922Z",
+  "model": "glm-5.3"
+}

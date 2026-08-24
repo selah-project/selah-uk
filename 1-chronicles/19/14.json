@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 19:14",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І приступив Йоав та народ, що з ним, до битви проти Араму, і вони втекли від нього.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "І приступив"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "та народ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "з ним"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "проти"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Араму"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "до битви"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "і вони втекли"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "від нього"
+    }
+  ],
+  "timestamp": "2026-08-24T01:19:15.222553776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Бо заповідь ця, яку я наказую тобі сьогодні, не ⟨є⟩ надприродна вона для тебе, і не далека вона.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "заповідь"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ця"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "наказую тобі"
+    },
+    {
+      "surface": "היום",
+      "gloss": "сьогодні"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "надприродна"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "для тебе"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "далека"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "вона"
+    }
+  ],
+  "timestamp": "2026-08-23T22:08:14.937097593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І відпустив його; тоді вона сказала: жених крові — за обрізання.",
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "І відпустив"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "його"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тоді"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "вона сказала"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "жених"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "крові"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "за обрізання"
+    }
+  ],
+  "timestamp": "2026-08-23T21:26:25.870075591Z",
+  "model": "glm-5.3"
+}

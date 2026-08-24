@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І пара піднімалася із землі, і напувала ⟨את⟩ все лице ґрунту.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "і пара"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "піднімалася"
+    },
+    {
+      "surface": "מן",
+      "gloss": "із"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "і напувала"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все лице ґрунту"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ґрунту"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:54.729476641Z",
+  "model": "glm-5.3"
+}

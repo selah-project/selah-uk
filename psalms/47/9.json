@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 47,
+  "translation": "Царює Елогім над народами, Елогім сидить на престолі святості Своєї.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Царює"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народами"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "сидить"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "престолі"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "святості Своєї"
+    }
+  ],
+  "timestamp": "2026-08-24T00:15:59.329317412Z",
+  "model": "glm-5.3"
+}

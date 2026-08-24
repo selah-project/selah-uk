@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Шігайон Давіда, який він співав Яхве, про справи Куша, бен'яминця.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Шігайон"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давіда"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "שר",
+      "gloss": "співав"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "про"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "справи"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куша"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "бен'яминця"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:30.486002954Z",
+  "model": "glm-5.3"
+}

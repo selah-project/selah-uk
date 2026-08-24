@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Не заздрий насильникові та не обирай жодної з доріг його.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "заздрий"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "насильнику ⟨в⟩"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насильства"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "обирай"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "жодної з"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "доріг його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:00.177064016Z",
+  "model": "glm-5.3"
+}

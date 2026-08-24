@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Чоловік бідності любить втіху; любитель вина й олії не збагатіє.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "бідності"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "любить"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "утіху"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "любитель"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вино"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "й олії"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "збагатіє"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:57.334895615Z",
+  "model": "glm-5.3"
+}

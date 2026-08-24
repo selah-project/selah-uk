@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 33:12",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І рушили з пустелі Сін, і табурилися в Дофці.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "з пустелі"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Сін"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і табурилися"
+    },
+    {
+      "surface": "בדפקה",
+      "gloss": "в Дофці"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:10.166521662Z",
+  "model": "glm-5.3"
+}

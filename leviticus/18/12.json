@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Наготи сестри батька твого не відкривай, плоть батька твого вона.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "наготу"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "сестри"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "батька твого"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "відкривай"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "плоть"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "батька твого"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "вона"
+    }
+  ],
+  "timestamp": "2026-08-23T21:43:20.536423363Z",
+  "model": "glm-5.3"
+}

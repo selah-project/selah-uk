@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 34:27",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "І сказав Яхве Моше: запиши собі ⟨את⟩ ці слова, бо за цими словами Я вcutв заповіт ⟨את⟩ тобою та ⟨את⟩ Ісраелем.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "запиши"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ці слова"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устами"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "цих слів"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "цих"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "Я вcutв"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ тобою"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "заповіт"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "та ⟨את⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраелем"
+    }
+  ],
+  "timestamp": "2026-08-23T21:35:53.582582701Z",
+  "model": "glm-5.3"
+}

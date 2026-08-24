@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "І повернув він ⟨את⟩ сара напоїв на посаду його напоїв, і дав чашу на долоню Паро.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "І повернув"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сара напоїв"
+    },
+    {
+      "surface": "שר",
+      "gloss": "сара"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "напоїв"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "посаду його напоїв"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "і дав"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "чашу"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כף",
+      "gloss": "долоню"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    }
+  ],
+  "timestamp": "2026-08-23T21:20:25.628998184Z",
+  "model": "glm-5.3"
+}

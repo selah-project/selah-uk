@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 50,
+  "translation": "Якщо бачив ти злодія — біг з ним, і з перелюбниками твій жеребок.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "бачив ти"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "злодія"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "біг"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "з ним"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "і з"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "перелюбниками"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "твій жеребок"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:17.880702283Z",
+  "model": "glm-5.3"
+}

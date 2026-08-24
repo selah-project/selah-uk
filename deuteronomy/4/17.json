@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "вигляд усякої худоби, що на землі, вигляд усякого крилатого птаха, що літає в небах:",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "вигляд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усякої"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "худоби"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на землі"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "вигляд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усякого"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "птаха"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "крилатого"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "літає"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "в небах"
+    }
+  ],
+  "timestamp": "2026-08-23T22:02:11.970203683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Покладайся на Яхве всім своїм серцем, і на власний розум не спирайся.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Покладайся"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "всім"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "своїм серцем"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "власний розум"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "спирайся"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:36.158181567Z",
+  "model": "glm-5.3"
+}

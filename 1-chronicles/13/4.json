@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І сказала вся громада зробити так, бо правильна річ в очах усього народу.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "і сказала"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "громада"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "зробити"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "правильна"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "річ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усього"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:58.078377508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 35:14",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "Так говорить Адонай Яхве: як тішиться ⟨вся⟩ земля, запустіння вчиню тобі.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорить"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כשמח",
+      "gloss": "як тішиться"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨вся⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "запустіння"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "вчиню"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:51:37.885394874Z",
+  "model": "glm-5.3"
+}

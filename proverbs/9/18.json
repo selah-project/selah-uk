@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 9:18",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "А він не знає, що там мертві-рефаїми, у глибинах Шеолу — ⟨її⟩ запрошені.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знає"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "мертві-рефаїми"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "בעמקי",
+      "gloss": "у глибинах"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеолу"
+    },
+    {
+      "surface": "קראיה",
+      "gloss": "⟨її⟩ запрошені"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:45.454187832Z",
+  "model": "glm-5.3"
+}

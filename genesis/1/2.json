@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І земля була пустище й хаос, і темрява над безоднею, і руах Елогім ширяла над водами.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "І земля"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "була"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "пустище"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "й хаос"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "і темрява"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицем"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "безодні"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "і руах"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "ширяла"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицем"
+    },
+    {
+      "surface": "המים",
+      "gloss": "вод"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:52.252546850Z",
+  "model": "glm-5.3"
+}

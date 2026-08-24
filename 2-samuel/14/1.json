@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І дізнався Йоав, син Цруї, що серце царя ⟨налаштоване⟩ на Авшалома.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "І дізнався"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Цруї"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалома"
+    }
+  ],
+  "timestamp": "2026-08-23T22:40:37.560959127Z",
+  "model": "glm-5.3"
+}

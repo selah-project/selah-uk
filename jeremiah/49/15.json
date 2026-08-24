@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 49:15",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 49,
+  "translation": "Бо ось малим учинив Я тебе серед народів, зневаженим серед людей.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "малим"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "учинив Я тебе"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "серед народів"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "зневаженим"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "серед людей"
+    }
+  ],
+  "timestamp": "2026-08-23T23:38:50.009778155Z",
+  "model": "glm-5.3"
+}

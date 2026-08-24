@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "князь Маґдіель, князь Ірам. Оці ⟨є⟩ князі Едома.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "князь"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "Маґдіель"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "князь"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "Ірам"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Оці"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "князі"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едома"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:08.317291001Z",
+  "model": "glm-5.3"
+}

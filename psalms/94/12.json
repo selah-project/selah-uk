@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 94,
+  "translation": "Щасливий муж, якого караєш Ти, Ях, і якого з Твоєї Тори навчаєш.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "щасливий"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "муж"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "якого"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "караєш"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "і з Твоєї Тори"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "навчаєш"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:00.519305097Z",
+  "model": "glm-5.3"
+}

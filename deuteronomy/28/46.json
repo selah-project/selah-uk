@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "І будуть вони на тобі за знак і за див, і на насінні твоїм аж до віку.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "і будуть вони"
+    },
+    {
+      "surface": "בך",
+      "gloss": "на тобі"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "за знак"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "і за див"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "і на насінні твоїм"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "віку"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:52.081553710Z",
+  "model": "glm-5.3"
+}

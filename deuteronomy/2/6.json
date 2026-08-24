@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Їжу купуйте ⟨את⟩ у них за срібло — істе; і також воду купуйте ⟨את⟩ у них за срібло — пийте.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "Їжу"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "купуйте"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ у них"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "за срібло"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "істе"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "і також"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воду"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "купуйте"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ у них"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "за срібло"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "пийте"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:40.565577599Z",
+  "model": "glm-5.3"
+}

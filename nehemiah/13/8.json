@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І це було мені дуже лихо, і я викинув ⟨את⟩ усе начиння дому Товії геть із зали́шки.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "І було лихо"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "дуже"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "і я викинув"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усе начиння дому Товії"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "начиння"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Товії"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "геть"
+    },
+    {
+      "surface": "מן",
+      "gloss": "із"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "зали́шки"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:02.986767761Z",
+  "model": "glm-5.3"
+}

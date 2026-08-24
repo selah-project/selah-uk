@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "щоб не віддати своєї гідності іншим, і своїх років — жорстоким,",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "щоб не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "віддати"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "іншим"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "свою гідність"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "і свої роки"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "жорстоким"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:16.715344463Z",
+  "model": "glm-5.3"
+}

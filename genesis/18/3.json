@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 18:3",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І сказав: Адонай, якщо знайшов я ласку в очах твоїх, не минай, прошу, від раба твого.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "знайшов я"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ласку"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "в очах твоїх"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "минай"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "від"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "раба твого"
+    }
+  ],
+  "timestamp": "2026-08-23T21:12:39.371142265Z",
+  "model": "glm-5.3"
+}

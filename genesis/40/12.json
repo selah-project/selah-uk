@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "І сказав йому Йосеф: це — витлумачення його: три вітки — три дні це-вони.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і-сказав"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "витлумачення-його"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "вітки"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дні"
+    },
+    {
+      "surface": "הם",
+      "gloss": "це-вони"
+    }
+  ],
+  "timestamp": "2026-08-23T21:20:38.888908147Z",
+  "model": "glm-5.3"
+}

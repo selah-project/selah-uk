@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 2:47",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "А сини Єхдая: Регем, і Йотам, і Гейшан, і Пелет, і Ейфа, і Шааф.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А сини"
+    },
+    {
+      "surface": "יהדי",
+      "gloss": "Єхдая"
+    },
+    {
+      "surface": "רגם",
+      "gloss": "Регем"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "і Йотам"
+    },
+    {
+      "surface": "וגישן",
+      "gloss": "і Гейшан"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "і Пелет"
+    },
+    {
+      "surface": "ועיפה",
+      "gloss": "і Ейфа"
+    },
+    {
+      "surface": "ושעף",
+      "gloss": "і Шааф"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:54.151724783Z",
+  "model": "glm-5.3"
+}

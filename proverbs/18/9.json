@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Також хто занепадає у своїй праці — брат він тому, хто руйнує.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "хто занепадає"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "у своїй праці"
+    },
+    {
+      "surface": "אח",
+      "gloss": "брат"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "тому, хто"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "руйнує"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:08.304797591Z",
+  "model": "glm-5.3"
+}

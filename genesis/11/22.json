@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І жив Серуг тридцять років, і породив ⟨את⟩ Нахора.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "І жив"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Серуг"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридцять"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "і породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нахора"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахора"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:01.849931954Z",
+  "model": "glm-5.3"
+}

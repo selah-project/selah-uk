@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І почув Яхве ⟨את⟩ голос ваших слів, і запалав гнівом, і поклявся, кажучи:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "І почув"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "голос"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ваших слів"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "і запалав гнівом"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "і поклявся"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:03.971107457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 2:5",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І назвали ім'я того місця Бохім, і принесли там жертви Яхве.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "І назвали"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ім'я"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "того місця"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "того"
+    },
+    {
+      "surface": "בכים",
+      "gloss": "Бохім"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "і принесли жертви"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T22:18:02.675099424Z",
+  "model": "glm-5.3"
+}

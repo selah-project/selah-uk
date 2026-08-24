@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 29:9",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "Бо вони пророкують вам неправду ім'ям Моїм — не Я послав ⟨את⟩ них, — промовляє Яхве.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "неправду"
+    },
+    {
+      "surface": "הם",
+      "gloss": "вони"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "пророкують"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ім'ям Моїм"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "Я послав ⟨את⟩ них"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "промовляє"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:31:29.698227063Z",
+  "model": "glm-5.3"
+}

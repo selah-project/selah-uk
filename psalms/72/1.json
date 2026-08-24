@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 72,
+  "translation": "Шеломо. Елогім, суди Твої цареві дай, і правду Твою синові царя.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "суди Твої"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "цареві"
+    },
+    {
+      "surface": "תן",
+      "gloss": "дай"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "і правду Твою"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "синові"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:04.127450014Z",
+  "model": "glm-5.3"
+}

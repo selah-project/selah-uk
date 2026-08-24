@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "І ⟨את⟩ вівцю він віддасть учетверо, за те, що зробив ⟨את⟩ цю річ, і за те, що не пощадив.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "вівцю"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "вівцю"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "віддасть"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "учетверо"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "за те, що"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "зробив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цю річ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "цю річ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цю"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і за те, що"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "пощадив"
+    }
+  ],
+  "timestamp": "2026-08-23T22:39:53.277502376Z",
+  "model": "glm-5.3"
+}

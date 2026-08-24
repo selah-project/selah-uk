@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Тигель для срібла, і піч для золота, а випробувач сердець — Яхве.",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "Тигель"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "для срібла"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "і піч"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "для золота"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "а випробувач"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "сердець"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:25.844316280Z",
+  "model": "glm-5.3"
+}

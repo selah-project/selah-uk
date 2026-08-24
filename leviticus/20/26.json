@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 20:26",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І будете Мені святими, бо святий Я, Яхве, і Я відділив ⟨את⟩ вас від народів, щоб бути Мені.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "і будете"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мені"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "святими"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "святий"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואבדל",
+      "gloss": "і Я відділив"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас"
+    },
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народів"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "щоб бути"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мені"
+    }
+  ],
+  "timestamp": "2026-08-23T21:44:38.222088221Z",
+  "model": "glm-5.3"
+}

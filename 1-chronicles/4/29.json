@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "і в Білга, і в Ецем, і в Толад,",
+  "tokens": [
+    {
+      "surface": "ובבלהה",
+      "gloss": "і в Білга"
+    },
+    {
+      "surface": "ובעצם",
+      "gloss": "і в Ецем"
+    },
+    {
+      "surface": "ובתולד",
+      "gloss": "і в Толад"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:24.919339392Z",
+  "model": "glm-5.3"
+}

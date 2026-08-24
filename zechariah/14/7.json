@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І станеться день один — він ⟨буде⟩ пізнаний Яхве: не день і не ніч; і станеться: до часу вечора буде світло.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "і станеться"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "пізнаний"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ніч"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "і станеться"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "до часу"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "вечора"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "אור",
+      "gloss": "світло"
+    }
+  ],
+  "timestamp": "2026-08-24T01:51:38.275024924Z",
+  "model": "glm-5.3"
+}

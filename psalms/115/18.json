@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 115,
+  "translation": "А ми благословлятимемо Яха віднині і аж до віку. Алилуя, Ях!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "а ми"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "благословлятимемо"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яха"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "віднині"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "і аж до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "віку"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Алилуя"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:55.036531917Z",
+  "model": "glm-5.3"
+}

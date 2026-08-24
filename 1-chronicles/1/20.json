@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І Яктан породив ⟨את⟩ Алмодада, і ⟨את⟩ Шелефа, і ⟨את⟩ Хацармавета, і ⟨את⟩ Яраха.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "І Яктан"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Алмодада"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Алмодада"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Шелефа"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Шелефа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Хацармавета"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Хацармавета"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Яраха"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Яраха"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:10.063542141Z",
+  "model": "glm-5.3"
+}

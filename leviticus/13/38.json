@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І чоловік або жінка, якщо будуть на шкірі їхнього тіла плями, білі плями,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "і чоловік"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жінка"
+    },
+    {
+      "surface": "כי",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "будуть"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "на шкірі"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "їхнього тіла"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "плями"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "плями"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "білі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:41:48.229385598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "⟨את⟩ одне ягня зробиш уранці, а ⟨את⟩ друге ягня зробиш між вечорами.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "одне ягня"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ягня"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "одне"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "зробиш"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "уранці"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "друге ягня"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ягня"
+    },
+    {
+      "surface": "השני",
+      "gloss": "друге"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "зробиш"
+    },
+    {
+      "surface": "בין",
+      "gloss": "між"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "вечорами"
+    }
+  ],
+  "timestamp": "2026-08-23T21:34:08.510440615Z",
+  "model": "glm-5.3"
+}

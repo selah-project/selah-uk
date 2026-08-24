@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "І стережіть Мої заповіді, і виконуйте ⟨את⟩ них: Я — Яхве.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "І стережіть"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "Мої заповіді"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "і виконуйте"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "них (Мої заповіді)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:45:18.893794249Z",
+  "model": "glm-5.3"
+}

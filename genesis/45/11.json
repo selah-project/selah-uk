@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 45,
+  "translation": "і там я годуватиму тебе, бо ще п'ять років голод, — щоб не збіднів ти, і дім твій, і все, що твоє.",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "і я годуватиму"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "тебе"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "п'ять"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "років"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "голод"
+    },
+    {
+      "surface": "פן",
+      "gloss": "щоб не"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "збіднів"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "і дім твій"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і все"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לך",
+      "gloss": "твоє"
+    }
+  ],
+  "timestamp": "2026-08-23T21:23:43.296017012Z",
+  "model": "glm-5.3"
+}

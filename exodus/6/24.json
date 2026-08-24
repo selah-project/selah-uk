@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 6:24",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І сини Кораха: Асір, і Елкана, і Авіасаф; ці — родини корахита.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "І сини"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кораха"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Асір"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "і Елкана"
+    },
+    {
+      "surface": "ואביאסף",
+      "gloss": "і Авіасаф"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "родини"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "корахита"
+    }
+  ],
+  "timestamp": "2026-08-23T21:26:04.646270923Z",
+  "model": "glm-5.3"
+}

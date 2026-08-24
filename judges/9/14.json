@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І сказали всі дерева терну: іди ти, царюй над нами.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "І-сказали"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дерева"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "терну"
+    },
+    {
+      "surface": "לך",
+      "gloss": "іди"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царюй"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "над-нами"
+    }
+  ],
+  "timestamp": "2026-08-23T22:21:21.175943762Z",
+  "model": "glm-5.3"
+}

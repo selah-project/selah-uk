@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "і ⟨את⟩ Пармашту, і ⟨את⟩ Арісаї, і ⟨את⟩ Аридаї, і ⟨את⟩ Вайзату",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Пармашту"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "Пармашта"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Арісаї"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "Арісай"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Аридаї"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "Аридай"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Вайзату"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "Вайзата"
+    }
+  ],
+  "timestamp": "2026-08-24T00:57:18.437064316Z",
+  "model": "glm-5.3"
+}

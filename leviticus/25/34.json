@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 25:34",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "А поле ⟨the⟩ пасовищ міст їхніх не буде продане, бо володіння вічне ⟨це⟩ їм.",
+  "tokens": [
+    {
+      "surface": "ושדה",
+      "gloss": "а поле"
+    },
+    {
+      "surface": "מגרש",
+      "gloss": "пасовищ"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "міст їхніх"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "буде продане"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "володіння"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вічне"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨це⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    }
+  ],
+  "timestamp": "2026-08-23T21:45:57.355542001Z",
+  "model": "glm-5.3"
+}

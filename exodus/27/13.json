@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "А ширина ⟨the⟩ двору на східний бік, на схід сонця, — п'ятдесят ліктів.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "а ширина"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "⟨the⟩ двору"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "на бік"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "східний"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "на схід"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "п'ятдесят"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ліктів"
+    }
+  ],
+  "timestamp": "2026-08-23T21:32:53.014404741Z",
+  "model": "glm-5.3"
+}

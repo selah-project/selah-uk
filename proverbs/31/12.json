@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Вона відплачує йому добром, а не злом, усі дні життя свого.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "вона відплачує йому"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добром"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злом"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дні"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "життя свого"
+    }
+  ],
+  "timestamp": "2026-08-24T00:39:00.799471264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 87,
+  "translation": "Преславні речі ⟨було⟩ сказано про тебе, місто Елогім. Села.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "преславні речі"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "сказано"
+    },
+    {
+      "surface": "בך",
+      "gloss": "про тебе"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "місто"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-24T01:53:04.662754162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "Припини гнів і залиши лютість; не гарячись — це лише на зло.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Припини"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "гнів"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "і залиши"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "лютість"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "гарячись"
+    },
+    {
+      "surface": "אך",
+      "gloss": "лише"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "на зло"
+    }
+  ],
+  "timestamp": "2026-08-24T00:14:17.491391241Z",
+  "model": "glm-5.3"
+}

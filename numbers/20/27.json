@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 20:27",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І вчинив Моше, як заповів Яхве, і зійшли вони на гору Гор, на очах усієї громади.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "і вчинив"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "і зійшли"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Гор"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "на очах"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усієї"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "громади"
+    }
+  ],
+  "timestamp": "2026-08-24T01:39:22.749219681Z",
+  "model": "glm-5.3"
+}

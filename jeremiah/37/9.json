@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 37:9",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "Так сказав Яхве: не обманюйте ваших душ, кажучи: «Пішли й підуть від нас касдим», — бо не підуть.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "обманюйте"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ваших душ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "Пішли"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "підуть"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "від нас"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "касдим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "підуть"
+    }
+  ],
+  "timestamp": "2026-08-23T23:34:25.619816007Z",
+  "model": "glm-5.3"
+}

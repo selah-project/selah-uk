@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 45,
+  "translation": "Справді Ти — Ел, що ховається, Елогім Ісраелю, Спасителю.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Справді"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "що ховається"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраелю"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Спасителю"
+    }
+  ],
+  "timestamp": "2026-08-23T23:16:35.151129242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І Ївхар, і Елішама, і Еліфелет.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "І Ївхар"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "і Елішама"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "і Еліфелет"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:12.991638913Z",
+  "model": "glm-5.3"
+}

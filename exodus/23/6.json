@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Нехибуй правосуддя свого вбогого в його позові.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "нехибуй"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "правосуддя"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "твого вбогого"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "в його позові"
+    }
+  ],
+  "timestamp": "2026-08-24T01:37:18.249123663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Сини Бакбука, сини Хакупхи, сини Хархура.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "Бакбука"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "Хакупхи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "Хархура"
+    }
+  ],
+  "timestamp": "2026-08-24T01:09:53.115903959Z",
+  "model": "glm-5.3"
+}

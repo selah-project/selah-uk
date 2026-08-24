@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Натерла я своє ложе мирою, агалотовим деревом і корицею.",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "Натерла я"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "своє ложе"
+    },
+    {
+      "surface": "מר",
+      "gloss": "мирою"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "агалотовим деревом"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "і корицею"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:19.227122825Z",
+  "model": "glm-5.3"
+}

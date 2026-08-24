@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Бо Яхве знає шлях праведних, а шлях нечестивих загине.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знає"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "шлях"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведних"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "а шлях"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивих"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "загине"
+    }
+  ],
+  "timestamp": "2026-08-24T00:09:27.708159831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 120,
+  "translation": "Горе мені, що я мешкаю в Мешеху, що живу з наметами Кедару.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Горе"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "я мешкаю"
+    },
+    {
+      "surface": "משך",
+      "gloss": "у Мешеху"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "я живу"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "наметами"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Кедару"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:08.622188843Z",
+  "model": "glm-5.3"
+}

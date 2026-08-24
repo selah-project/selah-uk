@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 27:33",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "І Ахітофел ⟨був⟩ радником царя, а Хушай Архієць — ⟨був⟩ другом царя.",
+  "tokens": [
+    {
+      "surface": "ואחיתפל",
+      "gloss": "І Ахітофел"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "радником"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "וחושי",
+      "gloss": "а Хушай"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "Архієць"
+    },
+    {
+      "surface": "רע",
+      "gloss": "другом"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:43.181555540Z",
+  "model": "glm-5.3"
+}

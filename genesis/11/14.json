@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І Шелах жив тридцять років, і породив ⟨את⟩ Евера.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "І Шелах"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридцять"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "і породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Евера"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Евера"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:13.646671876Z",
+  "model": "glm-5.3"
+}

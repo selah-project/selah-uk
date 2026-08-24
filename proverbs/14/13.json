@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 14:13",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Навіть у сміху болітиме серце, і кінець радости — журба.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "навіть"
+    },
+    {
+      "surface": "בשחוק",
+      "gloss": "у сміху"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "болітиме"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "і кінець її"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "радість"
+    },
+    {
+      "surface": "תוגה",
+      "gloss": "журба"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:18.446171132Z",
+  "model": "glm-5.3"
+}

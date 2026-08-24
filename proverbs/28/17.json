@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Людина, притиснена ⟨за⟩ кров душі, аж до ями втече — нехай її не підтримують.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Людина"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "притиснена"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "кров'ю"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душі"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ями"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "втече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нехай не"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "підтримують"
+    },
+    {
+      "surface": "בו",
+      "gloss": "її"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:23.004661509Z",
+  "model": "glm-5.3"
+}

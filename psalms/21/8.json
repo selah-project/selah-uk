@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Бо цар довіряє Яхве, і в хеседі Ельйона він не похитнеться.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "довіряє"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "і в хеседі"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ельйона"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "він похитнеться"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:29.727393946Z",
+  "model": "glm-5.3"
+}

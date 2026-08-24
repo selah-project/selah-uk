@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Зберіться і зберіться, ⟨о⟩ народе, що не прагне!",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "Зберіться"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "і зберіться"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "народе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "прагне"
+    }
+  ],
+  "timestamp": "2026-08-24T00:05:56.081146123Z",
+  "model": "glm-5.3"
+}

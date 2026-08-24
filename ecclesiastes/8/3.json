@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Не поспішай від обличчя його йти, не стой у лихій справі, бо все, чого забажає, він учинить.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "поспішай"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "від обличчя його"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "йти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "стой"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "у справі"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лихій"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чого"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "забажає"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "він учинить"
+    }
+  ],
+  "timestamp": "2026-08-24T00:55:32.901641744Z",
+  "model": "glm-5.3"
+}

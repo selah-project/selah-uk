@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "І кадив на ньому пахощі-кадило, як заповів Яхве ⟨את⟩ Моше.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "І кадив"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на ньому"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "кадило"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "пахощі"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-23T21:37:54.030084684Z",
+  "model": "glm-5.3"
+}

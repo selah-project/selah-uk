@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Шкіра наша, як піч, зчорніла через пекучі спаги голоду.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "шкіра наша"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "як піч"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "зчорніла"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "через"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "пекучі спаги"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "голоду"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:04.912056619Z",
+  "model": "glm-5.3"
+}

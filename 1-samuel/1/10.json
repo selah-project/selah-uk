@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І вона була гірка в нефеш, і молилася Яхве, і, ридаючи, плакала.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "І вона"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "була гірка"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "в нефеш"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "і молилася"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨до⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "ридаючи"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "плакала"
+    }
+  ],
+  "timestamp": "2026-08-23T22:26:22.510493493Z",
+  "model": "glm-5.3"
+}

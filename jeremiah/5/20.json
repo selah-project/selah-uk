@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 5:20",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Оголосіть це в домі Яакова, і дайте почути це в Єгуді, saying сказавши:",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "Оголосіть"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "в домі"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "והשמיעוה",
+      "gloss": "і дайте почути"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "в Єгуді"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "сказавши"
+    }
+  ],
+  "timestamp": "2026-08-23T23:24:48.860943643Z",
+  "model": "glm-5.3"
+}

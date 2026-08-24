@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 73:19",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 73,
+  "translation": "Як сталися пусткою — як у мить! Скінчилися, загинули від жахіть.",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Як"
+    },
+    {
+      "surface": "היו",
+      "gloss": "сталися"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "пусткою"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "як у мить"
+    },
+    {
+      "surface": "ספו",
+      "gloss": "Скінчилися"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "загинули"
+    },
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "жахіть"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:37.591810756Z",
+  "model": "glm-5.3"
+}

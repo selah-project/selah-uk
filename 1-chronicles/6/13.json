@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І сини Шемуеля: перворідний Вашні й Авія.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "І сини"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуеля"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "перворідний"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "Вашні"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "й Авія"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:18.389977032Z",
+  "model": "glm-5.3"
+}

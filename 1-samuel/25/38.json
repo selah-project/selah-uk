@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І сталося за десять днів, і вдарив Яхве ⟨את⟩ Навала, і той вмер.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "за десять"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "і вдарив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Навала"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Навала"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "і вмер"
+    }
+  ],
+  "timestamp": "2026-08-23T22:35:19.262719455Z",
+  "model": "glm-5.3"
+}

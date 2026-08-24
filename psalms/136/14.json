@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 136:14",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 136,
+  "translation": "і провів Ізраїля посеред нього, бо навіки Його хесед.",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "і провів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "посеред нього"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Його хесед"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:27.710096272Z",
+  "model": "glm-5.3"
+}

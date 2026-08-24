@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 32:17",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "Відповім також я — ⟨своєю⟩ часткою, виявлю моє знання — також я.",
+  "tokens": [
+    {
+      "surface": "אענה",
+      "gloss": "Відповім"
+    },
+    {
+      "surface": "אף",
+      "gloss": "також"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "часткою"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "виявлю"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "знання"
+    },
+    {
+      "surface": "אף",
+      "gloss": "також"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-24T00:46:28.609246196Z",
+  "model": "glm-5.3"
+}

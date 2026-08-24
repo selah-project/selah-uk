@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Джерело садів, криниця води живої, і потоки, що течуть з Лівану.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "Джерело"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "садів"
+    },
+    {
+      "surface": "באר",
+      "gloss": "криниця"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живої"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "і потоки, що течуть"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Лівану"
+    }
+  ],
+  "timestamp": "2026-08-24T00:49:55.740084378Z",
+  "model": "glm-5.3"
+}

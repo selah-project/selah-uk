@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 24:30",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І сини Муші: Махлі, Едер та Єрімот. Це ⟨сини⟩ левитів за домом батьків їхніх.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "І сини"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "Муші"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махлі"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "та Едер"
+    },
+    {
+      "surface": "וירימות",
+      "gloss": "та Єрімот"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨сини⟩"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитів"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "за домом"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "батьків їхніх"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:14.063012431Z",
+  "model": "glm-5.3"
+}

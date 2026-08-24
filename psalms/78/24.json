@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 78,
+  "translation": "І дощем злив їм ман на їжу, і зерно небесне дав їм.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "і дощем злив"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ман"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "на їжу"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "і зерно"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небесне"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дав"
+    },
+    {
+      "surface": "למו",
+      "gloss": "їм"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:58.090596694Z",
+  "model": "glm-5.3"
+}

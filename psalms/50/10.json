@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 50,
+  "translation": "Бо Мої всі звірі лісу, худоба на горах тисячі.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мої"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "звірі"
+    },
+    {
+      "surface": "יער",
+      "gloss": "лісу"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "худоба"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "на горах"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисячі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:43.919165106Z",
+  "model": "glm-5.3"
+}

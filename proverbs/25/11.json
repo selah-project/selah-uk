@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 25:11",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Яблука золоті в срібних оправах — слово, сказане в свій час.",
+  "tokens": [
+    {
+      "surface": "תפוחי",
+      "gloss": "яблука"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золоті"
+    },
+    {
+      "surface": "במשכיות",
+      "gloss": "в срібних оправах"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "срібних"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сказане"
+    },
+    {
+      "surface": "על",
+      "gloss": "в"
+    },
+    {
+      "surface": "אפניו",
+      "gloss": "свій час"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:20.070102757Z",
+  "model": "glm-5.3"
+}

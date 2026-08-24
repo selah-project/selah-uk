@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Серце знає гіркоту своєї нефеш, і в радості його не втрутиться чужий.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Серце"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знає"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "гіркоту"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "своєї нефеш"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "і в радості його"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "втрутиться"
+    },
+    {
+      "surface": "זר",
+      "gloss": "чужий"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:39.179418968Z",
+  "model": "glm-5.3"
+}

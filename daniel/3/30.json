@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Тоді цар звеличив Шадраха, Мейшаха й Авед-Него в області Вавилону.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "тоді"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "цар"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "звеличив"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Шадраха"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Мейшаха"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "й"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Авед-Него"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "в області"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилону"
+    }
+  ],
+  "timestamp": "2026-08-24T00:59:47.732246025Z",
+  "model": "glm-5.3"
+}

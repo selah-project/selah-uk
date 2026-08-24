@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 106,
+  "translation": "Чудес у землі Хама, страхітливих ⟨речей⟩ над морем Суф.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "Чудес"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у землі"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хама"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "страхітливих ⟨речей⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ים",
+      "gloss": "морем"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:52.960966699Z",
+  "model": "glm-5.3"
+}

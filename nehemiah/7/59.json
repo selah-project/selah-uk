@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "nehemiah 7:59",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Сини Шефатʼя, сини Хаттіл, сини Похерет-га-Цеваїм, сини Амона.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Шефатʼя"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "חטיל",
+      "gloss": "Хаттіл"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "פכרת",
+      "gloss": "Похерет"
+    },
+    {
+      "surface": "הצביים",
+      "gloss": "га-Цеваїм"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Амона"
+    }
+  ],
+  "timestamp": "2026-08-24T01:09:45.245017459Z",
+  "model": "glm-5.3"
+}

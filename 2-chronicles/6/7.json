@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 6:7",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І було з серцем Давіда, батька мого, збудувати дім для Імені Яхве, Елогім Їзраелю.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "і було"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "серцем"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давіда"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батька мого"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "збудувати"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "для Імені"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їзраелю"
+    }
+  ],
+  "timestamp": "2026-08-24T01:23:13.840846989Z",
+  "model": "glm-5.3"
+}

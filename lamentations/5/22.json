@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 5:22",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Бо якщо Ти відкинув, відкинув нас, — розгнівався Ти на нас аж до краю.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "відкинув"
+    },
+    {
+      "surface": "מאסתנו",
+      "gloss": "відкинув нас"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "розгнівався Ти"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "на нас"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "краю"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:46.195456403Z",
+  "model": "glm-5.3"
+}

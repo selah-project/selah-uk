@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 68,
+  "translation": "Сказав Адонай: «З Башану поверну, поверну з глибин моря».",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Сказав"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "З Башану"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "поверну"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "поверну"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "з глибин"
+    },
+    {
+      "surface": "ים",
+      "gloss": "моря"
+    }
+  ],
+  "timestamp": "2026-08-24T00:19:58.723125092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 50,
+  "translation": "Голос війни в ⟨цій⟩ землі та велике розбиття.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "війни"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землі"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "та розбиття"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велике"
+    }
+  ],
+  "timestamp": "2026-08-23T23:38:06.418774036Z",
+  "model": "glm-5.3"
+}

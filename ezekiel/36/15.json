@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 36:15",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "І не дам більше чути про тебе ганьбу народів, і paddalku ганьбу народів ти не понесеш більше — виправлено нижче",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "дам чути"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "про тебе"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "більше"
+    },
+    {
+      "surface": "כלמת",
+      "gloss": "ганьбу"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народів"
+    },
+    {
+      "surface": "וחרפת",
+      "gloss": "і безчестя"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народів"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשאי",
+      "gloss": "понесеш"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "більше"
+    },
+    {
+      "surface": "וגויך",
+      "gloss": "і народи свої"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכשלי",
+      "gloss": "спіткнеш"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "більше"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адоная"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:51:49.767023054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "У пустелі: Бейт-га-Арава, Міддін і Секака.",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "у пустелі"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "га-Арава"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Міддін"
+    },
+    {
+      "surface": "וסככה",
+      "gloss": "і Секака"
+    }
+  ],
+  "timestamp": "2026-08-23T22:15:36.968293226Z",
+  "model": "glm-5.3"
+}

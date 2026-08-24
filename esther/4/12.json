@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І переказали Мордехаєві ⟨את⟩ слова Естер.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "і переказали"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Мордехаєві"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слова Естер"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естер"
+    }
+  ],
+  "timestamp": "2026-08-24T00:57:07.445422387Z",
+  "model": "glm-5.3"
+}

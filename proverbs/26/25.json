@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Коли милозвучний голос його — не довір йому, бо сім мерзот у серці його.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "милозвучний"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "голос його"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "довір"
+    },
+    {
+      "surface": "בו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "сім"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "мерзот"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "у серці його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:44.186819374Z",
+  "model": "glm-5.3"
+}

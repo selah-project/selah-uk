@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 8:12",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Тоді звів Шломо всепалення Яхве на жертовнику Яхве, який збудував перед ⟨святилищем⟩-портиком.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "тоді"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "звів"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "всепалення"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жертовнику"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "збудував"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "портиком"
+    }
+  ],
+  "timestamp": "2026-08-24T01:24:27.510263668Z",
+  "model": "glm-5.3"
+}

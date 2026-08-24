@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 10:10",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "А левіти: Єшуа, син Азаньї, Біннуй з синів Хенадада, Кадміел.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "левіти"
+    },
+    {
+      "surface": "וישוע",
+      "gloss": "Єшуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אזניה",
+      "gloss": "Азаньї"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "Біннуй"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "з синів"
+    },
+    {
+      "surface": "חנדד",
+      "gloss": "Хенадада"
+    },
+    {
+      "surface": "קדמיאל",
+      "gloss": "Кадміел"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:34.627513901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 2:9",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І сказав Яхве до мене: не кривди ⟨את⟩ Моаву і не викликай у них війни, бо не дам тобі з його землі спадщини, бо синам Лота я дав ⟨את⟩ Ар у спадщину.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І-сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до-мене"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "кривди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моав"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і-не"
+    },
+    {
+      "surface": "תתגר",
+      "gloss": "викликай"
+    },
+    {
+      "surface": "בם",
+      "gloss": "у-них"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "війни"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "дам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "з-землі-його"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "спадщини"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синам"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лота"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дав-я"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ар"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ар"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "у-спадщину"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:41.146187916Z",
+  "model": "glm-5.3"
+}

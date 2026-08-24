@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І нагромадили їх купами, купами, і зсмерділа ⟨вона⟩ земля.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "І нагромадили"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "їх"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "купа́ми"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "купа́ми"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "і зсмерділа"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    }
+  ],
+  "timestamp": "2026-08-23T21:28:05.003516163Z",
+  "model": "glm-5.3"
+}

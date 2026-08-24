@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 3:21",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І сини Хананьї: Пелатья та Їшайя; сини Рефайї, сини Арнана, сини Овадьї, сини Шханьї.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "І сини"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Хананьї"
+    },
+    {
+      "surface": "פלטיה",
+      "gloss": "Пелатья"
+    },
+    {
+      "surface": "וישעיה",
+      "gloss": "та Їшайя"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "Рефайї"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Арнана"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Овадьї"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "Шханьї"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:16.966154065Z",
+  "model": "glm-5.3"
+}

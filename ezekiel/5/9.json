@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І вчиню в тобі ⟨את⟩ те, чого не вчиняв, і ⟨את⟩ того, чого не вчиню подібного більш, заради всіх твоїх мерзот.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "І вчиню"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в тобі"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "те"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чого"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "вчиняв"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "того"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чого"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "вчиню"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "подібного"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "більш"
+    },
+    {
+      "surface": "יען",
+      "gloss": "заради"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всіх"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "твоїх мерзот"
+    }
+  ],
+  "timestamp": "2026-08-23T23:41:40.789057290Z",
+  "model": "glm-5.3"
+}

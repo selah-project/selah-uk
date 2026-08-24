@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Бо відступництво наївних уб'є їх, а спокій глупих знищить їх.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "відступництво"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "наївних"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "уб'є їх"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "а спокій"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "глупих"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "знищить їх"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:11.671541060Z",
+  "model": "glm-5.3"
+}

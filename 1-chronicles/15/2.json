@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 15:2",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Тоді сказав Давид: не ⟨Strings⟩ нести ⟨את⟩ ковчег Елогім, але левіти, бо в них обрав Яхве носити ⟨את⟩ ковчег Яхве і служити Йому до віку.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "тоді"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "нести"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ковчег"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אם",
+      "gloss": "але"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левіти"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בם",
+      "gloss": "в них"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "обрав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "носити"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ковчег"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ולשרתו",
+      "gloss": "і служити Йому"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "віку"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:30.683273366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 2:10",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І почув Санвалат ⟨the⟩ хоронієць, і Товія ⟨the⟩ раб ⟨the⟩ амонієць, і було їм зло велике, що прийшов чоловік шукати добра синам Ізраїля.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "І почув"
+    },
+    {
+      "surface": "סנבלט",
+      "gloss": "Санвалат"
+    },
+    {
+      "surface": "החרני",
+      "gloss": "⟨the⟩ хоронієць"
+    },
+    {
+      "surface": "וטוביה",
+      "gloss": "і Товія"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "⟨the⟩ раб"
+    },
+    {
+      "surface": "העמני",
+      "gloss": "⟨the⟩ амонієць"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "і було зло"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "велике"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "בא",
+      "gloss": "прийшов"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "шукати"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добра"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синам"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    }
+  ],
+  "timestamp": "2026-08-24T01:57:11.416933477Z",
+  "model": "glm-5.3"
+}

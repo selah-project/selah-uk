@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І покладуть сини Агарона, ⟨the⟩ священик, огонь на ⟨the⟩ жертовник, і укладать ⟨the⟩ дрова на ⟨the⟩ огонь.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "покладуть"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарона"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "священик"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огонь"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жертовник"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "укладать"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "дрова"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "האש",
+      "gloss": "огонь"
+    }
+  ],
+  "timestamp": "2026-08-23T21:38:19.908199711Z",
+  "model": "glm-5.3"
+}

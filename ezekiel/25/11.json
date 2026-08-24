@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 25:11",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І вчиню в Моаві суди, і пізнають, що Я — Яхве.",
+  "tokens": [
+    {
+      "surface": "ובמואב",
+      "gloss": "і-в-Моаві"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "вчиню"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "суди"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "і-пізнають"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:47:29.090748137Z",
+  "model": "glm-5.3"
+}

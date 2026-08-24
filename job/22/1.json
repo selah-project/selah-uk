@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 22:1",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "І відповів Еліфаз теманієць, і сказав:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "І відповів"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Еліфаз"
+    },
+    {
+      "surface": "התמני",
+      "gloss": "теманієць"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    }
+  ],
+  "timestamp": "2026-08-24T00:43:44.885996972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Не товаришуй ⟨את⟩ з гнівливим і ⟨את⟩ з лютою людиною не ходи,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "товаришуй"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "з гнівливим"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "з володілів"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гніву"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "з людиною"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "лютості"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ходи"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:36.174209659Z",
+  "model": "glm-5.3"
+}

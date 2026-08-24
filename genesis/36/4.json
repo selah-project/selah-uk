@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "І народила Ада Есавові ⟨את⟩ Еліфаза, а Босмат народила ⟨את⟩ Реуеля.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "І народила"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ада"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Есавові"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Еліфаза"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Еліфаза"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "а Босмат"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "народила"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Реуеля"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуеля"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:30.909680181Z",
+  "model": "glm-5.3"
+}

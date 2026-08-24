@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Усяку вдову й сироту не пригнічуйте.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "усю"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "вдову"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "й сироту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "пригнічуйте"
+    }
+  ],
+  "timestamp": "2026-08-23T21:31:22.650161818Z",
+  "model": "glm-5.3"
+}

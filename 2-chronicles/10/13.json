@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 10:13",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І відповів їм цар суворо, і залишив цар Рехавам ⟨את⟩ пораду старців.",
+  "tokens": [
+    {
+      "surface": "ויענם",
+      "gloss": "і відповів їм"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "суворо"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "і залишив"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рехавам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пораду"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "пораду"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "старців"
+    }
+  ],
+  "timestamp": "2026-08-24T01:25:46.370186747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Хай підніме Яхве обличчя свої до тебе, і хай дасть тобі мир.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "Хай підніме"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "обличчя свої"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "до тебе"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "і хай дасть"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    }
+  ],
+  "timestamp": "2026-08-23T21:48:58.350132482Z",
+  "model": "glm-5.3"
+}

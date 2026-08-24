@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "amos 7:16",
+  "book": "amos",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "А тепер слухай слово Яхве: ти кажеш: не пророкувати на Їсраеля і не крапати на дім Їцхака.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "А тепер"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слухай"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "кажеш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תנבא",
+      "gloss": "пророкувати"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраеля"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תטיף",
+      "gloss": "крапати"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "Їцхака"
+    }
+  ],
+  "timestamp": "2026-08-24T00:01:29.979732644Z",
+  "model": "glm-5.3"
+}

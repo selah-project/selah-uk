@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Благословенний Яхве, бо почув Він голос благань моїх.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "благословенний"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "почув"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "благань моїх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:07.733896988Z",
+  "model": "glm-5.3"
+}

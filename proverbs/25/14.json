@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 25:14",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Хмари й вітер, а дощу нема — людина, що хвалиться даром ошуканським.",
+  "tokens": [
+    {
+      "surface": "נשיאים",
+      "gloss": "хмари"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "і вітер"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "а дощ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "איש",
+      "gloss": "людина"
+    },
+    {
+      "surface": "מתהלל",
+      "gloss": "хвалиться"
+    },
+    {
+      "surface": "במתת",
+      "gloss": "даром"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ошуканським"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:30.804517623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Також без пізнання нефеш — не добра, а той, хто поспішає ногами, — грішить.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "без"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "пізнання"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "а той, хто поспішає"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "ногами"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "грішить"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:16.143391936Z",
+  "model": "glm-5.3"
+}

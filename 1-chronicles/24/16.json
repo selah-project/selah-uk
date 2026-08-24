@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Птахії — дев'ятнадцятому, Єхезкелю — двадцятому",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "Птахії"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "дев'ять"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надцять"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "Єхезкелю"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "двадцятому"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:18.578151712Z",
+  "model": "glm-5.3"
+}

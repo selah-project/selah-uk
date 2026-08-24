@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": " І мандрували від народу до народу, і від царства до іншого народу.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "і мандрували"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "від народу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народу"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "і від царства"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "іншого"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:48.384546721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 12:6",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "І пройшов Аврам по землі аж до місця Шхем, аж до дуба Море; а кенаанеїтин був тоді в землі.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "і пройшов"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "по землі"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "місця"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шхем"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "дуба"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "Море"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "а кенаанеїтин"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тоді"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:54.645307546Z",
+  "model": "glm-5.3"
+}

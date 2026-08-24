@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 23:32",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Елʼяхва шаалбонянин; із синів Яшена — Єгонатан.",
+  "tokens": [
+    {
+      "surface": "אליחבא",
+      "gloss": "Елʼяхва"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "шаалбонянин"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "Яшена"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Єгонатан"
+    }
+  ],
+  "timestamp": "2026-08-23T22:45:15.607085762Z",
+  "model": "glm-5.3"
+}

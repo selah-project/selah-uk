@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 11:46",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Еліель ⟨the⟩ махавієць, і Єрівай, і Йошавія, сини Ельнаама, і Ітма ⟨the⟩ моавієць,",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "Еліель"
+    },
+    {
+      "surface": "המחוים",
+      "gloss": "махавієць"
+    },
+    {
+      "surface": "ויריבי",
+      "gloss": "і Єрівай"
+    },
+    {
+      "surface": "ויושויה",
+      "gloss": "і Йошавія"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "אלנעם",
+      "gloss": "Ельнаама"
+    },
+    {
+      "surface": "ויתמה",
+      "gloss": "і Ітма"
+    },
+    {
+      "surface": "המואבי",
+      "gloss": "моавієць"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:45.722603859Z",
+  "model": "glm-5.3"
+}

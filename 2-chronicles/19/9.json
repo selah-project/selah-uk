@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 19:9",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І заповів він їм, говорячи: так робіть у страху Яхве, з вірністю і з цільним серцем.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "І заповів"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "робіть"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "у страху"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "з вірністю"
+    },
+    {
+      "surface": "ובלבב",
+      "gloss": "і з серцем"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "цільним"
+    }
+  ],
+  "timestamp": "2026-08-24T01:28:08.162204267Z",
+  "model": "glm-5.3"
+}

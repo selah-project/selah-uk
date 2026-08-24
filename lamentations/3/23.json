@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Нові вони щоранку — велика вірність Твоя.",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "нові"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "щоранку"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "велика"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "вірність Твоя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:53.064190261Z",
+  "model": "glm-5.3"
+}

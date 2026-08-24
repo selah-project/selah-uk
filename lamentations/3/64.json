@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Ти відплатиш їм, Яхве, за вчинок рук їхніх.",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "Ти відплатиш"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "відплату"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "за вчинок"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "рук їхніх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:21.086295625Z",
+  "model": "glm-5.3"
+}

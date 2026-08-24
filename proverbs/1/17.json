@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Бо надаремно розстеляється сітка в очах усього, що має крила.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "надаремно"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "розстеляється"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "сітка"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всього"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "що має"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "крила"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:19.100370343Z",
+  "model": "glm-5.3"
+}

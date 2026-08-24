@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Кінець прийшов, прийшов кінець; він прокинувся на тебе — ось ⟨воно⟩ приходить.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "Кінець"
+    },
+    {
+      "surface": "בא",
+      "gloss": "прийшов"
+    },
+    {
+      "surface": "בא",
+      "gloss": "прийшов"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "кінець"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "прокинувся"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "באה",
+      "gloss": "приходить"
+    }
+  ],
+  "timestamp": "2026-08-23T23:41:14.645030173Z",
+  "model": "glm-5.3"
+}

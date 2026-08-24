@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 15:8",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "І сказав: Адонай Яхве, звідки ⟨я⟩ знатиму, що успадкую її?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "במה",
+      "gloss": "звідки"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "знатиму"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "אירשנה",
+      "gloss": "успадкую її"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:09.987598174Z",
+  "model": "glm-5.3"
+}

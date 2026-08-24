@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "Щасливий ⟨ той ⟩ народ, якого Бог — Яхве, плем'я, яке Він обрав у спадок Собі.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Щасливий"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "якого"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Бог"
+    },
+    {
+      "surface": "העם",
+      "gloss": "плем'я"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "обрав"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "у спадок"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Собі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:45.449055166Z",
+  "model": "glm-5.3"
+}

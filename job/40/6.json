@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "І відповів Яхве ⟨את⟩ Ійову з бурі й сказав:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "і відповів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ійова"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ійов"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "з"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "бурі"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:22.090153017Z",
+  "model": "glm-5.3"
+}

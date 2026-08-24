@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Урійя ⟨the⟩ хіттієць, Завад, син Ахлай.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "Урійя"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "хіттієць"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Завад"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Ахлай"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:12.248982030Z",
+  "model": "glm-5.3"
+}

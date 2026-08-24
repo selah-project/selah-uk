@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 14:18",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Усі царі народів, усі вони, лежать у славі, кожен у своєму домі.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царі"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народів"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "усі вони"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "лежать"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "у славі"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кожен"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "у своєму домі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:07:59.462557371Z",
+  "model": "glm-5.3"
+}

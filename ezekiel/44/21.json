@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 44,
+  "translation": "І вина не питимуть усякий коген, коли входять вони до ⟨the⟩ внутрішнього двору.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "і вина"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "питимуть"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усякий"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "коген"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "коли входять вони"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "⟨the⟩ двору"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "внутрішнього"
+    }
+  ],
+  "timestamp": "2026-08-23T23:55:23.256425890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "И покинули вони там ⟨את⟩ богів своїх, і сказав Давид, і спалили їх в огні.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "І покинули"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "богів своїх"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "богів своїх"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "і спалили"
+    },
+    {
+      "surface": "באש",
+      "gloss": "їх в огні"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:12.579500108Z",
+  "model": "glm-5.3"
+}

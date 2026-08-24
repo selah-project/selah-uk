@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Губа правди утвердиться навіки, а на мить — язик брехні.",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "Губа"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "правди"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "утвердиться"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "а"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "на мить"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "язик"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "брехні"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:16.785115405Z",
+  "model": "glm-5.3"
+}

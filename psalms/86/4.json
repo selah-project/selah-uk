@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 86,
+  "translation": "Розвесели нефеш твого раба, бо до тебе, Адонай, мою нефеш я підіймаю.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Розвесели"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "твого раба"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "до тебе"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "мою нефеш"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "я підіймаю"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:50.426078453Z",
+  "model": "glm-5.3"
+}

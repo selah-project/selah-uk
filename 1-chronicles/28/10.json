@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 28:10",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Дивись нині, бо Яхве вибрав тебе збудувати дім для святині; будь сильний і роби.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Дивись"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "нині"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "вибрав"
+    },
+    {
+      "surface": "בך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "збудувати"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "для святині"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "будь сильний"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "і роби"
+    }
+  ],
+  "timestamp": "2026-08-24T01:21:54.104985377Z",
+  "model": "glm-5.3"
+}

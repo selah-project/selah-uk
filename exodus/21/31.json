@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Чи сина забоде, чи дочку забоде — за цим присудом буде зроблено йому.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "чи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "забоде"
+    },
+    {
+      "surface": "או",
+      "gloss": "чи"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочку"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "забоде"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "за присудом"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цим"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "буде зроблено"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    }
+  ],
+  "timestamp": "2026-08-23T21:32:07.160830871Z",
+  "model": "glm-5.3"
+}

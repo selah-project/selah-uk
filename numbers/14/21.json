@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Проте, живий Я, і наповниться слава Яхве ⟨את⟩ усю землю.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Проте"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живий"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "і наповниться"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усю землю"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    }
+  ],
+  "timestamp": "2026-08-24T01:39:26.983101665Z",
+  "model": "glm-5.3"
+}

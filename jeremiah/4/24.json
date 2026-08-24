@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 4:24",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Я побачив ⟨the⟩ гори, і ось — вони тремтять, і всі ⟨the⟩ пагорби захитались.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Я побачив"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "⟨the⟩ гори"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "і ось"
+    },
+    {
+      "surface": "רעשים",
+      "gloss": "вони тремтять"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і всі"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "⟨the⟩ пагорби"
+    },
+    {
+      "surface": "התקלקלו",
+      "gloss": "захитались"
+    }
+  ],
+  "timestamp": "2026-08-24T01:47:19.427985995Z",
+  "model": "glm-5.3"
+}

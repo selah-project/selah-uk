@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 13:3",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Та я до Шаддай говоритиму, і довести ⟨правду⟩ до Еля бажаю.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "та"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддай"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "говоритиму"
+    },
+    {
+      "surface": "והוכח",
+      "gloss": "і довести ⟨правду⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Еля"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "бажаю"
+    }
+  ],
+  "timestamp": "2026-08-24T00:41:44.485601127Z",
+  "model": "glm-5.3"
+}

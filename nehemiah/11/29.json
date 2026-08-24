@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 11:29",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "і в Ен-Ріммоні, і в Цорі, і в Ярмуті",
+  "tokens": [
+    {
+      "surface": "ובעין",
+      "gloss": "і в Ен-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Ріммоні"
+    },
+    {
+      "surface": "ובצרעה",
+      "gloss": "і в Цорі"
+    },
+    {
+      "surface": "ובירמות",
+      "gloss": "і в Ярмуті"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:22.195295155Z",
+  "model": "glm-5.3"
+}

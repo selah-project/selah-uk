@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 27:4",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Люті нема в Мені; хто дав би Мені тернину й будяк? У битві я ступлю на них, спалю їх разом.",
+  "tokens": [
+    {
+      "surface": "חמה",
+      "gloss": "люті"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "לי",
+      "gloss": "в Мені"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "дав би Мені"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "тернину"
+    },
+    {
+      "surface": "שית",
+      "gloss": "будяк"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "у битві"
+    },
+    {
+      "surface": "אפשעה",
+      "gloss": "ступлю"
+    },
+    {
+      "surface": "בה",
+      "gloss": "на них"
+    },
+    {
+      "surface": "אציתנה",
+      "gloss": "спалю"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "разом"
+    }
+  ],
+  "timestamp": "2026-08-23T23:10:26.357399679Z",
+  "model": "glm-5.3"
+}

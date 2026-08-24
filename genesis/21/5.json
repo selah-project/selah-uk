@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "А Аврагам ⟨був⟩ син ста років, коли народився йому ⟨את⟩ Їцхак, син його.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "А Аврагам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ста"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "коли народився"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Їцхак"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Їцхак"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    }
+  ],
+  "timestamp": "2026-08-23T21:13:30.411141911Z",
+  "model": "glm-5.3"
+}

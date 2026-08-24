@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Ти заповідав ⟨את⟩ Свої приписи берегти вельми.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "заповідав"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "Свої приписи"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "берегти"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "вельми"
+    }
+  ],
+  "timestamp": "2026-08-24T01:53:59.992370955Z",
+  "model": "glm-5.3"
+}

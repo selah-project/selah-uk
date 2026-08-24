@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 16:21",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Не сади собі Ашери жодного дерева біля жертовника Яхве, Елогім твого, який ти зробиш собі.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "сади"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "Ашери"
+    },
+    {
+      "surface": "כל",
+      "gloss": "жодного"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дерева"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "біля"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жертовника"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елогім твого"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ти зробиш"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    }
+  ],
+  "timestamp": "2026-08-23T22:05:20.923533317Z",
+  "model": "glm-5.3"
+}

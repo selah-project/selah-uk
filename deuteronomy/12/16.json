@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Проте кров — не їжте; на землю виливайте її, як воду.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "проте"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кров"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "їжте"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "виливайте її"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "як воду"
+    }
+  ],
+  "timestamp": "2026-08-23T22:04:03.033177196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 25:22",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "До п’ятнадцятого — Їремот, його сини та його брати, дванадцять ⟨були⟩.",
+  "tokens": [
+    {
+      "surface": "לחמשה",
+      "gloss": "до п’ятнадцятого"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לירמות",
+      "gloss": "Їремоту"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "його сини"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "та його брати"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дванадцять"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:27.214613061Z",
+  "model": "glm-5.3"
+}

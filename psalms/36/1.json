@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "Керівникові ⟨співу⟩, слузі Яхве, Давиду.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові ⟨співу⟩"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "слузі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    }
+  ],
+  "timestamp": "2026-08-24T00:14:44.626935040Z",
+  "model": "glm-5.3"
+}

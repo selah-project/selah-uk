@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 2:7",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І ось ангел, що говорив у мені, виходив, і інший ангел вийшов назустріч йому.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "І ось"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ангел"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "що говорив"
+    },
+    {
+      "surface": "בי",
+      "gloss": "у мені"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "виходив"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "і ангел"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "інший"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "вийшов"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "назустріч йому"
+    }
+  ],
+  "timestamp": "2026-08-24T00:07:00.083802757Z",
+  "model": "glm-5.3"
+}

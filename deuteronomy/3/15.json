@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "А Махірові я віддав ⟨את⟩ Ґілад.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "А Махірові"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "я віддав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ґілад"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Ґілад"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:51.123555121Z",
+  "model": "glm-5.3"
+}

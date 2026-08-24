@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Загубив ⟨себе⟩ ти, Ізраїлю, — та в Мені твоя поміч.",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "загубив"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлю"
+    },
+    {
+      "surface": "כי",
+      "gloss": "та"
+    },
+    {
+      "surface": "בי",
+      "gloss": "в Мені"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "твоя поміч"
+    }
+  ],
+  "timestamp": "2026-08-23T23:58:30.105299457Z",
+  "model": "glm-5.3"
+}

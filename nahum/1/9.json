@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nahum 1:9",
+  "book": "nahum",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Що ви замисляєте проти Яхве? Кінце ⟨він⟩ чинить: не встане двічі біда.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Що"
+    },
+    {
+      "surface": "תחשבון",
+      "gloss": "ви замисляєте"
+    },
+    {
+      "surface": "אל",
+      "gloss": "проти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "Кінце"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨він⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чинить"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "встане"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "двічі"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "біда"
+    }
+  ],
+  "timestamp": "2026-08-24T00:04:09.889072066Z",
+  "model": "glm-5.3"
+}

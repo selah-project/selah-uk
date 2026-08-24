@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 18:11",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Майно багатого — місто його сили, і як висока стіна — в його уяві.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "майно"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "багатого"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "місто"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "його сили"
+    },
+    {
+      "surface": "וכחומה",
+      "gloss": "і як стіна"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "висока"
+    },
+    {
+      "surface": "במשכיתו",
+      "gloss": "в його уяві"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:08.305251367Z",
+  "model": "glm-5.3"
+}

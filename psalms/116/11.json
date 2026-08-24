@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 116,
+  "translation": "Я сказав у поспіху моєму: кожна людина — ⟨це⟩ брехун.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "у поспіху моєму"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кожна"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людина"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "⟨це⟩ брехун"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:10.429211784Z",
+  "model": "glm-5.3"
+}

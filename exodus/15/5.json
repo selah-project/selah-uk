@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 15:5",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Безодні покрили їх — пішли вони вниз у безодні, як камінь.",
+  "tokens": [
+    {
+      "surface": "תהמת",
+      "gloss": "безодні"
+    },
+    {
+      "surface": "יכסימו",
+      "gloss": "покрили їх"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "пішли вниз"
+    },
+    {
+      "surface": "במצולת",
+      "gloss": "у безодні"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "як"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камінь"
+    }
+  ],
+  "timestamp": "2026-08-23T21:28:23.866882235Z",
+  "model": "glm-5.3"
+}

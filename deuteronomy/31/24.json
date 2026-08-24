@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "І сталося, як закінчив Моше писати ⟨את⟩ слова цієї Тори в книгу, аж до завершення їх,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "і-сталося"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "як-закінчив"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "писати"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слова"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тори"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цієї"
+    },
+    {
+      "surface": "על",
+      "gloss": "в"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "книгу"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж-до"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "завершення"
+    }
+  ],
+  "timestamp": "2026-08-23T22:10:44.525366636Z",
+  "model": "glm-5.3"
+}

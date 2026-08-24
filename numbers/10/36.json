@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 10:36",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "А коли спочивав ⟨він⟩, казав: Повернися, Яхве, до тисяч myriadів Ісраелю!",
+  "tokens": [
+    {
+      "surface": "ובנחה",
+      "gloss": "а коли спочивав"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "казав"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "Повернися"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "רבבות",
+      "gloss": "до myriadів"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "тисяч"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраелю"
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:54.258129492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Цілком спустошена буде земля, і цілком розgrabлена, бо Яхве сказав ⟨את⟩ це слово.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Цілком спустошена"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "буде спустошена"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "і цілком розgrabлена"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "буде розgrabлена"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "це слово"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "це"
+    }
+  ],
+  "timestamp": "2026-08-23T23:10:55.056325010Z",
+  "model": "glm-5.3"
+}

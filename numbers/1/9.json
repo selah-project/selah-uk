@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "За Звулона — Еліав, син Хелона.",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "За Звулона"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Еліав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Хелона"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:48.308898386Z",
+  "model": "glm-5.3"
+}

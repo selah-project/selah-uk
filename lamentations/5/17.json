@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Через це хворе ⟨стало⟩ серце наше, через це потемніли очі наші.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "через"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "היה",
+      "gloss": "стало"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "хворе"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "серце наше"
+    },
+    {
+      "surface": "על",
+      "gloss": "через"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "потемніли"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "очі наші"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:59.843130727Z",
+  "model": "glm-5.3"
+}

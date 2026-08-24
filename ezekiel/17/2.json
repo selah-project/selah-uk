@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Сину людський, загадай загадку та притай приказку до дому Ісраейлу.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сину"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людський"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "загадай"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "загадку"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "та притай"
+    },
+    {
+      "surface": "משל",
+      "gloss": "приказку"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраейлу"
+    }
+  ],
+  "timestamp": "2026-08-23T23:44:59.628895212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І зібралися до царя всі мужі Ізраїля на свято — це місяць сьомий.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "І зібралися"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужі"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "на свято"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "це"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "місяць"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "сьомий"
+    }
+  ],
+  "timestamp": "2026-08-24T01:23:55.956313286Z",
+  "model": "glm-5.3"
+}

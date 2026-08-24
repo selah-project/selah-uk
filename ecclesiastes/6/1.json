@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Є зло, яке я бачив під сонцем, і воно ⟨є⟩ тяжке над людиною.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Є"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "я бачив"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцем"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "і тяжке"
+    },
+    {
+      "surface": "היא",
+      "gloss": "воно"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людиною"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:37.531527938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І повернули вони, і піднялись на гору, і прийшли аж до долини Ешкол, і вивідали ⟨את⟩ її.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "І повернули"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "і піднялись"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "на гору"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "і прийшли"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "долини"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Ешкол"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "і вивідали"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "її"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:09.164476656Z",
+  "model": "glm-5.3"
+}

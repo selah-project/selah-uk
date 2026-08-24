@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Бо Ахаз обчищав ⟨את⟩ дім Яхве, і ⟨את⟩ дім царя, і князів, і відав цареві Ашуру, та не ⟨було⟩ помочі йому.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "обчищав"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дім Яхве"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "дім царя"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "і князів"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "і відав"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "цареві"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашуру"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "та не"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "помочі"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    }
+  ],
+  "timestamp": "2026-08-24T01:31:09.800958288Z",
+  "model": "glm-5.3"
+}

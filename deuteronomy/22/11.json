@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Не вдягайся в шаатнез, вовну і льон разом.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "вдягайся"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "шаатнез"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "вовну"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "і льон"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "разом"
+    }
+  ],
+  "timestamp": "2026-08-23T22:05:53.545578106Z",
+  "model": "glm-5.3"
+}

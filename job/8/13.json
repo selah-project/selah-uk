@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 8:13",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Такі шляхи всіх, хто забуває Ела, і надія безбожника загине.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "такі"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "шляхи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всіх"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "хто забуває"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "і надія"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "безбожника"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "загине"
+    }
+  ],
+  "timestamp": "2026-08-24T00:40:18.582538852Z",
+  "model": "glm-5.3"
+}

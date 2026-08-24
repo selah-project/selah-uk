@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 48:16",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "Близька погибель Моава — прийти, і лихо його поспішить дуже.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Близька"
+    },
+    {
+      "surface": "איד",
+      "gloss": "погибель"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "прийти"
+    },
+    {
+      "surface": "ורעתו",
+      "gloss": "і лихо його"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "поспішить"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "дуже"
+    }
+  ],
+  "timestamp": "2026-08-23T23:37:28.551216862Z",
+  "model": "glm-5.3"
+}

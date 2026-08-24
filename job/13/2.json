@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Як ⟨те, що⟩ знаєте ви, знаю й я; не поступаюся я вам.",
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "як знаєте ви"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знаю"
+    },
+    {
+      "surface": "גם",
+      "gloss": "й"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "поступаюся"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "вам"
+    }
+  ],
+  "timestamp": "2026-08-24T00:41:44.485438860Z",
+  "model": "glm-5.3"
+}

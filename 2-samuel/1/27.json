@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 1:27",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Як упали могутні, і згинула зброя війни!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Як"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "упали"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "могутні"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "і згинула"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "зброя"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "війни"
+    }
+  ],
+  "timestamp": "2026-08-23T22:36:56.249517503Z",
+  "model": "glm-5.3"
+}

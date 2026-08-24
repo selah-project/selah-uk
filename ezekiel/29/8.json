@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 29:8",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "Тому так сказав Адонай Яхве: ось я наводжу на тебе меч, і винищу з тебе людину і худобу.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Тому"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ось я"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "наводжу"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "і винищу"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "з тебе"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людину"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "і худобу"
+    }
+  ],
+  "timestamp": "2026-08-23T23:49:40.117721310Z",
+  "model": "glm-5.3"
+}

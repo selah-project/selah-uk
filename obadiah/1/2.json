@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Ось малим Я зробив тебе серед народів — ти вельми знехтуваний.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "малим"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "Я зробив тебе"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "серед народів"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "знехтуваний"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "вельми"
+    }
+  ],
+  "timestamp": "2026-08-24T00:02:15.231453460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 31:7",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "І воювали проти Мідьяну, як заповів Яхве ⟨את⟩ Моше, і вбили всіх чоловіків.",
+  "tokens": [
+    {
+      "surface": "ויצבאו",
+      "gloss": "і воювали"
+    },
+    {
+      "surface": "על",
+      "gloss": "проти"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мідьяну"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "і вбили"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всіх"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "чоловіків"
+    }
+  ],
+  "timestamp": "2026-08-23T21:58:11.779543442Z",
+  "model": "glm-5.3"
+}

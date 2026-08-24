@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І вернувся я, і побачив ⟨את⟩ марноту під сонцем.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "І вернувся"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "і побачив"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "марноту"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцем"
+    }
+  ],
+  "timestamp": "2026-08-24T01:56:23.339646186Z",
+  "model": "glm-5.3"
+}

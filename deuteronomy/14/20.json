@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "всякого птаха чистогоїжте",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "всякого"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "птаха"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чистого"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "їжте"
+    }
+  ],
+  "timestamp": "2026-08-23T22:04:13.274451743Z",
+  "model": "glm-5.3"
+}

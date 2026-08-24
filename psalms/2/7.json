@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Оповім про постанову: Яхве сказав мені: «Син Мій ти, Я сьогодні породив тебе».",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Оповім"
+    },
+    {
+      "surface": "אל",
+      "gloss": "про"
+    },
+    {
+      "surface": "חק",
+      "gloss": "постанову"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Син Мій"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "היום",
+      "gloss": "сьогодні"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "породив тебе"
+    }
+  ],
+  "timestamp": "2026-08-24T00:09:37.117187138Z",
+  "model": "glm-5.3"
+}

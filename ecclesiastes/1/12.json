@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Я, Когелет, був царем над Ісраелем у Єрушалаїмі.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Когелет"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "був"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царем"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраелем"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "у Єрушалаїмі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:37.633313685Z",
+  "model": "glm-5.3"
+}

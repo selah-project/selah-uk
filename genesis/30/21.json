@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "А потім народила ⟨вона⟩ дочку, і назвала ⟨את⟩ ім'я її Діна.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "А потім"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "народила"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочку"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "і назвала"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ім'я її"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ім'я її"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Діна"
+    }
+  ],
+  "timestamp": "2026-08-23T21:16:58.623361753Z",
+  "model": "glm-5.3"
+}

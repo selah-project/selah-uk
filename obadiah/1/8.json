@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "obadiah 1:8",
+  "book": "obadiah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Хіба не того дня — слово Яхве — знищу я мудреців з Едому і розум з гори Есава?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "хіба не"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "того дня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "цього"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "знищу я"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудреців"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "з Едому"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "і розум"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "з гори"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есава"
+    }
+  ],
+  "timestamp": "2026-08-24T00:01:21.299612765Z",
+  "model": "glm-5.3"
+}

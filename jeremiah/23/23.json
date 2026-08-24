@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Хіба Елогім зблизька Я — промовляє Яхве — і не Елогім здалеку?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "Хи Елогім"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "зблизька"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "промовляє"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "здалеку"
+    }
+  ],
+  "timestamp": "2026-08-23T23:30:09.032925387Z",
+  "model": "glm-5.3"
+}

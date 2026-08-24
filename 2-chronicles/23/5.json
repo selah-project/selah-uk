@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 23:5",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "і третина — в домі царя, і третина — в брамі Основи, а ввесь народ — у дворах дому Яхве.",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "і третина"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "в домі"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "і третина"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "в брамі"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "Основи"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "а ввесь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "у дворах"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:28:43.937978348Z",
+  "model": "glm-5.3"
+}

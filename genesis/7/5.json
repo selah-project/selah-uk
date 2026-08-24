@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І вчинив Нох так, як усе, що заповідав йому Яхве.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "І вчинив"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нох"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "так, як усе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "заповідав йому"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:30.375330692Z",
+  "model": "glm-5.3"
+}

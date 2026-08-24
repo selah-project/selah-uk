@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 27:13",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "А ці стоятимуть на прокляття на горі Ейвал: Реувен, Ґад і Ашер, і Зевулун, Дан і Нафталі.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "А ці"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "стоятимуть"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "прокляття"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на горі"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ейвал"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Ґад"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "і Ашер"
+    },
+    {
+      "surface": "וזבולן",
+      "gloss": "і Зевулун"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "і Нафталі"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:22.017127925Z",
+  "model": "glm-5.3"
+}

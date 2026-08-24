@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "І пішов Моше, і сказав ⟨את⟩ слова оці всьому Ізраїлеві:",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "І пішов"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слова"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всього"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    }
+  ],
+  "timestamp": "2026-08-23T22:10:01.551657010Z",
+  "model": "glm-5.3"
+}

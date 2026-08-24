@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Сини Мерарі: Махлі, Лівні, син його, Шім'ї, син його, Узза, син його;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерарі"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махлі"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Лівні"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шім'ї"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Узза"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:18.390204346Z",
+  "model": "glm-5.3"
+}

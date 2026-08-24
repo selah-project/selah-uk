@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "А Давид, син Їшаю, царював над усім Їсраейлом.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "А Давид"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Їшаю"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царював"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усім"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраейлом"
+    }
+  ],
+  "timestamp": "2026-08-24T01:21:58.718470347Z",
+  "model": "glm-5.3"
+}

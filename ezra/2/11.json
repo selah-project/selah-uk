@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Бевая — шістсот двадцять і троє.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "Бевай"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шістсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцять"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "і троє"
+    }
+  ],
+  "timestamp": "2026-08-24T01:57:08.890621048Z",
+  "model": "glm-5.3"
+}

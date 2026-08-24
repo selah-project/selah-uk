@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І вразив Яхве ⟨את⟩ народ за те, що вони зробили ⟨את⟩ тельця, якого зробив Агарон.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "І вразив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "те, що"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "вони зробили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тельця"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "тельця"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "якого"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "зробив"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарон"
+    }
+  ],
+  "timestamp": "2026-08-23T21:35:13.274040745Z",
+  "model": "glm-5.3"
+}

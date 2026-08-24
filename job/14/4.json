@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Хто дасть чисте з нечистого? — не ⟨є⟩ жоден.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дасть"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисте"
+    },
+    {
+      "surface": "мטמא",
+      "gloss": "з нечистого"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "жоден"
+    }
+  ],
+  "timestamp": "2026-08-24T00:41:44.957236412Z",
+  "model": "glm-5.3"
+}

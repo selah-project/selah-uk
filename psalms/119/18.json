@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Розкрий очі мої, і я побачу дива з Тори твоєї.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Розкрий"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очі мої"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "і я побачу"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "дива"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "з Тори твоєї"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:01.512246047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 82,
+  "translation": "Пісня Асафа. Елогім стоїть у громаді Ела, поміж ⟨богами⟩ судить він.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Пісня"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафа"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "стоїть"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "у громаді"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "поміж"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨богами⟩"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "судить він"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:08.614059593Z",
+  "model": "glm-5.3"
+}

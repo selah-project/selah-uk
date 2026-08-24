@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "Це сини Дішана: Уц і Аран.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Це"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Дішана"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Уц"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "і Аран"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:07.436973013Z",
+  "model": "glm-5.3"
+}

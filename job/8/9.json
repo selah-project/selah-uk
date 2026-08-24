@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Бо ⟨ми⟩ вчорашні й не знаємо, бо тінь — дні наші на землі.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "вчорашні"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ми"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "й не"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "знаємо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "צל",
+      "gloss": "тінь"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "дні наші"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:40:18.024372671Z",
+  "model": "glm-5.3"
+}

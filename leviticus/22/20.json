@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Усе, в чому ⟨є⟩ вада, не принесете, бо не на вподобу буде воно вам.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Усе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у ньому"
+    },
+    {
+      "surface": "מום",
+      "gloss": "вада"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "принесете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "на вподобу"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    }
+  ],
+  "timestamp": "2026-08-23T21:45:03.273337843Z",
+  "model": "glm-5.3"
+}

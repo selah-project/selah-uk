@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І ось — в급лений диск свинцю піднесений, і оце жінка одна сидить посередині ефи.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "І ось"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "в급лений диск"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "свинцю"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "піднесений"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "і оце"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жінка"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одна"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "сидить"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "посередині"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ефи"
+    }
+  ],
+  "timestamp": "2026-08-24T00:07:29.942116608Z",
+  "model": "glm-5.3"
+}

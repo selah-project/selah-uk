@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І сказали: Покличемо ⟨את⟩ дівчину і спитаємо з її уст.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "і сказали"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "покличемо"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "дівчину"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "і спитаємо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дівчину"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "її уст"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:03.244774086Z",
+  "model": "glm-5.3"
+}

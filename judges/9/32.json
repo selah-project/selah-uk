@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 9:32",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Тож устань уночі ти і народ, що ⟨з⟩ тобою, і засідкуй у полі.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Тож"
+    },
+    {
+      "surface": "קום",
+      "gloss": "устань"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "уночі"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "і народ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ з тобою"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "і засідкуй"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "у полі"
+    }
+  ],
+  "timestamp": "2026-08-23T22:21:44.468003435Z",
+  "model": "glm-5.3"
+}

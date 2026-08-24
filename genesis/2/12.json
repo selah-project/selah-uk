@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І золото тієї землі ⟨є⟩ добре; там ⟨є⟩ бдолах і камінь шогам.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "І золото"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тієї"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добре"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "бдолах"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "і камінь"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "шогам"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:48.091171864Z",
+  "model": "glm-5.3"
+}

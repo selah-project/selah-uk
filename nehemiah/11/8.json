@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "А після нього — Габбай, Салай: дев'ятсот двадцять вісім.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "а після нього"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "Габбай"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "Салай"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "дев'ятсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцять"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "і вісім"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:56.607535510Z",
+  "model": "glm-5.3"
+}

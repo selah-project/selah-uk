@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 11:21",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Від трьох у двох він був шанований, і став їм за князя, та до трьох не дійшов.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "трьох"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "у двох"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "був шанований"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і став"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "за князя"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "та до"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "трьох"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дійшов"
+    }
+  ],
+  "timestamp": "2026-08-24T01:58:15.486649764Z",
+  "model": "glm-5.3"
+}

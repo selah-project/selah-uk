@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "Для коліна Біньяміна — Елідад, син Кіслона.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "для коліна"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Біньяміна"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "Елідад"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "Кіслона"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:21.811983274Z",
+  "model": "glm-5.3"
+}

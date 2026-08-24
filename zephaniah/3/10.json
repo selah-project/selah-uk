@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zephaniah 3:10",
+  "book": "zephaniah",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "З-за річок Кушу — поклонники Мої, дочка розсіяних Моїх — понесуть дар Мій.",
+  "tokens": [
+    {
+      "surface": "מעבר",
+      "gloss": "з-за"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "річок"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Кушу"
+    },
+    {
+      "surface": "עתרי",
+      "gloss": "поклонники Мої"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочка"
+    },
+    {
+      "surface": "פוצי",
+      "gloss": "розсіяних Моїх"
+    },
+    {
+      "surface": "יובלון",
+      "gloss": "понесуть"
+    },
+    {
+      "surface": "מנחתי",
+      "gloss": "дар Мій"
+    }
+  ],
+  "timestamp": "2026-08-24T00:06:51.089803698Z",
+  "model": "glm-5.3"
+}

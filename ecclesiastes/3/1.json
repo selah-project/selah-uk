@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Усьому — свій час, і пора кожному бажанню під ⟨the⟩ небесами:",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "Усьому"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "час"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "і пора"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "кожному"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "бажанню"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесами"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:12.513768308Z",
+  "model": "glm-5.3"
+}

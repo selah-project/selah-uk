@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Зробив я собі сади й парки, і насадив у них дерева всякого плоду.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Зробив"
+    },
+    {
+      "surface": "לי",
+      "gloss": "собі"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "сади"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "й парки"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "і насадив"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "у них"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дерева"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякого"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "плоду"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:28.593023397Z",
+  "model": "glm-5.3"
+}

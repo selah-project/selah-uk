@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 1:25",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Як упали могутні посеред бою! Єгонатан на висотах твоїх поранений!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Як"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "упали"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "могутні"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "посеред"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "⟨the⟩ бою"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Єгонатан"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "במותיך",
+      "gloss": "висотах твоїх"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "поранений"
+    }
+  ],
+  "timestamp": "2026-08-23T22:36:56.249160795Z",
+  "model": "glm-5.3"
+}

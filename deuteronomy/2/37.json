@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 2:37",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Тільки до землі синів Аммона ти не підійшов, уся сторона потоку Яббока, і міста гори, і все, що заборонив Яхве, Елогім наш.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "тільки"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммона"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "קרבת",
+      "gloss": "ти підійшов"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "יד",
+      "gloss": "сторона"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "потоку"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Яббока"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "і міста"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "гори"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і все"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заборонив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елогім наш"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:56.827254208Z",
+  "model": "glm-5.3"
+}

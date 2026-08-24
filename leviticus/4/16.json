@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І принесе священник, Машіах, з крові бика до намету зустрічі,",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "І принесе"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "священник"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "Машіах"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "з крові"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "бика"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "намету"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "зустрічі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:38:46.201761291Z",
+  "model": "glm-5.3"
+}

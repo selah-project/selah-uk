@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Чи бере чоловік вогонь у пазуху свою, а одяг його не згорить?",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "чи бере"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "אש",
+      "gloss": "вогонь"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "у пазуху свою"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "а одяг його"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "згорить"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:50.981210741Z",
+  "model": "glm-5.3"
+}

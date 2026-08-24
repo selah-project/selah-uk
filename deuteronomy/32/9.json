@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "Бо частка Яхве — народ Його, Яаков — мірна jolтка спадку Його.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "частка"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народ Його"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "мірна jolтка"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "спадку Його"
+    }
+  ],
+  "timestamp": "2026-08-23T22:10:07.434030250Z",
+  "model": "glm-5.3"
+}

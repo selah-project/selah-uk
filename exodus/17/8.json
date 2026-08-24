@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І прийшов Амалек, і воював з Ізраїлем у Рефідімі.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "І прийшов"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "і воював"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлем"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "у Рефідімі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:30:10.295107155Z",
+  "model": "glm-5.3"
+}

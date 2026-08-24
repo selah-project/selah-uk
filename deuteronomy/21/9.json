@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І ти знищиш кров невинну з середини себе, бо робитимеш праведне в очах Яхве.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "І ти"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "знищиш"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кров"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "невинну"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "з середини себе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "робитимеш"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "праведне"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T22:05:54.899066156Z",
+  "model": "glm-5.3"
+}

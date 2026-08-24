@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "і ⟨את⟩ Дедана, і ⟨את⟩ Тему, і ⟨את⟩ Буза, і ⟨את⟩ усіх, що обрізають скроні.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Дедана"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Дедана"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Тему"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Тему"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Буза"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Буза"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "усіх, що обрізають скроні"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіх"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "що обрізають"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "скроні"
+    }
+  ],
+  "timestamp": "2026-08-23T23:29:48.220310126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 6:18",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Серце, що вираховує задуми лихого, ноги, що поспішають бігти до зла.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "що вираховує"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "задуми"
+    },
+    {
+      "surface": "און",
+      "gloss": "лихого"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ноги"
+    },
+    {
+      "surface": "ממהרות",
+      "gloss": "що поспішають"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "бігти"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "до зла"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:48.214022707Z",
+  "model": "glm-5.3"
+}

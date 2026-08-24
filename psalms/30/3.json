@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Яхве, Елогім мій, я кликав до Тебе, і Ти зцілив мене.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім мій"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "я кликав"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "до Тебе"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "і Ти зцілив мене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:12.245897216Z",
+  "model": "glm-5.3"
+}

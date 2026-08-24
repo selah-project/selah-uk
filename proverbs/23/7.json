@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Бо як він міркує в ⟨нефеш⟩-своїй, такий він і ⟨є⟩: «Їж і пий», — скаже тобі, та серце його не з тобою.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "як"
+    },
+    {
+      "surface": "שער",
+      "gloss": "міркує"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "в ⟨нефеш⟩-своїй"
+    },
+    {
+      "surface": "כן",
+      "gloss": "такий"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "Їж"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "і пий"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "скаже"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "та серце його"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "з тобою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:42.912577185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І послав Хірам цареві сто двадцять талантів золота.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "І послав"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Хірам"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "цареві"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "і двадцять"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "талантів"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золота"
+    }
+  ],
+  "timestamp": "2026-08-24T01:44:03.471847898Z",
+  "model": "glm-5.3"
+}

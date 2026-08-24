@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Бо всі столи повні блювоти, лайна — без ⟨чистого⟩ місця.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "столи"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "повні"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "блювоти"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "лайна"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "⟨чистого⟩ місця"
+    }
+  ],
+  "timestamp": "2026-08-23T23:11:03.195447808Z",
+  "model": "glm-5.3"
+}

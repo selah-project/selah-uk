@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Ось тварина, яку можна вам їсти: вола, ягня овець і ягня кіз.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ось"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "тварина"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "можна вам їсти"
+    },
+    {
+      "surface": "שור",
+      "gloss": "вола"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ягня"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "овець"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "і ягня"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "кіз"
+    }
+  ],
+  "timestamp": "2026-08-23T22:04:18.574322815Z",
+  "model": "glm-5.3"
+}

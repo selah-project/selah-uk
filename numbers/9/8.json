@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 9:8",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І сказав їм Моше: станьте, і я почую, що заповість Яхве щодо вас.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "станьте"
+    },
+    {
+      "surface": "ואשמעה",
+      "gloss": "і я почую"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "заповість"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "щодо вас"
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:39.129545689Z",
+  "model": "glm-5.3"
+}

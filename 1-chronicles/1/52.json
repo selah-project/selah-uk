@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 1:52",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "князь Оголівама, князь Ела, князь Пінон.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "князь"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Оголівама"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "князь"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "князь"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "Пінон"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:26.527616596Z",
+  "model": "glm-5.3"
+}

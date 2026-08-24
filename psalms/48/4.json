@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "Елогім у її палацах пізнаний ⟨як⟩ твердиня.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "у її палацах"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "пізнаний"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "як твердиня"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:32.216021908Z",
+  "model": "glm-5.3"
+}

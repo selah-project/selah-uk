@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І ввесь народ почує і боятиметься, і не будуть чинити зухвало більше.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "і ввесь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "почує"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "і боятиметься"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "будуть чинити зухвало"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "більше"
+    }
+  ],
+  "timestamp": "2026-08-23T22:05:29.501630058Z",
+  "model": "glm-5.3"
+}

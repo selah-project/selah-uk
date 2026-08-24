@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 113,
+  "translation": "Хай ⟨буде⟩ благословенне Ім'я Яхве віднині й аж до віку.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "хай буде"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Ім'я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "мברך",
+      "gloss": "благословенне"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "віднині"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "й аж до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "віку"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:36.655735148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "Очі Яхве — до праведних, і вуха Його — до їхнього кличу.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "очі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведних"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "і вуха Його"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "до їхнього кличу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:14:34.350409849Z",
+  "model": "glm-5.3"
+}

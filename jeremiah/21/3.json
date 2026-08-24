@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І сказав Єреміїу до них:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Єреміїу"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "до них"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "скажете"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкійагу"
+    }
+  ],
+  "timestamp": "2026-08-23T23:29:20.091246059Z",
+  "model": "glm-5.3"
+}

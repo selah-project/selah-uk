@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "І повернувся він до братів своїх, і сказав: хлопця немає, а я — куди я піду?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "І повернувся"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "братів своїх"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "хлопця"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "немає"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а я"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "куди"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "בא",
+      "gloss": "піду"
+    }
+  ],
+  "timestamp": "2026-08-23T21:20:52.701338469Z",
+  "model": "glm-5.3"
+}

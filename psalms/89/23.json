@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 89,
+  "translation": "Не вимагатиме ворог у нього, і син кривди не пригнітить його.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "вимагатиме"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ворог"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у-нього"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "і-син"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "кривди"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "пригнітить-його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:18.027058437Z",
+  "model": "glm-5.3"
+}

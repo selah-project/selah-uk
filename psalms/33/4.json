@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "Бо праве слово Яхве, і вся Його праця — у вірності.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "праве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і вся"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "Його праця"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "у вірності"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:44.240935829Z",
+  "model": "glm-5.3"
+}

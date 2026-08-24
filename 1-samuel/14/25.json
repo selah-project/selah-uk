@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І ввійшла вся земля в ліс, і був мед на поверхні поля.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "І вся"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "באו",
+      "gloss": "увійшла"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "у ліс"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і був"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "мед"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "поверхні"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поля"
+    }
+  ],
+  "timestamp": "2026-08-23T22:31:18.096284511Z",
+  "model": "glm-5.3"
+}

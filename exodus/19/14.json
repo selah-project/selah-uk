@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І зійшов Моше з гори до народу, і освятив ⟨את⟩ народ, і випрали вони свої одежі.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "і зійшов"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "гори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "і освятив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "і випрали"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "свої одежі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:29:50.174706624Z",
+  "model": "glm-5.3"
+}

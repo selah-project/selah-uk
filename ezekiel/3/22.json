@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 3:22",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І була на мені там рука Яхве, і Він сказав мені: устань, вийди до долини, і там Я говоритиму ⟨את⟩ тобі.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "І була"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на мені"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "קום",
+      "gloss": "устань"
+    },
+    {
+      "surface": "צא",
+      "gloss": "вийди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "долини"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "і там"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "Я говоритиму"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ тобі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:41:43.397532403Z",
+  "model": "glm-5.3"
+}

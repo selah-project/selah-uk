@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 9:13",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І сказав: Що це за міста, які ти дав мені, брате мій? І назвав їх землею Кавул — аж до цього дня.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Що"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "міста"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ти дав"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брате мій"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "І назвав"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землею"
+    },
+    {
+      "surface": "כבול",
+      "gloss": "Кавул"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цього"
+    }
+  ],
+  "timestamp": "2026-08-24T01:44:03.471610232Z",
+  "model": "glm-5.3"
+}

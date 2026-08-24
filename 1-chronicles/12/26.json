@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Зі синів Шимона — сильні відважні для війська: сім тисяч і сто.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "зі"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимона"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "сильні"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "відважні"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "для війська"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "сім"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "тисяч"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "і сто"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:57.408139543Z",
+  "model": "glm-5.3"
+}

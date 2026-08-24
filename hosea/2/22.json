@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І заручу Я тебе Собі в вірності, і пізнаєш ⟨את⟩ Яхве.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "і заручу Я тебе"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Собі"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "в вірності"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "і пізнаєш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:56:49.745860919Z",
+  "model": "glm-5.3"
+}

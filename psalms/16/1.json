@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Вирізьблення Давидове: стережи мене, Ель, бо я сховався в Тобі.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "вирізьблення"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидове"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "стережи мене"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "я сховався"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в тобі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:11:49.797388283Z",
+  "model": "glm-5.3"
+}

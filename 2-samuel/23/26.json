@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Хелец ⟨the⟩ палтієць, Іра, син Ікеша, ⟨the⟩ текоїтець,",
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "Хелец"
+    },
+    {
+      "surface": "הפלטי",
+      "gloss": "палтієць"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "Іра"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "Ікеша"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "текоїтець"
+    }
+  ],
+  "timestamp": "2026-08-24T01:43:09.427538411Z",
+  "model": "glm-5.3"
+}

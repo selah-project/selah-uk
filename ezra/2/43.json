@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "ezra 2:43",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Нетініми: сини Ціхи, сини Хасуфи, сини Таваот.",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "Нетініми"
+    },
+    {
+      "surface": "бני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ציחא",
+      "gloss": "Ціхи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "חשופא",
+      "gloss": "Хасуфи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "Таваот"
+    }
+  ],
+  "timestamp": "2026-08-24T01:05:04.723915994Z",
+  "model": "glm-5.3"
+}

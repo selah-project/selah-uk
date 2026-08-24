@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Благословення Яхве — воно збагачує, і ⟨він⟩ не додає болю з ним.",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "благословення"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "היא",
+      "gloss": "воно"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "збагачує"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "додає"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "болю"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "з ним"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:08.205554927Z",
+  "model": "glm-5.3"
+}

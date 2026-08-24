@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 78,
+  "translation": "І Він пам'ятав, що вони тіло — дихання, що минає і не вертається.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "І Він пам'ятав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тіло"
+    },
+    {
+      "surface": "המה",
+      "gloss": "вони"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дихання"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "що минає"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "вертається"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:02.895960242Z",
+  "model": "glm-5.3"
+}

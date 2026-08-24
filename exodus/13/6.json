@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Сім днів їстимеш ти опрісноки, а дня сьомого — свято Яхве.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Сім"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "їстимеш ти"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "опрісноки"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "а дня"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "сьомого"
+    },
+    {
+      "surface": "חג",
+      "gloss": "свято"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:28:57.722545427Z",
+  "model": "glm-5.3"
+}

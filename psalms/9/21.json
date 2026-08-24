@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Постав, Яхве, страх їм, нехай пізнають народи: смертні ⟨вони⟩ — вони. Села.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Постав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "страх"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "нехай пізнають"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "смертні"
+    },
+    {
+      "surface": "המה",
+      "gloss": "вони"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:31.033821441Z",
+  "model": "glm-5.3"
+}

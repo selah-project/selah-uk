@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Шість днів збирайте його, а дня сьомого — шабат, не буде ⟨в⟩ ньому.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Шість"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "збирайте його"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "а дня"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "сьомого"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "шабат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в ньому"
+    }
+  ],
+  "timestamp": "2026-08-24T01:37:11.241478902Z",
+  "model": "glm-5.3"
+}

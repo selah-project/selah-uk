@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "А ви, що тримаєтеся за Яхве, вашого Елогім, живі всі ви сьогодні.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "а ви"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "що тримаєтеся"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "за Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "вашого Елогім"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живі"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "всі ви"
+    },
+    {
+      "surface": "היום",
+      "gloss": "сьогодні"
+    }
+  ],
+  "timestamp": "2026-08-23T22:01:52.434156282Z",
+  "model": "glm-5.3"
+}

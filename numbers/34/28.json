@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 34:28",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "І для племені синів Нафталі — князь Педагель, син Аммігуда.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "І для племені"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафталі"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князь"
+    },
+    {
+      "surface": "פדהאל",
+      "gloss": "Педагель"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Аммігуда"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:00.064004441Z",
+  "model": "glm-5.3"
+}

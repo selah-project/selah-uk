@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Промовляй до синів Ісраелю і скажеш їм: Я — Яхве, Елогім вашній.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Промовляй"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраелю"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "і скажеш"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елогім вашній"
+    }
+  ],
+  "timestamp": "2026-08-23T21:43:36.405344529Z",
+  "model": "glm-5.3"
+}

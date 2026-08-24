@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І сини Йонатана: Пелет і Заза. Ці були синами Єрахм'еїла.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "І сини"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонатана"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "Пелет"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "і Заза"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ці"
+    },
+    {
+      "surface": "היו",
+      "gloss": "були"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синами"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Єрахм'еїла"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:51.324154308Z",
+  "model": "glm-5.3"
+}

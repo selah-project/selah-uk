@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І покладеш на столі хліб Обличчя перед лицем Моїм постійно.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "і покладеш"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "столі"
+    },
+    {
+      "surface": "лехем",
+      "surface2": "",
+      "gloss": ""
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хліб"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "Обличчя"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед лицем"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "постійно"
+    }
+  ],
+  "timestamp": "2026-08-24T01:37:33.615380592Z",
+  "model": "glm-5.3"
+}

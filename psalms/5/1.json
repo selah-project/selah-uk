@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Керівникові, на нефілот, мі́змор Давиду.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "нефілот"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мі́змор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:34.117168044Z",
+  "model": "glm-5.3"
+}

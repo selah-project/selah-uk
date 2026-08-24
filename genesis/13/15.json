@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Бо ⟨את⟩ усю землю, яку ти бачиш, — тобі я дам її, і насінню твоєму аж до віку.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усю землю"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "бачиш"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "я дам її"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "і насінню твоєму"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "віку"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:12.224824591Z",
+  "model": "glm-5.3"
+}

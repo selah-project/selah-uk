@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 11:15",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "а з левитів: Шемаїя, син Хашува, син Азрікама, син Хашав'ї, син Бунні",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "а з"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитів"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемаїя"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "Хашува"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Азрікама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашав'ї"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בוני",
+      "gloss": "Бунні"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:52.837174519Z",
+  "model": "glm-5.3"
+}

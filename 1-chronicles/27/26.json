@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "І над робітниками польової роботи, для обробітку землі, — Езрі, син Келува.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "І над"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "робітниками"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "роботи"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "польової"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "для обробітку"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "землі"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "Езрі"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "Келува"
+    }
+  ],
+  "timestamp": "2026-08-24T01:21:21.105920298Z",
+  "model": "glm-5.3"
+}

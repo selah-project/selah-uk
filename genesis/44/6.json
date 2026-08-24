@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 44,
+  "translation": "І наздогнав їх, і промовив до них ⟨את⟩ оцих слів.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "і наздогнав їх"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "і промовив"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "до них"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оцих слів"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "оцих слів"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "цих"
+    }
+  ],
+  "timestamp": "2026-08-23T21:22:54.842837131Z",
+  "model": "glm-5.3"
+}

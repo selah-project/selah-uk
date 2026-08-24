@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 83,
+  "translation": "Бо порадилися серцем разом, проти тебе заповіт укладуть.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "порадилися"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серцем"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "разом"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "проти тебе"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "заповіт"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "укладуть"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:38.298061818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 34:20",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "Тому так каже їм Адонай Яхве: ось Я, і Я розсужу між вівцею ситою й між вівцею худою.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Тому"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каже"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ось Я"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "і розсужу"
+    },
+    {
+      "surface": "בין",
+      "gloss": "між"
+    },
+    {
+      "surface": "שה",
+      "gloss": "вівцею"
+    },
+    {
+      "surface": "בריה",
+      "gloss": "ситою"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "й між"
+    },
+    {
+      "surface": "שה",
+      "gloss": "вівцею"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "худою"
+    }
+  ],
+  "timestamp": "2026-08-23T23:50:55.082442911Z",
+  "model": "glm-5.3"
+}

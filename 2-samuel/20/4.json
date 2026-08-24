@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І сказав цар до Амаси: склич мені ⟨את⟩ чоловіків Єгуди за три дні, а ти тут стій.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Амаси"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "склич"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чоловіків Єгуди"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловіків"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "за три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дні"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "פה",
+      "gloss": "тут"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "стій"
+    }
+  ],
+  "timestamp": "2026-08-23T22:43:35.164450081Z",
+  "model": "glm-5.3"
+}

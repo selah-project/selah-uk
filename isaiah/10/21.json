@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Залишок повернеться, залишок Яакова — до Еля Могутнього.",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "Залишок"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "повернеться"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "залишок"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Еля"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "Могутнього"
+    }
+  ],
+  "timestamp": "2026-08-23T23:07:05.303177624Z",
+  "model": "glm-5.3"
+}

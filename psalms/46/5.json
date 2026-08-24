@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 46,
+  "translation": "Річка — потоки її тішать місто Елогім, святі оселі Ельйона.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "річка"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "потоки її"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "тішать"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "місто"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "святі"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "оселі"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ельйона"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:00.856602616Z",
+  "model": "glm-5.3"
+}

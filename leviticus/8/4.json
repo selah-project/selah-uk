@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І зробив Моше, як заповів Яхве ⟨את⟩ його; і склалалася громада до входу намету зустрічі.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "І зробив"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ його",
+      "marks": "Моше"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "і склалалася"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "громада"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входу"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "намету"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "зустрічі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:39:48.117305472Z",
+  "model": "glm-5.3"
+}

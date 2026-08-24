@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Ось, мучиться родовими з лихості, і зачав hydraulic лихе, і породив обман.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "мучиться родовими"
+    },
+    {
+      "surface": "און",
+      "gloss": "з лихості"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "і зачав"
+    },
+    {
+      "surface": "עמал",
+      "gloss": "лихе"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "і породив"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "обман"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:27.450493102Z",
+  "model": "glm-5.3"
+}

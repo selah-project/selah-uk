@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І навіть у ті дні — οракул Яхве — не зроблю ⟨את⟩ вас винищення.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "І навіть"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "у дні"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ті"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "оракул"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "зроблю"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "винищення"
+    }
+  ],
+  "timestamp": "2026-08-23T23:24:48.860555044Z",
+  "model": "glm-5.3"
+}

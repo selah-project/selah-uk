@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 2:1",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І повернули ми, і рушили в пустку, шляхом до Ям-Суф, як сказав Яхве до мене, і ми обходили ⟨את⟩ гору Сеїр багато днів.",
+  "tokens": [
+    {
+      "surface": "ונפן",
+      "gloss": "І повернули ми"
+    },
+    {
+      "surface": "ונסע",
+      "gloss": "і рушили"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "в пустку"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "шляхом"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Ям"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "і ми обходили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гору"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеїр"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "багато"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:20.263015368Z",
+  "model": "glm-5.3"
+}

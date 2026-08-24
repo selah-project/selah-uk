@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 7:44",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "одну золоту долоню в десять ⟨шеклів⟩, повну кадила.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "долоню"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одну"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десять"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золоту"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "повну"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "кадила"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:42.780523560Z",
+  "model": "glm-5.3"
+}

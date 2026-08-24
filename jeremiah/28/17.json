@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "І помер Хананьягу ⟨the⟩ пророк того ж року, у сьомому місяці.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "І помер"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Хананьягу"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨the⟩ пророк"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "у ⟨the⟩ році"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "тому"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "у ⟨the⟩ місяці"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "сьомому"
+    }
+  ],
+  "timestamp": "2026-08-23T23:31:09.990687393Z",
+  "model": "glm-5.3"
+}

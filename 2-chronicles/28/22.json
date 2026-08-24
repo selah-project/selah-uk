@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 28:22",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "І в часі тісноти своїй додав він мімірствувати проти Яхве — він, цар Ахаз.",
+  "tokens": [
+    {
+      "surface": "ובעת",
+      "gloss": "і в часі"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "тісноти"
+    },
+    {
+      "surface": "לו",
+      "gloss": "своїй"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "додав"
+    },
+    {
+      "surface": "למעול",
+      "gloss": "мімірствувати"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "проти Яхве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    }
+  ],
+  "timestamp": "2026-08-24T01:31:09.801208127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "І зробиш оправи із золота.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "І зробиш"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "оправи"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золота"
+    }
+  ],
+  "timestamp": "2026-08-23T21:33:24.059486711Z",
+  "model": "glm-5.3"
+}

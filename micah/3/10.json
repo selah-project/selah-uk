@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Що будуєте Ційон кров'ю, а Єрушалаїм — кривдою!",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "будуєте"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ційон"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "кров'ю"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "а Єрушалаїм"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "кривдою"
+    }
+  ],
+  "timestamp": "2026-08-24T01:51:02.479232105Z",
+  "model": "glm-5.3"
+}

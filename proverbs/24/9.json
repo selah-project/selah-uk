@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Намір глупоти ⟨є⟩ гріх, і насмішник ⟨є⟩ мерзота для людини.",
+  "tokens": [
+    {
+      "surface": "זמת",
+      "gloss": "намір"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "глупоти"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "гріх"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "і мерзота"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "для людини"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "насмішник"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:06.538867074Z",
+  "model": "glm-5.3"
+}

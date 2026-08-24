@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Цілющий язик — дерево життя, а кривода в ньому — злам у дусі.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "цілющий"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "язик"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дерево"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "життя"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "а кривода"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в ньому"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "злам"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "у дусі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:58.586966317Z",
+  "model": "glm-5.3"
+}

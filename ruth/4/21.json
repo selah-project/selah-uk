@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І Шалмон породив ⟨את⟩ Боаза, і Боаз породив ⟨את⟩ Оведа.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "І Шалмон"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Боаза"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Боаза"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "і Боаз"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Оведа"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Оведа"
+    }
+  ],
+  "timestamp": "2026-08-24T00:50:27.630744263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 25:17",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І взяв я ⟨את⟩ чашу з руки Яхве, і напоїв усі народи, до яких послав мене Яхве:",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "і взяв я"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чашу"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "чашу"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "з руки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואשקה",
+      "gloss": "і напоїв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усі народи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "до яких"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "послав мене"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "до них"
+    }
+  ],
+  "timestamp": "2026-08-23T23:30:53.946288712Z",
+  "model": "glm-5.3"
+}

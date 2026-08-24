@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 46:17",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 46,
+  "translation": "Кличуть там: Парао, цар Міцраїму — ⟨лише⟩ шум; минув призначений час.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "кличуть"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Парао"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїму"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "шум"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "минув"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "призначений час"
+    }
+  ],
+  "timestamp": "2026-08-23T23:36:40.159996828Z",
+  "model": "glm-5.3"
+}

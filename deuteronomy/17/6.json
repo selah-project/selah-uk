@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "За устами двох свідків або трьох свідків буде вбито засудженого на смерть; не буде вбито за устами одного свідка.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устами"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двох"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "свідків"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "трьох"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "свідків"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "буде вбито"
+    },
+    {
+      "surface": "המת",
+      "gloss": "засудженого на смерть"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "буде вбито"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устами"
+    },
+    {
+      "surface": "עד",
+      "gloss": "свідка"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    }
+  ],
+  "timestamp": "2026-08-23T22:06:23.644915821Z",
+  "model": "glm-5.3"
+}

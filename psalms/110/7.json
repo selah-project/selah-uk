@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 110,
+  "translation": "З потоку на шляху п'є ⟨він⟩, тому підійме голову.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "З потоку"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на шляху"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "п'є"
+    },
+    {
+      "surface": "על",
+      "gloss": "тому"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "ירים",
+      "gloss": "підійме"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "голову"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:38.713941991Z",
+  "model": "glm-5.3"
+}

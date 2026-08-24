@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 15:23",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "А якщо ⟨це⟩ на ложі, або на речі, на якій вона сидить, — при доторку до неї ⟨він⟩ буде нечистим до вечора.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А якщо"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "ложі"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨це⟩"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "речі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "якій"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "сидить"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на ній"
+    },
+    {
+      "surface": "בנגעו",
+      "gloss": "при доторку"
+    },
+    {
+      "surface": "בו",
+      "gloss": "до неї"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "буде нечистим"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "вечора"
+    }
+  ],
+  "timestamp": "2026-08-23T21:43:56.885475484Z",
+  "model": "glm-5.3"
+}

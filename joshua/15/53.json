@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Янім, Бейт-Таппуах та Афека,",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "Янім"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "Таппуах"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "Афека"
+    }
+  ],
+  "timestamp": "2026-08-23T22:15:43.462471663Z",
+  "model": "glm-5.3"
+}

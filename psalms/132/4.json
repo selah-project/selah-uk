@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 132,
+  "translation": "якщо дам сну очам моїм, повікам моїм дрімоту,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "дам"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "сну"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "очам моїм"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "повікам моїм"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "дрімоту"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:23.689335269Z",
+  "model": "glm-5.3"
+}

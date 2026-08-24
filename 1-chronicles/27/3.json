@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "З синів Перева — ⟨він⟩ голова всіх князів воєнств для першого місяця.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "З"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перева"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "голова"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "всіх"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "князів"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "воєнств"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "для місяця"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "першого"
+    }
+  ],
+  "timestamp": "2026-08-24T01:21:14.376023727Z",
+  "model": "glm-5.3"
+}

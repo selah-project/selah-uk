@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І сказав Яхве: Єгуда підніметься; ось, Я віддав ⟨את⟩ землю в руку його.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуда"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "підніметься"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Я віддав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "в руку його"
+    }
+  ],
+  "timestamp": "2026-08-23T22:18:34.730133655Z",
+  "model": "glm-5.3"
+}

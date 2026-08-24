@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Аврам осів у землі Кнаану, а Лот осів у містах околиці, і розбив шатро аж до Сдому.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "осів"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у землі"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кнаану"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "а Лот"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "осів"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "у містах"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "околиці"
+    },
+    {
+      "surface": "ויאהל",
+      "gloss": "і розбив шатро"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Сдому"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:34.212273155Z",
+  "model": "glm-5.3"
+}

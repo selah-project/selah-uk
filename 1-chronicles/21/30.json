@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 21:30",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І не міг Давід піти перед ним, щоб шукати Елогім, бо затремтів від лиця меча посланця Яхве.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "І не"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "міг"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "піти"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "перед ним"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "щоб шукати"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "затремтів"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "від лиця"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меча"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "посланця"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:18:50.074313816Z",
+  "model": "glm-5.3"
+}

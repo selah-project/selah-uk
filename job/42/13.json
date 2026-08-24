@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 42:13",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 42,
+  "translation": "І сталося в нього семеро синів і три дочки.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "לו",
+      "gloss": "у нього"
+    },
+    {
+      "surface": "שבענה",
+      "gloss": "семеро"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "і три"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дочки"
+    }
+  ],
+  "timestamp": "2026-08-24T00:49:12.594992489Z",
+  "model": "glm-5.3"
+}

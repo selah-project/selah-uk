@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Поламай її ⟨את⟩ — на куски, і вилий на неї олію: дар ⟨є⟩ це.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "Поламай"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "на куски"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "на куски"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "і вилий"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на неї"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "олію"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "дар"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "це"
+    }
+  ],
+  "timestamp": "2026-08-23T21:37:53.538389999Z",
+  "model": "glm-5.3"
+}

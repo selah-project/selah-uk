@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 14:41",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І сказав Моше: навіщо це ви переступаєте ⟨את⟩ ⟨вуста⟩ Яхве, а ⟨це⟩ не вдасться вам?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "למה",
+      "gloss": "навіщо"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "переступаєте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "вуста Яхве"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨вуста⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а ⟨це⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תצלח",
+      "gloss": "вдасться"
+    }
+  ],
+  "timestamp": "2026-08-23T21:51:52.105133442Z",
+  "model": "glm-5.3"
+}

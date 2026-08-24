@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Ось день, ось прийшов: вийшла зоря — розквітнув жезл, розцвіла гординя.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "באה",
+      "gloss": "прийшов"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "вийшла"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "зоря"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "розквітнув"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "жезл"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "розцвіла"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "гординя"
+    }
+  ],
+  "timestamp": "2026-08-23T23:41:14.732512857Z",
+  "model": "glm-5.3"
+}

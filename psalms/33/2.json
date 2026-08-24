@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "Дякуйте Яхве на кінорі, на невелі десяти струн грайте Йому.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "дякуйте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "на кінорі"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "на невелі"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "десяти струн"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "грайте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Йому"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:44.240649148Z",
+  "model": "glm-5.3"
+}

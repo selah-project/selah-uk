@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "і Елішама, і Ельяда, і Еліфалет.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "і Елішама"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "і Ельяда"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "і Еліфалет"
+    }
+  ],
+  "timestamp": "2026-08-23T22:38:24.273239538Z",
+  "model": "glm-5.3"
+}

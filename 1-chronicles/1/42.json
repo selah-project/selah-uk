@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Сини Ецера: Бїлган, і Зааван, і Яакан — сини Дішона: Уц і Аран.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Ецера"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Бїлган"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "і Зааван"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "і Яакан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Дішона"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Уц"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "і Аран"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:26.649052503Z",
+  "model": "glm-5.3"
+}

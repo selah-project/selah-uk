@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 18:18",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Зносишся — зносишся і ти, і цей народ, що з тобою, бо важлива понад тебе ця річ: не зможеш зробити її ⟨сам⟩.",
+  "tokens": [
+    {
+      "surface": "נבל",
+      "gloss": "зносишся —"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "зносишся"
+    },
+    {
+      "surface": "גם",
+      "gloss": "і"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "גם",
+      "gloss": "і"
+    },
+    {
+      "surface": "העם",
+      "gloss": "цей народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цей"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "з тобою"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "важлива понад"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ця річ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "зможеш"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "зробити її"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "⟨сам⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T21:30:55.164995733Z",
+  "model": "glm-5.3"
+}

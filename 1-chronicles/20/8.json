@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Ці народилися для Рапи в Ґаті, і впали від руки Давида і від руки рабів його.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ці"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "народилися"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "для Рапи"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "в Ґаті"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "і впали"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "від руки"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "і від руки"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "рабів його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:19:57.731268069Z",
+  "model": "glm-5.3"
+}

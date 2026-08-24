@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 2:8",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "і щоб заготовити мені деревину в достатку, бо дім, який я будую, великий і дивовижний.",
+  "tokens": [
+    {
+      "surface": "ולהכין",
+      "gloss": "і щоб заготовити"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "деревину"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "в достатку"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "будую"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "והפלא",
+      "gloss": "і дивовижний"
+    }
+  ],
+  "timestamp": "2026-08-24T01:23:17.412934011Z",
+  "model": "glm-5.3"
+}

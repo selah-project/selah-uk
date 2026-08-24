@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Лютість царя — ⟨це⟩ вісники смерті, а мудра людина її загладить.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "лютість"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "вісники"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерті"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "а людина"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудра"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "загладить її"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:45.628537509Z",
+  "model": "glm-5.3"
+}

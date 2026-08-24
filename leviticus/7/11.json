@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І це — вчення про жертву шламім, яку він принесе Яхве.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "і це"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "вчення"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "жертва"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "шламім"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "він принесе"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:39:11.331618366Z",
+  "model": "glm-5.3"
+}

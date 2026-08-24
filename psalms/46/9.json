@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 46,
+  "translation": "Приходьте, дивіться на діла Яхве, що вчинив спустошення на землі",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Приходьте"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "дивіться"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "на діла"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "שם",
+      "gloss": "вчинив"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "спустошення"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:06.337069669Z",
+  "model": "glm-5.3"
+}

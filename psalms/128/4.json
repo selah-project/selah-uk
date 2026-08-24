@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 128,
+  "translation": "Ось, так благословенний чоловік, що боїться Яхве.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "благословенний"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "боїться"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:53.972938594Z",
+  "model": "glm-5.3"
+}

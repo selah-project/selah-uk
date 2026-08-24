@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 148,
+  "translation": "Хваліть ⟨את⟩ Яхве з землі: морські чудовиська і всі безодні,",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Хваліть"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "морські чудовиська"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і всі"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "безодні"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:11.986087746Z",
+  "model": "glm-5.3"
+}

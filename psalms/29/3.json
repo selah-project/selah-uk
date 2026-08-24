@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "Голос Яхве над водами, Ель гакавод грімить, Яхве над водами раббім.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Голос"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "המים",
+      "gloss": "водами"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "гакавод"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "грімить"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "מים",
+      "gloss": "водами"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "раббім"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:28.458811888Z",
+  "model": "glm-5.3"
+}

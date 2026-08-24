@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Юдеям була ⟨світлість⟩, і радість, і веселість, і шана.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "Юдеям"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "була"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "⟨світлість⟩"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "і радість"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "і веселість"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "і шана"
+    }
+  ],
+  "timestamp": "2026-08-24T00:57:18.530370246Z",
+  "model": "glm-5.3"
+}

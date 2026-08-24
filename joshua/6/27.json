@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І був Яхве ⟨את⟩ з Єгошуа; і була чутка його по всій землі.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "і був"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ з",
+      "marks": "Єгошуа"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Єгошуа"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і була"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чутка його"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "по всій"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-23T22:12:52.543804178Z",
+  "model": "glm-5.3"
+}

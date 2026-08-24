@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Що було, уже давно назване ⟨це⟩ ім'ям, і відомо, що ⟨це⟩ — адам; і не може він судитися з ⟨Тим⟩, хто сильніший за нього.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "було"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "уже давно"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "назване"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "його ім'я"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "і відомо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "може він"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "судитися"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "хто сильніший"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "за нього"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:42.196988545Z",
+  "model": "glm-5.3"
+}

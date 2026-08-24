@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 68,
+  "translation": "Від храму Твого над Єрушалаїмом: Тобі приведуть царі дари.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "Від храму Твого"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Єрушалаїмом"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Тобі"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "приведуть"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "царі"
+    },
+    {
+      "surface": "שי",
+      "gloss": "дари"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:06.279665243Z",
+  "model": "glm-5.3"
+}

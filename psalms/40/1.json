@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "Керівникові ⟨музикантів⟩. Псалом Давида.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові ⟨музикантів⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    }
+  ],
+  "timestamp": "2026-08-24T00:15:09.410439090Z",
+  "model": "glm-5.3"
+}

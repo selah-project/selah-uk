@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "Тоді я сказав: Ось я прийшов — у сувої книги написано про мене.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тоді"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "я сказав"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "я прийшов"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "у сувої"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "книги"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "написано"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "про мене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:15:49.944085653Z",
+  "model": "glm-5.3"
+}

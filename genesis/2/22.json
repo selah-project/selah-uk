@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І збудував Яхве Елогім ⟨את⟩ ребро, яке взяв від людини, на жінку, і привів її до людини.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "і збудував"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ребро"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "ребро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "взяв"
+    },
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людини"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "на жінку"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "і привів її"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людини"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:01.055615053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини ж Елі — сини Беліаала, не знали ⟨את⟩ Яхве.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "сини ж"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Елі"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Беліаала"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знали"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T22:26:52.643444505Z",
+  "model": "glm-5.3"
+}

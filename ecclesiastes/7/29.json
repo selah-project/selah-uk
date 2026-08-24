@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Лише це знайшов я: що Елогім учинив ⟨את⟩ людину прямою, а вони шукали багато задумів.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "лише"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "дивись"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "знайшов я"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учинив"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "людину"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людину"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "прямою"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "а вони"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "шукали"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "задумів"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "багато"
+    }
+  ],
+  "timestamp": "2026-08-24T01:56:32.141391930Z",
+  "model": "glm-5.3"
+}

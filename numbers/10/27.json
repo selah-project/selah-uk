@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 10:27",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "А над військом племені синів Нафталі — Ахіра, син Ейнана.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "А над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "військом"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "племені"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафталі"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Ахіра"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Ейнана"
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:46.822883444Z",
+  "model": "glm-5.3"
+}

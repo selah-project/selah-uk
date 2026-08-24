@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 136,
+  "translation": "І вивів Ісраель з-поміж них, бо навіки його хесед.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "і вивів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраель"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "з-поміж них"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "його хесед"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:28.412565321Z",
+  "model": "glm-5.3"
+}

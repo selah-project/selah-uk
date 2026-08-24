@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "і Рекем, і Їрпеель, і Тарала.",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "і Рекем"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "і Їрпеель"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "і Тарала"
+    }
+  ],
+  "timestamp": "2026-08-23T22:15:37.098890880Z",
+  "model": "glm-5.3"
+}

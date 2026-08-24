@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 24:9",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Тому так сказав Адонай Яхве: горе місту кровей! і я зроблю великою ⟨את⟩ купу вогню.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "горе"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "місту"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "кровей"
+    },
+    {
+      "surface": "גם",
+      "gloss": "і"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "אגדיל",
+      "gloss": "зроблю великою"
+    },
+    {
+      "surface": "המדורה",
+      "gloss": "⟨את⟩ купу вогню",
+      "marks": "купа вогню"
+    }
+  ],
+  "timestamp": "2026-08-23T23:47:24.768167825Z",
+  "model": "glm-5.3"
+}

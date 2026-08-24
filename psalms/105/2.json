@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 105,
+  "translation": "Співайте Йому, грайте Йому, розважайте про всі Його чудеса!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Співайте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Йому"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "грайте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Йому"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "розважайте"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "про всі"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "Його чудеса"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:45.959414189Z",
+  "model": "glm-5.3"
+}

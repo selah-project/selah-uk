@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І покладуть ⟨את⟩ Ім'я моє на синів Ізраїлю, і Я благословлю їх.",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "І покладуть"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ім'я моє"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Ім'я моє"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлю"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "і Я"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "благословлю їх"
+    }
+  ],
+  "timestamp": "2026-08-23T21:48:58.350249912Z",
+  "model": "glm-5.3"
+}

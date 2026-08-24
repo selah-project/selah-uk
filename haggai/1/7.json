@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 1:7",
+  "book": "haggai",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Так сказав Яхве Цеваот: покладіть ваші серця на ваші шляхи.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "покладіть"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ваші серця"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "ваші шляхи"
+    }
+  ],
+  "timestamp": "2026-08-24T00:06:34.679684574Z",
+  "model": "glm-5.3"
+}

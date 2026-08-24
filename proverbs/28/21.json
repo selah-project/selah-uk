@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Розпізнавати обличчя — не добре, і за шматок хліба чоловік зробить злочин.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "розпізнавати"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "обличчя"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добре"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і за"
+    },
+    {
+      "surface": "פת",
+      "gloss": "шматок"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хліба"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "зробить злочин"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "чоловік"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:18.614923343Z",
+  "model": "glm-5.3"
+}

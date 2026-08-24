@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 3:23",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І сини Неарьї: Елйоенай, і Хізкія, і Азрікам — три.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "І сини"
+    },
+    {
+      "surface": "נעריה",
+      "gloss": "Неарьї"
+    },
+    {
+      "surface": "אליועיני",
+      "gloss": "Елйоенай"
+    },
+    {
+      "surface": "וחזקיה",
+      "gloss": "і Хізкія"
+    },
+    {
+      "surface": "ועזריקם",
+      "gloss": "і Азрікам"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:16.966578164Z",
+  "model": "glm-5.3"
+}

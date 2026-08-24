@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Яка не має над собою начальника, ні наглядача, ні володаря,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Яка"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "לה",
+      "gloss": "їй"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "начальника"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "наглядача"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ні володаря"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:56.590200350Z",
+  "model": "glm-5.3"
+}

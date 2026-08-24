@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 9:8",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І Євнея син Єрохама, і Ела син Уззі, син Міхрі, і Мешулам син Шефатʼї, син Реуела, син Євнії.",
+  "tokens": [
+    {
+      "surface": "ויבניה",
+      "gloss": "І Євнея"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Єрохама"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "і Ела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Уззі"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "Міхрі"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "і Мешулам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Шефатʼї"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יבניה",
+      "gloss": "Євнії"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:30.253301984Z",
+  "model": "glm-5.3"
+}

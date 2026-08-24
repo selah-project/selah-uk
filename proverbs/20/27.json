@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Светильник Яхве — дихання людини, воно досліджує всі покої нутру.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "Светильник"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "дихання"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людини"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "воно досліджує"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "покої"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "нутру"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:59.846274785Z",
+  "model": "glm-5.3"
+}

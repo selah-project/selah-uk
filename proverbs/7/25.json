@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Нехай не відхиляється до доріг її твоє серце, не блукай у стежках її.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "нехай не відхиляється"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "дорогів її"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "твоє серце"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "блукай"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "у стежках її"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:44.004413005Z",
+  "model": "glm-5.3"
+}

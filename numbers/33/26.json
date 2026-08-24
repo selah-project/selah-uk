@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 33:26",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І рушили з Махелоту, і таборили в Тахаті.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "ממקהלת",
+      "gloss": "з Махелоту"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і таборили"
+    },
+    {
+      "surface": "בתחת",
+      "gloss": "в Тахаті"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:02.159687125Z",
+  "model": "glm-5.3"
+}

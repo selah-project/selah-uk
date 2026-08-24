@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "⟨Нехай⟩ сидить на самоті й мовчить, бо поклав ⟨це⟩ на нього.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "⟨Нехай⟩ сидить"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "на самоті"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "й мовчить"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "поклав"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на нього"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:48.152512192Z",
+  "model": "glm-5.3"
+}

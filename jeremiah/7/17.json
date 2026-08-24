@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 7:17",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Хіба ти не бачиш, що вони роблять у містах Єгуди та на вулицях Єрушалаїму?",
+  "tokens": [
+    {
+      "surface": "האינך",
+      "gloss": "хіба не"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ти бачиш"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "המה",
+      "gloss": "вони"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "роблять"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "у містах"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "ובחצות",
+      "gloss": "та на вулицях"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Єрушалаїму"
+    }
+  ],
+  "timestamp": "2026-08-23T23:25:17.164354168Z",
+  "model": "glm-5.3"
+}

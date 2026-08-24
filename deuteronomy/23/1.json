@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Не візьме чоловік ⟨את⟩ жінку свого батька, і не відкриє край одягу свого батька.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "візьме"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жінку"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жінку"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "свого батька"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "відкриє"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "край одягу"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "свого батька"
+    }
+  ],
+  "timestamp": "2026-08-23T22:06:49.426778460Z",
+  "model": "glm-5.3"
+}

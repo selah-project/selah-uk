@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 24:17",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І по смерті Єгояди прийшли князі Єгуди й поклонилися цареві; тоді цар послухав їх.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "І після"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерті"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Єгояди"
+    },
+    {
+      "surface": "באו",
+      "gloss": "прийшли"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "князі"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "й поклонилися"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "цареві"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тоді"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послушав"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "їх"
+    }
+  ],
+  "timestamp": "2026-08-24T01:30:29.476350152Z",
+  "model": "glm-5.3"
+}

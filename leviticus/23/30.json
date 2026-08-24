@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 23:30",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І кожна не́феш, що зробить якусь роботу саме того дня, — те Я знищу з середини народу її.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "і кожна"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "не́феш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "зробить"
+    },
+    {
+      "surface": "כל",
+      "gloss": "якусь"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "роботу"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "сам того"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цього"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "і знищу Я"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ту не́феш"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ту не́феш"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ту"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "з середини"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "народу її"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:03.119344744Z",
+  "model": "glm-5.3"
+}

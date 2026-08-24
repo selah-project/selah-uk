@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 31:47",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "І назвав його Лаван Єгар-Сагадута, а Яаков назвав його Ґал'ед.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "і назвав"
+    },
+    {
+      "surface": "לו",
+      "gloss": "його"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "Єгар"
+    },
+    {
+      "surface": "שהדותא",
+      "gloss": "Сагадута"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "а Яаков"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "назвав"
+    },
+    {
+      "surface": "לו",
+      "gloss": "його"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Ґал'ед"
+    }
+  ],
+  "timestamp": "2026-08-23T21:17:56.673876963Z",
+  "model": "glm-5.3"
+}

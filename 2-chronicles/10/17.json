@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 10:17",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "А сини Ізраїля, що жили в містах Єгуди, — над ними царював Рехавам.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А сини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "що жили"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "в містах"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "царював"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над ними"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рехавам"
+    }
+  ],
+  "timestamp": "2026-08-24T01:24:43.964948651Z",
+  "model": "glm-5.3"
+}

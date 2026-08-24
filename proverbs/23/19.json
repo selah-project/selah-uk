@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Слухай ти, мій сину, і будь мудрим, і спрямуй у дорозі своє серце.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Слухай"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בני",
+      "gloss": "мій сину"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "і будь мудрим"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "і спрямуй"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "у дорозі"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "своє серце"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:03.392154725Z",
+  "model": "glm-5.3"
+}

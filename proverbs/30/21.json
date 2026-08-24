@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Під трьома тремтить земля, і під чотирма не може вона витримати.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "трьома"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "тремтить"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "і під"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чотирма"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "може"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "витримати"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:57.518356164Z",
+  "model": "glm-5.3"
+}

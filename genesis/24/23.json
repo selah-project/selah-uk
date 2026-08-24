@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 24:23",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І сказав: дочка кого ти? Повідай же мені; чи є в домі батька твого місце нам переночувати?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочка"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кого"
+    },
+    {
+      "surface": "את",
+      "gloss": "ти"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "Повідай"
+    },
+    {
+      "surface": "נא",
+      "gloss": "же"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "היש",
+      "gloss": "чи є"
+    },
+    {
+      "surface": "בית",
+      "gloss": "в домі"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "батька твого"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "місце"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "ללין",
+      "gloss": "переночувати"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:02.884317969Z",
+  "model": "glm-5.3"
+}

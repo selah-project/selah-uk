@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 23:19",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І вчините одного козла ⟨з⟩ кіз за гріх, і двох ягнят, синів року, за жертву шеламім.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "і вчините"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "козла"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "кіз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за гріх"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "і двох"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ягнят"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "року"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "за жертву"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "шеламім"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:21.624648419Z",
+  "model": "glm-5.3"
+}

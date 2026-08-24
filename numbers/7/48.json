@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 7:48",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "У день сьомий — князь синів Ефраїма, Елішама, син Аммігуда.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "у день"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "сьомий"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князь"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраїма"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Елішама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Аммігуда"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:48.766053186Z",
+  "model": "glm-5.3"
+}

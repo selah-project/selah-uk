@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "Візьми щит і заслону та встань на поміч мені.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "візьми"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "щит"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "і заслону"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "та встань"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "на поміч мені"
+    }
+  ],
+  "timestamp": "2026-08-24T00:14:37.668647124Z",
+  "model": "glm-5.3"
+}

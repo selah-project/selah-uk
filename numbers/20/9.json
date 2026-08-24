@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І взяв Моше ⟨את⟩ жезла з-перед обличчя Яхве, як Він заповідав йому.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "І взяв"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жезла"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "жезла"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "з-перед обличчя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "заповідав йому"
+    }
+  ],
+  "timestamp": "2026-08-23T21:54:45.307359876Z",
+  "model": "glm-5.3"
+}

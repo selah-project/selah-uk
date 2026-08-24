@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Елогім осягнув путь ⟨її⟩, і ⟨він⟩ знає ⟨את⟩ місце ⟨її⟩.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "осягнув"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "путь її"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "і він"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знає"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "місце її"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "місце її"
+    }
+  ],
+  "timestamp": "2026-08-24T00:45:18.830231254Z",
+  "model": "glm-5.3"
+}

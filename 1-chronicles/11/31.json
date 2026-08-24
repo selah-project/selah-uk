@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 11:31",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Ітай син Рівая з Гів'яти синів Біньяміна, Бнайя га-Пір'атоні,",
+  "tokens": [
+    {
+      "surface": "איתי",
+      "gloss": "Ітай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "Рівая"
+    },
+    {
+      "surface": "מגבעת",
+      "gloss": "з Гів'яти"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Біньяміна"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "Бнайя"
+    },
+    {
+      "surface": "הפרעתני",
+      "gloss": "га-Пір'атоні"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:07.657468457Z",
+  "model": "glm-5.3"
+}

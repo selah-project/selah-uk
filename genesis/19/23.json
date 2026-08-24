@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Сонце вийшло на землю, а Лот увійшов до Цоару.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "Сонце"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "вийшло"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "а Лот"
+    },
+    {
+      "surface": "בא",
+      "gloss": "увійшов"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "до Цоару"
+    }
+  ],
+  "timestamp": "2026-08-23T21:12:31.638868006Z",
+  "model": "glm-5.3"
+}

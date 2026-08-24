@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "Покладайся на Яхве і чини добро, живи на землі й пасися вірністю.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Покладайся"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "і чини"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "живи"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на землі"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "й пасися"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "вірністю"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:57.135791659Z",
+  "model": "glm-5.3"
+}

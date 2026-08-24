@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 62,
+  "translation": "Тільки до Елогім мовчить душа моя; від Нього — спасіння моє.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Тільки"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "мовчить"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моя"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "від Нього"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "спасіння моє"
+    }
+  ],
+  "timestamp": "2026-08-24T00:18:13.413238056Z",
+  "model": "glm-5.3"
+}

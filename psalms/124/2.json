@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 124,
+  "translation": "якби не Яхве, що ⟨був⟩ для нас, коли встав на нас люд,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "якби не"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "що був"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "для нас"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "коли встав"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "на нас"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "люд"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:40.057065574Z",
+  "model": "glm-5.3"
+}

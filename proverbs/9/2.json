@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Зарізала свою заколину, змішала своє вино, також накрила свій стіл.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "Зарізала"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "свою заколину"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "змішала"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "своє вино"
+    },
+    {
+      "surface": "אף",
+      "gloss": "також"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "накрила"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "свій стіл"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:19.210185969Z",
+  "model": "glm-5.3"
+}

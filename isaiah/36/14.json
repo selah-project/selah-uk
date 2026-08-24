@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "Так сказав ⟨ה⟩ цар: нехай не зваблює ⟨את⟩ вас Хізкіягу, бо не зможе він урятувати вас.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нехай не"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "зваблює"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хізкіягу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "зможе"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "урятувати"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "вас"
+    }
+  ],
+  "timestamp": "2026-08-23T23:13:17.481147821Z",
+  "model": "glm-5.3"
+}

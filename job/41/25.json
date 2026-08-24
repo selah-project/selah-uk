@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 41:25",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 41,
+  "translation": "Немає на праху володаря йому; він створений без страху.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Немає"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "праху"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "володаря йому"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "створений"
+    },
+    {
+      "surface": "לבלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "חת",
+      "gloss": "страху"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:49.613470195Z",
+  "model": "glm-5.3"
+}

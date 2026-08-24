@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Бо в многоті мудрості — многота досади, і хто множить знання, множить і біль.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "в многоті"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрості"
+    },
+    {
+      "surface": "רב",
+      "gloss": "многота"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "досади"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "і хто множить"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знання"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "множить"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "і біль"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:04.937472305Z",
+  "model": "glm-5.3"
+}

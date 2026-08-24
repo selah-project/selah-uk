@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 25:40",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Як наймит, як переселенець, буде він при тобі; до року Ювелю служитиме при тобі.",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "як наймит"
+    },
+    {
+      "surface": "כתושב",
+      "gloss": "як переселенець"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "при тобі"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "року"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "Ювелю"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "служитиме"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "при тобі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:45:36.843125946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 38:27",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "І сталося в часі родів її — і ось близнюта в лоні її.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "в часі"
+    },
+    {
+      "surface": "לדתה",
+      "gloss": "родів її"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "і ось"
+    },
+    {
+      "surface": "תאומים",
+      "gloss": "близнюта"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "в лоні її"
+    }
+  ],
+  "timestamp": "2026-08-23T21:20:57.084751752Z",
+  "model": "glm-5.3"
+}

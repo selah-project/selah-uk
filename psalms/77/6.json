@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 77,
+  "translation": "Розмірковував я про дні віддавна, роки віків.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Розмірковував я"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "про дні"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "здавна"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "роки"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "віків"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:57.329630540Z",
+  "model": "glm-5.3"
+}

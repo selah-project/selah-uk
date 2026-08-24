@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 14:11",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І житимуть у ній, і херем не буде більше, і оселиться Єрушалаїм безпечно.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "І житимуть"
+    },
+    {
+      "surface": "בה",
+      "gloss": "у ній"
+    },
+    {
+      "surface": "וחרם",
+      "gloss": "і херем"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "більше"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "і оселиться"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Єрушалаїм"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "безпечно"
+    }
+  ],
+  "timestamp": "2026-08-24T00:09:14.380526327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 17:4",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Бо серце їхнє Ти сховав від розуму, тому не піднесеш їх.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "серце їхнє"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "Ти сховав"
+    },
+    {
+      "surface": "משכל",
+      "gloss": "від розуму"
+    },
+    {
+      "surface": "על",
+      "gloss": "тому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרמם",
+      "gloss": "піднесеш"
+    }
+  ],
+  "timestamp": "2026-08-24T00:42:59.189037902Z",
+  "model": "glm-5.3"
+}

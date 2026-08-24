@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 107,
+  "translation": "Бо Він зламав двері мідні, а засови залізні порубав.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "Він зламав"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "двері"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "мідні"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "а засови"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "залізні"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "порубав"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:53.364595306Z",
+  "model": "glm-5.3"
+}

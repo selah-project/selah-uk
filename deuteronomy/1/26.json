@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І не схотіли ви піднятися, і обурили ви ⟨את⟩ уста Яхве, Елогім вашого.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "і-не"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "схотіли-ви"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "піднятися"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "і-обурили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "уста Яхве, Елогім вашого"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елогім-вашого"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:33.203416461Z",
+  "model": "glm-5.3"
+}

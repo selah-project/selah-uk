@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Вага каменя і тягар піску, але гнів безумця важчий за обох.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "вага"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "каменя"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "і тягар"
+    },
+    {
+      "surface": "החול",
+      "gloss": "піску"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "але гнів"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "безумця"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "важчий"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "за обох"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:03.101086681Z",
+  "model": "glm-5.3"
+}

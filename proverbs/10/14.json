@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 10:14",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Мудрі ховають знання, а уста безглуздого — близька погибіль.",
+  "tokens": [
+    {
+      "surface": "חכמים",
+      "gloss": "мудрі"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "ховають"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знання"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "а уста"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "безглуздого"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "погибіль"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "близька"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:09.117331385Z",
+  "model": "glm-5.3"
+}

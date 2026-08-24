@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Праця дурнів стомлює його, бо він не вміє йти до міста.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "праця"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "дурнів"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "стомлює"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "вміє"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "йти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "міста"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:59.399283237Z",
+  "model": "glm-5.3"
+}

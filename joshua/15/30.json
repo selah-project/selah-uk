@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 15:30",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "й Елтолад, й Кесіл, й Хорма,",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "й Елтолад"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "й Кесіл"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "й Хорма"
+    }
+  ],
+  "timestamp": "2026-08-23T22:15:33.234281408Z",
+  "model": "glm-5.3"
+}

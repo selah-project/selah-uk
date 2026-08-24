@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Воду свою за срібло ми пили, дерево наше — за плату приходить.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "Воду свою"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "за срібло"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "ми пили"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "дерево наше"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "за плату"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "приходить"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:03.043335416Z",
+  "model": "glm-5.3"
+}

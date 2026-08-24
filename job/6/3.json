@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 6:3",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Бо тепер воно важче за пісок морів; тому слова мої нестримані.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "тепер"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "за пісок"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "морів"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "воно важче"
+    },
+    {
+      "surface": "על",
+      "gloss": "тому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "отож"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова мої"
+    },
+    {
+      "surface": "לעו",
+      "gloss": "нестримані"
+    }
+  ],
+  "timestamp": "2026-08-24T00:39:56.446642007Z",
+  "model": "glm-5.3"
+}

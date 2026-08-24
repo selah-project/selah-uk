@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І зніме ⟨את⟩ одежі свої, і зодягне одежі інші, і винесе ⟨את⟩ попіл геть із табору до місця чистого.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "І зніме"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "одежі свої"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "одежі свої"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "і зодягне"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "одежі"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "інші"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "і винесе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "попіл"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "попіл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "геть"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "із табору"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "місця"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чистого"
+    }
+  ],
+  "timestamp": "2026-08-23T21:39:57.885846348Z",
+  "model": "glm-5.3"
+}

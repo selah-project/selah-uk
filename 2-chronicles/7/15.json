@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 7:15",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Тепер мої очі будуть відчинені, і мої вуха уважні до молитви цього місця.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Тепер"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "мої очі"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "будуть"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "відчинені"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "і мої вуха"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "уважні"
+    },
+    {
+      "surface": "לתפלת",
+      "gloss": "до молитви"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "цього місця"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цього"
+    }
+  ],
+  "timestamp": "2026-08-24T01:25:15.234897290Z",
+  "model": "glm-5.3"
+}

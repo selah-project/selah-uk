@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "А понад них, сину мій, стережися: робити книги багато — немає кінця, і багато балачок — стомлення тіла.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "А понад"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "них"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сину мій"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "стережися"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "робити"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "книги"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "багато"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "кінця"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "і балачок"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "багато"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "стомлення"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тіла"
+    }
+  ],
+  "timestamp": "2026-08-24T00:56:32.836391277Z",
+  "model": "glm-5.3"
+}

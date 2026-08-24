@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 5:6",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Бо не виходить із пороху лихе, і з ґрунту не проростає труда.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "виходить"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "із пороху"
+    },
+    {
+      "surface": "און",
+      "gloss": "лихе"
+    },
+    {
+      "surface": "ומאדמה",
+      "gloss": "і з ґрунту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "проростає"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "труда"
+    }
+  ],
+  "timestamp": "2026-08-24T00:40:13.677932944Z",
+  "model": "glm-5.3"
+}

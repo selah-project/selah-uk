@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І молився Йона до Яхве, Елогім свого, з нутрощів риби.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "і молився"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йона"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Елогім свого"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "з нутрощів"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "риби"
+    }
+  ],
+  "timestamp": "2026-08-24T00:02:57.547937805Z",
+  "model": "glm-5.3"
+}

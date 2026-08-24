@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Як заповів Яхве ⟨את⟩ Моше, так він перелічив їх у пустелі Сінай.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Як"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "так він перелічив їх"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "у пустелі"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Сінай"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:39.388712828Z",
+  "model": "glm-5.3"
+}

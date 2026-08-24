@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "⟨את⟩ обличчя розумного — мудрість, а очі глупця — на край землі.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "обличчя розумного"
+    },
+    {
+      "surface": "פני",
+      "gloss": "обличчя"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "розумного"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрість"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "а очі"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупця"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "на край"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:04.983346322Z",
+  "model": "glm-5.3"
+}

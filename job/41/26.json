@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 41,
+  "translation": "⟨את⟩ усе високе бачить він; він — цар над усіма синами гордощів.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усе високе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "високе"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "бачить"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіма"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синами"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "гордощів"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:49.613726356Z",
+  "model": "glm-5.3"
+}

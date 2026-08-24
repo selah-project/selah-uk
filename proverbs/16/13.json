@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 16:13",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Прихість царів — уста правди, і правдомовця він покохає.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "прихість"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "царів"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "уста"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правди"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "і говорить"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "пряме"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "покохає"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:45.628321568Z",
+  "model": "glm-5.3"
+}

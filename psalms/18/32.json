@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Бо хто ⟨є⟩ Елоаг, окрім Яхве? І хто ⟨є⟩ скеля, окрім Елогім наших?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Елоаг"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "окрім"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "І хто"
+    },
+    {
+      "surface": "צור",
+      "gloss": "скеля"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "окрім"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елогім наших"
+    }
+  ],
+  "timestamp": "2026-08-24T00:11:51.984549276Z",
+  "model": "glm-5.3"
+}

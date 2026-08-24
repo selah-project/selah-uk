@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Не послав Я ⟨את⟩ пророків — а вони побігли; не говорив Я до них — а вони пророкували.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "послав Я"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пророків"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "пророків"
+    },
+    {
+      "surface": "והם",
+      "gloss": "а вони"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "побігли"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорив Я"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "до них"
+    },
+    {
+      "surface": "והם",
+      "gloss": "а вони"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "пророкували"
+    }
+  ],
+  "timestamp": "2026-08-23T23:30:09.032399699Z",
+  "model": "glm-5.3"
+}

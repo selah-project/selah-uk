@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 18:20",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І вийшов дух, і став перед Яхве, і сказав: я спокушу його. А Яхве сказав до нього: чим?",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "І-вийшов"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "і-став"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і-сказав"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "спокошу-його"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "І-сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "до-нього"
+    },
+    {
+      "surface": "במה",
+      "gloss": "чим"
+    }
+  ],
+  "timestamp": "2026-08-24T01:27:20.409028568Z",
+  "model": "glm-5.3"
+}

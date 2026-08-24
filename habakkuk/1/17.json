@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "habakkuk 1:17",
+  "book": "habakkuk",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Чи тому він спорожнить свою сітку, і завжди вбивати народи — не помилує?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "чи тому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "יריק",
+      "gloss": "він спорожнить"
+    },
+    {
+      "surface": "חרמו",
+      "gloss": "свою сітку"
+    },
+    {
+      "surface": "ותמיד",
+      "gloss": "і завжди"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "вбивати"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "помилує"
+    }
+  ],
+  "timestamp": "2026-08-24T00:03:53.344623840Z",
+  "model": "glm-5.3"
+}

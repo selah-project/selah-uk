@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 30:12",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Бо так сказав Яхве: невиліковний перелом твій, страшенна рана твоя.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "невиліковний"
+    },
+    {
+      "surface": "לשברך",
+      "gloss": "перелом твій"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "страшенна"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "рана твоя"
+    }
+  ],
+  "timestamp": "2026-08-23T23:31:51.261713844Z",
+  "model": "glm-5.3"
+}

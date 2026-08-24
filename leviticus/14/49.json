@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І візьме, щоб очистити ⟨את⟩ дім, двох птахів, і дерево кедру, і червець, й ісопу.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "і візьме"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "щоб очистити"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дім"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "двох"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "птахів"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "і дерево"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "кедру"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "і червець"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "вошиної"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "й ісопу"
+    }
+  ],
+  "timestamp": "2026-08-23T21:42:19.753905300Z",
+  "model": "glm-5.3"
+}

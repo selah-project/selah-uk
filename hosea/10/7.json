@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Знищений ⟨є⟩ Шомрон — цар його, як піна на поверхні вод.",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "знищений"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомрон"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "цар-її"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "як-піна"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "поверхні"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вод"
+    }
+  ],
+  "timestamp": "2026-08-23T23:58:22.603341295Z",
+  "model": "glm-5.3"
+}

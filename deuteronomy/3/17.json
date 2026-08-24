@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 3:17",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "і Арава, і Ярден, і ⟨the⟩ кордон — від Кіннерет аж до моря Арави, моря Солоного, під схилами Пісґи, на схід сонця.",
+  "tokens": [
+    {
+      "surface": "והערבה",
+      "gloss": "і Арава"
+    },
+    {
+      "surface": "והירדן",
+      "gloss": "і Ярден"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "і кордон"
+    },
+    {
+      "surface": "מכנרת",
+      "gloss": "від Кіннерет"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "ים",
+      "gloss": "море"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Арави"
+    },
+    {
+      "surface": "ים",
+      "gloss": "море"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Солоне"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "схилами"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "Пісґи"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "на схід"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:35.054102319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 20:29",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Прикраса юнаків — сила їхня, а пишність старців — сивина.",
+  "tokens": [
+    {
+      "surface": "תפארת",
+      "gloss": "прикраса"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "юнаків"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "сила їхня"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "а пишність"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "старців"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "сивина"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:31.541602905Z",
+  "model": "glm-5.3"
+}

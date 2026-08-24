@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 28:22",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "і одного козла за гріх, щоб очистити вас.",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "і козла"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "за гріх"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "щоб очистити"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "вас"
+    }
+  ],
+  "timestamp": "2026-08-23T21:57:08.756003767Z",
+  "model": "glm-5.3"
+}

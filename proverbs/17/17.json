@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "У всякий час любить друг, і брат на годину нещастя народжується.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "у всякий"
+    },
+    {
+      "surface": "עת",
+      "gloss": "час"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "любить"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "друг"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "і брат"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "на годину нещастя"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "народжується"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:13.618002036Z",
+  "model": "glm-5.3"
+}

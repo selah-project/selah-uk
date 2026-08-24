@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 4:20",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Сину мій, до слів моїх будь уважний, до приказок моїх нахили вухо своє.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сину"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "до слів"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "будь уважний"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "до приказок"
+    },
+    {
+      "surface": "הט",
+      "gloss": "нахили"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "вухо своє"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:05.332143952Z",
+  "model": "glm-5.3"
+}

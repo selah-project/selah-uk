@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "і Адаю, і Берáю, і Шімрата — синів Шім'ї;",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "і Адаю"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "і Бераю"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "і Шімрата"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шім'ї"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:57.032525198Z",
+  "model": "glm-5.3"
+}

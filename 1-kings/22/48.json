@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 22:48",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "А царя немає в Едомі; заступник ⟨був⟩ царем.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "А царя"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "в Едомі"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "заступник"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    }
+  ],
+  "timestamp": "2026-08-23T22:55:16.620618394Z",
+  "model": "glm-5.3"
+}

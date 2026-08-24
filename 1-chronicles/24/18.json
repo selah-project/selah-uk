@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 24:18",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "для Делаї — двадцять третій, для Маазії — двадцять четвертий.",
+  "tokens": [
+    {
+      "surface": "לדליהו",
+      "gloss": "для Делаї"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "і двадцять"
+    },
+    {
+      "surface": "למעזיהו",
+      "gloss": "для Маазії"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чотири"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "і двадцять"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:30.219977181Z",
+  "model": "glm-5.3"
+}

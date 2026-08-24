@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 78,
+  "translation": "Не пам'ятали ⟨את⟩ руки його, дня, коли визволив їх від ворога,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "пам'ятали"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руки його"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руки його"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коли"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "визволив їх"
+    },
+    {
+      "surface": "מני",
+      "gloss": "від"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ворога"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:11.776091170Z",
+  "model": "glm-5.3"
+}

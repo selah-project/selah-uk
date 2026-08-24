@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 146,
+  "translation": "Той, хто робить небеса і землю, ⟨את⟩ море і ⟨את⟩ все, що в них, — Той, хто береже правду навіки.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "робить"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "і землю"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "море"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "все"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "בם",
+      "gloss": "в них"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Той, хто береже"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "правду"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навіки"
+    }
+  ],
+  "timestamp": "2026-08-24T00:30:46.726367941Z",
+  "model": "glm-5.3"
+}

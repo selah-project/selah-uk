@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 22:36",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "І почув Балак, що прийшов Більам, і вийшов насупроти нього до міста Моава, що на межі Арнону, що на краю ⟨the⟩ межі.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "і почув"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "בא",
+      "gloss": "прийшов"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Більам"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "і вийшов"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "насупроти нього"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "міста"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "межі"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Арнону"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "на краю"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "межі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:56:00.507799843Z",
+  "model": "glm-5.3"
+}

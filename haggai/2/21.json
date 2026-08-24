@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Скажи Зерубавелю, пехі Єгуди, так: Я трясу ⟨את⟩ небеса і ⟨את⟩ землю.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Скажи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Зерубавеля"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "пехі"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "так:"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "трясу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "небеса"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    }
+  ],
+  "timestamp": "2026-08-24T00:06:09.491564651Z",
+  "model": "glm-5.3"
+}

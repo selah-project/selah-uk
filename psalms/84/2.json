@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 84,
+  "translation": "Які любі ⟨тобто⟩ оселі твої, Яхве Цеваот!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "які"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "любі"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "оселі твої"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:31.563552555Z",
+  "model": "glm-5.3"
+}

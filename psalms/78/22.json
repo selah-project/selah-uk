@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 78,
+  "translation": "Бо не вірили в Елогім і не довірилися спасінню ⟨його⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "вірили"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "в Елогім"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "довірилися"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "спасінню ⟨його⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:58.090298781Z",
+  "model": "glm-5.3"
+}

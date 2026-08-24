@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 132,
+  "translation": "Це ⟨є⟩ спочинок Мій повіки і навіки; тут сидітиму, бо Я побажав ⟨її⟩.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Це"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "спочинок Мій"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "повіки"
+    },
+    {
+      "surface": "עד",
+      "gloss": "і навіки"
+    },
+    {
+      "surface": "פה",
+      "gloss": "тут"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "сидітиму"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "побажав ⟨її⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:57.224013102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 3:18",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І я сказав: згинув мій Extraneousצח, і моя надія — від Яхве.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "і я сказав"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "згинув"
+    },
+    {
+      "surface": "נצחי",
+      "gloss": "мій нeцах"
+    },
+    {
+      "surface": "ותוחלתי",
+      "gloss": "і моя надія"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "від Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:54.064002698Z",
+  "model": "glm-5.3"
+}

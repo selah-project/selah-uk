@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "Чекав, я чекав на Яхве, і Він нахилився до мене, і почув мій клич.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Чекав"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "я чекав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "і Він нахилився"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "і почув"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "мій клич"
+    }
+  ],
+  "timestamp": "2026-08-24T00:15:09.410742825Z",
+  "model": "glm-5.3"
+}

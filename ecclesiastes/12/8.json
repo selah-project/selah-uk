@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Марота марот, сказав Когелет, усе — марота.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "марота"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "марот"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "הקוהלет",
+      "gloss": "Когелет"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "марота"
+    }
+  ],
+  "timestamp": "2026-08-24T00:56:04.940539557Z",
+  "model": "glm-5.3"
+}

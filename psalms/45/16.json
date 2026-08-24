@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 45,
+  "translation": "Приведені з радістю і веселом, увійдуть у палац царя.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "приведені"
+    },
+    {
+      "surface": "בשמחות",
+      "gloss": "з радістю"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "і веселом"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "увійдуть"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "у палац"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:05.380475112Z",
+  "model": "glm-5.3"
+}

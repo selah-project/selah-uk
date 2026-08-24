@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 11:7",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "А ці — сини Біньяміна: Саллу, син Мешулама, син Йоеда, син Педаї, син Колаї, син Маасеї, син Ітіеля, син Єшаї.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "а ці"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Біньяміна"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Саллу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешулама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יועד",
+      "gloss": "Йоеда"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "פדיה",
+      "gloss": "Педаї"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "קוליה",
+      "gloss": "Колаї"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "Маасеї"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "איתיאל",
+      "gloss": "Ітіеля"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Єшаї"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:56.607382711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Доки ти говоритимеш оце, і слова твоїх уст — дух могутній?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Доки"
+    },
+    {
+      "surface": "אן",
+      "gloss": "⟨ти⟩"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "говоритимеш"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "оце"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "і дух"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "могутній"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "твоїх уст"
+    }
+  ],
+  "timestamp": "2026-08-24T00:40:23.262303204Z",
+  "model": "glm-5.3"
+}

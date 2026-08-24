@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 148,
+  "translation": "Хваліть Його, небеса небес, і води, що понад небесами!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "хваліть Його"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "і води"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "понад"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесами"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:00.273523073Z",
+  "model": "glm-5.3"
+}

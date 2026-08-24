@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Перед зламом — гордість, і перед падінням — висока руах.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "зламом"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "гордість"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "і перед"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "падінням"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "висока"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:20.648155173Z",
+  "model": "glm-5.3"
+}

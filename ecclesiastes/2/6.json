@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Зробив я собі басейни води, щоб напувати з них ліс, що пророщує дерева.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Зробив"
+    },
+    {
+      "surface": "לי",
+      "gloss": "собі"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "басейни"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "щоб напувати"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "з них"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ліс"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "що пророщує"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "дерева"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:28.593250180Z",
+  "model": "glm-5.3"
+}

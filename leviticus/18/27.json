@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Бо всі ці гидоти робили ⟨את⟩ люди землі, що перед вами, і стала нечистою земля.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усі ці гидоти"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "гидоти"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ці"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "робили"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "люди"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "перед вами"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "і стала нечистою"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    }
+  ],
+  "timestamp": "2026-08-23T21:43:07.582843660Z",
+  "model": "glm-5.3"
+}

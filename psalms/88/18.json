@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 88,
+  "translation": "Оточили мене, як води, цілий день, облягли мене разом.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "оточили мене"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "як води"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цілий"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "облягли"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "наді мною"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "разом"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:42.989717372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Чи їдять ⟨те, що⟩ несмачне, без солі? Чи є смак у соку портулаку?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "чи їдять"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "несмачне"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "солі"
+    },
+    {
+      "surface": "אם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "יש",
+      "gloss": "є"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "смак"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "у соку"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "портулаку"
+    }
+  ],
+  "timestamp": "2026-08-24T00:39:48.787617273Z",
+  "model": "glm-5.3"
+}

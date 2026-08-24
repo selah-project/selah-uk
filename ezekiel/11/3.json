@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Що кажуть: не скоро — будувати доми; вона — казан, а ми — м'ясо.",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "Що кажуть"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "скоро"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "будувати"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "доми"
+    },
+    {
+      "surface": "היא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "казан"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "а ми"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "м'ясо"
+    }
+  ],
+  "timestamp": "2026-08-23T23:43:29.605349408Z",
+  "model": "glm-5.3"
+}

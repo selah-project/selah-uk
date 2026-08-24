@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 92,
+  "translation": "Як величні діла Твої, Яхве! Дуже глибокі ⟨є⟩ думки Твої.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Як"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "величні"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "діла Твої"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "Дуже"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "глибокі"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "думки Твої"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:36.991908899Z",
+  "model": "glm-5.3"
+}

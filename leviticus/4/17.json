@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І вмоче коген свій палець у ⟨את⟩ крові, і покропить сім разів перед Яхве, на обличчя завіси.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "І вмоче"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коген"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "свій палець"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "крові"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "і покропить"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "сім"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "разів"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "обличчя завіси"
+    },
+    {
+      "surface": "פני",
+      "gloss": "обличчя"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "завіси"
+    }
+  ],
+  "timestamp": "2026-08-23T21:39:19.549464165Z",
+  "model": "glm-5.3"
+}

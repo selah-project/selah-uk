@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І сказав адам: жінка, яку ти дав ⟨бути⟩ зо мною, вона дала мені з ⟨את⟩-дерева, і я їв.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жінка"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ти дав"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "зо мною"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "дала"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "дерева"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "і я їв"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:40.537469084Z",
+  "model": "glm-5.3"
+}

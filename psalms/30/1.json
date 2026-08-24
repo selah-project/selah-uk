@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Мізмор, пісня присвячення ⟨ׅthe⟩ дому, Давіда.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "мізмор"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "пісня"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "присвячення"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨the⟩ дому"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давіда"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:12.245445191Z",
+  "model": "glm-5.3"
+}

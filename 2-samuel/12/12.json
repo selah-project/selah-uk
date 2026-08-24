@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Бо ти зробив ⟨את⟩ це діло втаємно, а я зроблю ⟨את⟩ цю річ перед усім Ізраїлем і перед сонцем.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "зробив"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "втаємно"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а я"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "зроблю"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цю річ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "річ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цю"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "перед"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усім"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлем"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "і перед"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцем"
+    }
+  ],
+  "timestamp": "2026-08-24T01:42:37.986830231Z",
+  "model": "glm-5.3"
+}

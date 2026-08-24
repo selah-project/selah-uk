@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 96,
+  "translation": "Бо великий Яхве і хвалений вельми, страшний ⟨Він⟩ над усіма богами!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "і хвалений"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "вельми"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "страшний"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Він⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіма"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богами"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:04.976189276Z",
+  "model": "glm-5.3"
+}

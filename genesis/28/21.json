@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "і повернуся я в мирі до дому батька мого, — і буде Яхве мені за Елогім.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "і повернуся я"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "в мирі"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батька мого"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "і буде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "за Елогім"
+    }
+  ],
+  "timestamp": "2026-08-23T21:16:23.510432652Z",
+  "model": "glm-5.3"
+}

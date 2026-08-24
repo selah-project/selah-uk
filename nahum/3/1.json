@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Горе місту кровей, уся ⟨воно⟩ обману й грабунку повна, здобич не відступає",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Горе"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "місту"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кровей"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "уся"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "обману"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "грабунку"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "повна"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "відступає"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "здобич"
+    }
+  ],
+  "timestamp": "2026-08-24T00:04:33.031565581Z",
+  "model": "glm-5.3"
+}

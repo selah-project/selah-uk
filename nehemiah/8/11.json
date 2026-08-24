@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 8:11",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І левії заспокоювали ввесь народ, кажучи: тихо, бо святий цей день, і не журіться.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "І левії"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "заспокоювали"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ввесь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "הסו",
+      "gloss": "тихо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "היום",
+      "gloss": "цей день"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "святий"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תעצבו",
+      "gloss": "журіться"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:17.836112249Z",
+  "model": "glm-5.3"
+}

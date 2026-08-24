@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Хезіру — сімнадцятому, Гапіцецу — вісімнадцятому",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "Хезіру"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "сім"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надцять"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "Гапіцецу"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "вісім"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надцять"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:18.578051086Z",
+  "model": "glm-5.3"
+}

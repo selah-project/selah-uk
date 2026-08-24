@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Покоління йде, і покоління приходить, а земля повік стоїть.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Покоління"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "іде"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "і покоління"
+    },
+    {
+      "surface": "בא",
+      "gloss": "приходить"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "а земля"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "повік"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "стоїть"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:53.437922164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 48:24",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "і на Керіот, і на Боцру, і на всі міста землі Моава — далекі й близькі",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "קריות",
+      "gloss": "Керіот"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "Боцру"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "міста"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "הרחקות",
+      "gloss": "далекі"
+    },
+    {
+      "surface": "והקרבות",
+      "gloss": "й близькі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:37:41.124187882Z",
+  "model": "glm-5.3"
+}

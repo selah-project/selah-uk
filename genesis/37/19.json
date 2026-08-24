@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "І говорили ⟨вони⟩, чоловік до брата свого: Ось, володар снів цих іде.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "І говорили"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "брата свого"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "володар"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "снів"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "цих"
+    },
+    {
+      "surface": "בא",
+      "gloss": "іде"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:16.679889928Z",
+  "model": "glm-5.3"
+}

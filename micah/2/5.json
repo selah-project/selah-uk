@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Тому не буде тобі кидаючого шнур ⟨у⟩ жеребкуванні, в зібранні Яхве.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "кидаючого"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "шнур"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "⟨у⟩ жеребкуванні"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "в зібранні"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T00:03:23.211234198Z",
+  "model": "glm-5.3"
+}

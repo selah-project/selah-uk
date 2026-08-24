@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Тоді заспівав Ізраїль ⟨את⟩ пісню цю: Кринице, піднімайся! Співайте їй!",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "тоді"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "заспівав"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїль"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пісню"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "пісню"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цю"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "піднімайся"
+    },
+    {
+      "surface": "באר",
+      "gloss": "кринице"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "співайте"
+    },
+    {
+      "surface": "לה",
+      "gloss": "їй"
+    }
+  ],
+  "timestamp": "2026-08-23T21:54:02.339516504Z",
+  "model": "glm-5.3"
+}

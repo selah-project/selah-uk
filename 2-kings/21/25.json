@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 21:25",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "А решта діл Амона, які він учинив, — чи не ⟨вони⟩ написані в книжці днів царів Єгуди?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "решта"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "діл"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Амона"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учинив"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "чи не"
+    },
+    {
+      "surface": "הם",
+      "gloss": "вони"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "написані"
+    },
+    {
+      "surface": "על",
+      "gloss": "в"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "книжці"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "діл"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "царів"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    }
+  ],
+  "timestamp": "2026-08-23T23:02:25.471308450Z",
+  "model": "glm-5.3"
+}

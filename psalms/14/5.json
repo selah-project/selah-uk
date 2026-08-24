@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Там сполошилися страхом, бо Елогім ⟨у⟩ поколінні праведного.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Там"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "сполошилися"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "страхом"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "у поколінні"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведного"
+    }
+  ],
+  "timestamp": "2026-08-24T00:11:24.696263750Z",
+  "model": "glm-5.3"
+}

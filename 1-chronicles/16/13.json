@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 16:13",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Насіння Ізраїля, раба Його, сини Яакова, вибранці Його!",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "насіння"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "раба Його"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "вибранці Його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:25.230353138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І зійшов Яхве, щоб побачити ⟨את⟩ місто і ⟨את⟩ вежу, які збудували сини людські.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "І зійшов"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "щоб побачити"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "місто"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "місто"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "вежу"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "вежу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "збудували"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людські"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:47.357324578Z",
+  "model": "glm-5.3"
+}

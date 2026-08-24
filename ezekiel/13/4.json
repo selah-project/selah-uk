@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 13:4",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Як шакали в руїнах — пророки твої, Ісраелю.",
+  "tokens": [
+    {
+      "surface": "כשעלים",
+      "gloss": "Як шакали"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "в руїнах"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "пророки твої"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраелю"
+    },
+    {
+      "surface": "היו",
+      "gloss": "були"
+    }
+  ],
+  "timestamp": "2026-08-23T23:42:54.237689721Z",
+  "model": "glm-5.3"
+}

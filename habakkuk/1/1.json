@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Тягар, який бачив Хавакук, ⟨the⟩ пророк.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "Тягар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "бачив"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "Хавакук"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророк"
+    }
+  ],
+  "timestamp": "2026-08-24T00:04:40.404504633Z",
+  "model": "glm-5.3"
+}

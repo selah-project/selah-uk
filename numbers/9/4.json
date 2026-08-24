@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І говорив Моше до синів Ісраейля, щоб вчинили Песах.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "І говорив"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраейля"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "щоб вчинили"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Песах"
+    }
+  ],
+  "timestamp": "2026-08-23T21:51:08.807667627Z",
+  "model": "glm-5.3"
+}

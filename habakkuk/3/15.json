@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Топтав ти морем коней твоїх, кучаву багатьох вод.",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "Топтав ти"
+    },
+    {
+      "surface": "בים",
+      "gloss": "морем"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "коней твоїх"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "кучаву"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вод"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "багатьох"
+    }
+  ],
+  "timestamp": "2026-08-24T00:05:49.493581320Z",
+  "model": "glm-5.3"
+}

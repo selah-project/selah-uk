@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 13:17",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "бо слово ⟨було⟩ до мене словом Яхве: не їж хліба, і не пий там води, не вертайся йти дорогою, якою ти ходив.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "словом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "їж"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хліба"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "пий"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "вертайся"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "йти"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "дорогою"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "якою"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "ти ходив"
+    },
+    {
+      "surface": "בה",
+      "gloss": "нею"
+    }
+  ],
+  "timestamp": "2026-08-23T22:50:58.699902902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "ezra 10:43",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Зі синів Нево: Єїел, Матат'я, Завад, Зевіна, Їдо, і Йоел, Бнаягу.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "зі синів"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Нево"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Єїел"
+    },
+    {
+      "surface": "מתתיה",
+      "gloss": "Матат'я"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Завад"
+    },
+    {
+      "surface": "זבינא",
+      "gloss": "Зевіна"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "Їдо"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "і Йоел"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "Бнаягу"
+    }
+  ],
+  "timestamp": "2026-08-24T01:07:14.920264160Z",
+  "model": "glm-5.3"
+}

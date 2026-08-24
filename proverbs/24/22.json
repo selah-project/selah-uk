@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 24:22",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Бо несподівано постане лихо їхнє, а погибіль обох їх — хто знає ⟨її⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "несподівано"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "постане"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "лихо їхнє"
+    },
+    {
+      "surface": "ופיד",
+      "gloss": "а погибіль"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "обох їх"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знає"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:15.613119013Z",
+  "model": "glm-5.3"
+}

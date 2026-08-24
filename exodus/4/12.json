@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "А тепер іди — і Я буду з твоїми устами, і навчу тебе, що ⟨ти⟩ скажеш.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "А тепер"
+    },
+    {
+      "surface": "לך",
+      "gloss": "іди"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "і Я"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "буду"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "твоїми устами"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "і навчу тебе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "скажеш"
+    }
+  ],
+  "timestamp": "2026-08-24T01:36:59.134524214Z",
+  "model": "glm-5.3"
+}

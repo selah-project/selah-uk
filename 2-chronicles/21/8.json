@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 21:8",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "За днів його відпав Едом з-під руки Єгуди, і поставили над собою царя.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "за днів його"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "відпав"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "з-під"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руки"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "і поставили царем"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над ними"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-08-24T01:28:41.712484816Z",
+  "model": "glm-5.3"
+}

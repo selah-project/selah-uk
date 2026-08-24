@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "І це тобі знак від ⟨את⟩ Яхве, що вчинить Яхве ⟨את⟩ слово це, яке Він говорив.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "і це"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "האות",
+      "gloss": "знак"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "від ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "вчинить"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слово це"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "це"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорив"
+    }
+  ],
+  "timestamp": "2026-08-23T23:13:24.557801524Z",
+  "model": "glm-5.3"
+}

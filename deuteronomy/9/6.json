@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 9:6",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І знатимеш, що не за праведність твою Яхве, Елогім твій, дає тобі ⟨את⟩ цю добру землю у спадок, бо народ твердошиїй ти ⟨є⟩.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "І знатимеш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "за праведність твою"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елогім твій"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дає"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "добру"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цю"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "у спадок"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "твердо"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "шиїйний"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-08-23T22:02:42.638306472Z",
+  "model": "glm-5.3"
+}

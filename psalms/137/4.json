@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 137,
+  "translation": "Як співати ⟨את⟩ пісню Яхве на землі чужинецькій?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Як"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "співати"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пісню Яхве"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "пісню"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "землі"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "чужинецькій"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:44.247684250Z",
+  "model": "glm-5.3"
+}

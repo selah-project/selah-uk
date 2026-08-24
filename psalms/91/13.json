@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 91,
+  "translation": "На лева й гадюку наступиш, топтатимеш молодого лева й змія.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "лева"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "й гадюку"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "наступиш"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "топтатимеш"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "молодого лева"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "й змія"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:47.877501568Z",
+  "model": "glm-5.3"
+}

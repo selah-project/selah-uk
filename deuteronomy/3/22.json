@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Не бійтеся їх, бо Яхве, Елогім ваш, — ⟨він⟩ Той, Хто воює за вас.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "бійтеся їх"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елогім ваш"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨він⟩ Той"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "Хто воює"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:07.681134405Z",
+  "model": "glm-5.3"
+}

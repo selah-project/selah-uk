@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Міцраїму простягли ми руку, Ашшуру — щоб насититися хлібом.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїму"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "простягли"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руку"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшуру"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "щоб насититися"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлібом"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:07.886383191Z",
+  "model": "glm-5.3"
+}

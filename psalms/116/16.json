@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 116,
+  "translation": "О Яхве, бо я — раб Твій, я — раб Твій, син неволі Твоєї; Ти розв'язав кайдани мої.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "О"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "раб Твій"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "раб Твій"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "неволі Твоєї"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "розв'язав"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "кайдани мої"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:16.848041383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Раби панують над нами, немає визволителя з рук їхніх.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "Раби"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "панують"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "над нами"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "визволителя"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "з рук їхніх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:07.886668558Z",
+  "model": "glm-5.3"
+}

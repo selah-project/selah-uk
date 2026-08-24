@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 30:15",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "і виллю я лютість свою на Сін, твердиню Міцраїму, і винищу я ⟨את⟩ юрбу Но.",
+  "tokens": [
+    {
+      "surface": "ושפכתי",
+      "gloss": "і виллю я"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "лютість свою"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Сін"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "твердиню"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїму"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "і винищу я"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "юрбу Но"
+    },
+    {
+      "surface": "המון",
+      "gloss": "юрбу"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Но"
+    }
+  ],
+  "timestamp": "2026-08-23T23:49:27.750657231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Бо тупішийший за людину я, і розум людський не ⟨маю⟩ я:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "בער",
+      "gloss": "тупіший"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "за людину"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "розум"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людський"
+    },
+    {
+      "surface": "לי",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:35.726573163Z",
+  "model": "glm-5.3"
+}

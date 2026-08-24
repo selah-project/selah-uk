@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І відповів Ійов, і сказав:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "І відповів"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ійов"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    }
+  ],
+  "timestamp": "2026-08-24T00:39:16.874053213Z",
+  "model": "glm-5.3"
+}

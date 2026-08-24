@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "Чи має дощ батька, або хто породив крапли роси?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "Чи має"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "дощ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "батька"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "крапли"
+    },
+    {
+      "surface": "טל",
+      "gloss": "роси"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:14.590671133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Не візьмеш собі жінки, і не будуть тобі сини й дочки в цьому місці.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "візьмеш"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жінки"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "будуть"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "й дочки"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "в місці"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цьому"
+    }
+  ],
+  "timestamp": "2026-08-23T23:27:25.611905224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Хто не знає серед усіх цих, що рука Яхве зробила це?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знає"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "серед усіх"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "цих"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "зробила"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    }
+  ],
+  "timestamp": "2026-08-24T00:41:10.513435994Z",
+  "model": "glm-5.3"
+}

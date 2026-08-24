@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І десяту ефу на одне ягня, на сім тих ягнят.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "І десяту ефу"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одну"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "на ягня"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "одне"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "на сім"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ягнят"
+    }
+  ],
+  "timestamp": "2026-08-23T21:56:45.289087548Z",
+  "model": "glm-5.3"
+}

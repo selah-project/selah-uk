@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Кара лиха ⟨спіткає⟩ того, хто лишає шлях, ненавидник докору помре.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "кара"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лиха"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "того, хто лишає"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "шлях"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ненавидник"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "докору"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "помре"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:35.364518850Z",
+  "model": "glm-5.3"
+}

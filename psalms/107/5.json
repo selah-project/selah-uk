@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 107,
+  "translation": "Голодні й спраглі, їхня нефеш у них слабне.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Голодні"
+    },
+    {
+      "surface": "גם",
+      "gloss": "й"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "спраглі"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "їхня нефеш"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "у них"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "слабне"
+    }
+  ],
+  "timestamp": "2026-08-24T01:53:29.643390887Z",
+  "model": "glm-5.3"
+}

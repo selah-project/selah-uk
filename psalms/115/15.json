@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 115,
+  "translation": "Благословенні ви для Яхве, Творця небес і землі.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "Благословенні"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "для Яхве"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Творця"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "і землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:08.733459606Z",
+  "model": "glm-5.3"
+}

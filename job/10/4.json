@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Хіба очі тіла в Тебе? Чи як бачить смертний, Ти бачиш?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "хіба очі"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тіла"
+    },
+    {
+      "surface": "לך",
+      "gloss": "в Тебе"
+    },
+    {
+      "surface": "אם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "як бачить"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "смертний"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "Ти бачиш"
+    }
+  ],
+  "timestamp": "2026-08-24T00:41:49.373952730Z",
+  "model": "glm-5.3"
+}

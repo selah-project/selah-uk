@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 15:25",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Дім пихатих висмикує Яхве, а межу вдови вкорінює.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "пихатих"
+    },
+    {
+      "surface": "יסח",
+      "gloss": "висмикує"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "а вкорінює"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "межу"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "вдови"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:35.850916835Z",
+  "model": "glm-5.3"
+}

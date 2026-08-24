@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 23:26",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Дай, сину мій, своє серце мені, і твої очі хай оберігають мої шляхи.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "дай"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сину мій"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "своє серце"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "і твої очі"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "мої шляхи"
+    },
+    {
+      "surface": "תרצנה",
+      "gloss": "хай оберігають"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:32.163650865Z",
+  "model": "glm-5.3"
+}

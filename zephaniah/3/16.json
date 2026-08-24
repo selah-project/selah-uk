@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "У день той скажуть Єрушалаїму: не бійся, Ційоне, нехай не слабнуть руки твої!",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "У день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "скажуть"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Єрушалаїму"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "бійся"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ційоне"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "нехай не слабнуть"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "руки твої"
+    }
+  ],
+  "timestamp": "2026-08-24T00:06:09.347363462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 49,
+  "translation": "Бо не в смерті своїй забере він усе, не зійде слава його за ним.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "в смерті своїй"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "забере"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "зійде"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "за ним"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "слава його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:46.605327532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "і сказав: не, прошу, брати мої, не чиніть зла.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брати мої"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "не чиніть зла"
+    }
+  ],
+  "timestamp": "2026-08-24T01:36:13.262977769Z",
+  "model": "glm-5.3"
+}

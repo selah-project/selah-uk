@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 44,
+  "translation": "І сказав наш батько: Верніться, купіть нам трохи їжі.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "наш батько"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Верніться"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "купіть"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "трохи"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "їжі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:22:58.509430087Z",
+  "model": "glm-5.3"
+}

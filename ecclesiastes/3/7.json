@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Час рвати, і час шити; час мовчати, і час говорити.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "час"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "рвати"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "і час"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "шити"
+    },
+    {
+      "surface": "עת",
+      "gloss": "час"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "мовчати"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "і час"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "говорити"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:13.215549967Z",
+  "model": "glm-5.3"
+}

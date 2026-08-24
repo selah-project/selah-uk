@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "І при кордоні Реувена, від краю східного аж до краю західного, Єгуда — один ⟨облиш⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "і при"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "кордоні"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувена"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "від краю"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "східного"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "краю"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "західного"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуда"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-23T23:55:48.448284917Z",
+  "model": "glm-5.3"
+}

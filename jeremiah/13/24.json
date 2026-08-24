@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 13:24",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І розпорошу їх, мов солому, що минає, вітром пустелі.",
+  "tokens": [
+    {
+      "surface": "ואפיצם",
+      "gloss": "і розпорошу їх"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "мов солому"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "що минає"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "вітром"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "пустелі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:27:01.312983334Z",
+  "model": "glm-5.3"
+}

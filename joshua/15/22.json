@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "і Кіна, і Дімона, і Адада.",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "і Кіна"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "і Дімона"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "і Адада"
+    }
+  ],
+  "timestamp": "2026-08-23T22:15:42.380915875Z",
+  "model": "glm-5.3"
+}

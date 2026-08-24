@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "А ⟨את⟩ поле міста й ⟨את⟩ його подвір'я вони віддали Калеву, сину Йефуне.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "поле"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "поле"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "міста"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "його подвір'я"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "його подвір'я"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "вони віддали"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Калеву"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сину"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Йефуне"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:10.670647199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 91,
+  "translation": "Не спіткає тебе лихо, і пошесть не наблизиться до намету твого.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "спіткає"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "лихо"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "і пошесть"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "наблизиться"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "до намету твого"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:45.053536038Z",
+  "model": "glm-5.3"
+}

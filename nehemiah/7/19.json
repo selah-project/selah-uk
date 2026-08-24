@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Сини Бігваю: дві тисячі шістдесят і сім.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "Бігваю"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "дві тисячі"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "шістдесят"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "і сім"
+    }
+  ],
+  "timestamp": "2026-08-24T01:09:38.757063288Z",
+  "model": "glm-5.3"
+}

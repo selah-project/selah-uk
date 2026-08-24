@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Іди, їж у радості хліб твій і пий у доброму серці вино твоє, бо вже вподобав Елогім ⟨את⟩ діла твої.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "іди"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "їж"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "у радості"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "хліб твій"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "і пий"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "у серці"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "доброму"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "вино твоє"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "вже"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "вподобав"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "діла твої"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "діла твої"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:44.356228222Z",
+  "model": "glm-5.3"
+}

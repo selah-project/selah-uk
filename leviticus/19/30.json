@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "⟨את⟩ Суботи Мої стережіть, і ⟨את⟩ святиню Мою шануйте: Я — Яхве.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Суботи Мої"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Суботи Мої"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "стережіть"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "і святиню Мою"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "шануйте (бійтеся)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:44:49.841344581Z",
+  "model": "glm-5.3"
+}

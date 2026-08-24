@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 8:6",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "А ⟨це⟩ сини Ехуда — вони ⟨є⟩ голови батьківських родів для мешканців Ґеваї, і вивели їх до Манахату.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "а ці"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "אחוד",
+      "gloss": "Ехуда"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "הם",
+      "gloss": "вони"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "голови"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "батьків"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "для мешканців"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Ґеваї"
+    },
+    {
+      "surface": "ויגלום",
+      "gloss": "і вивели їх"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "Манахату"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:27.539958023Z",
+  "model": "glm-5.3"
+}

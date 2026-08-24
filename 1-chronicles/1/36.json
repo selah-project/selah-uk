@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Сини Еліфаза: Теман, і Омар, Цфі, і Гаам, Кназ, і Тімна, і Амалек.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Еліфаза"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Теман"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "і Омар"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "Цфі"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "і Гаам"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Кназ"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "і Тімна"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "і Амалек"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:08.994072712Z",
+  "model": "glm-5.3"
+}

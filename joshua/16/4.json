@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 16:4",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І вспадкували сини Йосефа — Менаше та Ефраїм.",
+  "tokens": [
+    {
+      "surface": "וינחלו",
+      "gloss": "І вспадкували"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефа"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "та Ефраїм"
+    }
+  ],
+  "timestamp": "2026-08-23T22:15:40.014516445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "А Шупім і Хупім — сини Їра; Хушім — сини Ахера.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "А Шупім"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "і Хупім"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Їра"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Хушім"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "Ахера"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:11.048840430Z",
+  "model": "glm-5.3"
+}

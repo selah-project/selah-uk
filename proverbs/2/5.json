@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Тоді зрозумієш страх Яхве, і пізнання Елогім знайдеш.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "тоді"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "зрозумієш"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "і пізнання"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "знайдеш"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:53.358668942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 35:17",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "І сталося, коли їй тяжко було родити, повитуха сказала їй: не бійся, бо й це тобі син.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "בהקשתה",
+      "gloss": "коли їй тяжко було"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "родити"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "сказала"
+    },
+    {
+      "surface": "לה",
+      "gloss": "їй"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "повитуха"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "бійся"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "גם",
+      "gloss": "й"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:23.716266337Z",
+  "model": "glm-5.3"
+}

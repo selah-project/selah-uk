@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 39:29",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 39,
+  "translation": "І не сховаю більш обличчя мого від них, бо вилив я ⟨את⟩ духа мого на дім Ізраїля, — оракул Адная Яхве.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "אסתיר",
+      "gloss": "сховаю"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "більш"
+    },
+    {
+      "surface": "פני",
+      "gloss": "обличчя"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "від них"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "бо"
+    },
+    {
+      "surface": "שפכתי",
+      "gloss": "вилив я"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "духа мого"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "духа мого"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "оракул"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адная"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:53:02.577797852Z",
+  "model": "glm-5.3"
+}

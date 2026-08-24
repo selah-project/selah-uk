@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "цар Кедеша, один; цар Йокнеаму на ⟨ה⟩ Кармелі, один;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кедеша"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Йокнеаму"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "на Кармелі"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-24T01:39:51.886781063Z",
+  "model": "glm-5.3"
+}

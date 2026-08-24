@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 9:11",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Бо мною помножаться дні твої, і додадуться тобі роки життя.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мною"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "помножаться"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "дні твої"
+    },
+    {
+      "surface": "ויוסיפו",
+      "gloss": "і додадуться"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "роки"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "життя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:20.554913741Z",
+  "model": "glm-5.3"
+}

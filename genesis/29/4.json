@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І сказав їм Яаков: брати мої, звідки ви? І сказали: ми з Харану.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брати мої"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "звідки"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "І сказали"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "з Харану"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ми"
+    }
+  ],
+  "timestamp": "2026-08-23T21:16:22.415099303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 84,
+  "translation": "Ходять від сили до сили, з'явиться ⟨він⟩ перед Елогім у Ціоні.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "ходять"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "від сили"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "сили"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "з'явиться"
+    },
+    {
+      "surface": "אל",
+      "gloss": "перед"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "у Ціоні"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:39.409560812Z",
+  "model": "glm-5.3"
+}

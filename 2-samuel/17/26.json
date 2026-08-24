@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 17:26",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І таборився Ізраїль, і Авшалом, у землі Ґілеаді.",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "І таборився"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїль"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "і Авшалом"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "у землі"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Ґілеаді"
+    }
+  ],
+  "timestamp": "2026-08-23T22:41:57.492486878Z",
+  "model": "glm-5.3"
+}

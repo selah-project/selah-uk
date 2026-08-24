@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Бо Яхве буде ⟨в⟩ твоїй надії, і ⟨Він⟩ збереже ногу твою від пастки.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "у твоїй надії"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "і збереже"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ногу твою"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "від пастки"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:21.699981416Z",
+  "model": "glm-5.3"
+}

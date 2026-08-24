@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 1:48",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І вмер Самла, і зацарював замість нього Шауль з Реховот ⟨на⟩ річки.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "І вмер"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Самла"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "і зацарював"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "замість нього"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шауль"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "з Реховот"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "річки"
+    }
+  ],
+  "timestamp": "2026-08-24T01:58:17.234852166Z",
+  "model": "glm-5.3"
+}

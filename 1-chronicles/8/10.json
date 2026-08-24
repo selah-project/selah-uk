@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І ⟨את⟩ Єуца, і ⟨את⟩ Шахію, і ⟨את⟩ Мірму. Це — сини його, голови батьківських домів.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Єуца"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Єуц"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Шахію"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Шахія"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Мірму"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Мірма"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "сини його"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "голови"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "батьківських домів"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:49.082371222Z",
+  "model": "glm-5.3"
+}

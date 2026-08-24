@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "І стали вони гіркістю духу для Їцхака та для Рівки.",
+  "tokens": [
+    {
+      "surface": "ותהיין",
+      "gloss": "і стали"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "гіркістю"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "духу"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "для Їцхака"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "та для Рівки"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:19.348756724Z",
+  "model": "glm-5.3"
+}

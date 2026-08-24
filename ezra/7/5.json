@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "син Авішуа, син Пінхаса, син Елазара, син Агарона, ⟨the⟩ когена, ⟨the⟩ голову.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Авішуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пінхаса"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Елазара"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарона"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коген"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "голови"
+    }
+  ],
+  "timestamp": "2026-08-24T01:05:36.843681538Z",
+  "model": "glm-5.3"
+}

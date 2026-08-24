@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Бо гніт робить мудрого шаленим, і хабар нищить ⟨את⟩ серце.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "гніт"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "робить шаленим"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрого"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "і нищить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "серце"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "хабар"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:13.828153704Z",
+  "model": "glm-5.3"
+}

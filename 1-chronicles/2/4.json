@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "А Тамар, невістка його, народила йому ⟨את⟩ Переца і ⟨את⟩ Зераха; усіх синів Єгуди — п'ятеро.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "А Тамар"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "невістка його"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "народила"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Переца"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перец"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Зераха"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіх"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "п'ятеро"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:29.193279864Z",
+  "model": "glm-5.3"
+}

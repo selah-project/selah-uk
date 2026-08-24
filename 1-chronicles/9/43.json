@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 9:43",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І Моца породив ⟨את⟩ Біну; і Рефая — син його, Елеаса — син його, Ацел — син його.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "І Моца"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Біну"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "Біну"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "і Рефая"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Елеаса"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "Ацел"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:33.440095422Z",
+  "model": "glm-5.3"
+}

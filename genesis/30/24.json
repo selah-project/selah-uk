@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "І назвала ⟨את⟩ ім'я його Йосеф, кажучи: нехай додасть Яхве мені ще сина іншого.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "І назвала"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ім'я його"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ім'я його"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "нехай додасть"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "іншого"
+    }
+  ],
+  "timestamp": "2026-08-23T21:16:58.623947600Z",
+  "model": "glm-5.3"
+}

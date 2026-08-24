@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Для Ісахара — Нетанієль, син Цуара.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "Для Ісахара"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетанієль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Цуара"
+    }
+  ],
+  "timestamp": "2026-08-23T21:47:06.669496967Z",
+  "model": "glm-5.3"
+}

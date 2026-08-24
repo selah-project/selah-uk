@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Марнота марнот, — сказав Когелет, — марнота марнот, усе ⟨є⟩ марнота.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Марнота"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "марнот"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Когелет"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "марнота"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "марнот"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "марнота"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:53.437653679Z",
+  "model": "glm-5.3"
+}

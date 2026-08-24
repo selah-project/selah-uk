@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "Східним вітром Ти розбиваєш кораблі Таршишу.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "вітром"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "Східним"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "розбиваєш"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "кораблі"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Таршишу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:30.376764747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І для цараат одягу, і для дому,",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "і для цараат"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "одягу"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "і для дому"
+    }
+  ],
+  "timestamp": "2026-08-23T21:42:10.396012994Z",
+  "model": "glm-5.3"
+}

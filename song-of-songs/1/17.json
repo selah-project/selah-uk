@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "song-of-songs 1:17",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Балки домів наших — кедри, панелі наші — кипариси.",
+  "tokens": [
+    {
+      "surface": "קרות",
+      "gloss": "Балки"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "домів наших"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "кедри"
+    },
+    {
+      "surface": "רחיטנו",
+      "gloss": "панелі наші"
+    },
+    {
+      "surface": "ברותים",
+      "gloss": "кипариси"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:40.796731173Z",
+  "model": "glm-5.3"
+}

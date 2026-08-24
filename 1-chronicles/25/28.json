@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 25:28",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "На двадцять перший — Готіру, синів його і братів його, дванадцять.",
+  "tokens": [
+    {
+      "surface": "לאחד",
+      "gloss": "на один"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "і двадцять"
+    },
+    {
+      "surface": "להותיר",
+      "gloss": "Готіру"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синів його"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "і братів його"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надцять"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:29.537115982Z",
+  "model": "glm-5.3"
+}

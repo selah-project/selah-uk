@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 8:8",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І сказав мені: сину людський, прокопи ж у стіні; і я прокопав у стіні — і ось один отвір.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і-сказав"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до-мене"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сину"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людський"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "прокопи"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ж"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "у-стіні"
+    },
+    {
+      "surface": "ואחתר",
+      "gloss": "і-я-прокопав"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "у-стіні"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "і-ось"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "отвір"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-23T23:41:55.859994841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І не було води для громади, і зібралися проти Моше та проти Агарона.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "І не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "було"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "для громади"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "і зібралися"
+    },
+    {
+      "surface": "על",
+      "gloss": "проти"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "та проти"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарона"
+    }
+  ],
+  "timestamp": "2026-08-23T21:54:55.277816376Z",
+  "model": "glm-5.3"
+}

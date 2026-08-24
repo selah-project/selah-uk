@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 18:21",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Такі-от ⟨це⟩ оселі безбожника, і це ⟨є⟩ місце того, хто Еля не знає.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Такі-от"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "оселі"
+    },
+    {
+      "surface": "עול",
+      "gloss": "безбожника"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "і це"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "місце"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знає"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Еля"
+    }
+  ],
+  "timestamp": "2026-08-24T00:42:48.000858718Z",
+  "model": "glm-5.3"
+}

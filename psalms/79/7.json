@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 79,
+  "translation": "Бо з'їли ⟨את⟩ Яакова, а ⟨את⟩ оселю його спустошили.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "з'їли"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яакова"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "оселю його"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "оселю його"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "спустошили"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:28.502574223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Тому назвав він те місце Беер-Шева, бо там присягли обидва вони.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "назвав"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "місцю"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тому"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беер"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "присягли"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "обидва вони"
+    }
+  ],
+  "timestamp": "2026-08-23T21:13:45.324698289Z",
+  "model": "glm-5.3"
+}

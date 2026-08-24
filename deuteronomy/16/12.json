@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І згадаєш, що рабом був ти в Єгипті, і стерегтимеш, і виконаєш ⟨את⟩ оці настанови.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "і згадаєш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "рабом"
+    },
+    {
+      "surface": "היית",
+      "gloss": "був"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "в Єгипті"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "і стерегтимеш"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "і виконаєш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оці настанови"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "настанови"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "оці"
+    }
+  ],
+  "timestamp": "2026-08-23T22:04:39.173765139Z",
+  "model": "glm-5.3"
+}

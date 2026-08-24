@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Досить вам обходити ⟨את⟩ цю гору — зверніть собі на північ.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Досить"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "סב",
+      "gloss": "обходити"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цю гору"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цю"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "зверніть"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "собі"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "на північ"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:20.263342749Z",
+  "model": "glm-5.3"
+}

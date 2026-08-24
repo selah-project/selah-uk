@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "Парас, Куш і Пут ⟨את⟩-з ними, усі вони зі щитом і шоломом.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Парас"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "і Пут"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ з ними"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "усі вони"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "щитом"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "і шоломом"
+    }
+  ],
+  "timestamp": "2026-08-23T23:52:04.582254416Z",
+  "model": "glm-5.3"
+}

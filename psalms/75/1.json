@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 75,
+  "translation": "Керівникові музикою. «Не знищуй». Мізмор Асафа. Пісня.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові музикою"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "знищуй"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Мізмор"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафа"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Пісня"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:32.415877169Z",
+  "model": "glm-5.3"
+}

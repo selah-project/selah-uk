@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 86,
+  "translation": "Змилуйся наді мною, Адонай, бо до тебе я кличу ввесь день.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Змилуйся наді мною"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "до тебе"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "я кличу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ввесь"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:50.425949430Z",
+  "model": "glm-5.3"
+}

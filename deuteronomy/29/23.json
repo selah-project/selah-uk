@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І скажуть усі народи: за що вчинив Яхве так землі цій? Що ⟨означає⟩ палаюча лютість гніву великого цього?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "і скажуть"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "вчинив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "так"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цій"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "палаюча лютість"
+    },
+    {
+      "surface": "האף",
+      "gloss": "гніву"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "великого"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цього"
+    }
+  ],
+  "timestamp": "2026-08-23T22:08:50.972820393Z",
+  "model": "glm-5.3"
+}

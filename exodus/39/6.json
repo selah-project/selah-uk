@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 39,
+  "translation": "І зробили ⟨את⟩ каменi шоам, обведенi, в оправах золота, виgraving…",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "і зробили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "каменi шоам"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "каменi"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "шоам"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "обведенi"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "в оправах"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золота"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "вирiзанi"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "вирiзьби"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "печатки"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "iмена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синiв"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iсраеля"
+    }
+  ],
+  "timestamp": "2026-08-23T21:37:28.920230082Z",
+  "model": "glm-5.3"
+}

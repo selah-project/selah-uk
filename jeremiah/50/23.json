@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 50:23",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 50,
+  "translation": "Як відтятий і розбитий молот — уся ⟨та⟩ земля! Як стала руїною Бавель серед народів!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "як"
+    },
+    {
+      "surface": "נגדע",
+      "gloss": "відтятого"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "і розбитого"
+    },
+    {
+      "surface": "פטיש",
+      "gloss": "молот"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "איך",
+      "gloss": "як"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "стала"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "руїною"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бавель"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "серед народів"
+    }
+  ],
+  "timestamp": "2026-08-23T23:38:06.418892147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 4:15",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Бо голос сповіщає від Дану, і проголошує нещастя з гори Ефраїмової.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "сповіщає"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "від Дану"
+    },
+    {
+      "surface": "ומשמיע",
+      "gloss": "і проголошує"
+    },
+    {
+      "surface": "און",
+      "gloss": "нещастя"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "з гори"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраїмової"
+    }
+  ],
+  "timestamp": "2026-08-23T23:24:02.832529485Z",
+  "model": "glm-5.3"
+}

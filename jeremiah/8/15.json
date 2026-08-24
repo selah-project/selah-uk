@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Чекали миру — і нема добра; часу зцілення — і ось жах.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "чекали"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "миру"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "і нема"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "часу"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "зцілення"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "і ось"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "жах"
+    }
+  ],
+  "timestamp": "2026-08-23T23:26:29.168869185Z",
+  "model": "glm-5.3"
+}

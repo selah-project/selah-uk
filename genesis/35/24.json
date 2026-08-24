@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "Сини Рахелі: Йосеф і Біньямін.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахелі"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "і Біньямін"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:35.694365060Z",
+  "model": "glm-5.3"
+}

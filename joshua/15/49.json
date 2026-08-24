@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "і Данна, і Кір'ят-Санна — вона ⟨є⟩ Двір:",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "і Данна"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "і Кір'ят"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "-Санна"
+    },
+    {
+      "surface": "היא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Двір"
+    }
+  ],
+  "timestamp": "2026-08-23T22:15:35.860659088Z",
+  "model": "glm-5.3"
+}

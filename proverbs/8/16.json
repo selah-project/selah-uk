@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 8:16",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Мною князі володіють, і шляхетні, усі судді правоти.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "мною"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "князі"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "володіють"
+    },
+    {
+      "surface": "ונדיבים",
+      "gloss": "і шляхетні"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "судді"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правоти"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:35.676780408Z",
+  "model": "glm-5.3"
+}

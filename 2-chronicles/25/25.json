@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 25:25",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І жив Амацьягу, син Йоаша, царя Єгуди, по смерті Йоаша, сина Єгояхаза, царя Їсраелю, п'ятнадцять років.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "і жив"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Амацьягу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаша"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерті"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаша"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Єгояхаза"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраелю"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "п'ять"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-надцять"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    }
+  ],
+  "timestamp": "2026-08-24T01:59:11.517975349Z",
+  "model": "glm-5.3"
+}

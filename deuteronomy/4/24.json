@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Бо Яхве, твій Елогім, — огонь, що пожирає, Ель ревнивий.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твій Елогім"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огонь"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "що пожирає"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨це⟩ Він"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ревнивий"
+    }
+  ],
+  "timestamp": "2026-08-23T22:01:34.460856435Z",
+  "model": "glm-5.3"
+}

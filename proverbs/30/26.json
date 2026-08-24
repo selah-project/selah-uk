@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 30:26",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Гірські зайці — народ не могутній, та влаштовують у скелі дім свій.",
+  "tokens": [
+    {
+      "surface": "שפנים",
+      "gloss": "гірські зайці"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "могутній"
+    },
+    {
+      "surface": "וישימу",
+      "gloss": "та влаштовують"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "у скелі"
+    },
+    {
+      "surface": "ביתם",
+      "gloss": "дім свій"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:53.572431177Z",
+  "model": "glm-5.3"
+}

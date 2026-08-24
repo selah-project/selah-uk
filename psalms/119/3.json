@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Також не чинили кривди — Його дорогами ходили.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Також"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "чинили"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "кривди"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "Його дорогами"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ходили"
+    }
+  ],
+  "timestamp": "2026-08-24T01:53:59.992177266Z",
+  "model": "glm-5.3"
+}

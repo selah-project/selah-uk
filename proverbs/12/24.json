@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Рука працьовитих панує, а лінощі будуть на данину.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "працьовитих"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "панує"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "а лінощі"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "будуть"
+    },
+    {
+      "surface": "למס",
+      "gloss": "на данину"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:54.321287557Z",
+  "model": "glm-5.3"
+}

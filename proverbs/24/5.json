@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Мужній ⟨в⟩ силі мудрий, і муж знання зміцнює силу.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "мужній"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрий"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "у силі"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "і муж"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знання"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "зміцнює"
+    },
+    {
+      "surface": "כח",
+      "gloss": "силу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:06.562455705Z",
+  "model": "glm-5.3"
+}

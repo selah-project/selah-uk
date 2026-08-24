@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Того часу цар Ахаз послав до царів Ашшуру ⟨на⟩ поміч собі.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Того часу"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "тієї"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "послав"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    },
+    {
+      "surface": "על",
+      "gloss": "до"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царів"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшуру"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "на поміч"
+    },
+    {
+      "surface": "לו",
+      "gloss": "собі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:31:22.757913655Z",
+  "model": "glm-5.3"
+}

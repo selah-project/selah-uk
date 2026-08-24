@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Чому коліна зустріли мене, і чому груди — що я ссав?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "чому"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "зустріли мене"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "коліна"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "і чому"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "груди"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "я ссав"
+    }
+  ],
+  "timestamp": "2026-08-24T00:39:18.346260892Z",
+  "model": "glm-5.3"
+}

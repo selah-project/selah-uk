@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 3:21",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І далі являвся Яхве в Шіло, бо відкрився Яхве Шемуелю в Шіло словом Яхве.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "І далі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "להראה",
+      "gloss": "являвся"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "в Шіло"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "відкрився"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Шемуелю"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуель"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "в Шіло"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "словом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T22:27:26.025963034Z",
+  "model": "glm-5.3"
+}

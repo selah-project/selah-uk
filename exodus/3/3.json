@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І сказав Моше: зверну ж і побачу ⟨את⟩ це велике видіння — чому кущ не згорає?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "зверну"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ж"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "і побачу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "видіння"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "видіння"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "велике"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "це"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "чому"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "згорає"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "кущ"
+    }
+  ],
+  "timestamp": "2026-08-23T21:25:15.624875269Z",
+  "model": "glm-5.3"
+}

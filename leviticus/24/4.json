@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "На світильнику чистому впорядкує ⟨את⟩ світильники перед Яхве постійно.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "На"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "світильнику"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "чистому"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "впорядкує"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "світильники"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "світильники"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "постійно"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:19.661171648Z",
+  "model": "glm-5.3"
+}

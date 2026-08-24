@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Того дня прийшло число вбитих у Шушані-цитаделі перед царя",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "того дня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тому"
+    },
+    {
+      "surface": "בא",
+      "gloss": "прийшло"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "число"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "вбитих"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "у Шушані"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "цитаделі"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царем"
+    }
+  ],
+  "timestamp": "2026-08-24T00:57:18.437666183Z",
+  "model": "glm-5.3"
+}

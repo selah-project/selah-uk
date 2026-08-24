@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 15:17",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Краща страва з овочів і любов там, ніж відгодований віл і ненависть з ним.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "краща"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "страва"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "з овочів"
+    },
+    {
+      "surface": "ואהבה",
+      "gloss": "і любов"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ніж віл"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "відгодований"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "і ненависть"
+    },
+    {
+      "surface": "בו",
+      "gloss": "з ним"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:35.366774208Z",
+  "model": "glm-5.3"
+}

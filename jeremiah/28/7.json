@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Але послухай же це слово, яке я говорю у вуха твої й у вуха всього народу:",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Але"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послухай"
+    },
+    {
+      "surface": "נא",
+      "gloss": "же"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "це слово"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "це"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорю"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "у вуха твої"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "й у вуха"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всього"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    }
+  ],
+  "timestamp": "2026-08-23T23:32:07.891571382Z",
+  "model": "glm-5.3"
+}

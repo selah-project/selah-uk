@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "і Елі'енай, і Ціллетай, і Еліел.",
+  "tokens": [
+    {
+      "surface": "ואליעני",
+      "gloss": "і Елі'енай"
+    },
+    {
+      "surface": "וצלתי",
+      "gloss": "і Ціллетай"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "і Еліел"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:49.260957709Z",
+  "model": "glm-5.3"
+}

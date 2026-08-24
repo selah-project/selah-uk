@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І у місяці другому, у двадцять сьомий день місяця, висохла земля.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "І у місяці"
+    },
+    {
+      "surface": "השני",
+      "gloss": "другому"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "у сім"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "і двадцять"
+    },
+    {
+      "surface": "יום",
+      "gloss": "днів"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "місяця"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "висохла"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:23.870282211Z",
+  "model": "glm-5.3"
+}

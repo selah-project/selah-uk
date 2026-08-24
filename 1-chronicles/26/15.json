@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 26:15",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Для Овед-Едома — на південь, а для синів його — дім Асуппім.",
+  "tokens": [
+    {
+      "surface": "לעבד",
+      "gloss": "для-Оведа"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Едома"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "на-південь"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "а-для-синів-його"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "האספים",
+      "gloss": "Асуппім"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:48.014445049Z",
+  "model": "glm-5.3"
+}

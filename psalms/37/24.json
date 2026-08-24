@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "Бо впаде — не буде повалений, бо Яхве підпирає руку його.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "ייפל",
+      "gloss": "впаде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "буде повалений"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "підпирає"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:52:19.183177606Z",
+  "model": "glm-5.3"
+}

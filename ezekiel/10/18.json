@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 10:18",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І вийшла слава Яхве з-над порогу дому, і стала над керувим.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "і вийшла"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "з-над"
+    },
+    {
+      "surface": "מפתן",
+      "gloss": "порогу"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "і стала"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "керувим"
+    }
+  ],
+  "timestamp": "2026-08-23T23:43:02.088235840Z",
+  "model": "glm-5.3"
+}

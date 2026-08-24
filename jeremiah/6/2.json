@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Прекрасну й ніжну — знищив я, дочку Ційону.",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "Прекрасну"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "й ніжну"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "знищив я"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочку"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ційону"
+    }
+  ],
+  "timestamp": "2026-08-23T23:24:58.048213086Z",
+  "model": "glm-5.3"
+}

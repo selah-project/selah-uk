@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "Не засоромляться в час лиха, і в дні голоду наситяться.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "засоромляться"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "в час"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "лиха"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "і в дні"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "голод"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "наситяться"
+    }
+  ],
+  "timestamp": "2026-08-24T00:14:52.900374849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Хефер ⟨the⟩ Мехераті, Ахія ⟨the⟩ Пелоні",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "Хефер"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "⟨the⟩ Мехераті"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ахія"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "⟨the⟩ Пелоні"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:08.836025995Z",
+  "model": "glm-5.3"
+}

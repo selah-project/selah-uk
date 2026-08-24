@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І це ⟨є⟩ напис, що написаний: Мене, Мене, Текель і Парсін.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "І це"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "напис"
+    },
+    {
+      "surface": "די",
+      "gloss": "що"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "написаний"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "Мене"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "Мене"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "Текель"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "і Парсін"
+    }
+  ],
+  "timestamp": "2026-08-24T01:00:01.935982825Z",
+  "model": "glm-5.3"
+}

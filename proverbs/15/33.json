@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 15:33",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Страх Яхве — наука мудрості, а перед славою — смиренність.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "наука"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрості"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "а перед"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славою"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "смиренність"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:24.529425564Z",
+  "model": "glm-5.3"
+}

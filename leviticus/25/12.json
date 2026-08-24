@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Бо ювільний рік — він, святий буде вам; із поля їстимете ⟨את⟩ його врожай.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "ювільний рік"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "святий"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "מן",
+      "gloss": "із"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поля"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "їстимете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "його врожай"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "його врожай"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:07.183032081Z",
+  "model": "glm-5.3"
+}

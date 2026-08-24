@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 34:24",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "І для коліна синів Ефраїма — наголовник Кемуель, син Шіфтана.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "і для коліна"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраїма"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "наголовник"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Кемуель"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שפטן",
+      "gloss": "Шіфтана"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:21.812464336Z",
+  "model": "glm-5.3"
+}

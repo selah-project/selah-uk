@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Як часточка граната — скроні твої позаду завіски твоєї.",
+  "tokens": [
+    {
+      "surface": "кפלח",
+      "gloss": "як часточка"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "граната"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "скроні твої"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "позаду"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "завіски твоєї"
+    }
+  ],
+  "timestamp": "2026-08-24T00:49:42.358215224Z",
+  "model": "glm-5.3"
+}

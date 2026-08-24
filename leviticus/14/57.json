@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "leviticus 14:57",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "щоб вказувати в день нечистоти і в день чистоти — це ⟨є⟩ настанова цараат.",
+  "tokens": [
+    {
+      "surface": "להורת",
+      "gloss": "щоб вказувати"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "нечистоти"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "і в день"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "чистоти"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "настанова"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "цараат"
+    }
+  ],
+  "timestamp": "2026-08-23T21:41:56.817120281Z",
+  "model": "glm-5.3"
+}

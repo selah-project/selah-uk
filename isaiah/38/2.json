@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "І повернув Хізкіягу обличчя своє до стіни, і молився до Яхве —",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "і повернув"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хізкіягу"
+    },
+    {
+      "surface": "п̄ניו",
+      "gloss": "обличчя своє"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "стіни"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "і молився"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:13:19.623202106Z",
+  "model": "glm-5.3"
+}

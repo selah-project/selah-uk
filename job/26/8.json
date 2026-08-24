@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 26:8",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "В'яже води в хмарах своїх, і не рветься хмара під ними.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "В'яже"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "בעביו",
+      "gloss": "в хмарах своїх"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "נבקע",
+      "gloss": "рветься"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "хмара"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "під ними"
+    }
+  ],
+  "timestamp": "2026-08-24T00:44:44.656732022Z",
+  "model": "glm-5.3"
+}

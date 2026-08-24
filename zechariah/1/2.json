@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Гнівався Яхве на батьків ваших — гнівом.",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "гнівався"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "батьків ваших"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "гнівом"
+    }
+  ],
+  "timestamp": "2026-08-24T00:06:20.869730183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Бо кожна не́феш, що не буде скорблена саме того дня, — буде винищена з народу свого.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кожна"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "не́феш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "буде скорблена"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "сам того"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цього"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "буде винищена"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "з народу свого"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:03.119134052Z",
+  "model": "glm-5.3"
+}

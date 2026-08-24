@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "А князь дому батька ґершонців — Ельясаф, син Лаела.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "А князь"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "אב",
+      "gloss": "батька"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "ґершонців"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Ельясаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Лаела"
+    }
+  ],
+  "timestamp": "2026-08-23T21:48:04.683379655Z",
+  "model": "glm-5.3"
+}

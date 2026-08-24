@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Бо хто приєднаний до всіх живих — у того ⟨є⟩ надія; бо живому псові краще, ніж мертвому левові.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "приєднаний"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всіх"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живих"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨є⟩"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "надія"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "псові"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живому"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "краще"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ніж"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "левові"
+    },
+    {
+      "surface": "המת",
+      "gloss": "мертвому"
+    }
+  ],
+  "timestamp": "2026-08-24T00:55:21.759046602Z",
+  "model": "glm-5.3"
+}

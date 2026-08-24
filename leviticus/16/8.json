@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І дасть Агарон на обох козлів жеребки: жеребок один — Яхве, і жеребок один — Азаzelю.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "і дасть"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарон"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שני",
+      "gloss": "обох"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "козлів"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "жеребки"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "жеребок"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "і жеребок"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "Азаzelю"
+    }
+  ],
+  "timestamp": "2026-08-23T21:43:26.770220270Z",
+  "model": "glm-5.3"
+}

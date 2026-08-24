@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 77,
+  "translation": "Згадаю діла Яга, бо згадаю з давніх часів чудеса Твої.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "згадаю"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "діла"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яга"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "згадаю"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "з давніх часів"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "чудеса Твої"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:52.983071055Z",
+  "model": "glm-5.3"
+}

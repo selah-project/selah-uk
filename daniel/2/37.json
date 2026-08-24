@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "daniel 2:37",
+  "book": "daniel",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Ти, царю, ⟨є⟩ цар царів, якому Ела небес дав царство, силу, міць і славу.",
+  "tokens": [
+    {
+      "surface": "אנתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царю"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "מלכיא",
+      "gloss": "царів"
+    },
+    {
+      "surface": "די",
+      "gloss": "якому"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "небес"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "царство"
+    },
+    {
+      "surface": "חסנא",
+      "gloss": "силу"
+    },
+    {
+      "surface": "ותקפא",
+      "gloss": "і міць"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "і славу"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "дав"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:59:31.252645071Z",
+  "model": "glm-5.3"
+}

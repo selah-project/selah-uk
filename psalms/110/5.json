@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 110,
+  "translation": "Адонай при правиці Твоїй розтрощує царів у день гніву Свого.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "על",
+      "gloss": "при"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "правиці Твоїй"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "розтрощує"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у день"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "гніву Свого"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "царів"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:38.713473303Z",
+  "model": "glm-5.3"
+}

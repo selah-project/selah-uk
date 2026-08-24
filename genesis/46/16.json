@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 46,
+  "translation": "І сини Ґада: Ціфйон, і Хаґґі, Шуні, і Ецбон, Ері, і Ароді, і Арелі.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "І сини"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Ґада"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "Ціфйон"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "і Хаґґі"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "Шуні"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "і Ецбон"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "Ері"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "і Ароді"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "і Арелі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:23:28.049174714Z",
+  "model": "glm-5.3"
+}

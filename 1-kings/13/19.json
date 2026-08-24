@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І повернувся він ⟨את⟩ з ним, і їв хліб у домі його, і пив воду.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "і повернувся"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "з ним"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "і їв"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хліб"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "у домі його"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "і пив"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воду"
+    }
+  ],
+  "timestamp": "2026-08-23T22:50:58.700501809Z",
+  "model": "glm-5.3"
+}

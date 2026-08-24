@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 6:5",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Устаньте, і вийдімо вночі, і знищімо палаци її.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "Устаньте"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "і вийдімо"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "вночі"
+    },
+    {
+      "surface": "ונשחיתה",
+      "gloss": "і знищімо її"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "палаци її"
+    }
+  ],
+  "timestamp": "2026-08-23T23:24:01.349420950Z",
+  "model": "glm-5.3"
+}

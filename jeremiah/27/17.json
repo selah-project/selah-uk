@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Не слухайте їх, служіть ⟨את⟩ цареві Бавелю — і живіть; навіщо буде це місто спустошеним?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "слухайте"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "їх"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "служіть"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цареві"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цареві"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бавелю"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "і живіть"
+    },
+    {
+      "surface": "למה",
+      "gloss": "навіщо"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "це місто"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "спустошеним"
+    }
+  ],
+  "timestamp": "2026-08-23T23:31:32.926937906Z",
+  "model": "glm-5.3"
+}

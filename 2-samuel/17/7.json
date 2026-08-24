@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 17:7",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І сказав Хушай до Авшалома: Не добра ⟨порада⟩, яку дав Ахітофель оцego разу.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Хушай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалома"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добра"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "⟨порада⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "дав"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ахітофель"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "разу"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "оцего"
+    }
+  ],
+  "timestamp": "2026-08-23T22:42:02.983335211Z",
+  "model": "glm-5.3"
+}

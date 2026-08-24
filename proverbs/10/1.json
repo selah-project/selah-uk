@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Приповістки Шеломо. Син мудрий тішить батька, а син дурний — тяжкість матері його.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Приповістки"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Син"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрий"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "тішить"
+    },
+    {
+      "surface": "אב",
+      "gloss": "батька"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "а син"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "дурний"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "тяжкість"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "матері його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:05.907464789Z",
+  "model": "glm-5.3"
+}

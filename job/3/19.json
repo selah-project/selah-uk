@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Малий і великий там ⟨є⟩, і раб вільний від свого пана.",
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "малий"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "і великий"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨є⟩"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "і раб"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "вільний"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "від свого пана"
+    }
+  ],
+  "timestamp": "2026-08-24T00:39:30.950332334Z",
+  "model": "glm-5.3"
+}

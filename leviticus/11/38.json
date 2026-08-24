@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 11:38",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І якщо буде подана вода на насіння, і впаде з їхньої падалі на нього — нечисте воно для вас.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "і якщо"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "буде подана"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "насіння"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "і впаде"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "з їхньої падалі"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на нього"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечисте"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "воно"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для вас"
+    }
+  ],
+  "timestamp": "2026-08-24T01:37:53.186533148Z",
+  "model": "glm-5.3"
+}

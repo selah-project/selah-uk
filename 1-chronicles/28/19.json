@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 28:19",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Усе ⟨це⟩ — у письмі від руки Яхве: Він мене навчив усього, усіх робіт взірця.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Усе"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "у письмі"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "від руки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на мені"
+    },
+    {
+      "surface": "השכיל",
+      "gloss": "навчив"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усього"
+    },
+    {
+      "surface": "מלאכות",
+      "gloss": "робіт"
+    },
+    {
+      "surface": "התבנית",
+      "gloss": "взірця"
+    }
+  ],
+  "timestamp": "2026-08-24T01:22:37.902878692Z",
+  "model": "glm-5.3"
+}

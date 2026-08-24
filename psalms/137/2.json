@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 137,
+  "translation": "На вербах посеред неї повісили ми кінорри наші.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "вербах"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "посеред неї"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "повісили ми"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "кінорри наші"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:44.247347906Z",
+  "model": "glm-5.3"
+}

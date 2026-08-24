@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Жінка безглуздості галасує, ⟨є⟩ наївність, і не знала, що ⟨таке⟩.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "жінка"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "безглуздості"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "галасує"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "наївність"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "і не"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "знала"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:57.489378240Z",
+  "model": "glm-5.3"
+}

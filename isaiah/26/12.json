@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Яхве, ти призначиш нам мир, бо також усі діла наші ти вчинив нам.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "ти призначиш"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "діла наші"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ти вчинив"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    }
+  ],
+  "timestamp": "2026-08-23T23:10:26.605603396Z",
+  "model": "glm-5.3"
+}

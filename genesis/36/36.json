@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 36:36",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "І помер Гадад, і зацарював замість нього Самла, з Масреки.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "і помер"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Гадад"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "і зацарював"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "замість нього"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Самла"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "з Масреки"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:30.437313772Z",
+  "model": "glm-5.3"
+}

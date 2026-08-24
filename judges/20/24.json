@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 20:24",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І наблизилися сини Ізраїлеві до синів Біньяміна другого дня.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "І наблизилися"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлеві"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Біньяміна"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у день"
+    },
+    {
+      "surface": "השני",
+      "gloss": "другий"
+    }
+  ],
+  "timestamp": "2026-08-23T22:26:13.964224759Z",
+  "model": "glm-5.3"
+}

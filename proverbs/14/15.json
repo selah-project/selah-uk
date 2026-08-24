@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Наївний вірить кожному слову, а обачливий розуміє свою ходу.",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "наївний"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "вірить"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "кожному"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слову"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "а обачливий"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "розуміє"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "свою ходу"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:23.808965540Z",
+  "model": "glm-5.3"
+}

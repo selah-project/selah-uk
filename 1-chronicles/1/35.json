@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Сини Есава: Еліфаз, Реуель, і Єуш, і Яалам, і Корах.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есава"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Еліфаз"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуель"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "і Єуш"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "і Яалам"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "і Корах"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:08.993955433Z",
+  "model": "glm-5.3"
+}

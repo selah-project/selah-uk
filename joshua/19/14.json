@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 19:14",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І огинає ⟨את⟩ межа з півночі, Ханатон, і виходи її ⟨є⟩ долина Їфтаг-Ел.",
+  "tokens": [
+    {
+      "surface": "ונסב",
+      "gloss": "і огинає"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "межа"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "межа"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "з півночі"
+    },
+    {
+      "surface": "חנתן",
+      "gloss": "Ханатон"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "і були"
+    },
+    {
+      "surface": "תצאתיו",
+      "gloss": "виходи його"
+    },
+    {
+      "surface": "גי",
+      "gloss": "долина"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Їфтаг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    }
+  ],
+  "timestamp": "2026-08-23T22:16:03.691411961Z",
+  "model": "glm-5.3"
+}

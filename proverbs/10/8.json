@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Мудрий серцем прийме заповіді, а несамовитий вустами впаде.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "Мудрий"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серцем"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "прийме"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "заповіді"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "а несамовитий"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "вустами"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "впаде"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:04.263373468Z",
+  "model": "glm-5.3"
+}

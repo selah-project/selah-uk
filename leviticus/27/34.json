@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Ось заповіді, які заповів Яхве ⟨את⟩ Моше ⟨до⟩ синів Ісраейла на горі Синай.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "заповіді"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨до⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраейла"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на горі"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:41.104935549Z",
+  "model": "glm-5.3"
+}

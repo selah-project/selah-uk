@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 75,
+  "translation": "Бо Елогім ⟨є⟩ Суддя: цього Він принижує, і того підіймає.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "⟨є⟩ Суддя"
+    },
+    {
+      "surface": "זה",
+      "gloss": "цього"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "Він принижує"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "і того"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "підіймає"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:31.630600694Z",
+  "model": "glm-5.3"
+}

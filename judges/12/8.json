@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "І судив після нього ⟨את⟩ Ізраїль Івцан з Бейт-Лехема.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "І судив"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "після нього"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ізраїль"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїль"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Івцан"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "з Бейт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехема"
+    }
+  ],
+  "timestamp": "2026-08-23T22:23:23.682957380Z",
+  "model": "glm-5.3"
+}

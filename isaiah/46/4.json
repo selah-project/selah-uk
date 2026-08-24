@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 46,
+  "translation": "і до старості Я — ⟨той самий⟩, і до сивини Я носитиму: Я вчинив, і Я понесу, і Я носитиму, і врятую.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "і до"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "старості"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨той самий⟩"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "і до"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "сивини"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "носитиму"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "вчинив"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "і Я"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "понесу"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "і Я"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "носитиму"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "і врятую"
+    }
+  ],
+  "timestamp": "2026-08-23T23:16:06.740948859Z",
+  "model": "glm-5.3"
+}

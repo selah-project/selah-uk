@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Для Салая — Калай; для Амока — Евер.",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "для Салая"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "Калай"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "для Амока"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Евер"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:19.772801656Z",
+  "model": "glm-5.3"
+}

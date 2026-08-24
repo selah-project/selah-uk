@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "job 38:37",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "Хто полічує хмари в мудрості, і шкіри небес хто покладе?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "полічує"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "хмари"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "в мудрості"
+    },
+    {
+      "surface": "ונבלי",
+      "gloss": "і шкіри"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "ישכיב",
+      "gloss": "покладе"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:26.156784493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І покладеш до Ковчега ⟨את⟩ Свідоцтво, яке Я дам тобі.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "І покладеш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Ковчега"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Свідоцтво"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Свідоцтво"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Я дам"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тобі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:32:26.009358992Z",
+  "model": "glm-5.3"
+}

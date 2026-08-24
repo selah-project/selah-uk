@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І також на дорозі, коли дурень іде, — серце його бракує, і він скаже кожному: дурень він.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "і також"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на дорозі"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "коли дурень"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "іде"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "серце його"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "бракує"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "і він скаже"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "кожному"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "дурень"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    }
+  ],
+  "timestamp": "2026-08-24T00:55:32.898282196Z",
+  "model": "glm-5.3"
+}

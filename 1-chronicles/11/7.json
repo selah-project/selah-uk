@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І оселився Давид у фортеці; тому назвали її містом Давида.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "І оселився"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "у фортеці"
+    },
+    {
+      "surface": "על",
+      "gloss": "тому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "чому"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "назвали"
+    },
+    {
+      "surface": "לו",
+      "gloss": "її"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "містом"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:22.398023683Z",
+  "model": "glm-5.3"
+}

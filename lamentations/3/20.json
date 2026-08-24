@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Згадуючи — пам'ятаєш ⟨її⟩, і поникає в мені моя нефеш.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "згадуючи"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "пам'ятаєш"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "і поникає"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "в мені"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "моя нефеш"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:54.064268798Z",
+  "model": "glm-5.3"
+}

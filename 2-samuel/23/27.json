@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 23:27",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Авієзер ⟨the⟩ анатотієць, Мевуннай ⟨the⟩ хушатієць,",
+  "tokens": [
+    {
+      "surface": "אביעזר",
+      "gloss": "Авієзер"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "анатотієць"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "Мевуннай"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "хушатієць"
+    }
+  ],
+  "timestamp": "2026-08-24T01:43:09.427787050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Бо не Ель, що бажає несправедливості, ⟨ти⟩; не гоститиметься в тобі зло.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "що бажає"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "несправедливості"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "гоститиметься в тобі"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:35.765383370Z",
+  "model": "glm-5.3"
+}

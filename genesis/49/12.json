@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 49,
+  "translation": "Темні від вина — очі його, і біліші за молоко — зуби його.",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "темні"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "очі"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "від вина"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "і білі"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "зуби"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "за молоко"
+    }
+  ],
+  "timestamp": "2026-08-23T21:24:41.181171005Z",
+  "model": "glm-5.3"
+}

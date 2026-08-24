@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І пішов ⟨את⟩ ними, і прийшли до Ярдену, і рубали дерева.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "І пішов"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ними"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "і прийшли"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "до Ярдену"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "і рубали"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дерева"
+    }
+  ],
+  "timestamp": "2026-08-23T22:56:42.422282908Z",
+  "model": "glm-5.3"
+}

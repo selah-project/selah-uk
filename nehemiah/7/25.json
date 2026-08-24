@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Сини Гів'она: дев'яносто і п'ять.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гів'она"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "дев'яносто"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "і п'ять"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:03.639250205Z",
+  "model": "glm-5.3"
+}

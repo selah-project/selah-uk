@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 9:25",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І дні мої легші за бігуна — тікали вони, не бачили добра.",
+  "tokens": [
+    {
+      "surface": "וימי",
+      "gloss": "І дні мої"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "легші"
+    },
+    {
+      "surface": "מני",
+      "gloss": "за"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "бігуна"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "тікали"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "бачили"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добра"
+    }
+  ],
+  "timestamp": "2026-08-24T00:41:37.462184681Z",
+  "model": "glm-5.3"
+}

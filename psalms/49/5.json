@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 49,
+  "translation": "Схиляю до притчі вухо моє, відкрию на кинорі загадку мою.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "Схиляю"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "до притчі"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "вухо моє"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "відкрию"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "на кинорі"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "загадку мою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:17.212779090Z",
+  "model": "glm-5.3"
+}

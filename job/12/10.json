@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "У чиїй руці — нефеш усього живого і руах усякої людської плоті.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "у чиїй"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "руці"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всього"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живого"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "і руах"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякої"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плоті"
+    },
+    {
+      "surface": "איש",
+      "gloss": "людської"
+    }
+  ],
+  "timestamp": "2026-08-24T00:41:10.513679239Z",
+  "model": "glm-5.3"
+}

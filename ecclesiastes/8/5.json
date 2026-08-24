@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Хто береже заповідь — не пізнає лихого слова, і час та суд пізнає серце мудрого.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Хто береже"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "заповідь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "пізнає"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лихого"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "і час"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "та суд"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "пізнає"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрого"
+    }
+  ],
+  "timestamp": "2026-08-24T00:55:23.693976550Z",
+  "model": "glm-5.3"
+}

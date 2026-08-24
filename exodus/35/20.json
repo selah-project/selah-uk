@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "І вийшла вся громада синів Ісраейлу з-перед Моше.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "І вийшла"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "громада"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраейлу"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "з-перед"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-23T21:35:11.245303951Z",
+  "model": "glm-5.3"
+}

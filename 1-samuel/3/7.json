@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "А Щемуель ще не знав ⟨את⟩ Яхве, і слово Яхве ще не було відкрите йому.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "А Щемуель"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ще не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "і ще не"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "було відкрите"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T22:28:12.204642096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Добрий розум дає ласку, а дорога зрадників — терниста.",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "розум"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добрий"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дає"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ласку"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "а дорога"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "зрадників"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "терниста"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:04.788905374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 4:24",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Це служба родин Ґершунців — служити і носити ношу:",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Це"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "служба"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "родин"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "Ґершунців"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "служити"
+    },
+    {
+      "surface": "ולמשא",
+      "gloss": "і носити ношу"
+    }
+  ],
+  "timestamp": "2026-08-23T21:48:20.635299917Z",
+  "model": "glm-5.3"
+}

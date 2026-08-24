@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Радію я про Твоє слово, як той, хто знаходить здобич велику.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "радію"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "על",
+      "gloss": "про"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "Твоє слово"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "як той, хто знаходить"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "здобич"
+    },
+    {
+      "surface": "רב",
+      "gloss": "велику"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:25.740482980Z",
+  "model": "glm-5.3"
+}

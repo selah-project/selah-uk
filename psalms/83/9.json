@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 83,
+  "translation": "Також Ашшур з'єднався з ними, стали вони раменом для синів Лота. Села.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "з'єднався"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "з ними"
+    },
+    {
+      "surface": "היו",
+      "gloss": "стали"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "раменом"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "для синів"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лота"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села."
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:48.971639630Z",
+  "model": "glm-5.3"
+}

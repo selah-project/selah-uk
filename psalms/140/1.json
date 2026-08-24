@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 140,
+  "translation": "Керівникові ⟨музикантів⟩. Пісня Давида.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Пісня"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:47.968922218Z",
+  "model": "glm-5.3"
+}

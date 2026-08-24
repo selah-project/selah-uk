@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 91,
+  "translation": "Бо він визволить тебе від пастки птахолова і від лихої пошесті.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "визволить тебе"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "від пастки"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "птахолова"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "і від пошесті"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "лихої"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:45.056973298Z",
+  "model": "glm-5.3"
+}

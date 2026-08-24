@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 22:15",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Так говорить Адонай Яхве Цеваот: іди, увійди до цього домоправителя, до Шевни, що над домом,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорить"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "לך",
+      "gloss": "іди"
+    },
+    {
+      "surface": "בא",
+      "gloss": "увійди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הסכן",
+      "gloss": "цього домоправителя"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цього"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Шевни"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "домом"
+    }
+  ],
+  "timestamp": "2026-08-23T23:09:20.926701047Z",
+  "model": "glm-5.3"
+}

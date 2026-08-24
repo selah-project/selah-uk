@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 27:22",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "над Даном — Азарель, син Єрохама. Це ⟨їх⟩ — князі колін Ізраїля.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "над Даном"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "Азарель"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Єрохама"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "князі"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "колін"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    }
+  ],
+  "timestamp": "2026-08-24T01:21:16.614737961Z",
+  "model": "glm-5.3"
+}

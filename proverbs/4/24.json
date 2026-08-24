@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 4:24",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Усунь від себе криворітість уст, а лукавство вуст віддалеч від себе.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "усунь"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "від себе"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "криворітість"
+    },
+    {
+      "surface": "פה",
+      "gloss": "уст"
+    },
+    {
+      "surface": "ולזות",
+      "gloss": "а лукавство"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "вуст"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "віддалеч"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "від себе"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:07.683165072Z",
+  "model": "glm-5.3"
+}

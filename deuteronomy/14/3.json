@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Не їж жодної огиди.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "їж"
+    },
+    {
+      "surface": "כל",
+      "gloss": "жодної"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "огиди"
+    }
+  ],
+  "timestamp": "2026-08-23T22:04:18.574175957Z",
+  "model": "glm-5.3"
+}

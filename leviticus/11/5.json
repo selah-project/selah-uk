@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І ⟨את⟩ шафана, бо ⟨він⟩ підносить жуйку ⟨він⟩, а копито не розсікає — нечистий він для вас.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "шафана"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "шафана"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "підносить"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "жуйку"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨він⟩"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "а копито"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "розсікає"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечистий"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для вас"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:20.033076387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Усе віддане ⟨як⟩ херем в Ісраелі тобі буде.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "віддане"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Ісраелі"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    }
+  ],
+  "timestamp": "2026-08-23T21:53:28.420168873Z",
+  "model": "glm-5.3"
+}

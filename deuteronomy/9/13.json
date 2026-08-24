@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І сказав Яхве мені так: Я бачив ⟨את⟩ цей народ, і ось — народ жорстокошийний він.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "так"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Я бачив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цей народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цей"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "і ось"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "жорстокий"
+    },
+    {
+      "surface": "ערф",
+      "gloss": "шиєю"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    }
+  ],
+  "timestamp": "2026-08-23T22:03:20.384049725Z",
+  "model": "glm-5.3"
+}

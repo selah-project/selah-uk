@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 14:20",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І сказав Яхве: простив Я за слово твоє.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "סלחתי",
+      "gloss": "простив Я"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "за слово твоє"
+    }
+  ],
+  "timestamp": "2026-08-23T21:52:14.765248294Z",
+  "model": "glm-5.3"
+}

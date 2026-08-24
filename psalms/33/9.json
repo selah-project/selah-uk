@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "Бо ⟨він⟩ сказав — і ⟨це⟩ сталося; ⟨він⟩ звелів — і ⟨це⟩ встало.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨він⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і сталося"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨він⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "звелів"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "і встало"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:45.448557501Z",
+  "model": "glm-5.3"
+}

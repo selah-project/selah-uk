@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 65,
+  "translation": "Слухачу молитви, до Тебе прийде все тіло ⟨всяке тіло⟩.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Слухачу"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "молитви"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "до Тебе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тіло"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "прийде"
+    }
+  ],
+  "timestamp": "2026-08-24T00:18:33.967559183Z",
+  "model": "glm-5.3"
+}

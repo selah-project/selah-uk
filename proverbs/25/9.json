@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Свій суд веди з ⟨את⟩ своїм ближнім, а таємницю іншого не відкривай.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "суд твій"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "веди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "своїм ближнім"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "своїм ближнім"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "а таємницю"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "іншого"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "відкривай"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:20.069720621Z",
+  "model": "glm-5.3"
+}

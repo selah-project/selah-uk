@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І також Я: не пошкодить око Моє, і не помилую — їхній шлях на їхню голову Я поклав.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "І також"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "пошкодить"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "око Моє"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "помилую"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "їхній шлях"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "на їхню голову"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Я поклав"
+    }
+  ],
+  "timestamp": "2026-08-23T23:42:29.511297272Z",
+  "model": "glm-5.3"
+}

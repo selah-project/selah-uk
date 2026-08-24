@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Струмки вод — серце царя в руці Яхве; куди Йому вгодно, туда ⟨він⟩ нахиляє його.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "струмки"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вод"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "в руці"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "куди"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всюди"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "де"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "Йому вгодно"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "нахиляє його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:00.214838421Z",
+  "model": "glm-5.3"
+}

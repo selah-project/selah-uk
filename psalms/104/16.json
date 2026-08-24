@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 104,
+  "translation": "Наситяться дерева Яхве, кедри Леванону, які Він насадив.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "Наситяться"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "дерева"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "кедри"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Леванону"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "Він насадив"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:49.830811527Z",
+  "model": "glm-5.3"
+}

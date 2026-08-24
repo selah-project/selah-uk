@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 92,
+  "translation": "Чоловік тупий не пізнає, і глуздуватий не розуміє ⟨את⟩ цього.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Чоловік"
+    },
+    {
+      "surface": "בער",
+      "gloss": "тупий"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "пізнає"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "і глуздуватий"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "розуміє"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цього"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "цього"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:36.992037120Z",
+  "model": "glm-5.3"
+}

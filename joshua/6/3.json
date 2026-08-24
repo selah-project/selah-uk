@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 6:3",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І обійдете ⟨את⟩ місто — усі мужі війни, обходячи ⟨את⟩ місто раз один; так зробиш шість днів.",
+  "tokens": [
+    {
+      "surface": "וסבתם",
+      "gloss": "І обійдете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "місто"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "місто"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мужі"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "війни"
+    },
+    {
+      "surface": "הקיף",
+      "gloss": "обходячи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "місто"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "місто"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "раз"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "один"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "зробиш"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "шість"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    }
+  ],
+  "timestamp": "2026-08-23T22:11:58.325357733Z",
+  "model": "glm-5.3"
+}

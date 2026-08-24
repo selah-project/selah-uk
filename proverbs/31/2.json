@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Що, сину мій? і що, сину утроби моєї? і що, сину обітниць моїх?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Що"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "сину мій"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "і що"
+    },
+    {
+      "surface": "בר",
+      "gloss": "сину"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "утроби моєї"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "і що"
+    },
+    {
+      "surface": "בר",
+      "gloss": "сину"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "обітниць моїх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:46.761883966Z",
+  "model": "glm-5.3"
+}

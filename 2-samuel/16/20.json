@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І сказав Авшалом до Ахітофела: дайте собі раду — що робитимемо?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ахітофела"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "дайте"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "собі"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "раду"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "робитимемо"
+    }
+  ],
+  "timestamp": "2026-08-23T22:41:32.009926466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 10:14",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Одійя, Бані, Беніну.",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "Одійя"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бані"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "Беніну"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:52.453227609Z",
+  "model": "glm-5.3"
+}

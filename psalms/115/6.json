@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 115,
+  "translation": "Вуха ⟨у⟩ них ⟨є⟩, та не чують; ніс ⟨у⟩ них ⟨є⟩, та не нюхають,",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "вуха"
+    },
+    {
+      "surface": "להם",
+      "gloss": "у них"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "та не"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "чують"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ніс"
+    },
+    {
+      "surface": "להם",
+      "gloss": "у них"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "та не"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "нюхають"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:44.541817535Z",
+  "model": "glm-5.3"
+}

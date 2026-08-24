@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "А Ти — Святий, ⟨Той, що⟩ сидить на хвалах Ізраїлю.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А Ти"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Святий"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "сидить"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "на хвалах"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлю"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:19.542866216Z",
+  "model": "glm-5.3"
+}

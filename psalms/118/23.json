@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 118,
+  "translation": "Від ⟨את⟩ Яхве це сталося; це дивне в очах наших.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "від ⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "сталося"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "היא",
+      "gloss": "це"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "дивне"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "в очах наших"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:04.410374060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 18:14",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І царював Давид над усім Ізраїлем, і чинив він суд і правду всьому своєму народові.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "І царював"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усім"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлем"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і чинив ⟨він⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "робив"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "і правду"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "всьому"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "своєму народові"
+    }
+  ],
+  "timestamp": "2026-08-24T01:18:26.942472808Z",
+  "model": "glm-5.3"
+}

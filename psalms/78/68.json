@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 78,
+  "translation": "І обрав ⟨את⟩ коліно Єгуди, ⟨את⟩ гору Ційон, яку покохав.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "і обрав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "коліно Єгуди"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "коліно"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гору Ційон"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ційон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "покохав"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:12.951700553Z",
+  "model": "glm-5.3"
+}

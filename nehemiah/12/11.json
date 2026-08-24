@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "і Йояда породив ⟨את⟩ Йонатана, і Йонатан породив ⟨את⟩ Яддуа",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "і Йояда"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йонатана"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонатана"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "і Йонатан"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яддуа"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Яддуа"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:39.963790136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "⟨את⟩ кожного ворона за його видом.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кожного"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кожного"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ворона"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "за його видом"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:15.377644684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "І молився Хізкіягу до Яхве, говорячи:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "і молився"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хізкіягу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    }
+  ],
+  "timestamp": "2026-08-23T23:13:53.832013482Z",
+  "model": "glm-5.3"
+}

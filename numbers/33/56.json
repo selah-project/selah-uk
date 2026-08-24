@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 33:56",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І станеться: як я намірив зробити їм, так зроблю вам.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "і станеться"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "я намірив"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "зробити"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "зроблю"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:49.420961364Z",
+  "model": "glm-5.3"
+}

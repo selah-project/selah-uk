@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 116,
+  "translation": "Я покохав, бо Яхве чує ⟨את⟩ голос мій, благання мої.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Я покохав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "чує"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "голос мій"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "голос мій"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "благання мої"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:21.892934439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 2:14",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І плем'я Ґаду, і начальник синів Ґаду — Еліясаф син Реуела.",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "І плем'я"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Ґаду"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "і начальник"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Ґаду"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Еліясаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуела"
+    }
+  ],
+  "timestamp": "2026-08-23T21:48:00.316582459Z",
+  "model": "glm-5.3"
+}

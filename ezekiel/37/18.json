@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 37:18",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "І коли скажуть тобі сини твого народу, кажучи: чи не розповіси нам, що ці ⟨є⟩ тобі?",
+  "tokens": [
+    {
+      "surface": "ויאמרו וכאשר",
+      "gloss": "І коли"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "скажуть"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "твого народу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "чи не"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "розповіси"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:50:25.325701013Z",
+  "model": "glm-5.3"
+}

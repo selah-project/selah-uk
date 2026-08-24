@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Без деревин погасне вогонь, і без наклепника вщухає сварка.",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "без"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "деревин"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "погасне"
+    },
+    {
+      "surface": "אש",
+      "gloss": "вогонь"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "і без"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "наклепника"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "вщухне"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "сварка"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:55.625647781Z",
+  "model": "glm-5.3"
+}

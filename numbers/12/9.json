@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "І запалав гнів Яхве на них, і ⟨він⟩ відійшов.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "І запалав"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гнів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בם",
+      "gloss": "на них"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "і відійшов"
+    }
+  ],
+  "timestamp": "2026-08-23T21:51:38.483507601Z",
+  "model": "glm-5.3"
+}

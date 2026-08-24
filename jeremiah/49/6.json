@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 49,
+  "translation": "А потому поверну ⟨את⟩ долю вигнання синів Аммона, — промовляє Яхве.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "А потому"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "поверну"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "долю вигнання"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "долю вигнання"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммона"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "промовляє"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:48:39.626460708Z",
+  "model": "glm-5.3"
+}

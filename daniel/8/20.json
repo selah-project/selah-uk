@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Овен, якого ти бачив, що має роги, — ⟨це⟩ царі Мадаю і Парасу.",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "Овен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "якого"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ти бачив"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "що має"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "роги"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "⟨це⟩ царі"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Мадаю"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "і Парасу"
+    }
+  ],
+  "timestamp": "2026-08-24T01:01:58.635518217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 28:12",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "І було слово Яхве до Єрмії після того, як зламав Хананья-пророк ⟨את⟩ ярмо з шиї Єрмії-пророка, так:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І було"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Єрмії"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "після того, як"
+    },
+    {
+      "surface": "שבור",
+      "gloss": "зламав"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Хананья"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ярмо"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "ярмо"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "з"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "шиї"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Єрмії"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророка"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "так:"
+    }
+  ],
+  "timestamp": "2026-08-23T23:31:21.969983576Z",
+  "model": "glm-5.3"
+}

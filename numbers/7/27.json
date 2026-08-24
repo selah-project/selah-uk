@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Один бик, син худоби, один овен, один ягня, син свого року, на всепалення.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "бик"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "худоби"
+    },
+    {
+      "surface": "איל",
+      "gloss": "овен"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ягня"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "свого року"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "на всепалення"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:10.385848748Z",
+  "model": "glm-5.3"
+}

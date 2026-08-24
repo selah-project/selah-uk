@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Через зиму ледачий не оре; попросить у жнива — і нема нічого.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "через зиму"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ледачий"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "оре"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "попросить"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "у жнива"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "і нема нічого"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:34.691916675Z",
+  "model": "glm-5.3"
+}

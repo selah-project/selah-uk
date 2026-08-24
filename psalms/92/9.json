@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 92,
+  "translation": "А ти — на висоті навіки, Яхве.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А ти"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "на висоті"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:32.725305030Z",
+  "model": "glm-5.3"
+}

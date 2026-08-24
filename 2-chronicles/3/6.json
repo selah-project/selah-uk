@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І обклав ⟨את⟩ дім каменем дорогоцінним на красу, а золото ⟨було⟩ золотом Парваїм.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "І обклав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дім"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "каменем"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "дорогоцінним"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "на красу"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "а золото"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золотом"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Парваїм"
+    }
+  ],
+  "timestamp": "2026-08-24T01:22:41.415906304Z",
+  "model": "glm-5.3"
+}

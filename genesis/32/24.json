@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І взяв їх, і перевів їх через ⟨את⟩ потік, і перевів ⟨את⟩ те, що в нього.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "і взяв їх"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "і перевів їх"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "потік"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "потік"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "і перевів"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "те, що в нього"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "те, що"
+    },
+    {
+      "surface": "לו",
+      "gloss": "в нього"
+    }
+  ],
+  "timestamp": "2026-08-23T21:18:00.516595701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 37:19",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "А де ваші пророки, які пророкували вам, говорячи: не прийде цар Бавела на вас і на цю землю?",
+  "tokens": [
+    {
+      "surface": "ואיו",
+      "gloss": "А де"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "ваші пророки"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "пророкували"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "прийде"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бавела"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "на вас"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цю"
+    }
+  ],
+  "timestamp": "2026-08-23T23:35:10.335946450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 36:31",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "Бо ними Він судить народи, дає поживу рясно.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ними"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "судить"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дає"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "поживу"
+    },
+    {
+      "surface": "למכביר",
+      "gloss": "рясно"
+    }
+  ],
+  "timestamp": "2026-08-24T00:47:43.646449264Z",
+  "model": "glm-5.3"
+}

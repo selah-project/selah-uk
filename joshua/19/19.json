@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 19:19",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "і Хафараїм, і Шійон, і Анагарад.",
+  "tokens": [
+    {
+      "surface": "וחפרים",
+      "gloss": "і Хафараїм"
+    },
+    {
+      "surface": "ושיאן",
+      "gloss": "і Шійон"
+    },
+    {
+      "surface": "ואנחרת",
+      "gloss": "і Анагарад"
+    }
+  ],
+  "timestamp": "2026-08-23T22:16:30.819285323Z",
+  "model": "glm-5.3"
+}

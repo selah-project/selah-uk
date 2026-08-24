@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "І сказав Давід: це ⟨є⟩ дім Яхве ⟨אלогім⟩, а це — жертовник цілопалення для Ізраїля.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давід"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨є⟩ він"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогіма"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "а це"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жертовник"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "цілопалення"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "для Ізраїля"
+    }
+  ],
+  "timestamp": "2026-08-24T01:19:27.653423701Z",
+  "model": "glm-5.3"
+}

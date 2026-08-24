@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Як не знаєш ти, який шлях ⟨у⟩ руху вітру, як — кістки в утробі наповненої, так не пізнаєш ти ⟨את⟩ діло Елогім, що робить ⟨את⟩ усе.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "не знаєш ти"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знаєш"
+    },
+    {
+      "surface": "מה",
+      "gloss": "який"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "шлях"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "руху вітру"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "як — кістки"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "в утробі"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "наповненої"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "так"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "пізнаєш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "діло"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "діло"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "робить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усе"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "усе"
+    }
+  ],
+  "timestamp": "2026-08-24T00:55:06.224349527Z",
+  "model": "glm-5.3"
+}

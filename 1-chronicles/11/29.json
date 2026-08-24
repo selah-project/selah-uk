@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 11:29",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Сівехай га-Хушаті, Ілай га-Ахохій,",
+  "tokens": [
+    {
+      "surface": "סבכי",
+      "gloss": "Сівехай"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "га-Хушаті"
+    },
+    {
+      "surface": "עילי",
+      "gloss": "Ілай"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "га-Ахохій"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:07.657090959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Говоріть до синів Ісраелу, кажучи: оце живе, що їстимете вам, з-поміж усієї худоби, що на землі:",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Говоріть"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраелу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "оце"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "живе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "їстимете"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "з-поміж усієї"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "худоби"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:41:01.353202312Z",
+  "model": "glm-5.3"
+}

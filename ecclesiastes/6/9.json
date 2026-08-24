@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Краще бачення очей, ніж блукання нефеш; і це — гевель і мучення духу.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "краще"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "бачення"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "очей"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "блукання"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "גם",
+      "gloss": "і"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "гевель"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "і мучення"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "духу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:42.196758726Z",
+  "model": "glm-5.3"
+}

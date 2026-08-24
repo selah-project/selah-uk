@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 38:23",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "які Я зберіг ⟨на⟩ час лиха, ⟨на⟩ день бою і війни?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "חשכתי",
+      "gloss": "Я зберіг"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "на час"
+    },
+    {
+      "surface": "צר",
+      "gloss": "лиха"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "на день"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "бою"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "і війни"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:36.189333986Z",
+  "model": "glm-5.3"
+}

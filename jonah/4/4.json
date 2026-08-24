@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І сказав Яхве: чи добре тобі палати ⟨гнівом⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "чи добре"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "тобі палати ⟨гнівом⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:02:53.862610647Z",
+  "model": "glm-5.3"
+}

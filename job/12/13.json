@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 12:13",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "З Ним — мудрість і міць, Йому — рада і розуміння.",
+  "tokens": [
+    {
+      "surface": "עמו",
+      "gloss": "З Ним"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрість"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "і міць"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Йому"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "рада"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "і розуміння"
+    }
+  ],
+  "timestamp": "2026-08-24T00:40:59.819541391Z",
+  "model": "glm-5.3"
+}

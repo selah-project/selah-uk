@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 26:12",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "І ходитиму серед вас, і буду вам за Елогіма, а ви будете Мені за народ.",
+  "tokens": [
+    {
+      "surface": "והתהלכתי",
+      "gloss": "І ходитиму"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "серед вас"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "і буду"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "за Елогіма"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "а ви"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "будете"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мені"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "за народ"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:32.876940687Z",
+  "model": "glm-5.3"
+}

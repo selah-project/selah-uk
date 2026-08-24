@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 11:4",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Тому пророкуй на них, пророкуй, сину людський.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Тому"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "пророкуй"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "на них"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "пророкуй"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сину"
+    },
+    {
+      "surface": "адам",
+      "gloss": "людський"
+    }
+  ],
+  "timestamp": "2026-08-23T23:43:29.605465024Z",
+  "model": "glm-5.3"
+}

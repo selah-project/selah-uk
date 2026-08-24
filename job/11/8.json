@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 11:8",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Вище за небеса — що ти зробиш? Глибша за Шеол — що ти пізнаєш?",
+  "tokens": [
+    {
+      "surface": "גבהי",
+      "gloss": "Вище за"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "תפעל",
+      "gloss": "ти зробиш"
+    },
+    {
+      "surface": "עמוקה",
+      "gloss": "Глибша за"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ти пізнаєш"
+    }
+  ],
+  "timestamp": "2026-08-24T00:41:40.720330773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І над військом племені синів Менаше ⟨був⟩ Гамліель, син Педагцура.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "і над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "військом"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "племені"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Гамліель ⟨був⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "Педагцура"
+    },
+    {
+      "surface": "צור",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:53.535207900Z",
+  "model": "glm-5.3"
+}

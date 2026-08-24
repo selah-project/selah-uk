@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Шостого дня — князя синів Ґада, Еліясава, сина Деуела.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "Шостого"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князя"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Ґада"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Еліясава"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Деуела"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:42.780222050Z",
+  "model": "glm-5.3"
+}

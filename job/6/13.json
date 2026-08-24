@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 6:13",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Чи нема помочі моєї у мені, і розум відкинений від мене?",
+  "tokens": [
+    {
+      "surface": "האם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "помочі моєї"
+    },
+    {
+      "surface": "בי",
+      "gloss": "у мені"
+    },
+    {
+      "surface": "ותשיה",
+      "gloss": "і розум"
+    },
+    {
+      "surface": "נדחה",
+      "gloss": "відкинений"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "від мене"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:53.408339283Z",
+  "model": "glm-5.3"
+}

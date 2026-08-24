@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 5:20",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "З небес воювали, зорі зі своїх шляхів воювали з Сісерою.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "З"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "воювали"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "зорі"
+    },
+    {
+      "surface": "ממסלותם",
+      "gloss": "зі своїх шляхів"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "воювали"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Сісерою"
+    }
+  ],
+  "timestamp": "2026-08-23T22:19:45.310312547Z",
+  "model": "glm-5.3"
+}

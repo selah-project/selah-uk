@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 14:27",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "А Левія, що в брамах твоїх, не залишай, бо немає йому частки й спадку з тобою",
+  "tokens": [
+    {
+      "surface": "והלוי",
+      "gloss": "а Левія"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "в брамах твоїх"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "залишай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "частки"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "й спадку"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "з тобою"
+    }
+  ],
+  "timestamp": "2026-08-23T22:04:06.808387399Z",
+  "model": "glm-5.3"
+}

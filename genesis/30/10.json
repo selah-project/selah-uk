@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "І народила Зілпа, невільниця Леи, Яакову сина.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "І народила"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Зілпа"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "невільниця"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леи"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яакову"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    }
+  ],
+  "timestamp": "2026-08-23T21:16:15.709872867Z",
+  "model": "glm-5.3"
+}

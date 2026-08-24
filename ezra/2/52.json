@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "ezra 2:52",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Бацлута, сини Мехіди, сини Харші",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "בצלות",
+      "gloss": "Бацлута"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "Мехіди"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "Харші"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:53.566134520Z",
+  "model": "glm-5.3"
+}

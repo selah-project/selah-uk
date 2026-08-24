@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Що було, те саме й буде, і що сталося, те саме й станеться, і немає нічого нового під сонцем.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "було"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "те саме"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "і що"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "сталося"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "те саме"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "станеться"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "і немає"
+    },
+    {
+      "surface": "כל",
+      "gloss": "нічого"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нового"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцем"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:37.632846201Z",
+  "model": "glm-5.3"
+}

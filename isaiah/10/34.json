@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "isaiah 10:34",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І стинає хащі лісу залізом, і Ліван від могутнього впаде.",
+  "tokens": [
+    {
+      "surface": "ונקף",
+      "gloss": "і стинає"
+    },
+    {
+      "surface": "סבכי",
+      "gloss": "хащі"
+    },
+    {
+      "surface": "היער",
+      "gloss": "лісу"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "залізом"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "і Ліван"
+    },
+    {
+      "surface": "באדיר",
+      "gloss": "від могутнього"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "впаде"
+    }
+  ],
+  "timestamp": "2026-08-23T23:07:18.994482965Z",
+  "model": "glm-5.3"
+}

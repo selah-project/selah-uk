@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "а ідоли цілком зникнуть.",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "а ідоли"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "цілком"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "зникнуть"
+    }
+  ],
+  "timestamp": "2026-08-23T23:04:22.269220193Z",
+  "model": "glm-5.3"
+}

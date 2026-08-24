@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 104,
+  "translation": "Усі вони на Тебе чекають, щоб дати їм їжу своєчасно.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Усі вони"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "на Тебе"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "чекають"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "щоб дати"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "їм їжу"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "своєчасно"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:00.783488702Z",
+  "model": "glm-5.3"
+}

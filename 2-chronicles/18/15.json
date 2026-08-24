@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І сказав йому цар: скільки разів я заклинаю тебе не говорити мені ⟨нічого⟩ крім правди в ⟨ім'я⟩ Яхве?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "скільки"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "разів"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "заклинаю тебе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "говорити"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "רק",
+      "gloss": "крім"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "правди"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "в ім'я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:27:14.923626745Z",
+  "model": "glm-5.3"
+}

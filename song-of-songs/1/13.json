@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Пучок мирри — мій коханий для мене, між моїми грудами він ночуватиме.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "пучок"
+    },
+    {
+      "surface": "המר",
+      "gloss": "мирри"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "мій коханий"
+    },
+    {
+      "surface": "לי",
+      "gloss": "для мене"
+    },
+    {
+      "surface": "בין",
+      "gloss": "між"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "моїми грудами"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ночуватиме"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:49.124564799Z",
+  "model": "glm-5.3"
+}

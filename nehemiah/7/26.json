@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Мужі Бейт-Лехема і Нетофахи: сто вісімдесят і вісім.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "мужі"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехема"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "і Нетофахи"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "вісімдесят"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "і вісім"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:03.639488631Z",
+  "model": "glm-5.3"
+}

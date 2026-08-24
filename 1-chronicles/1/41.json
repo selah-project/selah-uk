@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Сини Анага: Дішон; і сини Дішона: Хамран, і Ешбан, і Їтран, і Керан.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Анага"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Дішон"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "і сини"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Дішона"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "Хамран"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "і Ешбан"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "і Їтран"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "і Керан"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:26.648665967Z",
+  "model": "glm-5.3"
+}

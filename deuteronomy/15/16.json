@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "І буде, коли скаже тобі: не вийду від тебе, — бо полюбив він тебе і ⟨את⟩ твій дім, бо добре йому з тобою.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "і буде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "скаже"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "вийду"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "від тебе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "полюбив він тебе"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "твій дім"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "твій дім"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добре"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "з тобою"
+    }
+  ],
+  "timestamp": "2026-08-23T22:04:36.387359387Z",
+  "model": "glm-5.3"
+}

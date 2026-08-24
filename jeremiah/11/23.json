@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 11:23",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І не залишиться їм рештки, бо наведу зло на чоловіків Анатота, рік їхнього покарання.",
+  "tokens": [
+    {
+      "surface": "ושארית",
+      "gloss": "і рештка"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "залишиться"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "наведу"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "чоловіків"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Анатота"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "рік"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "їхнього покарання"
+    }
+  ],
+  "timestamp": "2026-08-23T23:25:20.826411743Z",
+  "model": "glm-5.3"
+}

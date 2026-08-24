@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "А Яаков ішов дорогою своєю, і зустріли його посланці Елогім.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "А Яаков"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ішов"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "дорогою своєю"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "і зустріли"
+    },
+    {
+      "surface": "בו",
+      "gloss": "його"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "посланці"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    }
+  ],
+  "timestamp": "2026-08-23T21:18:11.618636496Z",
+  "model": "glm-5.3"
+}

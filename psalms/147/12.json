@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 147,
+  "translation": "Слав Єрушалаїм, Яхве ⟨את⟩; хвали, Ційоне, Елогім твого.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Слав"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Єрушалаїм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "хвали"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елогім твого"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ційоне"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:17.993430323Z",
+  "model": "glm-5.3"
+}

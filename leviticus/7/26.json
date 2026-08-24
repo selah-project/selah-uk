@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І всякої крові не їжте в усіх ваших оселях — ані від птиці, ані від худоби.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "і всякої"
+    },
+    {
+      "surface": "דם",
+      "gloss": "крові"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "їжте"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "в усіх"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "ваших оселях"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "від птиці"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "ані від худоби"
+    }
+  ],
+  "timestamp": "2026-08-23T21:39:39.820704189Z",
+  "model": "glm-5.3"
+}

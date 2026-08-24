@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І ⟨את⟩ Хіввея, і ⟨את⟩ Аркея, і ⟨את⟩ Сінея.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "І ⟨את⟩",
+      "marks": "Хіввея"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Хіввея"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Аркея"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Аркея"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Сінея"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Сінея"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:58.805723490Z",
+  "model": "glm-5.3"
+}

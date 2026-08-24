@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 21:26",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Увесь день прагне він пожадливості, а праведний дає і не стримує.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "увесь"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "прагне"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "пожадливості"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "а праведний"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дає"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "стримує"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:42.749374860Z",
+  "model": "glm-5.3"
+}

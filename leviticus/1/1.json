@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І покликав до Моше, і говорив Яхве до нього з шатра зустрічі, говорячи:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "І покликав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "і говорив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "до нього"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "з шатра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "зустрічі"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    }
+  ],
+  "timestamp": "2026-08-23T21:38:45.700972403Z",
+  "model": "glm-5.3"
+}

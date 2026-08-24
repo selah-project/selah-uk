@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Ущухла радість бубнів, урвався гуркіт веселих, ущухла радість арфи.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "ущухла"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "радість"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "бубнів"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "урвався"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "гуркіт"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "веселих"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ущухла"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "радість"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "арфи"
+    }
+  ],
+  "timestamp": "2026-08-23T23:10:18.438932618Z",
+  "model": "glm-5.3"
+}

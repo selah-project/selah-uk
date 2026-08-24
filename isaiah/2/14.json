@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І на всі гори високі, і на всі пагорби піднесені.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "гори"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "високі"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "пагорби"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "піднесені"
+    }
+  ],
+  "timestamp": "2026-08-23T23:04:01.950571678Z",
+  "model": "glm-5.3"
+}

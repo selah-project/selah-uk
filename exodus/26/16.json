@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Десять літків — довжина дошки, і лікоть і пів ліктя — ширина однієї дошки.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "десять"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "літків"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "довжина"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "дошки"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "і лікоть"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "і пів"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ліктя"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ширина"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "дошки"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "однієї"
+    }
+  ],
+  "timestamp": "2026-08-23T21:32:55.871873999Z",
+  "model": "glm-5.3"
+}

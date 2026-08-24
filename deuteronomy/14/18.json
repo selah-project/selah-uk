@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 14:18",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "і хасіда, і аната за видом її, і духіфат, і аталеф",
+  "tokens": [
+    {
+      "surface": "והחסידה",
+      "gloss": "і хасіда"
+    },
+    {
+      "surface": "והאנפה",
+      "gloss": "і аната"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "за видом її"
+    },
+    {
+      "surface": "והדוכיפת",
+      "gloss": "і духіфат"
+    },
+    {
+      "surface": "והעטלף",
+      "gloss": "і аталеф"
+    }
+  ],
+  "timestamp": "2026-08-23T22:04:13.274203738Z",
+  "model": "glm-5.3"
+}

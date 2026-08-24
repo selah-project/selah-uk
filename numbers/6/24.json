@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Хай благословить тебе Яхве і хай береже тебе!",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "Хай благословить тебе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "і хай береже тебе"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:26.711900501Z",
+  "model": "glm-5.3"
+}

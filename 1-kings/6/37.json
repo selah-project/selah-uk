@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "У четвертому році закладено ⟨את⟩ дім Яхве, у місяці Зів.",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "у році"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "четвертому"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "закладено"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "у місяці"
+    },
+    {
+      "surface": "זו",
+      "gloss": "Зів"
+    }
+  ],
+  "timestamp": "2026-08-23T22:47:33.336538363Z",
+  "model": "glm-5.3"
+}

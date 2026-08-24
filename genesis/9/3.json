@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Усяке повзуче, що живе ⟨воно⟩, — вам буде на їжу; як зелену рослину дав я вам ⟨את⟩ усе.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Усяке"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "повзуче"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨воно⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живе"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "на їжу"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "як зелену"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "рослину"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дав я"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:03.305300366Z",
+  "model": "glm-5.3"
+}

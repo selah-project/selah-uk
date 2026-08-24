@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І сказав Аврагам: я поклянусь.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагам"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "поклянусь"
+    }
+  ],
+  "timestamp": "2026-08-23T21:14:02.199341201Z",
+  "model": "glm-5.3"
+}

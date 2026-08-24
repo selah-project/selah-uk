@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Хто відповідає на слово, перш ніж почує, — глупота це йому й ганьба.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "Хто відповідає"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "на слово"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "перш ніж"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "почує"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "глупота"
+    },
+    {
+      "surface": "היא",
+      "gloss": "це"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "й ганьба"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:08.061448250Z",
+  "model": "glm-5.3"
+}

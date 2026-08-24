@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 5:19",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Згадай мені, Елогім мій, на добро все, що я вчинив ⟨для⟩ цього народу.",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "Згадай"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім мій"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "на добро"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "я вчинив"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨для⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цього"
+    }
+  ],
+  "timestamp": "2026-08-24T01:09:28.688381707Z",
+  "model": "glm-5.3"
+}

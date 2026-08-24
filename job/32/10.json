@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 32:10",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "Тому я сказав: послухайте мене, я виявлю знання — навіть я.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "я сказав"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "послухайте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "я виявлю"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "знання"
+    },
+    {
+      "surface": "אף",
+      "gloss": "навіть"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-24T00:46:19.237322746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 122,
+  "translation": "Хай буде мир у твоїх мурах, спокій у твоїх палатах.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Хай буде"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "у твоїх мурах"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "спокій"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "у твоїх палатах"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:41.546364494Z",
+  "model": "glm-5.3"
+}

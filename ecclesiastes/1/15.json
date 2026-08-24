@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Криве не можна виправити, а нестачі не можна полічити.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "криве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "можна"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "виправити"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "а нестачі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "можна"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "полічити"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:36.046338241Z",
+  "model": "glm-5.3"
+}

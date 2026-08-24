@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 24:7",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І вийшов перший жереб для Єгоярива, для Єдаяї — другий.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "І вийшов"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "жереб"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "перший"
+    },
+    {
+      "surface": "ליהויריב",
+      "gloss": "для Єгоярива"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "для Єдаяї"
+    },
+    {
+      "surface": "השני",
+      "gloss": "другий"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:18.201066510Z",
+  "model": "glm-5.3"
+}

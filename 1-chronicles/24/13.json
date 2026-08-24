@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 24:13",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Хуппі — тринадцятому, Єшева́ву — чотирнадцятому",
+  "tokens": [
+    {
+      "surface": "לחפה",
+      "gloss": "Хуппі"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надцять"
+    },
+    {
+      "surface": "לישבאב",
+      "gloss": "Єшева́ву"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чотири"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надцять"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:18.577703967Z",
+  "model": "glm-5.3"
+}

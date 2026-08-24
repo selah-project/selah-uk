@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 13:29",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Згадай їм, мій Елогіме, заprofанування священства і завіт священства і левитів.",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "Згадай"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "мій Елогіме"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "גאלי",
+      "gloss": "profанування"
+    },
+    {
+      "surface": "הכהנה",
+      "gloss": "священства"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "і завіт"
+    },
+    {
+      "surface": "הכהנה",
+      "gloss": "священства"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "і левитів"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:01.419551164Z",
+  "model": "glm-5.3"
+}

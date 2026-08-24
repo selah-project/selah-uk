@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І сказав цар: візьміть мені меча. І принесли меча перед царя.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "візьміть"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меча"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "і принесли"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "меча"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царем"
+    }
+  ],
+  "timestamp": "2026-08-23T22:46:56.152134581Z",
+  "model": "glm-5.3"
+}

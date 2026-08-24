@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 139,
+  "translation": "Бо Ти створив нирки мої, Ти сплів мене в утробі матері моєї.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "створив"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "нирки мої"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "сплів мене"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "в утробі"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "матері моєї"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:39.757092628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Хто копає яму — у неї впаде, і хто ламає огорожу — вкусить його змія.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "Хто копає"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "яму"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у неї"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "впаде"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "і хто ламає"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "огорожу"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "вкусить його"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "змія"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:56.125341978Z",
+  "model": "glm-5.3"
+}

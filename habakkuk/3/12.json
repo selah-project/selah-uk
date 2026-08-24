@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "У люті крокуєш ⟨по⟩ землі, в гніві топчеш народи.",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "у люті"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "крокуєш"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "באף",
+      "gloss": "в гніві"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "топчеш"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народи"
+    }
+  ],
+  "timestamp": "2026-08-24T00:05:37.804677403Z",
+  "model": "glm-5.3"
+}

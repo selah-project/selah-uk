@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "І кликнув посланець Яхве до Аврагама друге ⟨раз⟩ з небес.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "і кликнув"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "посланець"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагама"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "друге"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    }
+  ],
+  "timestamp": "2026-08-23T21:14:18.753683760Z",
+  "model": "glm-5.3"
+}

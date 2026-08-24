@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 28:49",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Підніме Яхве на тебе народ іздалеку, від краю ⟨землі⟩, як налітає орел, — народ, мови якого ти не розумітимеш.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "підніме"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "іздалеку"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "від краю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "ידאה",
+      "gloss": "налітає"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "орел"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "якого"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "розумітимеш"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "мови"
+    }
+  ],
+  "timestamp": "2026-08-23T22:08:39.296624456Z",
+  "model": "glm-5.3"
+}

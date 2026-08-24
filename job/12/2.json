@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Справді, ви — ⟨як⟩ народ, і з вами помре мудрість.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Справді"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨як⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "з вами"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "помре"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрість"
+    }
+  ],
+  "timestamp": "2026-08-24T00:41:20.219678550Z",
+  "model": "glm-5.3"
+}

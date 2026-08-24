@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "І вийшов Яаков з Беер-Шеви, і пішов до Харана.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "І вийшов"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "з Беер-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шеви"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "і пішов"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "до Харана"
+    }
+  ],
+  "timestamp": "2026-08-24T01:36:18.007468169Z",
+  "model": "glm-5.3"
+}

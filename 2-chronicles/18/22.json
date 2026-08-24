@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 18:22",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І тепер ось дав Яхве духа омани в уста пророків твоїх цих, і Яхве промовив на тебе лихо.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "І тепер"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "духа"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "омани"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "в уста"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "пророків твоїх"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "цих"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "і Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "промовив"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "лихо"
+    }
+  ],
+  "timestamp": "2026-08-24T01:27:18.988044045Z",
+  "model": "glm-5.3"
+}

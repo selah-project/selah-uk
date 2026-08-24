@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І відклали вони ⟨את⟩ це до ранку, як наказав Моше, і не смерділо воно, і хробаць не було в ньому.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "І відклали"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "це (ман)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ранку"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "наказав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "смерділо"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "хробаць"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "було"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в ньому"
+    }
+  ],
+  "timestamp": "2026-08-23T21:29:57.459305116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 32:26",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "Сказав Я: розвію їх, знищу пам'ять їх з-поміж людства.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Сказав Я"
+    },
+    {
+      "surface": "אפאיהם",
+      "gloss": "розвію їх"
+    },
+    {
+      "surface": "אשביתה",
+      "gloss": "знищу"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "з-поміж людства"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "пам'ять їх"
+    }
+  ],
+  "timestamp": "2026-08-23T22:10:19.607554211Z",
+  "model": "glm-5.3"
+}

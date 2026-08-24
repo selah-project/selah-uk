@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "І напишеш на ⟨ the⟩ камінні ⟨את⟩ всі слова цієї Тори, висічеш добре.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "і напишеш"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "⟨the⟩ камінні"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всі слова цієї Тори"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "цієї Тори"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цієї"
+    },
+    {
+      "surface": "באר",
+      "gloss": "висічеш"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "добре"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:05.884074578Z",
+  "model": "glm-5.3"
+}

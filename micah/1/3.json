@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Бо ось Яхве виходить зі Свого місця, і зійде, і ступатиме на висоти землі.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "виходить"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "зі Свого місця"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "і зійде"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "і ступатиме"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "висоти"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:03:38.471957128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 94,
+  "translation": "Піднесися, Суддю землі, віддай належне пихатим!",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Піднесися"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Суддю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "השב",
+      "gloss": "віддай"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "належне"
+    },
+    {
+      "surface": "על",
+      "gloss": "пихатим"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "⟨пихатим⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:46.425340231Z",
+  "model": "glm-5.3"
+}

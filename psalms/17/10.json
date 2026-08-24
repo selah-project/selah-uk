@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Жир свій заперли, уста їхні говорили в пиху.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "жир свій"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "заперли"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "уста їхні"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "говорили"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "в пиху"
+    }
+  ],
+  "timestamp": "2026-08-24T00:11:20.319415934Z",
+  "model": "glm-5.3"
+}

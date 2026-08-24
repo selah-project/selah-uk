@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Для племені Біньяміна — Палті, син Рафу.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "Для племені"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Біньяміна"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "Палті"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "Рафу"
+    }
+  ],
+  "timestamp": "2026-08-24T01:38:20.314975003Z",
+  "model": "glm-5.3"
+}

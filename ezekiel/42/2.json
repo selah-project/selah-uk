@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 42,
+  "translation": "Перед довжиною в сто ліктів — вхід на північ, а ширина — п'ятдесят ліктів.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "довжиною"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ліктів"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "вхід"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "на північ"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "а ширина"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "п'ятдесят"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ліктів"
+    }
+  ],
+  "timestamp": "2026-08-23T23:53:58.052877767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "А Йоав, син Цруї, ⟨був⟩ над військом, і Єгошафат, син Ахілуда, — ⟨був⟩ напоминatelем.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "А Йоав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Цруї"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "військом"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "і Єгошафат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Ахілуда"
+    },
+    {
+      "surface": "мазכיר",
+      "gloss": "напоминателем"
+    }
+  ],
+  "timestamp": "2026-08-24T01:18:26.942647540Z",
+  "model": "glm-5.3"
+}

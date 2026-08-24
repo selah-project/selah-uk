@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 24:21",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Щодо Рехав'ї: з синів Рехав'ї — голова Їшшія.",
+  "tokens": [
+    {
+      "surface": "לרחביהו",
+      "gloss": "Щодо Рехав'ї"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "з синів"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "Рехав'ї"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "голова"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Їшшія"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:21.661533438Z",
+  "model": "glm-5.3"
+}

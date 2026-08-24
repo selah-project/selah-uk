@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Він наситив мене гіркотами, напоїв мене полином.",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "Він наситив мене"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "гіркотами"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "напоїв мене"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "полином"
+    }
+  ],
+  "timestamp": "2026-08-24T00:51:36.707712471Z",
+  "model": "glm-5.3"
+}

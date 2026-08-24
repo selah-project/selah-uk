@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Біньямін: Бела, і Бехер, і Єдіаель, — троє.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "Біньямін"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Бела"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "і Бехер"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "і Єдіаель"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "троє"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:23.472499701Z",
+  "model": "glm-5.3"
+}

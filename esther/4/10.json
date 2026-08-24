@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І сказала Естер Гатакові, і доручила йому ⟨до⟩ Мордехая:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "і сказала"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естер"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "Гатакові"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "і доручила йому"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨до⟩"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехая"
+    }
+  ],
+  "timestamp": "2026-08-24T00:57:07.445037795Z",
+  "model": "glm-5.3"
+}

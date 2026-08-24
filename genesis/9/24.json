@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І протверезів Ноах від вина свого, і дізнався ⟨את⟩ те, що вчинив йому син менший його.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "І протверезів"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "від вина свого"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "і дізнався"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "те"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "вчинив"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "менший"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:17.673080877Z",
+  "model": "glm-5.3"
+}

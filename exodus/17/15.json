@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І збудував Моше жертовник і назвав ім'я його Яхве-Ніссі.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "І збудував"
+    },
+    {
+      "surface": "мшה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жертовник"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "і назвав"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ім'я його"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Ніссі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:30:10.672347076Z",
+  "model": "glm-5.3"
+}

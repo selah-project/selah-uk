@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "А сини Гада проти них мешкали в землі Башан аж до Салхи.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "а сини"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "проти них"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "мешкали"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землі"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Башан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Салхи"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:39.624773809Z",
+  "model": "glm-5.3"
+}

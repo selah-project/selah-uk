@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Хіба зламає залізо — залізо північне й мідь?",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "Хи зламає"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "залізо"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "залізо"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "північне"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "й мідь"
+    }
+  ],
+  "timestamp": "2026-08-23T23:27:00.495045135Z",
+  "model": "glm-5.3"
+}

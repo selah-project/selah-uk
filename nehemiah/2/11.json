@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І прибув я до Єрушалаїму, і був там три дні.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "І прибув я"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Єрушалаїму"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "і був"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дні"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    }
+  ],
+  "timestamp": "2026-08-24T01:57:11.417178187Z",
+  "model": "glm-5.3"
+}

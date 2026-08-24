@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І служили ідолам, про які Яхве сказав їм: не робіть ⟨את⟩ цю річ.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "і служили"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "ідолам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "про які"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "робіть"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цю річ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "цю річ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цю"
+    }
+  ],
+  "timestamp": "2026-08-23T23:00:54.297525127Z",
+  "model": "glm-5.3"
+}

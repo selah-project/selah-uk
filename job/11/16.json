@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 11:16",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Бо ти забудеш журбу, згадаєш її, як води, що минули.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "журбу"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "забудеш"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "як води"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "що минули"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "згадаєш"
+    }
+  ],
+  "timestamp": "2026-08-24T00:41:29.989619735Z",
+  "model": "glm-5.3"
+}

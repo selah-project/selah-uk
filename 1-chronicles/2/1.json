@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Ось сини Ізраїля: Реувен, Шимон, Леві, і Єгуда, Ісахар, і Звулун.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леві"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "і Єгуда"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Ісахар"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "і Звулун"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:29.192692946Z",
+  "model": "glm-5.3"
+}

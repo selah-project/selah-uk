@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І сказав цар Сдому до Аврама: дай мені ⟨את⟩ душу, а ⟨the⟩ майно візьми собі.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Сдому"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврама"
+    },
+    {
+      "surface": "תן",
+      "gloss": "дай"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨את⟩ душу"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "а ⟨the⟩ майно"
+    },
+    {
+      "surface": "קח",
+      "gloss": "візьми"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:46.025111436Z",
+  "model": "glm-5.3"
+}

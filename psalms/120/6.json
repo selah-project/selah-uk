@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 120,
+  "translation": "Довго вже ⟨є⟩ в оселі моя нефеш серед тих, хто ненавидить мир.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Довго"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "в оселі"
+    },
+    {
+      "surface": "לה",
+      "gloss": "вже ⟨є⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "моя нефеш"
+    },
+    {
+      "surface": "עם",
+      "gloss": "серед"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "хто ненавидить"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:08.622434250Z",
+  "model": "glm-5.3"
+}

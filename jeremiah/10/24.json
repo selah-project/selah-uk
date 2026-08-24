@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 10:24",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Караюй мене, Яхве, лише у суді, не в гніві Твоєму, щоб Ти мене не применшив.",
+  "tokens": [
+    {
+      "surface": "יסרני",
+      "gloss": "Караюй мене"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אך",
+      "gloss": "лише"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "у суді"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "в гніві Твоєму"
+    },
+    {
+      "surface": "פן",
+      "gloss": "щоб не"
+    },
+    {
+      "surface": "תמעטני",
+      "gloss": "применшив мене"
+    }
+  ],
+  "timestamp": "2026-08-23T23:25:33.721896190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "Яхве один вів його, і не ⟨було⟩ з ним бога чужого.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "один"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "вів його"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "і не"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "з ним"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бога"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "чужого"
+    }
+  ],
+  "timestamp": "2026-08-23T22:10:07.434595997Z",
+  "model": "glm-5.3"
+}

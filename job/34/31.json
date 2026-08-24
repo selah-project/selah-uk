@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 34:31",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "Бо чи сказано Елові: я зазнав ⟨покарання⟩, більше не зроблю?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "сказано"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "я зазнав"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אחבל",
+      "gloss": "зроблю"
+    }
+  ],
+  "timestamp": "2026-08-24T00:46:40.365116950Z",
+  "model": "glm-5.3"
+}

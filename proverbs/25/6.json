@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 25:6",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Не величайся перед лицем царя, і на місці великих не ставай.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תתהדר",
+      "gloss": "величайся"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед лицем"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ובמקום",
+      "gloss": "і на місці"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "великих"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ставай"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:38.669017949Z",
+  "model": "glm-5.3"
+}

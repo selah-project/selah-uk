@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І сорок ліктями був ⟨the⟩ дім — він ⟨є⟩ ⟨the⟩ святилище перед ⟨ним⟩.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "і сорок"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ліктями"
+    },
+    {
+      "surface": "היה",
+      "gloss": "був"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "святилище"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    }
+  ],
+  "timestamp": "2026-08-23T22:48:09.063270222Z",
+  "model": "glm-5.3"
+}

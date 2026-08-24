@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 39:28",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 39,
+  "translation": "На скелі він мешкає і ночує — на зубі скелі й у твердині.",
+  "tokens": [
+    {
+      "surface": "סלע",
+      "gloss": "на скелі"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "мешкає"
+    },
+    {
+      "surface": "ויתלנן",
+      "gloss": "і ночує"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שן",
+      "gloss": "зубі"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "скелі"
+    },
+    {
+      "surface": "ומצודה",
+      "gloss": "й у твердині"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:43.064710498Z",
+  "model": "glm-5.3"
+}

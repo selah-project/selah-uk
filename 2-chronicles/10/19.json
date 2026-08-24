@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І повстали Ізраїльтяни проти дому Давида до цього дня.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "І повстали"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїльтяни"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "проти дому"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "цього дня"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цієї"
+    }
+  ],
+  "timestamp": "2026-08-24T01:24:43.965444471Z",
+  "model": "glm-5.3"
+}

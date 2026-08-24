@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 105,
+  "translation": "І з'їла всю траву в їхній землі, і з'їла плід їхнього ґрунту.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "І з'їла"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "траву"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "в їхній землі"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "і з'їла"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "плід"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "їхнього ґрунту"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:32.775808676Z",
+  "model": "glm-5.3"
+}

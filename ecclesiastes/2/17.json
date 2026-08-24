@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І я зненавидів ⟨את⟩ життя, бо лихе для мене ⟨⟨це⟩⟩ діло, що чиниться під сонцем, бо все — марота й мучіння духу.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "і я зненавидів"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "життя"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "життя"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лихе"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "для мене"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "діло"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "що чиниться"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцем"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "марота"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "й мучіння"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "духу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:10.229172657Z",
+  "model": "glm-5.3"
+}

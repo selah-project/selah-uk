@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 9:17",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Бо яка добрість Його і яка краса Його! Зерно — юнакам, а молоде вино — дівам цвіте.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "מה",
+      "gloss": "яка"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "добрість Його"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "і яка"
+    },
+    {
+      "surface": "יפיו",
+      "gloss": "краса Його"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "зерно"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "юнакам"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "а молоде вино"
+    },
+    {
+      "surface": "ינובב",
+      "gloss": "цвіте"
+    },
+    {
+      "surface": "בתלות",
+      "gloss": "дівам"
+    }
+  ],
+  "timestamp": "2026-08-24T01:51:26.095431753Z",
+  "model": "glm-5.3"
+}

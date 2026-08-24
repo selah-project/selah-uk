@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 15:2",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Промовляй до синів Їсраейла і скажеш їм: коли прийдете в землю ваших осель, яку Я даю вам,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Промовляй"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраейла"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "і скажеш"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "прийдете"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "ваших осель"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даю"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    }
+  ],
+  "timestamp": "2026-08-23T21:53:11.097818008Z",
+  "model": "glm-5.3"
+}

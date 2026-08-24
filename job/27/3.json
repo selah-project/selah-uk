@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 27:3",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "бо все щодуху моя дихання в мені, і руах Елоага в моїх ніздрях,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "щодуху"
+    },
+    {
+      "surface": "נשמתי",
+      "gloss": "моя дихання"
+    },
+    {
+      "surface": "בי",
+      "gloss": "в мені"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "і руах"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Елоага"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "в моїх ніздрях"
+    }
+  ],
+  "timestamp": "2026-08-24T00:45:13.931570809Z",
+  "model": "glm-5.3"
+}

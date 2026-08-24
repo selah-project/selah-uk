@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 85,
+  "translation": "Ти зніс провину народу свого, покрив усі гріхи їхні. Села.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Ти зніс"
+    },
+    {
+      "surface": "עון",
+      "gloss": "провину"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "народу свого"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "покрив"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "гріхи їхні"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:49.195064344Z",
+  "model": "glm-5.3"
+}

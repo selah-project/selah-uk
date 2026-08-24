@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Терн піднявся в руці п'яного, і притча в устах безрозсудних.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "терн"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "піднявся"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "в руці"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "п'яного"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "і притча"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "в устах"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "безрозсудних"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:20.363501553Z",
+  "model": "glm-5.3"
+}

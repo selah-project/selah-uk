@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Стежкою праведності я ходжу, посеред путів правосуддя.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "стежкою"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "праведності"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "я ходжу"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "посеред"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "путів"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "правосуддя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:57.642021803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Ягня безвадне, самець, одноліток, нехай буде вам; з овець або з кіз візьмете його.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "ягня"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "безвадне"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "самець"
+    },
+    {
+      "surface": "בן",
+      "gloss": "одноліток"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "(року)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "нехай буде"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "овець"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "або з"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "кіз"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "візьмете"
+    }
+  ],
+  "timestamp": "2026-08-23T21:27:43.027829271Z",
+  "model": "glm-5.3"
+}

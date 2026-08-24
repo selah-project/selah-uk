@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І якби ⟨він⟩ прожив тисячу років двічі, а добра не бачив — хіба не до одного місця всі йдуть?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "і якби"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "прожив"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисячу"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "років"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "двічі"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "а добра"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "бачив"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "хіба не"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "місця"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "йдуть"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:13.395420017Z",
+  "model": "glm-5.3"
+}

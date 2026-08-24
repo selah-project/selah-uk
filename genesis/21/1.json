@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І Яхве відвідав ⟨את⟩ Сару, як ⟨він⟩ сказав, і вчинив Яхве для Сари, як ⟨він⟩ говорив.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "І Яхве"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "відвідав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сару"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сару"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "і вчинив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "для Сари"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорив"
+    }
+  ],
+  "timestamp": "2026-08-23T21:13:31.880287918Z",
+  "model": "glm-5.3"
+}

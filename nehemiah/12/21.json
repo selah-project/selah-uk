@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Хілкії — Хашав'я; Єдаї — Нетан'ел.",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "Хілкії"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашав'я"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "Єдаї"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетан'ел"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:50.960752660Z",
+  "model": "glm-5.3"
+}

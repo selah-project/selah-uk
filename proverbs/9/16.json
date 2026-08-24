@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 9:16",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "«Хто ⟨є⟩ наївний — нехай зверне сюди!» А тому, хто позбавлений серця, вона каже:",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "наївний"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "нехай зверне"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "сюди"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "а позбавлений"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серця"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "і каже вона"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:57.490193108Z",
+  "model": "glm-5.3"
+}

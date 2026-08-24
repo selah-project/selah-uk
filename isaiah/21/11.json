@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 21:11",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Пророчий присуд про Думу. До мене кличе з Сеїру: вартовий, що з ночі? Вартовий, що з ночі?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "присуд"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "Дума"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "кличе"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "з Сеїру"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "вартовий"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "מלילה",
+      "gloss": "з ночі"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "вартовий"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "מליל",
+      "gloss": "з ночі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:08:55.984697430Z",
+  "model": "glm-5.3"
+}

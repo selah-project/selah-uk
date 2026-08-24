@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 18:4",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Ось усі душі — Мої вони; як душа батька, так і душа сина — Мої вони; душа, що грішить, вона помре.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "הנפשות",
+      "gloss": "душі"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мої"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вони ⟨are⟩"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "як душа"
+    },
+    {
+      "surface": "האב",
+      "gloss": "батька"
+    },
+    {
+      "surface": "וכנפש",
+      "gloss": "так і душа"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мої"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вони ⟨are⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "що грішить"
+    },
+    {
+      "surface": "היא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "помре"
+    }
+  ],
+  "timestamp": "2026-08-23T23:45:08.816760526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 46:25",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 46,
+  "translation": "Це сини Білги, яку Лаван дав Рахелі, дочці своїй, і вона народила ⟨את⟩ цих Яакову — усіх душ сім.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Білги"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дав"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Рахелі"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "дочці своїй"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "і народила"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цих"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "цих"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яакову"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіх"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "сім"
+    }
+  ],
+  "timestamp": "2026-08-23T21:23:45.869255754Z",
+  "model": "glm-5.3"
+}

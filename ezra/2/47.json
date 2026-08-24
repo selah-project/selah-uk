@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezra 2:47",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Ґідела, сини Ґахара, сини Реайї.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "Ґідела"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "Ґахара"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "Реайї"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:35.863913988Z",
+  "model": "glm-5.3"
+}

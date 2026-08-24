@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "так, якщо розум покличеш, до розуміння піднесеш голос твій,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "так"
+    },
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "розум"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "покличеш"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "до розуміння"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "піднесеш"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "голос твій"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:36.893356167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 29:38",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І оце те, що ти зробиш на жертовнику: ягнята віком до року, два на день, щоденно.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "І оце"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "те, що"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ти зробиш"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жертовнику"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ягнята"
+    },
+    {
+      "surface": "בני",
+      "gloss": "віком до"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "року"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "на день"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "щоденно"
+    }
+  ],
+  "timestamp": "2026-08-23T21:34:08.510300982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 13:11",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І було прикро Давіду, що вчинив Яхве прорив на Узі; і назвав те місце Пereц-Уза — до дня цього.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "і було прикро"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Давіду"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "вчинив прорив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "прорив"
+    },
+    {
+      "surface": "בעזא",
+      "gloss": "на Узі"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "і назвав"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "те місце"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "те"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Пereц"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Уза"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цього"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:20.987383594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 34:32",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "Поза тим, що я бачу, — Ти навчи мене; якщо кривду я вчинив, не додам.",
+  "tokens": [
+    {
+      "surface": "בלעדי",
+      "gloss": "поза"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "я бачу"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "הרני",
+      "gloss": "навчи мене"
+    },
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "עול",
+      "gloss": "кривду"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "я вчинив"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "додам"
+    }
+  ],
+  "timestamp": "2026-08-24T00:46:40.365258296Z",
+  "model": "glm-5.3"
+}

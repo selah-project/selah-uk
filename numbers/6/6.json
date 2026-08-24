@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Усі дні посвячення його Яхві — при помершій душі не увійде він.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Усі"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дні"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "посвячення його"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхві"
+    },
+    {
+      "surface": "על",
+      "gloss": "при"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душі"
+    },
+    {
+      "surface": "מת",
+      "gloss": "помершій"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "увійде він"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:11.191469937Z",
+  "model": "glm-5.3"
+}

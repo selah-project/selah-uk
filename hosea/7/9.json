@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 7:9",
+  "book": "hosea",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "З'їли чужинці силу його, і він не знає; також сивину посипано на нього, і він не знає.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "з'їли"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "чужинці"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "силу його"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "і він"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знає"
+    },
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "сивину"
+    },
+    {
+      "surface": "זרקה",
+      "gloss": "посипано"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на нього"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "і він"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знає"
+    }
+  ],
+  "timestamp": "2026-08-24T01:50:38.391486020Z",
+  "model": "glm-5.3"
+}

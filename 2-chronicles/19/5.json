@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І поставив суддів у краї, в усіх укріплених містах Єгуди, місто за містом,",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "і поставив"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "суддів"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у краї"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "в усіх"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "містах"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "укріплених"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "місто"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "за містом"
+    }
+  ],
+  "timestamp": "2026-08-24T01:28:05.945352827Z",
+  "model": "glm-5.3"
+}

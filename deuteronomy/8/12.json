@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "щоб не сталося: ти їстимеш і наситишся, і добрі доми збудуєш, і оселишся в них —",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "щоб не сталося"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ти їстимеш"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "і наситишся"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "і доми"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "добрі"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "збудуєш"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "і оселишся"
+    }
+  ],
+  "timestamp": "2026-08-23T22:02:55.762464318Z",
+  "model": "glm-5.3"
+}

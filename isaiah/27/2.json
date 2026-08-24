@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Того дня: виноградник бажаний — заспівайте їй.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "того дня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨того⟩"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "виноградник"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "бажаний"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "заспівайте"
+    },
+    {
+      "surface": "לה",
+      "gloss": "їй"
+    }
+  ],
+  "timestamp": "2026-08-23T23:10:26.357080093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Якщо ляжеш — не злякаєшся, і ляжеш, і солодкий буде сон твій.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ляжеш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "злякаєшся"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "і ляжеш"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "і солодкий буде"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "сон твій"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:33.175690619Z",
+  "model": "glm-5.3"
+}

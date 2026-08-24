@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 3:33",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Мерарі — рід махлітів і рід мушитів; це вони, роди Мерарі.",
+  "tokens": [
+    {
+      "surface": "למררי",
+      "gloss": "Мерарі"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "рід"
+    },
+    {
+      "surface": "המחלי",
+      "gloss": "махлітів"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "і рід"
+    },
+    {
+      "surface": "המושי",
+      "gloss": "мушитів"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "הם",
+      "gloss": "вони"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "роди"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерарі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:48:28.263557965Z",
+  "model": "glm-5.3"
+}

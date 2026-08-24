@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Яхве, Адонай наш, як величне Ім'я Твоє по всій землі!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Адонай наш"
+    },
+    {
+      "surface": "мה",
+      "gloss": "як"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "величне"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Ім'я Твоє"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "по всій"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:38.058986748Z",
+  "model": "glm-5.3"
+}

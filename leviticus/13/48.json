@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 13:48",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "або в основі, або в пітканні — для льону і для вовни, або в шкірі, або у всякій роботі зі шкіри.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "в основі"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "в пітканні"
+    },
+    {
+      "surface": "לפשתים",
+      "gloss": "для льону"
+    },
+    {
+      "surface": "ולצמר",
+      "gloss": "і для вовни"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "в шкірі"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "у всякій"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "роботі"
+    },
+    {
+      "surface": "עור",
+      "gloss": "шкіри"
+    }
+  ],
+  "timestamp": "2026-08-24T01:38:04.540922483Z",
+  "model": "glm-5.3"
+}

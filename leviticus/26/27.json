@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 26:27",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "А коли й на це не послухаєте Мене, а ходитимете зi Мною всупереч,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а коли"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "й на це"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "посухаєте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мене"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "а ходитимете"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "зі Мною"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "всупереч"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:59.865236911Z",
+  "model": "glm-5.3"
+}

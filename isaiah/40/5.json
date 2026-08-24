@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "І явиться слава Яхве, і побачить усяка плоть разом, бо уста Яхве говорили.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "і явиться"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "і побачить"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усяка"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плоть"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "разом"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорили"
+    }
+  ],
+  "timestamp": "2026-08-23T23:14:47.621941851Z",
+  "model": "glm-5.3"
+}

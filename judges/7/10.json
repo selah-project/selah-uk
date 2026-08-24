@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "А якщо боїшся ти зійти, зійди ти і Пура, твій юнак, до ⟨табору⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А якщо"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "боїшся"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "зійти"
+    },
+    {
+      "surface": "רד",
+      "gloss": "зійди"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ופורה",
+      "gloss": "і Пура"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "твій юнак"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "⟨табору⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T22:20:41.749739886Z",
+  "model": "glm-5.3"
+}

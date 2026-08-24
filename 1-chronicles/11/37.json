@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Хецро кармеліт, Наарай син Езбая.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "Хецро"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "каrmеліт"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "Наарай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "Езбая"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:57.464251768Z",
+  "model": "glm-5.3"
+}

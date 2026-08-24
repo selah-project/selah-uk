@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 20:18",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Бо замкнув замкнув Яхве кожну утробу дому Авімелеха через Сару, дружину Аврагама.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "замкнув"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "замкнув"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "кожну"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кожну"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "утробу"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авімелеха"
+    },
+    {
+      "surface": "על",
+      "gloss": "через"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "справу"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сару"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "дружину"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагама"
+    }
+  ],
+  "timestamp": "2026-08-23T21:13:14.797112774Z",
+  "model": "glm-5.3"
+}

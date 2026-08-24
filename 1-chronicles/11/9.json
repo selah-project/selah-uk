@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Ішов Давид, ідучи й стаючи дедалі більшим, і Яхве Цеваот ⟨був⟩ з ним.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ішов"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ідучи"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "й стаючи дедалі більшим"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "і Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "з ним"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:00.260602506Z",
+  "model": "glm-5.3"
+}

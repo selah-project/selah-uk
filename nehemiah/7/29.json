@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Люди Кір'ят-Єарім, Кефіри й Беероту: сімсот сорок і три.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "люди"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Кір'ят"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Єарім"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "Кефіри"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "й Беероту"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "сім"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "і три"
+    }
+  ],
+  "timestamp": "2026-08-24T01:09:41.873741063Z",
+  "model": "glm-5.3"
+}

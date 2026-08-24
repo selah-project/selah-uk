@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 39,
+  "translation": "А другий ряд — нофех, саппір і ягалом.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "а ряд"
+    },
+    {
+      "surface": "השני",
+      "gloss": "другий"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "нофех"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "саппір"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "і ягалом"
+    }
+  ],
+  "timestamp": "2026-08-23T21:36:35.795309570Z",
+  "model": "glm-5.3"
+}

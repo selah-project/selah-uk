@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Понад голову мою текли води; я сказав: я відтина́ний.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "текли"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "על",
+      "gloss": "Понад"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "голову мою"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "я сказав"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "я відтина́ний"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:45.012287220Z",
+  "model": "glm-5.3"
+}

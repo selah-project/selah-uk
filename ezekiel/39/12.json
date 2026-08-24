@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 39,
+  "translation": "І поховають їх дім Ісраейлю, щоб очистити ⟨את⟩ землю, сім місяців.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "і поховають їх"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраейль"
+    },
+    {
+      "surface": "למען",
+      "gloss": "щоб"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "очистити"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "сім"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "місяців"
+    }
+  ],
+  "timestamp": "2026-08-23T23:52:08.230359058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Аврам — він ⟨є⟩ Аврагам.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагам"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:50.245676265Z",
+  "model": "glm-5.3"
+}

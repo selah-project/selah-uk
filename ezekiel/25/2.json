@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 25:2",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Сину людський, постав обличчя твоє до синів Аммона й пророкуй проти них.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сину"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людський"
+    },
+    {
+      "surface": "שים",
+      "gloss": "постав"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "обличчя твоє"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммона"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "й пророкуй"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "проти них"
+    }
+  ],
+  "timestamp": "2026-08-23T23:48:35.121094741Z",
+  "model": "glm-5.3"
+}

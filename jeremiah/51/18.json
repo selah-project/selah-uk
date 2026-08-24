@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 51:18",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 51,
+  "translation": "Марнота вони, виріб омани; у час їхнього відвідування згинуть.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "марнота"
+    },
+    {
+      "surface": "המה",
+      "gloss": "вони"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "виріб"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "омани"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "у час"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "їхнього відвідування"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "згинуть"
+    }
+  ],
+  "timestamp": "2026-08-23T23:39:49.925766534Z",
+  "model": "glm-5.3"
+}

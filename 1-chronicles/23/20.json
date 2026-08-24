@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Сини Уззіеля: Міха ⟨голова⟩, і Їшшия ⟨другий⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Уззіеля"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Міха"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "⟨голова⟩"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "і Їшшия"
+    },
+    {
+      "surface": "השני",
+      "gloss": "⟨другий⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T01:19:58.243768089Z",
+  "model": "glm-5.3"
+}

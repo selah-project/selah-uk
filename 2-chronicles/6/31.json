@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-chronicles 6:31",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "щоб боялися тебе, ходити путями твоїми всі дні, які вони живі на лиці землі, яку ти дав батькам нашим.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "щоб"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "боялися тебе"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ходити"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "путями твоїми"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дні"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "הם",
+      "gloss": "вони"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живі"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лиці"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "землі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ти дав"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "батькам нашим"
+    }
+  ],
+  "timestamp": "2026-08-24T01:23:40.167695859Z",
+  "model": "glm-5.3"
+}

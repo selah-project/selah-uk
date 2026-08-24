@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 25:43",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Не пануй над ним жорстоко, а бійся Елогім твого.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרדה",
+      "gloss": "пануй"
+    },
+    {
+      "surface": "בו",
+      "gloss": "над ним"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "жорстоко"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "а бійся"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Елогім твого"
+    }
+  ],
+  "timestamp": "2026-08-23T21:45:50.822655867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 34:23",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "Бо не на мужа Він покладе ⟨ще⟩, щоб іти до Еля в суді.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "Він покладе"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "щоб іти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Еля"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "в суді"
+    }
+  ],
+  "timestamp": "2026-08-24T00:46:53.239792436Z",
+  "model": "glm-5.3"
+}

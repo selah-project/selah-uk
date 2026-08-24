@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Не будь мені жахом: ти — притулок мій у день лиха.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "будь"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "жахом"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "притулок мій"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у день"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "лиха"
+    }
+  ],
+  "timestamp": "2026-08-23T23:28:16.087773788Z",
+  "model": "glm-5.3"
+}

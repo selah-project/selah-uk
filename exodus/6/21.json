@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І сини Іцгара: Корах, і Нефег, і Зіхрі.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "І сини"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Іцгара"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "і Нефег"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "і Зіхрі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:26:04.645698562Z",
+  "model": "glm-5.3"
+}

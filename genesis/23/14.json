@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І відповів Ефрон ⟨את⟩ Аврагама, кажучи йому:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "і відповів"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Ефрон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврагама"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагама"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    }
+  ],
+  "timestamp": "2026-08-23T21:13:29.380557597Z",
+  "model": "glm-5.3"
+}

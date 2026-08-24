@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Тобі показано, щоб знати, що Яхве — ⟨він⟩ Елогім, немає ⟨нічого⟩ іще окрім Нього.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Тобі"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "показано"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "щоб знати"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "іще"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "окрім Нього"
+    }
+  ],
+  "timestamp": "2026-08-23T22:02:18.978229489Z",
+  "model": "glm-5.3"
+}

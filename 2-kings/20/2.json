@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І обернув ⟨את⟩ обличчя своє до муру, і молився до Яхве, кажучи:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "і обернув"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "обличчя своє"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "обличчя своє"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "муру"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "і молився"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T23:02:47.735234219Z",
+  "model": "glm-5.3"
+}

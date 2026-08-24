@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 17:26",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "У самий день цей обрізано Аврагама та Ішмаеля, сина його.",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "У самий"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цей"
+    },
+    {
+      "surface": "נמול",
+      "gloss": "обрізано"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагама"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "та Ішмаеля"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сина його"
+    }
+  ],
+  "timestamp": "2026-08-23T21:12:21.181616787Z",
+  "model": "glm-5.3"
+}

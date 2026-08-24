@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 145,
+  "translation": "Підпирає Яхве всіх падаючих, і випрямляє всіх зігнутих.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "Підпирає"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "всіх"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "падаючих"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "і випрямляє"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "всіх"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "зігнутих"
+    }
+  ],
+  "timestamp": "2026-08-24T00:30:42.387296623Z",
+  "model": "glm-5.3"
+}

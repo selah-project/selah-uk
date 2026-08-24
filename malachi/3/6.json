@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Бо Я — Яхве, ⟨не змінився⟩ Я, і ви, сини Яакова, — не зникли ви.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "змінився-Я"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "і-ви"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "зникли-ви"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:22.165466153Z",
+  "model": "glm-5.3"
+}

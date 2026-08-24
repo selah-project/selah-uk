@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 27:23",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Знати добре знай обличчя твоєї отари, зверни серце своє до стад.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "Знати"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "знай добре"
+    },
+    {
+      "surface": "פני",
+      "gloss": "обличчя"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "твоєї отари"
+    },
+    {
+      "surface": "שית",
+      "gloss": "зверни"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "серце своє"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "до стад"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:03.102442387Z",
+  "model": "glm-5.3"
+}

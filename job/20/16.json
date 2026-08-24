@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 20:16",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Отруту аспідів ссе — вб'є його язик гадюки.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Отруту"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "аспідів"
+    },
+    {
+      "surface": "יינק",
+      "gloss": "ссе"
+    },
+    {
+      "surface": "תהרגהו",
+      "gloss": "вб'є його"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "язик"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "гадюки"
+    }
+  ],
+  "timestamp": "2026-08-24T00:43:20.226995178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І пішов чоловік з дому Леві, і взяв ⟨את⟩ дочку Леві.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "і пішов"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "з дому"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леві"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "і взяв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дочку Леві"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочку"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леві"
+    }
+  ],
+  "timestamp": "2026-08-23T21:24:54.050343586Z",
+  "model": "glm-5.3"
+}

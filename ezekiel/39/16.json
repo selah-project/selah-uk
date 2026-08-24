@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 39:16",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 39,
+  "translation": "І також ім'я міста — Гамона; і очистять землю.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "і-також"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ім'я"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "міста"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "Гамона"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "і-очистять"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    }
+  ],
+  "timestamp": "2026-08-23T23:52:28.412845375Z",
+  "model": "glm-5.3"
+}

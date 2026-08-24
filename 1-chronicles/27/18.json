@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 27:18",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Над Єгудою — Елігу, з братів Давида; над Іссахаром — Омрі, син Мікаела.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "Над Єгудою"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Елігу"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "з братів"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "ליששכר",
+      "gloss": "над Іссахаром"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Омрі"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Мікаела"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:56.070156983Z",
+  "model": "glm-5.3"
+}

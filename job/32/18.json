@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 32:18",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "Бо сповнений я слів, стиснула мене руах мого нутра.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "сповнений я"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "слів"
+    },
+    {
+      "surface": "הציקתני",
+      "gloss": "стиснула мене"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "нутра"
+    }
+  ],
+  "timestamp": "2026-08-24T00:46:28.609508188Z",
+  "model": "glm-5.3"
+}

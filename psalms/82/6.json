@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 82,
+  "translation": "Я сказав: боги ви, і сини Ельйона — усі ви.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "боги"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "і сини"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ельйона"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "усі ви"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:14.659306037Z",
+  "model": "glm-5.3"
+}

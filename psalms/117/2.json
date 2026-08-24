@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 117,
+  "translation": "Бо міцна над нами Його хесед, і правда Яхве — навіки. Хваліть Ях!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "міцна"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "над нами"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Його хесед"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "і правда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Хваліть"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:53.784363470Z",
+  "model": "glm-5.3"
+}

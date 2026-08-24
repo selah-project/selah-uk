@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "і Єрмія, і Яхазіїл, і Йоханан, і Йозавад ⟨the⟩ ґедератит",
+  "tokens": [
+    {
+      "surface": "וירמיה",
+      "gloss": "і Єрмія"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "і Яхазіїл"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "і Йоханан"
+    },
+    {
+      "surface": "ויוזבד",
+      "gloss": "і Йозавад"
+    },
+    {
+      "surface": "הגדרתי",
+      "gloss": "ґедератит"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:17.871472052Z",
+  "model": "glm-5.3"
+}

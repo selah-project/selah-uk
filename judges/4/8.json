@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І сказав їй Барак: якщо підеш зі мною — піду, а якщо не підеш зі мною — не піду.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "їй"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Барак"
+    },
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "підеш"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "зі мною"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "піду"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "а якщо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "підеш"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "зі мною"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "піду"
+    }
+  ],
+  "timestamp": "2026-08-24T01:40:42.840410036Z",
+  "model": "glm-5.3"
+}

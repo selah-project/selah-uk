@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 15:4",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "І зібрав Давид ⟨את⟩ синів Агарона і ⟨את⟩ левитів.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "І зібрав"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синів Агарона"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарона"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "левитів"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитів"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:30.683609543Z",
+  "model": "glm-5.3"
+}

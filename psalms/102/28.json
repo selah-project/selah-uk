@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 102,
+  "translation": "А Ти — ⟨той самий⟩, і роки Твої не скінчаться.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А Ти"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨той самий⟩"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "і роки Твої"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "скінчаться"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:47.473194535Z",
+  "model": "glm-5.3"
+}

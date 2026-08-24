@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 81,
+  "translation": "О якби народ Мій слухав Мене, Їсраель ходив би Моїми шляхами!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "о якби"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народ Мій"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слухав"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мене"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраель"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "Моїми шляхами"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ходив би"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:51.305828409Z",
+  "model": "glm-5.3"
+}

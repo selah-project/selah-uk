@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "поставлено нерозумного на висотах великих, а багаті в низині сидять.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "поставлено"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "нерозумного"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "на висотах"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "великих"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "а багаті"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "в низині"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "сидять"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:56.125047002Z",
+  "model": "glm-5.3"
+}

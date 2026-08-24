@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Яхве, Елогіме мій, якщо зробив я це, якщо кривда ⟨є⟩ на долонях моїх,",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогіме мій"
+    },
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "зробив я"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨є⟩"
+    },
+    {
+      "surface": "עול",
+      "gloss": "кривда"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "на долонях моїх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:30.486519816Z",
+  "model": "glm-5.3"
+}

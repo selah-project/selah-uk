@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І були сини в Шоваля, батька Кір'ят-Єаріму: Гарое, і половина Менахотів.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "і були"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сини"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "у Шоваля"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батька"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Кір'ят"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Єаріму"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "Гарое"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "половина"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "Менахотів"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:58.554555657Z",
+  "model": "glm-5.3"
+}

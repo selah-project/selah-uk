@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І не забрав Давид ⟨את⟩ ковчега до себе, у місто Давида, а відхилив ⟨его⟩ до дому Овед-Едома гіттіянина.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "забрав"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ковчега"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ковчега"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "до себе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "міста"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "а відхилив"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Овед-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Едома"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "гіттіянина"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:01.195738532Z",
+  "model": "glm-5.3"
+}

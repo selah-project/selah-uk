@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І почув Давид, і послав ⟨את⟩ Йоава та ⟨את⟩ усе військо могутніх.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "І почув"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "і послав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йоава"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоава"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "усе військо могутніх"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "військо"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "могутніх"
+    }
+  ],
+  "timestamp": "2026-08-24T01:18:53.536287122Z",
+  "model": "glm-5.3"
+}

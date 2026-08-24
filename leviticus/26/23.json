@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 26:23",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "І якщо цим не дастеся виправити Мені, а ходитимете зі Мною вороже,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "І якщо"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "цим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוסרו",
+      "gloss": "дастеся виправити"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мені"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "а ходитимете"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "зі Мною"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "вороже"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:50.551826674Z",
+  "model": "glm-5.3"
+}

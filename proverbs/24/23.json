@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Також ці ⟨є⟩ для мудрих: упізнавання осіб на суді — не добре.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Також"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "для мудрих"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "упізнавання"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "осіб"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "на суді"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добре"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:15.613270719Z",
+  "model": "glm-5.3"
+}

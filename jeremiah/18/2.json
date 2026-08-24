@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Устань і зійди до дому гончаря, і там Я дам тобі почути ⟨את⟩ Мої слова.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "устань"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "і зійди"
+    },
+    {
+      "surface": "בית",
+      "gloss": "до дому"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "гончара"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "і там"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "Я дам тобі почути"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мої слова"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Мої слова"
+    }
+  ],
+  "timestamp": "2026-08-23T23:28:55.898979907Z",
+  "model": "glm-5.3"
+}

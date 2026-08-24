@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "І народила Зілпа, невільниця Леи, Яакову другого сина.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "І народила"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Зілпа"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "невільниця"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "שני",
+      "gloss": "другого"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яакову"
+    }
+  ],
+  "timestamp": "2026-08-23T21:16:15.710095964Z",
+  "model": "glm-5.3"
+}

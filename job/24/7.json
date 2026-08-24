@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Нагі ночують без одягу, і немає покриву в холоді.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "нагі"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "ночу́ють"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "одягу"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "і немає"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "покриву"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "в холоді"
+    }
+  ],
+  "timestamp": "2026-08-24T00:44:48.086776882Z",
+  "model": "glm-5.3"
+}

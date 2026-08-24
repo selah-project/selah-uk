@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "job 38:36",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "Хто поклав мудрість у нутрощі? Або хто дав розуміння серцеві?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "שת",
+      "gloss": "поклав"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "у нутрощі"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрість"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дав"
+    },
+    {
+      "surface": "לשכוי",
+      "gloss": "серцеві"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "розуміння"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:15.104888083Z",
+  "model": "glm-5.3"
+}

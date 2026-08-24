@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Проклятий, хто принижує батька свого та матір свою; і скаже ввесь народ: Амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Проклятий"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "хто принижує"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "батька свого"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "та матір свою"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "і скаже"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ввесь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:22.017664435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 21:34",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І проживав Аврагам у землі пеліштимців багато днів.",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "і проживав"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагам"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у землі"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "пеліштимців"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "багато"
+    }
+  ],
+  "timestamp": "2026-08-23T21:13:11.815459485Z",
+  "model": "glm-5.3"
+}

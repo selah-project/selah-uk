@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 34:15",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "Тільки в цьому згодимося вам: якщо будете як ми, — обрізатися вам кожного самця.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Тільки"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "в цьому"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "згодимося"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "будете"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "як ми"
+    },
+    {
+      "surface": "להמל",
+      "gloss": "обрізатися"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "собі"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кожного"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "самця"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:49.428396705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Кращий хлопчик бідний і мудрий за царя старого й нерозумного, який не знав, як остерігатися більше.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Кращий"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "хлопчик"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "бідний"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "і мудрий"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "за царя"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "старого"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "й нерозумного"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знав"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "як остерігатися"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "більше"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:52.103278491Z",
+  "model": "glm-5.3"
+}

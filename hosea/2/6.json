@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "А ⟨את⟩ синів її не змилуюсь, бо сини блудодійництва вони.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "синів її"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "синів її"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "змилуюсь"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "блудодійництва"
+    },
+    {
+      "surface": "המה",
+      "gloss": "вони"
+    }
+  ],
+  "timestamp": "2026-08-23T23:56:51.464832993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І дві маслини на ній — одна справа від кулі, а одна зліва від неї.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "І дві"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "маслини"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на ній"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одна"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "справа від"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "кулі"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "а одна"
+    },
+    {
+      "surface": "על",
+      "gloss": "з"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "лівого боку її"
+    }
+  ],
+  "timestamp": "2026-08-24T00:06:57.063605756Z",
+  "model": "glm-5.3"
+}

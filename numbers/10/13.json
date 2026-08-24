@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 10:13",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І вирушили вони першого разу на устах Яхве, рукою Моше.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "і вирушили"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "першого разу"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "рукою"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:50.561249722Z",
+  "model": "glm-5.3"
+}

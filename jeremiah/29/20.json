@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "А ви слухайте слово Яхве, усе вигнання, яке Я вислав з Єрушалаїма до Бавелю.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "А ви"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слухайте"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "вигнання"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "Я вислав"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "з Єрушалаїма"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "до Бавелю"
+    }
+  ],
+  "timestamp": "2026-08-23T23:32:06.958160059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І буде назване ім'я його в Ізраїлі: Дім знятосандалевого.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "і буде назване"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ім'я його"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Ізраїлі"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "знятосандалевий"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "сандалі"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:30.648854764Z",
+  "model": "glm-5.3"
+}

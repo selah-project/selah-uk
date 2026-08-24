@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Хто робить великі ⟨речі⟩ до не-зліданого, і дивні — до без числа.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "робить"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "великі ⟨речі⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אין",
+      "gloss": "не-"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "зліданого"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "і дивні"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אין",
+      "gloss": "без"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "числа"
+    }
+  ],
+  "timestamp": "2026-08-24T00:40:39.122976617Z",
+  "model": "glm-5.3"
+}

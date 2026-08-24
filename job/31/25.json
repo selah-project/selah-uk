@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 31:25",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Якщо я радів, що великий мій статок, і що багате знайшла рука моя,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Якщо"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "я радів"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "רב",
+      "gloss": "великий"
+    },
+    {
+      "surface": "חילי",
+      "gloss": "мій статок"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "і що"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "багате"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "знайшла"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "рука моя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:45:43.777452424Z",
+  "model": "glm-5.3"
+}

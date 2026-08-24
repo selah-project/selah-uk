@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 130,
+  "translation": "Пісня сходів. З глибин покликав я Тебе, Яхве.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Пісня"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "сходів"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "З глибин"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "покликав я Тебе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:11.786696723Z",
+  "model": "glm-5.3"
+}

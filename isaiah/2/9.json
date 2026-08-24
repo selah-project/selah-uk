@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І схилився смертний, і принизився чоловік — і не прощай їм!",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "і схилився"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "смертний"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "і принизився"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "прощай"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    }
+  ],
+  "timestamp": "2026-08-23T23:04:05.156664862Z",
+  "model": "glm-5.3"
+}

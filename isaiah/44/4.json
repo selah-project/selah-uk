@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 44,
+  "translation": "І зійдуть пагони серед трави, як верби при потоках вод.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "і зійдуть пагони"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "серед"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "трави"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "як верби"
+    },
+    {
+      "surface": "על",
+      "gloss": "при"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "потоках"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вод"
+    }
+  ],
+  "timestamp": "2026-08-23T23:15:44.906442766Z",
+  "model": "glm-5.3"
+}

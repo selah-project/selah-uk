@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І вийшов Кайін від лиця Яхве, і поселився в землі Нод, на схід від Едену.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "І вийшов"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Кайін"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "від лиця"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "і поселився"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землі"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Нод"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "на схід"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "від Едену"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:56.498643716Z",
+  "model": "glm-5.3"
+}

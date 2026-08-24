@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "цар Дору, у Нафат-Дорі, один; цар Гоїм, у Ґілґалі, один;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Дору"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "у Нафат"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Дорі"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Гоїм"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "у Ґілґалі"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-24T01:39:59.638018052Z",
+  "model": "glm-5.3"
+}

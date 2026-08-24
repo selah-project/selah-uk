@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І зробить ⟨את⟩ одного з горлиць або з молодих голубів, з того, що сягає рука його.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "і зробить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "одного"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "одного"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "горлиць"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "בני",
+      "gloss": "молодих"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "голубів"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "з того, що"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "сягає"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "рука його"
+    }
+  ],
+  "timestamp": "2026-08-23T21:42:21.142328656Z",
+  "model": "glm-5.3"
+}

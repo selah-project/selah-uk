@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І від синів Біньяміна: Саллу син Мешулама, син Годавʼї, син Гаснуа.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "І від"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Біньяміна"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "Саллу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешулама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "Годавʼї"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Гаснуа"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:30.253120669Z",
+  "model": "glm-5.3"
+}

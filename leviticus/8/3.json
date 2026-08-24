@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "і ⟨את⟩ всю громаду скликай до входу намету зустрічі.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "всю громаду"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "громаду"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "скликай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входу"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "намету"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "зустрічі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:39:48.117158074Z",
+  "model": "glm-5.3"
+}

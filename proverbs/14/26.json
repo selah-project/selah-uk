@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 14:26",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "У страху Яхве — міцна опора, і для дітей його ⟨буде⟩ прибіжище.",
+  "tokens": [
+    {
+      "surface": "ביראת",
+      "gloss": "у страху"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "опора"
+    },
+    {
+      "surface": "עז",
+      "gloss": "міцна"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "і для дітей його"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨буде⟩"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "прибіжище"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:06.276353067Z",
+  "model": "glm-5.3"
+}

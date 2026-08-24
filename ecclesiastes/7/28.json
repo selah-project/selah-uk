@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ecclesiastes 7:28",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Що ще шукала душа моя, і не знайшла: одну людину з тисячі знайшов я, а жінки серед усього цього не знайшов я.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "בקשה",
+      "gloss": "шукала"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моя"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "знайшла"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людину"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одну"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "з тисячі"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "знайшов я"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "а жінки"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "серед усього"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "цього"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "знайшов я"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:53.190741297Z",
+  "model": "glm-5.3"
+}

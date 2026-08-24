@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 118,
+  "translation": "О Яхве, врятуй же, о Яхве, дай щастя ж бо!",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "о"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "врятуй"
+    },
+    {
+      "surface": "נא",
+      "gloss": "же"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "о"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "дай щастя"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ж бо"
+    }
+  ],
+  "timestamp": "2026-08-24T01:53:27.031912983Z",
+  "model": "glm-5.3"
+}

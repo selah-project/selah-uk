@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 46:7",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 46,
+  "translation": "Хто це, що підіймається, як той потік, що клекоче водами, як ріки?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "як той потік"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "підіймається"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "як ріки"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "клекоче"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "водами"
+    }
+  ],
+  "timestamp": "2026-08-23T23:36:23.928357965Z",
+  "model": "glm-5.3"
+}

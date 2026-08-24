@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Так було постійно: хмара вкривала ⟨її⟩, а вигляд огню — вночі.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "було"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "постійно"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "хмара"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "вкривала її"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "а вигляд"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огню"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "вночі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:51:24.736093605Z",
+  "model": "glm-5.3"
+}

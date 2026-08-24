@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І підвів Моше ⟨את⟩ Агарона й ⟨את⟩ синів його, й обмив ⟨את⟩ їх водою.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "І підвів"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Агарона"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарона"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "й ⟨את⟩",
+      "marks": "синів його"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синів його"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "й обмив"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ їх"
+    },
+    {
+      "surface": "במים",
+      "gloss": "водою"
+    }
+  ],
+  "timestamp": "2026-08-23T21:41:06.376401617Z",
+  "model": "glm-5.3"
+}

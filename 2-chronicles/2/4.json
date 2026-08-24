@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "А дім, який я будую, великий, бо великий Елогім наш понад усіма богами.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "А-дім"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "будую"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елогім-наш"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "понад-усіма"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "богами"
+    }
+  ],
+  "timestamp": "2026-08-24T01:22:43.411993180Z",
+  "model": "glm-5.3"
+}

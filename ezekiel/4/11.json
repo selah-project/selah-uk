@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 4:11",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І воду за мірою питимеш — шосту частину гіна; від часу до часу питимеш її.",
+  "tokens": [
+    {
+      "surface": "ומים",
+      "gloss": "і воду"
+    },
+    {
+      "surface": "במשורה",
+      "gloss": "за мірою"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "питимеш"
+    },
+    {
+      "surface": "ששית",
+      "gloss": "шосту частину"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "гіна"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "від часу"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עת",
+      "gloss": "часу"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "питимеш"
+    }
+  ],
+  "timestamp": "2026-08-24T01:48:54.358992763Z",
+  "model": "glm-5.3"
+}

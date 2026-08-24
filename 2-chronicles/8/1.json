@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І сталося в кінці двадцяти років, коли Шломо збудував ⟨את⟩ дім Яхве і ⟨את⟩ дім свій,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "в кінці"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцяти"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коли"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "збудував"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дім Яхве"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "дім свій"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "дім свій"
+    }
+  ],
+  "timestamp": "2026-08-24T01:24:15.240619785Z",
+  "model": "glm-5.3"
+}

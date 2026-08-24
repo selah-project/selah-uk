@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "А дому царя Єгуди: слухайте слово Яхве.",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "а дому"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слухайте"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:47:09.535130110Z",
+  "model": "glm-5.3"
+}

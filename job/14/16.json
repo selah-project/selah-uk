@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 14:16",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Тоді б ти лічив мої кроки, але не стеріг би мого гріха.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "тоді б"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "тепер"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "мої кроки"
+    },
+    {
+      "surface": "תספור",
+      "gloss": "ти лічив би"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמור",
+      "gloss": "стеріг би"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "мого гріха"
+    }
+  ],
+  "timestamp": "2026-08-24T00:42:27.668571554Z",
+  "model": "glm-5.3"
+}

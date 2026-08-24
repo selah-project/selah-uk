@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 23:11",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Коли буде в тобі чоловік, що не буде чистий від події нічої, і вийде він до-зовні табору — не ввійде він до середини табору.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Коли"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в тобі"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чистий"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "від події"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "нічої"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "і вийде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "зовні"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "табору"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ввійде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "середини"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "табору"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:08.271491899Z",
+  "model": "glm-5.3"
+}

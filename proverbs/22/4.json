@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Наслідком смирення і страху Яхве — багатство, і слава, і життя.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "наслідком"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "смирення"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "страху"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "багатство"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "і слава"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "і життя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:19.724520829Z",
+  "model": "glm-5.3"
+}

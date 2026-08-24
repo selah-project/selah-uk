@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "У Ґів'оні з'явився Яхве Шломові в сні ночі, і сказав Елогім: проси — що дам тобі?",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "У Ґів'оні"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "з'явився"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Шломові"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "в сні"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ночі"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "проси"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "дам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    }
+  ],
+  "timestamp": "2026-08-23T22:46:24.556049495Z",
+  "model": "glm-5.3"
+}

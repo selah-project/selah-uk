@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І відпустив Моше ⟨את⟩ свого тестя, і той пішов собі до своєї землі.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "І відпустив"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свого тестя"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "свого тестя"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "і пішов"
+    },
+    {
+      "surface": "לו",
+      "gloss": "собі"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "своєї землі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:30:20.810077073Z",
+  "model": "glm-5.3"
+}

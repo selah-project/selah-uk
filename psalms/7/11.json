@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Щит мій — над Елогім, спаситель правих серцем.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "щит мій"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "спаситель"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "правих"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серцем"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:26.214412472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 52,
+  "translation": "Навіщо хвалишся ти злобою, о сильнику? Хесед Еля — увесь день.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Навіщо"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "хвалишся ти"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "злобою"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "о сильнику"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Хесед"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Еля"
+    },
+    {
+      "surface": "כל",
+      "gloss": "увесь"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:15.807573893Z",
+  "model": "glm-5.3"
+}

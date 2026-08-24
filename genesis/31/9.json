@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "І визволив Елогім ⟨את⟩ худобу батька вашого, і дав ⟨її⟩ мені.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "і визволив"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "худобу"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "худобу"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "батька вашого"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "і дав"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    }
+  ],
+  "timestamp": "2026-08-23T21:17:43.549195145Z",
+  "model": "glm-5.3"
+}

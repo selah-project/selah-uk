@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 11:31",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "А сини Біньяміна — від Геви: Міхмаш, і Ая, і Бейт-Ель, і дочки його.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А сини"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Біньяміна"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "від Геви"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Міхмаш"
+    },
+    {
+      "surface": "ועיה",
+      "gloss": "і Ая"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "і Бейт-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "і дочки його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:22.195742499Z",
+  "model": "glm-5.3"
+}

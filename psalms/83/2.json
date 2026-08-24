@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 83,
+  "translation": "Елогім, не будь Собі тихим, не мовчи й не спокійствуй, Еле!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "будь тихим"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Собі"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "мовчи"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "й не"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "спокійствуй"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Еле"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:47.577233663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 31:18",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "І Я цілком сховаю обличчя Моє того дня за все зло, яке вчинив, — за те, що обернувся до богів інших.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "і-Я"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "цілком"
+    },
+    {
+      "surface": "אסתיר",
+      "gloss": "сховаю"
+    },
+    {
+      "surface": "פני",
+      "gloss": "обличчя-Моє"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у-день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "вчинив"
+    },
+    {
+      "surface": "כי",
+      "gloss": "за-те-що"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "обернувся"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богів"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "інших"
+    }
+  ],
+  "timestamp": "2026-08-23T22:10:55.184527123Z",
+  "model": "glm-5.3"
+}

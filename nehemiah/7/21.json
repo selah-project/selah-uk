@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Сини Атера Хизкіїного — дев'яносто вісім.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "Атера"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "Хизкіїного"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "дев'яносто"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "вісім"
+    }
+  ],
+  "timestamp": "2026-08-24T01:09:51.432959168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Сину мій, не ходи в дорозі ⟨את⟩ них, стримай твою ногу від їхньої стежки,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сину мій"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ходи"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "в дорозі"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ними",
+      "marks": "ними"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "стримай"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "твою ногу"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "від їхньої стежки"
+    }
+  ],
+  "timestamp": "2026-08-24T00:30:50.505847373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "У вухах глупця не говори, бо зневажить ⟨він⟩ розум слів твоїх.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "у вухах"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупця"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יבוז",
+      "gloss": "зневажить"
+    },
+    {
+      "surface": "לשכל",
+      "gloss": "розум"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "слів твоїх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:49.766434582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "І встав Білам уранці, і осідлав ⟨את⟩ свою ослицю, і пішов із князями Моаву.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "і встав"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Білам"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "уранці"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "і осідлав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свою ослицю"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "свою ослицю"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "і пішов"
+    },
+    {
+      "surface": "עם",
+      "gloss": "із"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "князями"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаву"
+    }
+  ],
+  "timestamp": "2026-08-24T01:39:19.132978398Z",
+  "model": "glm-5.3"
+}

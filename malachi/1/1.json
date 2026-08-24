@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Тягар слова Яхве до Ізраїлю рукою Малахі.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Тягар"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слова"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлю"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "рукою"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Малахі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:09:15.158169663Z",
+  "model": "glm-5.3"
+}

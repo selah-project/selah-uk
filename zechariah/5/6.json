@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 5:6",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І я сказав: що ⟨це⟩? І він сказав: оце ефа, що виходить. І він сказав: оце око їхнє в усій землі.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "І я сказав"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨це⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і він сказав"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "оце"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ефа"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "що виходить"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і він сказав"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "оце"
+    },
+    {
+      "surface": "עינם",
+      "gloss": "око їхнє"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "в усій"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:07:29.941934081Z",
+  "model": "glm-5.3"
+}

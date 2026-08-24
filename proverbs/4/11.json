@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 4:11",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Дорогою мудрості я вчив тебе, я вів тебе стежками правоти.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "дорогою"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрості"
+    },
+    {
+      "surface": "הרתיך",
+      "gloss": "я вчив тебе"
+    },
+    {
+      "surface": "הדרכתיך",
+      "gloss": "я вів тебе"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "стежками"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "правоти"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:47.194942634Z",
+  "model": "glm-5.3"
+}

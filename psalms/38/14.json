@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "А я ⟨як⟩ глухий не чую, і ⟨як⟩ німий не відкриває рота свого.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а я"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "⟨як⟩ глухий"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "чую"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "і ⟨як⟩ німий"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "відкриває"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "рота свого"
+    }
+  ],
+  "timestamp": "2026-08-24T00:14:57.464314032Z",
+  "model": "glm-5.3"
+}

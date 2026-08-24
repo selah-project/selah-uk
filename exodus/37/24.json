@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "Кіккар золота чистого зробив він ⟨את⟩ неї й ⟨את⟩ усіх приладь її.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "Кіккар"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золота"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чистого"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "зробив"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "неї"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "усіх приладь її"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіх"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "приладь її"
+    }
+  ],
+  "timestamp": "2026-08-23T21:36:37.367190954Z",
+  "model": "glm-5.3"
+}

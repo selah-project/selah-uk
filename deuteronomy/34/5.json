@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "І помер там Моше, раб Яхве, в землі Моаву, згідно з ⟨устами⟩ Яхве.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "і помер"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "раб"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землі"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаву"
+    },
+    {
+      "surface": "על",
+      "gloss": "згідно з"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨устами⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T22:09:30.349375685Z",
+  "model": "glm-5.3"
+}

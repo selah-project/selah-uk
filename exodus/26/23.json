@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 26:23",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "і дві дошки зробиш для кутів ⟨the⟩ скинії, на два задні кути.",
+  "tokens": [
+    {
+      "surface": "ושני",
+      "gloss": "і дві"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "дошки"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "зробиш"
+    },
+    {
+      "surface": "למקצעת",
+      "gloss": "для кутів"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "⟨the⟩ скинії"
+    },
+    {
+      "surface": "בירכתים",
+      "gloss": "на два задні кути"
+    }
+  ],
+  "timestamp": "2026-08-23T21:32:59.959025370Z",
+  "model": "glm-5.3"
+}

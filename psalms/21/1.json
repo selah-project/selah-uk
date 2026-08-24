@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Керуючому ⟨співом⟩, Mizmor Давіду.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керуючому ⟨співом⟩"
+    },
+    {
+      "surface": "мізмор",
+      "gloss": "псалом-наспів"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давіду"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:34.100156862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 74,
+  "translation": "А Елогім — Цар мій віддавна, Творець спасінь посеред землі.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "А Елогім"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Цар мій"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "віддавна"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "Творець"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "спасінь"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "посеред"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:12.252285782Z",
+  "model": "glm-5.3"
+}

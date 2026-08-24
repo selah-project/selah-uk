@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "І ходитиму широко, бо постанови Твої я шукав.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "і ходитиму"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "широко"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "постанови Твої"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "я шукав"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:20.939469816Z",
+  "model": "glm-5.3"
+}

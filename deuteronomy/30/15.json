@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Дивись, я дав перед тобою сьогодні ⟨את⟩ життя і ⟨את⟩ добро, і ⟨את⟩ смерть і ⟨את⟩ зло.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "дивись"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "я дав"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "перед тобою"
+    },
+    {
+      "surface": "היום",
+      "gloss": "сьогодні"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "життя"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "життя"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "добро"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "смерть"
+    },
+    {
+      "surface": "המות",
+      "gloss": "смерть"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "зло"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-08-23T22:08:08.808433925Z",
+  "model": "glm-5.3"
+}

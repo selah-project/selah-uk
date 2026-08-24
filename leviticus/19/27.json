@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Не обкруглюйте краю голови вашої, і не псуйте ⟨את⟩ краю бороди твоєї.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "обкруглюйте"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "краю"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "голови вашої"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "псуйте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "краю бороди"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "краю"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "бороди твоєї"
+    }
+  ],
+  "timestamp": "2026-08-23T21:44:45.142635904Z",
+  "model": "glm-5.3"
+}

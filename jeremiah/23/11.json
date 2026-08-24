@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 23:11",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Бо і пророк, і священик осквернилися, і в домі Моїм знайшов Я зло їхнє, — промовляє Яхве.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "גם",
+      "gloss": "і"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "גם",
+      "gloss": "і"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "священик"
+    },
+    {
+      "surface": "חנפו",
+      "gloss": "осквернилися"
+    },
+    {
+      "surface": "גם",
+      "gloss": "і"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "в домі Моїм"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "знайшов Я"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "зло їхнє"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "промовляє"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:30:04.733788820Z",
+  "model": "glm-5.3"
+}

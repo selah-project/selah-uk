@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Усі потоки ідуть до моря, а море не повниться; до місця, куди потоки йдуть, — туди ⟨вони⟩ вертаються, щоб іти.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Усі"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "потоки"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ідуть"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הים",
+      "gloss": "моря"
+    },
+    {
+      "surface": "והים",
+      "gloss": "а море"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "не"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "повниться"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "місця"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "куди потоки"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "йдуть"
+    },
+    {
+      "surface": "שם",
+      "gloss": "туди"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨вони⟩"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "вертаються"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "щоб іти"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:29.927627699Z",
+  "model": "glm-5.3"
+}

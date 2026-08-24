@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І скажеш Паро: так сказав Яхве: мій син, мій перворідний — Їсраель.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "І скажеш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בני",
+      "gloss": "мій син"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "мій перворідний"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраель"
+    }
+  ],
+  "timestamp": "2026-08-23T21:25:55.152475450Z",
+  "model": "glm-5.3"
+}

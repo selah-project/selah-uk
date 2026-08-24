@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І зробив так Агарон: проти лиця менори підняв він світильники її, як заповів Яхве ⟨את⟩ Моше.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "І зробив"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "проти"
+    },
+    {
+      "surface": "מול",
+      "gloss": "лиця"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лиця"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "менори"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "підняв"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "світильники її"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-23T21:51:06.943600399Z",
+  "model": "glm-5.3"
+}

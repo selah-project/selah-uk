@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Азмавет ⟨the⟩ Бахарумі, Ел'яхба ⟨the⟩ Шаалбоні",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "Азмавет"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "⟨the⟩ Бахарумі"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "Ел'яхба"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "⟨the⟩ Шаалбоні"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:08.835572738Z",
+  "model": "glm-5.3"
+}

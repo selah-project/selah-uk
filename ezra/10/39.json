@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 10:39",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "і Шелемья, і Натан, і Аdayя,",
+  "tokens": [
+    {
+      "surface": "ושלמיה",
+      "gloss": "і Шелемья"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "і Натан"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "і Аdayя"
+    }
+  ],
+  "timestamp": "2026-08-24T01:06:53.520493916Z",
+  "model": "glm-5.3"
+}

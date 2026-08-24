@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І сталося по семи днях, і води потопу були на землі.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "і сталося"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "по семи"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "днях"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "і води"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "потопу"
+    },
+    {
+      "surface": "היו",
+      "gloss": "були"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:59.194315575Z",
+  "model": "glm-5.3"
+}

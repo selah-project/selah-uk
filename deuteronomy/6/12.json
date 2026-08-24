@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Стережися, щоби не забув ти ⟨את⟩ Яхве, який вивів тебе з землі Міцраїм, з дому рабів.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Стережися"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "פן",
+      "gloss": "щоби не"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "забув"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "вивів тебе"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "з землі"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїм"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "з дому"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "рабів"
+    }
+  ],
+  "timestamp": "2026-08-23T22:01:41.573330421Z",
+  "model": "glm-5.3"
+}

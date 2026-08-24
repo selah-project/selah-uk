@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 102,
+  "translation": "Ударене, немов трава, і висохло серце моє, бо я забув їсти хліб мій.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "ударене"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "немов трава"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "і висохло"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "серце моє"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "я забув"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "їсти"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "хліб мій"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:20.750351168Z",
+  "model": "glm-5.3"
+}

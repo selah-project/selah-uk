@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 5:29",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Чи за це не навіщу ⟨відплати⟩ — оракул Яхве — чи не помститься моя нефеш над народом, як цей?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "чи за"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "навіщу ⟨відплати⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "оракул"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "над народом"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "як цей"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "помститься"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "моя нефеш"
+    }
+  ],
+  "timestamp": "2026-08-23T23:23:48.942041568Z",
+  "model": "glm-5.3"
+}

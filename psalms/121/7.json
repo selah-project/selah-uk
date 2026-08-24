@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 121,
+  "translation": "Яхве збереже тебе від усякого зла, він береже ⟨את⟩ душу твою.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "збереже тебе"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "від усякого"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "береже"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "душу твою"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "душу твою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:40.088127334Z",
+  "model": "glm-5.3"
+}

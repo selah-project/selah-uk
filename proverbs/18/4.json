@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Води глибокі — слова уст людських, потік, що вирує, — джерело мудрості.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "глибокі"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уст"
+    },
+    {
+      "surface": "איש",
+      "gloss": "людських"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "потік"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "що вирує"
+    },
+    {
+      "surface": "мקור",
+      "gloss": "джерело"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрості"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:00.183798866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 41:47",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 41,
+  "translation": "І давала земля в сім років достатку жменями.",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "і давала"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "в сім"
+    },
+    {
+      "surface": "שני",
+      "gloss": "років"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "достатку"
+    },
+    {
+      "surface": "לקמצים",
+      "gloss": "жменями"
+    }
+  ],
+  "timestamp": "2026-08-23T21:22:06.168473702Z",
+  "model": "glm-5.3"
+}

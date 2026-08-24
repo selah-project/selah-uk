@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 106,
+  "translation": "Не знищили вони ⟨את⟩ народи, які сказав Яхве ⟨ім⟩ ⟨знищити⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "знищили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народи"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    }
+  ],
+  "timestamp": "2026-08-24T01:53:19.760617804Z",
+  "model": "glm-5.3"
+}

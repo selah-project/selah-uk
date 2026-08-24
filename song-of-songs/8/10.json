@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 8:10",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Я — стіна, і груди мої — як вежі; тоді стала я в його очах як та, що знаходить мир.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "стіна"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "і груди мої"
+    },
+    {
+      "surface": "כמגדלות",
+      "gloss": "як вежі"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тоді"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "стала я"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в його очах"
+    },
+    {
+      "surface": "כמוצאת",
+      "gloss": "як та, що знаходить"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    }
+  ],
+  "timestamp": "2026-08-24T00:50:21.643484180Z",
+  "model": "glm-5.3"
+}

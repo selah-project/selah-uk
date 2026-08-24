@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 13:46",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Усі дні, доки ураження в ньому, — нечистий він; на самоті сидітиме, поза табором оселя його.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дні"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "доки"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ураження"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "нечистим буде"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечистий"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "на самоті"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "сидітиме"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "поза"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "табором"
+    },
+    {
+      "surface": "מושבו",
+      "gloss": "оселя його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:38:10.591818021Z",
+  "model": "glm-5.3"
+}

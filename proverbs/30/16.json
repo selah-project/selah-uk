@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Шеол, і неплідне лоно, і земля, що не насичується водою, і вогонь, що не сказав: «Досить».",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "і замкнене"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "лоно"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "насичується"
+    },
+    {
+      "surface": "מים",
+      "gloss": "водою"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "і вогонь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "הון",
+      "gloss": "«Досить»"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:35.428899591Z",
+  "model": "glm-5.3"
+}

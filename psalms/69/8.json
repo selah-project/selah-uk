@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 69,
+  "translation": "Бо заради тебе я ніс ганьбу, сором покрив моє обличчя.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "заради тебе"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "я ніс"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ганьбу"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "покрив"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "сором"
+    },
+    {
+      "surface": "פני",
+      "gloss": "моє обличчя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:19:13.670489563Z",
+  "model": "glm-5.3"
+}

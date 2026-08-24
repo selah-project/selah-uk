@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 23:22",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Це учинив Бнаягу, син Єгояди, і йому ⟨було⟩ ім'я серед трьох могутніх.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учинив"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Бнаягу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Єгояди"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "і йому"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ім'я"
+    },
+    {
+      "surface": "בשלשה",
+      "gloss": "серед трьох"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "могутніх"
+    }
+  ],
+  "timestamp": "2026-08-23T22:45:02.012819348Z",
+  "model": "glm-5.3"
+}

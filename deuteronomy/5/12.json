@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Бережи ⟨את⟩ день шабату, щоб освятити його, як заповів тобі Яхве, Елогім твій.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Бережи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "день шабату"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "шабату"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "щоб освятити його"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "заповів тобі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елогім твій"
+    }
+  ],
+  "timestamp": "2026-08-23T22:01:30.362951510Z",
+  "model": "glm-5.3"
+}

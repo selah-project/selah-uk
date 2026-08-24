@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 48:30",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "І це — виходи ⟨з⟩ міста: з боку півночі п'ятсот і чотири тисячі мірою.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "і це"
+    },
+    {
+      "surface": "תוצאת",
+      "gloss": "виходи"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "міста"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "з боку"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "півночі"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "п'ять"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "і чотири"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "тисячі"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "мірою"
+    }
+  ],
+  "timestamp": "2026-08-23T23:56:49.371916538Z",
+  "model": "glm-5.3"
+}

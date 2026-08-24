@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Мої дороги відвернув і розшарпав мене, поставив мене спустошеним.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "мої дороги"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "відвернув"
+    },
+    {
+      "surface": "ויפשחני",
+      "gloss": "і розшарпав мене"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "поставив мене"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "спустошеним"
+    }
+  ],
+  "timestamp": "2026-08-24T00:51:51.830665676Z",
+  "model": "glm-5.3"
+}

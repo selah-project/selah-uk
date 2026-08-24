@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 78,
+  "translation": "Хліб могутніх їв кожен муж, їжу послав їм досита.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "хліб"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "могутніх"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "їв"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кожен муж"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "їжу"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "послав"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "досита"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:08.208226303Z",
+  "model": "glm-5.3"
+}

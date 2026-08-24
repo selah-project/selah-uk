@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 70,
+  "translation": "Керівникові. Псалом Давида. На згадку.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "На згадку"
+    }
+  ],
+  "timestamp": "2026-08-24T00:19:10.005120441Z",
+  "model": "glm-5.3"
+}

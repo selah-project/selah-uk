@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Нагі ходять без одягу, і голодні носять ⟨את⟩ сніп.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "нагі"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ходять"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "одягу"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "і голодні"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "несуть"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "сніп"
+    }
+  ],
+  "timestamp": "2026-08-24T00:45:10.431836054Z",
+  "model": "glm-5.3"
+}

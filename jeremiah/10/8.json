@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 10:8",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І водночас дурніють і глупіють; напучування марнот — дерево воно.",
+  "tokens": [
+    {
+      "surface": "ובאחת",
+      "gloss": "і водночас"
+    },
+    {
+      "surface": "יבערו",
+      "gloss": "дурніють"
+    },
+    {
+      "surface": "ויכסלו",
+      "gloss": "і глупіють"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "напучування"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "марнот"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дерево"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "воно"
+    }
+  ],
+  "timestamp": "2026-08-23T23:25:27.816089831Z",
+  "model": "glm-5.3"
+}

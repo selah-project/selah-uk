@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "Тоді відкриються очі сліпих, і вуха глухих розімкнуться.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тоді"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "відкриються"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очі"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "сліпих"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "і вуха"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "глухих"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "розімкнуться"
+    }
+  ],
+  "timestamp": "2026-08-23T23:13:33.110791349Z",
+  "model": "glm-5.3"
+}

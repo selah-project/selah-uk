@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "З ⟨the⟩ худоби чистої, і з худоби, що нечиста вона, і з птаства, і всього, що повзає по землі.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "З"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "худоби"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "чистої"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "і з"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "худоби"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "не (є)"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "чиста"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "і з"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "птаства"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і всього"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "повзає"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:30.375948042Z",
+  "model": "glm-5.3"
+}

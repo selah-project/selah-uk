@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 10:11",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "і їхні брати: Шеваньї, Годійї, Келіта, Пелайї, Ханан.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "і їхні брати"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "Шеваньї"
+    },
+    {
+      "surface": "הודיה",
+      "gloss": "Годійї"
+    },
+    {
+      "surface": "קליטא",
+      "gloss": "Келіта"
+    },
+    {
+      "surface": "פלאיה",
+      "gloss": "Пелайї"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ханан"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:34.627708572Z",
+  "model": "glm-5.3"
+}

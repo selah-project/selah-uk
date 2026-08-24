@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "А Ахітув породив ⟨את⟩ Цадока, а Цадок породив ⟨את⟩ Ахімааца.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "А Ахітув"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цадока"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "а Цадок"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ахімааца"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ахімаац"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:44.407454082Z",
+  "model": "glm-5.3"
+}

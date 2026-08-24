@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 32:16",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "Ревнували Його чужими, мерзотами прогнівлювали Його.",
+  "tokens": [
+    {
+      "surface": "יקנאהו",
+      "gloss": "ревнували Його"
+    },
+    {
+      "surface": "בזרים",
+      "gloss": "чужими"
+    },
+    {
+      "surface": "בתועבת",
+      "gloss": "мерзотами"
+    },
+    {
+      "surface": "יכעיסהו",
+      "gloss": "прогнівлювали Його"
+    }
+  ],
+  "timestamp": "2026-08-23T22:10:18.576103285Z",
+  "model": "glm-5.3"
+}

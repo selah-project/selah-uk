@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 24:38",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "якщо не — до дому батька мого підеш, і до родини моєї, і візьмеш дружину для сина мого.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батька мого"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "підеш"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і до"
+    },
+    {
+      "surface": "משפחתי",
+      "gloss": "родини моєї"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "і візьмеш"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "дружину"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "для сина мого"
+    }
+  ],
+  "timestamp": "2026-08-23T21:14:58.255484599Z",
+  "model": "glm-5.3"
+}

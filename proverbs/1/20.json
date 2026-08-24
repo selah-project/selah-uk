@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Мудрість надворі вигукує, на майданах подає голос свій.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Мудрість"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "надворі"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "вигукує"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "на майданах"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "подає"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "голос свій"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:19.100857511Z",
+  "model": "glm-5.3"
+}

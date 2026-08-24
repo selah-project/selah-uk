@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І сказала жінка до змія: «З плоду дерев саду їмо ⟨ми⟩.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "І сказала"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жінка"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "змія"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "З плоду"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дерев"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "саду"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "їмо"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:23.666415246Z",
+  "model": "glm-5.3"
+}

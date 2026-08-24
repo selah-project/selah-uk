@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 73,
+  "translation": "А я — майже зхилені ноги мої, мов на нет, вилилися кроки мої.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А я"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "майже"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "зхилені"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ноги мої"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "мов на нет"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "вилилися"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "кроки мої"
+    }
+  ],
+  "timestamp": "2026-08-24T00:19:37.953195106Z",
+  "model": "glm-5.3"
+}

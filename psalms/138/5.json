@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 138,
+  "translation": "І співатимуть на шляхах Яхве, бо велика слава Яхве.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "і співатимуть"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "на шляхах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велика"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T00:30:20.319458169Z",
+  "model": "glm-5.3"
+}

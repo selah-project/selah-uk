@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 32:25",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І сказали сини Гада і сини Реувена Моше так: раби твої зроблять усе, як пан мій накаже.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказали"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "і сини"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувена"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "так"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "раби твої"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "зроблять"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "пан мій"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "накаже"
+    }
+  ],
+  "timestamp": "2026-08-23T21:58:20.389892864Z",
+  "model": "glm-5.3"
+}

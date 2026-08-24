@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І вийде коген з дому до входу дому, і замкне ⟨את⟩ дім на сім днів.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "і вийде"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коген"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входу"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "і замкне"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дім"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "сім"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    }
+  ],
+  "timestamp": "2026-08-23T21:42:20.057158059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "за Озні — рід ⟨the⟩ Ознітів; за Ері — рід ⟨the⟩ Ерітів.",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "за Озні"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "рід"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "Ознітів"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "за Ері"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "рід"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "Ерітів"
+    }
+  ],
+  "timestamp": "2026-08-23T21:56:11.111222314Z",
+  "model": "glm-5.3"
+}

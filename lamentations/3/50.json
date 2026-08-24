@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Аж поки не зирне і не побачить Яхве з небес.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "аж поки"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "зирне"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "і не побачить"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "з небес"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:38.297794074Z",
+  "model": "glm-5.3"
+}

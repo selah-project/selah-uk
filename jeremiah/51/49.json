@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "jeremiah 51:49",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 51,
+  "translation": "Також Бавель ⟨має⟩ впасти за вбитих Їсраїлю; також за Бавель упали вбиті всієї землі.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бавель"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "впасти"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "вбитих"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраїлю"
+    },
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "за Бавель"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "упали"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "вбиті"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всієї"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:39:44.224646916Z",
+  "model": "glm-5.3"
+}

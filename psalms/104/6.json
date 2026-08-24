@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 104,
+  "translation": "Бездну, мов одягом, Ти вкрив ⟨нею⟩; над горами стояли води.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "бездну"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "мов одягом"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "Ти вкрив"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "горами"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "стояли"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:39.098595590Z",
+  "model": "glm-5.3"
+}

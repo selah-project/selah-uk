@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "Це сини Ецера: Білган і Зааван, і Акан.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Це"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Ецера"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Білган"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "і Зааван"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "і Акан"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:07.436873839Z",
+  "model": "glm-5.3"
+}

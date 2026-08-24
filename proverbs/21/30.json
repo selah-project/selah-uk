@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Немає мудрости, і немає розуму, і немає ради проти Яхве.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрости"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "і немає"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "розуму"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "і немає"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ради"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "проти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:09.247362942Z",
+  "model": "glm-5.3"
+}

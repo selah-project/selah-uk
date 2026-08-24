@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 15:22",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Знищуються задуми без ради, а в множині порадників ⟨вони⟩ стоять.",
+  "tokens": [
+    {
+      "surface": "הפר",
+      "gloss": "Знищуються"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "задуми"
+    },
+    {
+      "surface": "באין",
+      "gloss": "без"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "ради"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "а в множині"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "порадників"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "стоять"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:34.525929872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Як заповів Яхве ⟨את⟩ Моше, так учинили сини Ізраїля, і вони поділили ⟨את⟩ ⟨the⟩ землю.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Як"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "учинили"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "і поділили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ землю"
+    }
+  ],
+  "timestamp": "2026-08-23T22:15:07.334552280Z",
+  "model": "glm-5.3"
+}

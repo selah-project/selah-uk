@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Від плоду уст людина їстиме добро, а нефеш зрадників — насильство.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "від плоду"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уст"
+    },
+    {
+      "surface": "איש",
+      "gloss": "людина"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "їстиме"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "а нефеш"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "зрадників"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насильство"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:54.724440365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 12:34",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Єгуда і Бін'ямин, і Шма'я, і Єрм'яга.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуда"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "і Бін'ямин"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "і Шма'я"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "і Єрм'яга"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:38.601374348Z",
+  "model": "glm-5.3"
+}

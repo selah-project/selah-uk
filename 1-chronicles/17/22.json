@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 17:22",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І ти дав ⟨את⟩ народ твій, Їзраель, тобі на народ навіки, і ти, Яхве, став їм за Елогім.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "І ти дав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ твій, Їзраель"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "народ твій"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їзраель"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "на народ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "довіку"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "і ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "היית",
+      "gloss": "став"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "за Елогім"
+    }
+  ],
+  "timestamp": "2026-08-24T01:18:31.146995240Z",
+  "model": "glm-5.3"
+}

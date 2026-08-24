@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Піднесемо серце наше на долонях, до Еля в ⟨небесах⟩.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "піднесемо"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "серце наше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "долонях"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Еля"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "в небесах"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:21.214461543Z",
+  "model": "glm-5.3"
+}

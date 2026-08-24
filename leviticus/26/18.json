@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "А якщо аж до цих ⟨дум⟩ не послухаєтеся мене, то додам покарати ⟨את⟩ вас сімразово за гріхи ваші.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А якщо"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "цих"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "послушаєтеся"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "то додам"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "карати"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "сімразово"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "гріхи ваші"
+    }
+  ],
+  "timestamp": "2026-08-23T21:47:09.510150429Z",
+  "model": "glm-5.3"
+}

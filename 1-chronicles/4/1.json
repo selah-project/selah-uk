@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Сини Єгуди: Перец, Хецрон, і Кармі, і Хур, і Шоваль.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перец"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецрон"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "і Кармі"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "і Хур"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "і Шоваль"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:47.596742394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "А в Мешелем'ягау — сини й брати, сини хилю, вісімнадцять.",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "А в Мешелем'ягау"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "й брати"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "хилю (валор)"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "вісім"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-надцять"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:44.657611858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "У році цього ювілею повернеться кожен до свого наділу.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "у році"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "ювілею"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цього"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "повернеться"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кожен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "свого наділу"
+    }
+  ],
+  "timestamp": "2026-08-23T21:45:46.019213335Z",
+  "model": "glm-5.3"
+}

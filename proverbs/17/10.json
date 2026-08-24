@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Докір занурюється глибше в розумного, ніж сто ударів у безумного.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "занурюється"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "докір"
+    },
+    {
+      "surface": "במבין",
+      "gloss": "в розумного"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "ніж удари"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "безумного"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:00.835868891Z",
+  "model": "glm-5.3"
+}

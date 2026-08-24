@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І відповідають, і скажуть: руки наші не пролили ⟨את⟩ кров цю, і очі наші не бачили.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "І відповідають"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "і скажуть"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "руки наші"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "пролили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кров цю"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кров"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цю"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "і очі наші"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "бачили"
+    }
+  ],
+  "timestamp": "2026-08-23T22:06:03.159735065Z",
+  "model": "glm-5.3"
+}

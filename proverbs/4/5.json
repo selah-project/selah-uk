@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Придбай мудрість, придбай розуміння; не забувай і не відхиляйся від слів мого уст.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Придбай"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрість"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "придбай"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "розуміння"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "забувай"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תט",
+      "gloss": "відхиляйся"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "від слів"
+    },
+    {
+      "surface": "פי",
+      "gloss": "мого уст"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:57.271655893Z",
+  "model": "glm-5.3"
+}

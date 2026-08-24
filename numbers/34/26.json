@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 34:26",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "І для племені синів Їсасхара — князь Палтіель, син Азана.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "І для племені"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Їсасхара"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князь"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Палтіель"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזן",
+      "gloss": "Азана"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:00.063786785Z",
+  "model": "glm-5.3"
+}

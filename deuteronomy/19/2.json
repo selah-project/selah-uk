@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 19:2",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "три міста відділиш собі всередині своєї землі, яку Яхве, твій Елогім, дає тобі в успадкування.",
+  "tokens": [
+    {
+      "surface": "שלוש",
+      "gloss": "три"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "міста"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "відділиш"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "всередині"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "своєї землі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твій Елогім"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дає"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "в успадкування її"
+    }
+  ],
+  "timestamp": "2026-08-23T22:06:04.819310474Z",
+  "model": "glm-5.3"
+}

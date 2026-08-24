@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 17:2",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Промовляй до Агарона і до його синів, і до всіх синів Ісраейля, і скажеш їм: це ⟨є⟩ слово, яке заповів Яхве, кажучи:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Промовляй"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарона"
+    },
+    {
+      "surface": "ויאל",
+      "gloss": "і до"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "його синів"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і до"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всіх"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраейля"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "і скажеш"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T21:43:28.498278260Z",
+  "model": "glm-5.3"
+}

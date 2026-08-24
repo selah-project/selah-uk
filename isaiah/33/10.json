@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "Тепер Я повстану, — каже Яхве; тепер Я звеличуся, тепер Я піднімуся.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Тепер"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "повстану"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "каже"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "тепер"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "звеличуся"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "тепер"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "піднімуся"
+    }
+  ],
+  "timestamp": "2026-08-24T01:45:31.413180206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І будуть вони Мені народом, а Я буду їм Елогім.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "і будуть"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мені"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "народом"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а Я"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "буду"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елогім"
+    }
+  ],
+  "timestamp": "2026-08-23T23:33:01.765321876Z",
+  "model": "glm-5.3"
+}

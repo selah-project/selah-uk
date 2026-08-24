@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "І якщо немає в нього дочки, то дайте ⟨את⟩ його спадщину його братам.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "І якщо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "לו",
+      "gloss": "в нього"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочки"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "то дайте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "його спадщину"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "його спадщину"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "його братам"
+    }
+  ],
+  "timestamp": "2026-08-23T21:57:23.835423970Z",
+  "model": "glm-5.3"
+}

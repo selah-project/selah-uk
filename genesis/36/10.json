@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "Це імена синів Есава: Еліфаз, син Ади, дружини Есава; Реуел, син Башемат, дружини Есава.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Це"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "імена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есава"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Еліфаз"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ади"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "дружини"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есава"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Башемат"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "дружини"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есава"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:43.354801103Z",
+  "model": "glm-5.3"
+}

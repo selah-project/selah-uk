@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Покоління — чисте в очах своїх, та від нечистот своїх не обмите.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "покоління"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисте"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в очах своїх"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "та від нечистот своїх"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "обмите"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:17.990037803Z",
+  "model": "glm-5.3"
+}

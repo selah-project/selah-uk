@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "Бо в Тебе ⟨є⟩ джерело життя, і в світлі Твоєму побачимо світло.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "в Тебе"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "джерело"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "життя"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "в світлі Твоєму"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "побачимо"
+    },
+    {
+      "surface": "אור",
+      "gloss": "світло"
+    }
+  ],
+  "timestamp": "2026-08-24T00:14:20.564497407Z",
+  "model": "glm-5.3"
+}

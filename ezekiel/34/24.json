@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 34:24",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "і Я — Яхве — буду їм Елогім, а слуга мій Давид — князем серед них; Я — Яхве — говорив.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "і Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "буду"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "а слуга мій"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князем"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "серед них"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорив"
+    }
+  ],
+  "timestamp": "2026-08-23T23:50:38.922872980Z",
+  "model": "glm-5.3"
+}

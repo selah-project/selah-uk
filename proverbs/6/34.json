@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 6:34",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Бо ревнощі — це лють мужа, і не пощадить він у день помсти.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ревнощі"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "лють"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "пощадить він"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у день"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "помсти"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:33.616737952Z",
+  "model": "glm-5.3"
+}

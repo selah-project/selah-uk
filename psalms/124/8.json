@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 124,
+  "translation": "Поміч наша — в Імені Яхве, Творця небес і землі.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Поміч наша"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "в Імені"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Творця"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "і землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:07.668147219Z",
+  "model": "glm-5.3"
+}

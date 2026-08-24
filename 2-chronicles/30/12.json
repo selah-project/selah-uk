@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 30:12",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Також у Єгоді була рука Елогіма, щоб дати їм серце одне — чинити заповідь царя і князів за словом Яхве.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "у Єгоді"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "була"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогіма"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "щоб дати"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одне"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "чинити"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "заповідь"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "і князів"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "за словом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:33:32.080395165Z",
+  "model": "glm-5.3"
+}

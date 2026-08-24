@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 35:26",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "І сини Зілпи, служанки Леї: Гад і Ашер. Оце сини Яакова, які народилися йому в Паддан-Арамі.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "І сини"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Зілпи"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "служанки"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леї"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "і Ашер"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Оце"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "народилися"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "בפדן",
+      "gloss": "в Паддан"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Арамі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:49.798326211Z",
+  "model": "glm-5.3"
+}

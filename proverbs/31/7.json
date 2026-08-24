@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Нехай вип'є і забуде свою вбогість, і своєї скрути не згадає більше.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "нехай вип'є"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "і забуде"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "свою вбогість"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "і своєї скрути"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "згадає"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "більше"
+    }
+  ],
+  "timestamp": "2026-08-24T00:39:00.162423934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "До коли бачитиму прапор, чутиму голос шофара?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "бачитиму"
+    },
+    {
+      "surface": "נס",
+      "gloss": "прапор"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "чутиму"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "шофар"
+    }
+  ],
+  "timestamp": "2026-08-24T01:47:40.534019878Z",
+  "model": "glm-5.3"
+}

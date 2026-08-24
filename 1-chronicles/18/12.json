@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І Авишай, син Цруї, уразив ⟨את⟩ Едом у долині Солі — вісімнадцять тисяч.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "І Авишай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Цруї"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "уразив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Едом"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "у долині"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Солі"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "вісім"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-надцять"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяч"
+    }
+  ],
+  "timestamp": "2026-08-24T01:18:38.703732947Z",
+  "model": "glm-5.3"
+}

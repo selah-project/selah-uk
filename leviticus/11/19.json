@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "і ⟨את⟩ лелеку, чаплю за її родом, і ⟨את⟩ удуда, і ⟨את⟩ кажана.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "лелеку"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "лелека"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "чапля"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "за її родом"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "удуда"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "удуд"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "кажана"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "кажан"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:41.124516218Z",
+  "model": "glm-5.3"
+}

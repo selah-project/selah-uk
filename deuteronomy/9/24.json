@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Бунтівниками ви були з Яхве від дня, коли я пізнав ⟨את⟩ вас.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "бунтівниками"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ви були"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "від дня"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "коли я пізнав"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "вас"
+    }
+  ],
+  "timestamp": "2026-08-23T22:02:41.491014398Z",
+  "model": "glm-5.3"
+}

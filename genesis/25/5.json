@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І дав Аврагам ⟨את⟩ усе, що ⟨було⟩ в нього, Їцхакові.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "І дав"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усе, що було в нього"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לו",
+      "gloss": "в нього"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Їцхакові"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:31.207566303Z",
+  "model": "glm-5.3"
+}

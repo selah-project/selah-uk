@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І так казав Шім'ї, клявши: Виходь, виходь, мужу кровей і мужу Беліала!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "і так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "казав"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шім'ї"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "клявши"
+    },
+    {
+      "surface": "צא",
+      "gloss": "виходь"
+    },
+    {
+      "surface": "צא",
+      "gloss": "виходь"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужу"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "кровей"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "і мужу"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "Беліала"
+    }
+  ],
+  "timestamp": "2026-08-23T22:42:29.711524815Z",
+  "model": "glm-5.3"
+}

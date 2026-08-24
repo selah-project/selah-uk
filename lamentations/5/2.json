@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Спадок наш перевернуто на чужинців, доми наші — на прибульців.",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "Спадок наш"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "перевернуто"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "на чужинців"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "доми наші"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "на прибульців"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:03.043050168Z",
+  "model": "glm-5.3"
+}

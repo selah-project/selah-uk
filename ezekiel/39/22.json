@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 39:22",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 39,
+  "translation": "І пізнає дім Їсраейля, що Я — Яхве, Елогім їхній, від того дня й далі.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "і пізнає"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраейля"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Елогім їхній"
+    },
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "היום",
+      "gloss": "того дня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "того"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "й далі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:53:17.237270751Z",
+  "model": "glm-5.3"
+}

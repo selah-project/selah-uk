@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "Це сини Есава, і це їхні князі; він ⟨є⟩ Едом.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Це"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есава"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "і це"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "їхні князі"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    }
+  ],
+  "timestamp": "2026-08-23T21:20:03.910180819Z",
+  "model": "glm-5.3"
+}

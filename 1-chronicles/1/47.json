@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 1:47",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І вмер Гадад, і зацарював замість нього Самла з Машреки.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "І вмер"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Гадад"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "і зацарював"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "замість нього"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Самла"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "з Машреки"
+    }
+  ],
+  "timestamp": "2026-08-24T01:58:17.234648808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 9:35",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Я говорив би і не боявся ⟨б⟩ його, бо не такий я у самому собі.",
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "я говорив би"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "איראנו",
+      "gloss": "боявся ⟨б⟩ його"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כן",
+      "gloss": "такий"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "у самому собі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:40:59.058513377Z",
+  "model": "glm-5.3"
+}

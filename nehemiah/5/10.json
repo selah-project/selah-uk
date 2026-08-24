@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 5:10",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І також я, брати мої та слуги мої, позичаєємо їм срібло й збіжжя; залишімо ж, молю, цю ношу ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "І також"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брати мої"
+    },
+    {
+      "surface": "ונערי",
+      "gloss": "та слуги мої"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "позичаєємо"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "срібло"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "й збіжжя"
+    },
+    {
+      "surface": "נעזבה",
+      "gloss": "залишімо"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молю"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цю ношу"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "цю ношу"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цю"
+    }
+  ],
+  "timestamp": "2026-08-24T01:08:34.351473793Z",
+  "model": "glm-5.3"
+}

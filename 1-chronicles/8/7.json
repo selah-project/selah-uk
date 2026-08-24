@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "і Нааман, і Ахія, і Ґера — він ⟨той, що⟩ вивів їх — і породив ⟨את⟩ Уззу і ⟨את⟩ Ахіхуда.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "і Нааман"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "і Ахія"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "і Ґера"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "вивів їх"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "і породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Уззу"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Уззу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Ахіхуда"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Ахіхуда"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:27.540094450Z",
+  "model": "glm-5.3"
+}

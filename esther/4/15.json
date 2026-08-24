@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І сказала Естер, щоб відповісти Мордехаю:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "І сказала"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естер"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "щоб відповісти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехая"
+    }
+  ],
+  "timestamp": "2026-08-24T00:56:50.266307359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Якщо ти послабився в день лиха — вузька сила твоя.",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "ти послабився"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у день"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "лиха"
+    },
+    {
+      "surface": "צר",
+      "gloss": "вузька"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "сила твоя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:06.539103525Z",
+  "model": "glm-5.3"
+}

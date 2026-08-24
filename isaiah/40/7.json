@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "В'яне трава, опадає цвіт, бо дихання Яхве подуває на них; справді — трава ⟨є⟩ народ.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "В'яне"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "трава"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "опадає"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "цвіт"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дихання"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "подуває"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на них"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "справді"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "трава"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-08-23T23:14:47.622427562Z",
+  "model": "glm-5.3"
+}

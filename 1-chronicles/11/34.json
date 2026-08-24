@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "сини Гашема ⟨the⟩ Гізоні, Йонатан син Шаге ⟨the⟩ Гарарі",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "השם",
+      "gloss": "Гашема"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "⟨the⟩ Гізоні"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "Шаге"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "⟨the⟩ Гарарі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:08.835801405Z",
+  "model": "glm-5.3"
+}

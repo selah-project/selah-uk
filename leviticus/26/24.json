@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "то ходитиму і Я з вами ворожо, і вражу вас ⟨את⟩, так само Я, сім разів за гріхи ваші.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "то ходитиму"
+    },
+    {
+      "surface": "אף",
+      "gloss": "і"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "з вами"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "ворожо"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "і вражу"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "вас ⟨את⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "так само"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "сім разів"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "гріхи ваші"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:50.551953222Z",
+  "model": "glm-5.3"
+}

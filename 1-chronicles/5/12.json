@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Йоель — глава, і Шафам — другий, і Яанай, і Шафат у Башані.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Йоель"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "глава"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "і Шафам"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "другий"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "і Яанай"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "і Шафат"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "у Башані"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:39.624924624Z",
+  "model": "glm-5.3"
+}

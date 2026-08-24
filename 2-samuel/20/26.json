@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "і також Іра га-Яїрі ⟨був⟩ священиком Давидові.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "і також"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "Іра"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "га-Яїрі"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨був⟩"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "священиком"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидові"
+    }
+  ],
+  "timestamp": "2026-08-23T22:43:04.121624128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 43,
+  "translation": "А голод став тяжким в землі.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "а голод"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "став тяжким"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:22:15.801332089Z",
+  "model": "glm-5.3"
+}

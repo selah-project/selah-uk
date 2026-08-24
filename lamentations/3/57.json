@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Ти наблизився в день, коли я кликав Тебе, Ти сказав: не бійся.",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "Ти наблизився"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "коли я кликав Тебе"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "Ти сказав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бійся"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:24.472110838Z",
+  "model": "glm-5.3"
+}

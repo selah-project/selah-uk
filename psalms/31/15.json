@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "А я на Тебе уповав, Яхве; я сказав: Елогім ⟨мій⟩ — Ти.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А я"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на Тебе"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "уповав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "я сказав"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім ⟨мій⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:41.270447573Z",
+  "model": "glm-5.3"
+}

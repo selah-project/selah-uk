@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 1:15",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І нехай вони будуть на світила в ⟨the⟩ просторі небес, щоб світити над ⟨the⟩ землею; і сталося так.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "І нехай будуть"
+    },
+    {
+      "surface": "למאורת",
+      "gloss": "на світила"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "в ⟨the⟩ просторі"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "щоб світити"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ землею"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і сталося"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:54.188968712Z",
+  "model": "glm-5.3"
+}

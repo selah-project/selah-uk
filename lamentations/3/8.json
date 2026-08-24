@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Навіть коли кричу й кличу на поміч, Він замкнув мою молитву.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Навіть"
+    },
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "кричу"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "й кличу на поміч"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "замкнув"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "мою молитву"
+    }
+  ],
+  "timestamp": "2026-08-24T00:51:34.465667985Z",
+  "model": "glm-5.3"
+}

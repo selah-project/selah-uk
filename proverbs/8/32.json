@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 8:32",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "А тепер, сини, слухайте мене, і блаженні ті, хто береже мої шляхи:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "А тепер"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сини"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слухайте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "і блаженні"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "мої шляхи"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "хто береже"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:20.439119067Z",
+  "model": "glm-5.3"
+}

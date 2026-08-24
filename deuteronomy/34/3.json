@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "І ⟨את⟩ південь, і ⟨את⟩ рівнину — долину Єрихону, місто пальм, — аж до Цоару.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "І ⟨את⟩",
+      "marks": "південь"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "південь"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "рівнину"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "рівнину"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "долину"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Єрихону"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "місто"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "пальм"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Цоару"
+    }
+  ],
+  "timestamp": "2026-08-23T22:10:12.772478518Z",
+  "model": "glm-5.3"
+}

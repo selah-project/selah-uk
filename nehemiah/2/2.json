@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 2:2",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І сказав мені цар: чому обличчя твоє похмуре, а ти не хворий? Це не інакше, як сум серця. І я злякався вельми сильно.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "чому"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "обличчя твоє"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "похмуре"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "не"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "хворий"
+    },
+    {
+      "surface": "אין",
+      "gloss": "не"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "כי",
+      "gloss": "інакше"
+    },
+    {
+      "surface": "אם",
+      "gloss": "як"
+    },
+    {
+      "surface": "רע",
+      "gloss": "сум"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серця"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "і я злякався"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "вельми"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "сильно"
+    }
+  ],
+  "timestamp": "2026-08-24T01:07:47.546735772Z",
+  "model": "glm-5.3"
+}

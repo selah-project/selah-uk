@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 4:21",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "і ⟨the⟩ квіти, і ⟨the⟩ лампади, і ⟨the⟩ щипці — золото, золото досконале.",
+  "tokens": [
+    {
+      "surface": "והפרח",
+      "gloss": "і ⟨the⟩ квіти"
+    },
+    {
+      "surface": "והנרות",
+      "gloss": "і ⟨the⟩ лампади"
+    },
+    {
+      "surface": "והמלקחים",
+      "gloss": "і ⟨the⟩ щипці"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золото"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨це⟩"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "досконале"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золото"
+    }
+  ],
+  "timestamp": "2026-08-24T01:23:02.644392286Z",
+  "model": "glm-5.3"
+}

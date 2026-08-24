@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І обложиш ⟨את⟩ його чистим золотом, і зробиш йому вінець із золота навколо.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "і обложиш"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "його"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золотом"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чистим"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "і зробиш"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "זר",
+      "gloss": "вінець"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золота"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "навколо"
+    }
+  ],
+  "timestamp": "2026-08-23T21:32:40.737214399Z",
+  "model": "glm-5.3"
+}

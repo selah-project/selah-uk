@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 21:18",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Бо ⟨є⟩ випробування; і що, як навіть жезл відкидання — того не буде, — промовляє Адонай Яхве.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "випробування"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "і що"
+    },
+    {
+      "surface": "אם",
+      "gloss": "як"
+    },
+    {
+      "surface": "גם",
+      "gloss": "навіть"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "жезл"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "відкидання"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "промовляє"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:47:27.725999092Z",
+  "model": "glm-5.3"
+}

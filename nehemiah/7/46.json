@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Нетініми: сини Ціхи, сини Хасуфи, сини Таваот,",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "Нетініми"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "צחא",
+      "gloss": "Ціхи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "חשפא",
+      "gloss": "Хасуфи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "Таваот"
+    }
+  ],
+  "timestamp": "2026-08-24T01:09:42.515201549Z",
+  "model": "glm-5.3"
+}

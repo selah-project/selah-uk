@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "що семикратно відімщено за Каїна, а за Лемеха — сімдесят і сім.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "семикратно"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "відімщено"
+    },
+    {
+      "surface": "קין",
+      "gloss": "за Каїна"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "а за Лемеха"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "сімдесят"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "і сім"
+    }
+  ],
+  "timestamp": "2026-08-24T01:36:04.419395550Z",
+  "model": "glm-5.3"
+}

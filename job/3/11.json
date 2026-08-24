@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Чому не вмер я з утроби, з лона вийшов — і не сконав?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "чому"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "з утроби"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "вмер я"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "з лона"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "вийшов"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "і не сконав"
+    }
+  ],
+  "timestamp": "2026-08-24T00:39:18.346143062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 1:18",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І сказав навчити синів Єгуди ⟨стрільби з⟩ лука — ось, написано в Книзі Яшар.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "навчити"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лук"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "написано"
+    },
+    {
+      "surface": "על",
+      "gloss": "в"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Книзі"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "Яшар"
+    }
+  ],
+  "timestamp": "2026-08-23T22:36:56.702239485Z",
+  "model": "glm-5.3"
+}

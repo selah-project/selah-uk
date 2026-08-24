@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Шукав Когелет знайти слова приємні, і написане — правоту, слова правди.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "Шукав"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Когелет"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "знайти"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "приємні"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "і написане"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "правоту"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "правди"
+    }
+  ],
+  "timestamp": "2026-08-24T00:56:32.836111279Z",
+  "model": "glm-5.3"
+}

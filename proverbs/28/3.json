@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Чоловік бідний, а гнітить убогих, — дощ зливаючий, і немає хліба.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "Чоловік"
+    },
+    {
+      "surface": "רש",
+      "gloss": "бідний"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "а гнітить"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "убогих"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "дощ"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "зливаючий"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "і немає"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хліба"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:13.043269984Z",
+  "model": "glm-5.3"
+}

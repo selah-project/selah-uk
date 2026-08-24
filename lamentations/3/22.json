@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Хеседи Яхве — бо не скінчилися, бо не вичерпалися милосердя Його.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "хеседи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "скінчилися"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "вичерпалися"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "милосердя Його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:53.064030148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Якщо змія вкусить без заговору, то немає переваги володареві язика.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "вкусить"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "змія"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "без"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "заговору"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "і немає"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "переваги"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "володареві"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "язика"
+    }
+  ],
+  "timestamp": "2026-08-24T00:55:06.651281154Z",
+  "model": "glm-5.3"
+}

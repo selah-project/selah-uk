@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 6:22",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Так сказав Яхве: ось народ іде з землі півночі, і великий народ пробудиться з країв землі.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "іде"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "з-землі"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "півночі"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "і-народ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "пробудиться"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "з-країв"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:23:50.628627951Z",
+  "model": "glm-5.3"
+}

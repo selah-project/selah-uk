@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 123,
+  "translation": "Помилуй нас, Яхве, помилуй нас, бо надто наситило нас зневага.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Помилуй нас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "помилуй нас"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "רב",
+      "gloss": "надто"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "наситило нас"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "зневага"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:51.816343188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "і анака, і коах, і летаа, і хомет, і тіншемет.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "і анака"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "і коах"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "і летаа"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "і хомет"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "і тіншемет"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:44.084649869Z",
+  "model": "glm-5.3"
+}

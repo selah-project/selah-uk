@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 15:7",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Тому надлишок здобутого і скарби їхні до потоку верб понесуть.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "тому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "יתרה",
+      "gloss": "надлишок"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "здобутого"
+    },
+    {
+      "surface": "ופקדתם",
+      "gloss": "і скарби їхні"
+    },
+    {
+      "surface": "על",
+      "gloss": "до"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "потоку"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "верб"
+    },
+    {
+      "surface": "ישאום",
+      "gloss": "понесуть"
+    }
+  ],
+  "timestamp": "2026-08-23T23:09:30.779049554Z",
+  "model": "glm-5.3"
+}

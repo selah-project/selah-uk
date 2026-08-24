@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "А Куш породив ⟨את⟩ Німрода; він почав бути могутнім на землі.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "А Куш"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Німрода"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Німрода"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "החל",
+      "gloss": "почав"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "бути"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "могутнім"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на землі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:06.732678927Z",
+  "model": "glm-5.3"
+}

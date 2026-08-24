@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "І прийшли з синів Біньяміна та Єгуди аж до твердині, до Давида.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "І прийшли"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Біньяміна"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "та Єгуди"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "твердині"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "до Давида"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:42.831202406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 7:23",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Зроби ⟨the⟩ кайдани, бо ⟨the⟩ земля сповнена кривавих судів, і ⟨the⟩ місто сповнене насильства.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Зроби"
+    },
+    {
+      "surface": "הרתוק",
+      "gloss": "⟨the⟩ кайдани"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ земля"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "сповнена"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "судів"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кривавих"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "і ⟨the⟩ місто"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "сповнена"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насильства"
+    }
+  ],
+  "timestamp": "2026-08-23T23:41:03.567331079Z",
+  "model": "glm-5.3"
+}

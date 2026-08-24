@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І я заповів вам тоді ⟨את⟩ усі слова, які ви маєте робити.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "і заповів"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вам"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "у час"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усі слова"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ви маєте робити"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:11.446202522Z",
+  "model": "glm-5.3"
+}

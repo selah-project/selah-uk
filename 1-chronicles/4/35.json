@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "і Йоель, і Єгу, син Йошів'ї, син Серайї, син Асієла",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "і Йоель"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "і Єгу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "Йошів'ї"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Серайї"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "Асієла"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:31.136288871Z",
+  "model": "glm-5.3"
+}

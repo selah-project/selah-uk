@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "І привів нас до цього місця, і дав нам ⟨את⟩ цю землю, землю, що тече молоком і медом.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "І привів нас"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "місця"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цього"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "і дав"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цю землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цю"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "що тече"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "молоком"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "і медом"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:46.448905574Z",
+  "model": "glm-5.3"
+}

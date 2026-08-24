@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "І з'єднав ⟨את⟩ п'ять завіс одну з одною, і п'ять завіс з'єднав одну з одною.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "і з'єднав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "п'ять завіс"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "п'ять"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "завіс"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одну"
+    },
+    {
+      "surface": "אל",
+      "gloss": "з"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одною"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "і п'ять"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "завіс"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "з'єднав"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одну"
+    },
+    {
+      "surface": "אל",
+      "gloss": "з"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одною"
+    }
+  ],
+  "timestamp": "2026-08-23T21:36:53.841216266Z",
+  "model": "glm-5.3"
+}

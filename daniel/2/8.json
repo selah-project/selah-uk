@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 2:8",
+  "book": "daniel",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Відповів цар і сказав: напевно я знаю, що ви виграєте час, бо бачите, що слово від мене відійшло.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Відповів"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "цар"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "מן",
+      "gloss": "напевно"
+    },
+    {
+      "surface": "יציב",
+      "gloss": "твердо"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знаю"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "я"
+    },
+    {
+      "surface": "די",
+      "gloss": "що"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "час"
+    },
+    {
+      "surface": "אנתון",
+      "gloss": "ви"
+    },
+    {
+      "surface": "זבנין",
+      "gloss": "виграєте"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бо"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "тому що"
+    },
+    {
+      "surface": "די",
+      "gloss": "що"
+    },
+    {
+      "surface": "חזיתון",
+      "gloss": "бачите"
+    },
+    {
+      "surface": "די",
+      "gloss": "що"
+    },
+    {
+      "surface": "אזדא",
+      "gloss": "напевно"
+    },
+    {
+      "surface": "מני",
+      "gloss": "від мене"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "слово"
+    }
+  ],
+  "timestamp": "2026-08-24T00:58:36.535156954Z",
+  "model": "glm-5.3"
+}

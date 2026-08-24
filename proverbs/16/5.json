@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Мерзота для Яхве — кожен високосердий; рука ⟨до⟩ руки — не буде він очищений.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "мерзота"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кожен"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "високий"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серцем"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "до руки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "буде очищений"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:52.288671222Z",
+  "model": "glm-5.3"
+}

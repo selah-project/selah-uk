@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 73,
+  "translation": "Бо скисло серце моє, й нирки мої поколювались.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "скисло"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "серце моє"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "й нирки мої"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "кололись"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:23.373470813Z",
+  "model": "glm-5.3"
+}

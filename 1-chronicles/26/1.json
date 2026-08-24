@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 26:1",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Для відділів воротарів: для корхітів — Мешелем'яу, син Коре, з синів Асафа.",
+  "tokens": [
+    {
+      "surface": "למחלקות",
+      "gloss": "для відділів"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "воротарів"
+    },
+    {
+      "surface": "לקרחים",
+      "gloss": "для корхітів"
+    },
+    {
+      "surface": "משלמיהו",
+      "gloss": "Мешелем'яу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Коре"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асафа"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:37.118242142Z",
+  "model": "glm-5.3"
+}

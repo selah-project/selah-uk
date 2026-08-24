@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 88,
+  "translation": "Убогий я й вмираю від юності; ніс я жахи Твої — знемагаю.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "убогий"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "й вмираю"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "від юності"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ніс я"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "жахи Твої"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "знемагаю"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:35.831561829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Не віддаляйся від мене, бо біда близька, бо нема помічника!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "віддаляйся"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "від мене"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "біда"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "близька"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "помічника"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:10.632616091Z",
+  "model": "glm-5.3"
+}

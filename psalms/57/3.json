@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 57,
+  "translation": "Я покличу Елогім Ельйон, Ела, що довершує ⟨щодо⟩ мене.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Я покличу"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ельйон"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "що довершує"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨щодо⟩ мене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:43.604186735Z",
+  "model": "glm-5.3"
+}

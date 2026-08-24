@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "А тепер, Яхве, візьми ж ⟨את⟩ мою нефеш від мене, бо краще мені вмерти, ніж жити.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а тепер"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "קח",
+      "gloss": "візьми"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мою нефеш"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "мою нефеш"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "від мене"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "краще"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "мені вмерти"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "ніж жити"
+    }
+  ],
+  "timestamp": "2026-08-24T00:02:53.862499038Z",
+  "model": "glm-5.3"
+}

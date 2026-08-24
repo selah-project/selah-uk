@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Вижени насмішника — і вийде сварка, і спиниться суд і ганьба.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "вижени"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "насмішника"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "і вийде"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "сварка"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "і спиниться"
+    },
+    {
+      "surface": "דין",
+      "gloss": "суд"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "і ганьба"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:16.095374683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 27:26",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "І сказав до нього Їцхак, батько його: підійди ж, і поцілуй мене, сину мій.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і-сказав"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "до-нього"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Їцхак"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "батько-його"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "підійди"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ж"
+    },
+    {
+      "surface": "ושקה",
+      "gloss": "і-поцілуй"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сину-мій"
+    }
+  ],
+  "timestamp": "2026-08-23T21:17:21.655553174Z",
+  "model": "glm-5.3"
+}

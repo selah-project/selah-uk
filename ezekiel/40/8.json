@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "І виміряв ⟨את⟩ ґанок брами з боку дому — тростину одну.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "і виміряв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ґанок брами"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ґанок"
+    },
+    {
+      "surface": "השער",
+      "gloss": "брами"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "з боку дому"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "тростину"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одну"
+    }
+  ],
+  "timestamp": "2026-08-23T23:53:49.593482789Z",
+  "model": "glm-5.3"
+}

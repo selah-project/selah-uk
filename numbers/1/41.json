@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 1:41",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Облічені їхні для племені Ашера: сорок один тисяч і п'ятсот.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "облічені їхні"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "для племені"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашера"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "і сорок"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяч"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "і п'ять"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    }
+  ],
+  "timestamp": "2026-08-23T21:47:16.585281430Z",
+  "model": "glm-5.3"
+}

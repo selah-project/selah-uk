@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Нерозумність людини викривляє шлях її, а на Яхве гнівається серце її.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "нерозумність"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людини"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "викривляє"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "шлях її"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "а на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "гнівається"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "серце її"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:16.143541107Z",
+  "model": "glm-5.3"
+}

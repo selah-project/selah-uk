@@ -1,0 +1,17 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 19:16",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І прийшли посланці, — аж ⟨ось⟩ терафім на ліжку, і килимок із козячої вовни в ⟨его⟩ головах.",
+  "tokens": [
+    {
+      "surface": "והמלאכים-placeholder",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T22:32:15.990759538Z",
+  "model": "glm-5.3"
+}

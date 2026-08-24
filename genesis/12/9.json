@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "І рушив Аврам, ідучи й рушаючи все далі на південь.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "І рушив"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ідучи"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "й рушаючи"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "на південь"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:07.169735932Z",
+  "model": "glm-5.3"
+}

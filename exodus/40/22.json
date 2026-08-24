@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "І поставив ⟨את⟩ стола в шатрі зустрічі, на бік оселі, на північ, зовні завіси.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "І поставив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "стола"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "стола"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "в шатрі"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "зустрічі"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "бік"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "оселі"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "на північ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "зовні"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "завіси"
+    }
+  ],
+  "timestamp": "2026-08-24T01:38:08.460812811Z",
+  "model": "glm-5.3"
+}

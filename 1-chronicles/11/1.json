@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І зібрався ввесь Їсраель до Давида в Хеврон, кажучи: ось кістка твоя і тіло твоє — ми.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "І зібрався"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ввесь"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраель"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "в Хеврон"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "кістка твоя"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "і тіло твоє"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ми"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:09.665076899Z",
+  "model": "glm-5.3"
+}

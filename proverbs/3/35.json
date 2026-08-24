@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 3:35",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Славу спадкують мудрі, а глуз несуть дурні.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "Славу"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрі"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "спадкують"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "а дурні"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "несуть\/возносять"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "глуз"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:43.985377892Z",
+  "model": "glm-5.3"
+}

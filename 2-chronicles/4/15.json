@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "⟨את⟩ одне море, і ⟨את⟩ волів дванадцять під ним.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "одне море"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одне"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "волів дванадцять"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "волів"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надцять"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "під ним"
+    }
+  ],
+  "timestamp": "2026-08-24T01:23:05.978468905Z",
+  "model": "glm-5.3"
+}

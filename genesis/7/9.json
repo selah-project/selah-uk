@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "По два, по два приходили до Ноаха, до ковчега, самець і самка, як заповів Елогім ⟨את⟩ Ноаха.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "по два"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "по два"
+    },
+    {
+      "surface": "באו",
+      "gloss": "приходили"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноаха"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчега"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "самець"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "і самка"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ноаха"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноаха"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:59.194130222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 31:5",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Якщо ходив я з марнотою, і квапилася нога моя до ошуканства,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ходив я"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "марнотою"
+    },
+    {
+      "surface": "ותחש",
+      "gloss": "і квапилася"
+    },
+    {
+      "surface": "על",
+      "gloss": "до"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ошуканства"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "нога моя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:45:55.847722586Z",
+  "model": "glm-5.3"
+}

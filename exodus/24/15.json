@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І піднявся Моше на гору, і вкрила хмара ⟨את⟩ гору.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "І піднявся"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "і вкрила"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "хмара"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гору"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "гору"
+    }
+  ],
+  "timestamp": "2026-08-23T21:31:43.793278919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 91,
+  "translation": "Той, хто сидить у сховку Ельйона, у тіні Шаддая переночує.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "сидить"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "у сховку"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ельйона"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "у тіні"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддая"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "переночує"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:45.056659223Z",
+  "model": "glm-5.3"
+}

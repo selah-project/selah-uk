@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 34:7",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "Хто ⟨є⟩ муж, як Ійов, що п'є насмішку, як воду?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "муж"
+    },
+    {
+      "surface": "כאיוב",
+      "gloss": "як Ійов"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "п'є"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "насмішку"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "як воду"
+    }
+  ],
+  "timestamp": "2026-08-24T00:46:43.769235275Z",
+  "model": "glm-5.3"
+}

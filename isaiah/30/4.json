@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Бо в Цоані були князі його, а посли його до Ханеса дійшли.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "היו",
+      "gloss": "були"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "в Цоані"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "князі його"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "а посли його"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "до Ханеса"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "дійшли"
+    }
+  ],
+  "timestamp": "2026-08-23T23:12:25.440299812Z",
+  "model": "glm-5.3"
+}

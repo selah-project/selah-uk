@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 35:2",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "І поставив коенів на їхні варти, і підкріпив їх для служби дому Яхве.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "І поставив"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "коенів"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "משמרותם",
+      "gloss": "їхні варти"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "і підкріпив їх"
+    },
+    {
+      "surface": "לעבודת",
+      "gloss": "для служби"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:34:29.536466785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Залишилось у місті спустошення, і руїну сокрушено браму.",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "залишилось"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "у місті"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "спустошення"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "і руїну"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "сокрушено"
+    },
+    {
+      "surface": "שער",
+      "gloss": "браму"
+    }
+  ],
+  "timestamp": "2026-08-23T23:10:22.055378969Z",
+  "model": "glm-5.3"
+}

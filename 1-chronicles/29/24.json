@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 29:24",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І всі князі, і сильні, та й усі сини царя Давида подали руку під ⟨владу⟩ Шломо-царя.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "І всі"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "князі"
+    },
+    {
+      "surface": "והגברים",
+      "gloss": "і сильні"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "та й"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "подали"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руку"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "-царя"
+    }
+  ],
+  "timestamp": "2026-08-24T01:22:12.991707512Z",
+  "model": "glm-5.3"
+}

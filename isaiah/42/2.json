@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 42,
+  "translation": "Не crikne, — не кричатиме й не підійме, і не дасть почути ⟨своєму⟩ голосу на вулиці.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "кричатиме"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "підійме"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "дасть почути"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "на вулиці"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "голосу свого"
+    }
+  ],
+  "timestamp": "2026-08-23T23:15:38.983346713Z",
+  "model": "glm-5.3"
+}

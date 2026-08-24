@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "У п'явки ⟨є⟩ дві дочки: «Дай, дай!» Три ⟨речі⟩ ці не насичуються, чотири не сказали: «Досить».",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "у п'явки"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "дві"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дочки"
+    },
+    {
+      "surface": "הב",
+      "gloss": "Дай"
+    },
+    {
+      "surface": "הב",
+      "gloss": "дай"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "три"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "насичуються"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чотири"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "сказали"
+    },
+    {
+      "surface": "הון",
+      "gloss": "«Досить»"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:35.428754729Z",
+  "model": "glm-5.3"
+}

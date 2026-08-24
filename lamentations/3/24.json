@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "«Частка моя — Яхве», сказала моя душа, тому сподіваюся я на Нього.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "частка моя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "сказала"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моя"
+    },
+    {
+      "surface": "על",
+      "gloss": "через"
+    },
+    {
+      "surface": "כן",
+      "gloss": "це"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "сподіваюся"
+    },
+    {
+      "surface": "לו",
+      "gloss": "на Нього"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:53.064328080Z",
+  "model": "glm-5.3"
+}

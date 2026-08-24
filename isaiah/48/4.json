@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "Знаючи, що ти жорсткий, і шия твоя — жилa залізна, і чоло твоє — мідяне.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "Знаючи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "жорсткий"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "і жила"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "залізна"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "шия твоя"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "і чоло твоє"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "мідяне"
+    }
+  ],
+  "timestamp": "2026-08-23T23:16:31.665991777Z",
+  "model": "glm-5.3"
+}

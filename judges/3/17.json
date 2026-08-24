@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 3:17",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І підніс ⟨את⟩ ⟨the⟩ дар Еглону, цареві Моаву; а Еглон ⟨був⟩ чоловік дуже гладкий.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "І підніс"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ дар"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "⟨the⟩ дар"
+    },
+    {
+      "surface": "לעגלון",
+      "gloss": "Еглону"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цареві"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаву"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "а Еглон"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "בריא",
+      "gloss": "гладкий"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "дуже"
+    }
+  ],
+  "timestamp": "2026-08-23T22:19:51.704970266Z",
+  "model": "glm-5.3"
+}

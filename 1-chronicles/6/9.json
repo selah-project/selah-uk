@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 6:9",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Тахат, син його; Уріель, син його; Уззія, син його; і Шауль, син його.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Тахат"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "Уріель"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "Уззія"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "і Шауль"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:25.211995832Z",
+  "model": "glm-5.3"
+}

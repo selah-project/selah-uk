@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "А сини Шім'ї: Яхат, Зіна, і Єуш, і Бер'я; ці — сини Шім'ї, чотири.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "а сини"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шім'ї"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Яхат"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "Зіна"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "і Єуш"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "і Бер'я"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шім'ї"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чотири"
+    }
+  ],
+  "timestamp": "2026-08-24T01:19:46.550172Z",
+  "model": "glm-5.3"
+}

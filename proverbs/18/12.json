@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 18:12",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Перед скорою піднесеність серця людини, а перед славою — смиренність.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "скорою"
+    },
+    {
+      "surface": "יגבה",
+      "gloss": "піднесеність"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серця"
+    },
+    {
+      "surface": "איש",
+      "gloss": "людини"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "а перед"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славою"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "смиренністю"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:08.305418142Z",
+  "model": "glm-5.3"
+}

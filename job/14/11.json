@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Відходять води від моря, і річка висихає та пересихає.",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "відходять"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "מני",
+      "gloss": "від"
+    },
+    {
+      "surface": "ים",
+      "gloss": "моря"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "і річка"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "висихає"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "і пересихає"
+    }
+  ],
+  "timestamp": "2026-08-24T00:42:01.230720033Z",
+  "model": "glm-5.3"
+}

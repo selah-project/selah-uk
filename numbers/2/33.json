@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 2:33",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "А левіти не були переписані серед синів Ізраїля, як заповів Яхве ⟨את⟩ Моше.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "а левіти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "התפקדו",
+      "gloss": "були переписані"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "серед"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-23T21:47:53.689484706Z",
+  "model": "glm-5.3"
+}

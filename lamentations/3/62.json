@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "lamentations 3:62",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Уста тих, хто повстав проти мене, і шепіт їхній проти мене цілий день.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "Уста"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "тих, хто повстав проти мене"
+    },
+    {
+      "surface": "והגיונם",
+      "gloss": "і шепіт їхній"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "проти мене"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цілий"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:21.085978766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Я виславлю Яхве всім своїм серцем, розповім усі ⟨твої⟩ чудеса.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Я виславлю"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "всьом"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "своїм серцем"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "розповім"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "твої чудеса"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:43.995418141Z",
+  "model": "glm-5.3"
+}

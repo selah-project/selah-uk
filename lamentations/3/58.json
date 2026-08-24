@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Ти вів, Адонай, тяжби моєї нефеш, Ти викупив моє життя.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Ти вів тяжби"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "тяжби"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "моєї нефеш"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "Ти викупив"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "моє життя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:24.472389492Z",
+  "model": "glm-5.3"
+}

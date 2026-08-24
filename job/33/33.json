@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 33:33",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "Якщо ні — ти слухай мене, замовкни, і я навчу тебе мудрості.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ні"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слухай"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "замовкни"
+    },
+    {
+      "surface": "ואאלפך",
+      "gloss": "і я навчу тебе"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрості"
+    }
+  ],
+  "timestamp": "2026-08-24T00:46:58.184748469Z",
+  "model": "glm-5.3"
+}

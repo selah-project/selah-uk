@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 36:22",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "І були сини Лотана: Хорі та Геймам; а сестра Лотана — Тімна.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "І були"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотана"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "Хорі"
+    },
+    {
+      "surface": "והימם",
+      "gloss": "та Геймам"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "а сестра"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотана"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Тімна"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:54.523083539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Керівникові музикантів, на шеминіт, мізмор Давида.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові музикантів"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "шеминіт"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мізмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-24T00:11:34.419888112Z",
+  "model": "glm-5.3"
+}

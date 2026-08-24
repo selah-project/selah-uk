@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 15:23",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "І прийшли вони до Мари, і не могли пити води з Мари, бо гіркі вони ⟨були⟩; тому назвали ⟨її⟩ на ім'я Мара.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "І прийшли"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "до Мари"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "могли"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "пити"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "ממרה",
+      "gloss": "з Мари"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "гіркі"
+    },
+    {
+      "surface": "הם",
+      "gloss": "вони"
+    },
+    {
+      "surface": "על",
+      "gloss": "тому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨тому⟩"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "назвали"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "на ім'я"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "Мара"
+    }
+  ],
+  "timestamp": "2026-08-23T21:28:48.841662835Z",
+  "model": "glm-5.3"
+}

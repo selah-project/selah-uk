@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І сказав мені: сину людський, ⟨את⟩ що знайдеш — їж; з'їж ⟨את⟩ цей сувій, і йди, говори до дому Ісраейлу.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сину"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людський"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "що знайдеш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "знайдеш"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "їж"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "з'їж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цей сувій"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "сувій"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цей"
+    },
+    {
+      "surface": "ו לך",
+      "gloss": "і йди"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраейлу"
+    }
+  ],
+  "timestamp": "2026-08-23T23:41:58.115646343Z",
+  "model": "glm-5.3"
+}

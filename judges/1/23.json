@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 1:23",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І наслали розвідати дім Йосефа Бейт-Ель, а ім'я міста раніше — Луз.",
+  "tokens": [
+    {
+      "surface": "ויתירו",
+      "gloss": "І наслали розвідати"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефа"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "на Бейт-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-Ель"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а ім'я"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "міста"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "раніше"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "Луз"
+    }
+  ],
+  "timestamp": "2026-08-23T22:18:29.935879159Z",
+  "model": "glm-5.3"
+}

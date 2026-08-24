@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І Я став їм як лев, як пантера на шляху стережу.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "і Я став"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "як"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "лев"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "як пантера"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "шляху"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "стерегу"
+    }
+  ],
+  "timestamp": "2026-08-23T23:58:50.656505677Z",
+  "model": "glm-5.3"
+}

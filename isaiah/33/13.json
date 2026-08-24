@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "Чуйте, далекі, що я вчинив, і знайте, близькі, мою силу.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Чуйте"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "далекі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "я вчинив"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "і знайте"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "близькі"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "мою силу"
+    }
+  ],
+  "timestamp": "2026-08-23T23:12:09.204182463Z",
+  "model": "glm-5.3"
+}

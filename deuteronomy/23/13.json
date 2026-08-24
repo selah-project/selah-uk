@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І нехай буде тобі місце поза табором, і виходитимеш туди назовні,",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "і"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "нехай буде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "поза"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "табором"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "і виходитимеш"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "туди"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "назовні"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:05.552675013Z",
+  "model": "glm-5.3"
+}

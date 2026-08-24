@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Рев лева, і голос шахала, і зуби левенят вирвані.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "Рев"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "лева"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "і голос"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "шахала"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "і зуби"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "левенят"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "вирвані"
+    }
+  ],
+  "timestamp": "2026-08-24T00:39:36.444798100Z",
+  "model": "glm-5.3"
+}

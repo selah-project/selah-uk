@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Тож так сказав Яхве Цаваот: за те, що ви не послухали ⟨את⟩ слів Моїх, —",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Тож"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цаваот"
+    },
+    {
+      "surface": "יען",
+      "gloss": "за те, що"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "послухали"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слів Моїх"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слів Моїх"
+    }
+  ],
+  "timestamp": "2026-08-23T23:30:02.704901734Z",
+  "model": "glm-5.3"
+}

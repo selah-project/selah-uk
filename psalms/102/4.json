@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 102,
+  "translation": "Бо дні мої кінчаються, як дим, і кістки мої, як вогнище, обгоріли.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "кінчаються"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "як дим"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дні мої"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "і кістки мої"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "як"
+    },
+    {
+      "surface": "קד",
+      "gloss": "вогнище"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "обгоріли"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:18.691509349Z",
+  "model": "glm-5.3"
+}

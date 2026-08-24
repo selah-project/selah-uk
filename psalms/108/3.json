@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 108,
+  "translation": "Пробудись, невель і кіннор; я розбужу ранок.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Пробудись"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "невель"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "і кіннор"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "я розбужу"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ранок"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:10.170699382Z",
+  "model": "glm-5.3"
+}

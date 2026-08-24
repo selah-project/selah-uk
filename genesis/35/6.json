@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 35:6",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "І прийшов Яаков до Луза, що в землі Кнаан, — він ⟨є⟩ Бейт-Ель, — він і ввесь народ, що з ним.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "і прийшов"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "до Луза"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землі"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кнаан"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і ввесь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "з ним"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:22.244391866Z",
+  "model": "glm-5.3"
+}

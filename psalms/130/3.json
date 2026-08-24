@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 130,
+  "translation": "Якщо провини Ти зберігаєш, Ях, — Адонай, хто встоїть?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Якщо"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "провини"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "Ти зберігаєш"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "встоїть"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:11.787126710Z",
+  "model": "glm-5.3"
+}

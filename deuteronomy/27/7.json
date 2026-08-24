@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 27:7",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "І заріжеш шламім, і їстимеш там, і тішитимешся перед Яхве, твоїм Елогімом.",
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "і заріжеш"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "шламім"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "і їстимеш"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "і тішитимешся"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твоїм Елогімом"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:05.883949243Z",
+  "model": "glm-5.3"
+}

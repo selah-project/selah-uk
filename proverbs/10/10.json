@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Хто підморгує оком, заподіює біль, а несамовитий устами впаде.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "підморгує"
+    },
+    {
+      "surface": "עין",
+      "gloss": "оком"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "заподіює"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "біль"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "а несамовитий"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "устами"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "впаде"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:59.650048055Z",
+  "model": "glm-5.3"
+}

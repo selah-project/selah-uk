@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 12:17",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Для Авії — Зікрі; для Мін'яміна, для Моадії — Пілтай.",
+  "tokens": [
+    {
+      "surface": "לאביה",
+      "gloss": "для Авії"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Зікрі"
+    },
+    {
+      "surface": "למנימין",
+      "gloss": "для Мін'яміна"
+    },
+    {
+      "surface": "למועדיה",
+      "gloss": "для Моадії"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "Пілтай"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:19.772275227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 17:5",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І випали долі Менаше — десять, окрім землі Гілеаду і Башану, що за Йорданом.",
+  "tokens": [
+    {
+      "surface": "ויפלו",
+      "gloss": "І випали"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "долі"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десять"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "окрім"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гілеаду"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "і Башану"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "за"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "Йорданом"
+    }
+  ],
+  "timestamp": "2026-08-23T22:15:44.081964253Z",
+  "model": "glm-5.3"
+}

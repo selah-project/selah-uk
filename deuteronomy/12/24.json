@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Не їж його; на землю вилий його, як воду.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "їж його"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "вилий його"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "як воду"
+    }
+  ],
+  "timestamp": "2026-08-23T22:04:25.146820385Z",
+  "model": "glm-5.3"
+}

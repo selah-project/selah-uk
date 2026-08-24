@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "jeremiah 48:47",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "І поверну долю Моаву в кінці днів, — промовляє Яхве. Досі — суд над Моавом.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "І поверну"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "долю"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаву"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "в кінці"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "промовляє"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Досі"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "—"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моавом"
+    }
+  ],
+  "timestamp": "2026-08-23T23:37:46.956115837Z",
+  "model": "glm-5.3"
+}

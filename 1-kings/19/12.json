@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І після трусу — огонь, не в огні Яхве; і після огню — голос тиші тонкої.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "і після"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "трусу"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огонь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "באש",
+      "gloss": "в огні"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "і після"
+    },
+    {
+      "surface": "האש",
+      "gloss": "огню"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "тиші"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "тонкої"
+    }
+  ],
+  "timestamp": "2026-08-23T22:53:49.325125640Z",
+  "model": "glm-5.3"
+}

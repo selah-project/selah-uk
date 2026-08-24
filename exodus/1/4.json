@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Дан і Нафталі, Гад і Ашер.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "і Нафталі"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "і Ашер"
+    }
+  ],
+  "timestamp": "2026-08-23T21:24:55.619876760Z",
+  "model": "glm-5.3"
+}

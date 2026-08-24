@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 29:26",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І стали левити з інструментами Давіда, а коґени — із трубами.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "і стали"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левити"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "з інструментами"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давіда"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "а коґени"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "із трубами"
+    }
+  ],
+  "timestamp": "2026-08-24T01:32:36.856909281Z",
+  "model": "glm-5.3"
+}

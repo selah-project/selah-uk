@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 3:1",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І оці ⟨את⟩ народи, які лишив Яхве, щоб випробувати ними Ізраїль, — усіх, хто не знав усіх воєн Кнаану:",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "І оці"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "лишив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "щоб випробувати"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ними"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ізраїль"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїль"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усіх"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіх"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всіх воєн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всіх"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "воєн"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кнаану"
+    }
+  ],
+  "timestamp": "2026-08-23T22:17:47.842130996Z",
+  "model": "glm-5.3"
+}

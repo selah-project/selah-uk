@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Не будь серед п'ючих вино, серед пожирачів м'яса для себе.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "будь"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "серед п'ючих"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вино"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "серед пожирачів"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "м'яса"
+    },
+    {
+      "surface": "למו",
+      "gloss": "для себе"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:03.392282845Z",
+  "model": "glm-5.3"
+}

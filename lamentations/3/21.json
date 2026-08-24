@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Це повертаю я до серця мого, тому сподіваюся я.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "повертаю"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "серця мого"
+    },
+    {
+      "surface": "על",
+      "gloss": "через"
+    },
+    {
+      "surface": "כן",
+      "gloss": "це"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "сподіваюся"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:53.063797373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "І пішли брати його пасти ⟨את⟩ отару батька їхнього в Шхемі.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "і пішли"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "брати його"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "пасти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "отару"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "отару"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "батька їхнього"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "в Шхемі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:53.962992808Z",
+  "model": "glm-5.3"
+}

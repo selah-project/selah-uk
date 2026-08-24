@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Тому всі руки ослабнуть, і кожне серце смертного розтане.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Тому (на це)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "руки"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ослабнуть"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і кожне"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "смертного"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "розтане"
+    }
+  ],
+  "timestamp": "2026-08-23T23:07:47.399385047Z",
+  "model": "glm-5.3"
+}

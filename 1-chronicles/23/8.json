@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Сини Лаадана: голова Єхіель, і Зетам, і Йоель, — троє.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "Лаадана"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "голова"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Єхіель"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "і Зетам"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "і Йоель"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "троє"
+    }
+  ],
+  "timestamp": "2026-08-24T01:19:48.495703357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Один козел, з кіз, на жертву за гріх",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "козел"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "з кіз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "на жертву за гріх"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:14.638272542Z",
+  "model": "glm-5.3"
+}

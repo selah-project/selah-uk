@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 42,
+  "translation": "І зібрав ⟨את⟩ їх під варту на три дні.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "І зібрав"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "їх"
+    },
+    {
+      "surface": "אל",
+      "gloss": "під"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "варту"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дні"
+    }
+  ],
+  "timestamp": "2026-08-23T21:22:30.256361150Z",
+  "model": "glm-5.3"
+}

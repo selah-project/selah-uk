@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 69,
+  "translation": "Спаси мене, Елогім, бо води прийшли аж до душі.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Спаси мене"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "באו",
+      "gloss": "прийшли"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:19:10.129457794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 7:26",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Бо багатьох поранених ⟨את⟩ повалила вона, і всі вбиті нею — могутні.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "багатьох"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "поранених"
+    },
+    {
+      "surface": "הפילה",
+      "gloss": "повалила вона"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "і могутні"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "הרגיה",
+      "gloss": "вбиті нею"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:44.004657101Z",
+  "model": "glm-5.3"
+}

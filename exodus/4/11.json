@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 4:11",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І сказав Яхве йому: хто поставив уста людині, або хто ставить німого, чи глухого, чи зрячого, чи сліпого? хіба не Я, Яхве?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "שם",
+      "gloss": "поставив"
+    },
+    {
+      "surface": "פה",
+      "gloss": "уста"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "людині"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "ישום",
+      "gloss": "ставить"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "німого"
+    },
+    {
+      "surface": "או",
+      "gloss": "чи"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "глухого"
+    },
+    {
+      "surface": "או",
+      "gloss": "чи"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "зрячого"
+    },
+    {
+      "surface": "או",
+      "gloss": "чи"
+    },
+    {
+      "surface": "עור",
+      "gloss": "сліпого"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "хіба не"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:36:59.134143454Z",
+  "model": "glm-5.3"
+}

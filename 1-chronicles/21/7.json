@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І це було зло в очах Елогіма щодо цієї справи, і Він уразив ⟨את⟩ Ізраїля.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "і це було зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогіма"
+    },
+    {
+      "surface": "על",
+      "gloss": "щодо"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "цієї справи"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цієї"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "і Він уразив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ізраїля"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    }
+  ],
+  "timestamp": "2026-08-24T01:19:01.152425854Z",
+  "model": "glm-5.3"
+}

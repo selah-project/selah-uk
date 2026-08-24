@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Шемаʼя́, і Єгаярíв, Єдаʼя́.",
+  "tokens": [
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемаʼя́"
+    },
+    {
+      "surface": "ויויריב",
+      "gloss": "і Єгаярíв"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Єдаʼя́"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:28.556697328Z",
+  "model": "glm-5.3"
+}

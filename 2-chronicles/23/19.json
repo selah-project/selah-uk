@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 23:19",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І поставив дверарів над брамами дому Яхве, щоб не ввійшов нечистий ні в якій речі.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "і поставив"
+    },
+    {
+      "surface": "השוערים",
+      "gloss": "дверарів"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "брамами"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "щоб не"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ввійшов"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечистий"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ні в якій"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "речі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:29:29.529233610Z",
+  "model": "glm-5.3"
+}

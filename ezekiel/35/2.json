@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "Сину людський, оберни обличчя твоє на гору Сеїр і пророкуй на неї,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "сину"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людський"
+    },
+    {
+      "surface": "שים",
+      "gloss": "оберни"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "обличчя твоє"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеїр"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "і пророкуй"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на неї"
+    }
+  ],
+  "timestamp": "2026-08-23T23:51:35.880960084Z",
+  "model": "glm-5.3"
+}

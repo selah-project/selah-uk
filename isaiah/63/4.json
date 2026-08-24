@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 63,
+  "translation": "Бо день помсти — у моєму серці, і рік моїх викуплених настав.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "помсти"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "у моєму серці"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "і рік"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "моїх викуплених"
+    },
+    {
+      "surface": "באה",
+      "gloss": "настав"
+    }
+  ],
+  "timestamp": "2026-08-23T23:20:17.133960927Z",
+  "model": "glm-5.3"
+}

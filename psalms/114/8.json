@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 114,
+  "translation": "⟨Той,⟩ хто обертає скелю на став води, кремінь на джерело води!",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "хто обертає"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "скелю"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "на став"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "кремінь"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "на джерело"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:44.998987761Z",
+  "model": "glm-5.3"
+}

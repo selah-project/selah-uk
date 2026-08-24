@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Лівиця його під головою моєю, а правиця його обіймає мене.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "лівиця його"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "головою моєю"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "а правиця його"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "обіймає мене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:50:37.859670231Z",
+  "model": "glm-5.3"
+}

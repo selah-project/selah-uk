@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 10:13",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Початок слів його уст — безглуздість, а кінець його уст — божевільна лихість.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "початок"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слів"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "його уст"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "безглуздість"
+    },
+    {
+      "surface": "ואחרית",
+      "gloss": "а кінець"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "його уст"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "божевільна"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "лихість"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:59.398937751Z",
+  "model": "glm-5.3"
+}

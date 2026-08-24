@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 39,
+  "translation": "І тепер — чого чекати мені? Адонай, надія моя — на Тобі ⟨є⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "і тепер"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чого"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "чекати мені"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "надія моя"
+    },
+    {
+      "surface": "לך",
+      "gloss": "на Тобі"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨є⟩ вона"
+    }
+  ],
+  "timestamp": "2026-08-24T00:15:00.003469255Z",
+  "model": "glm-5.3"
+}

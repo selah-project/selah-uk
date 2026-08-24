@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Хто женеться за правдою та хеседом, знайде ⟨את⟩ життя — правду й славу.",
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "женеться"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "правдою"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "та хеседом"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "знайде"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "життя"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "правду"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "й славу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:39.571143850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І ⟨את⟩ євусея, і ⟨את⟩ еморея, і ⟨את⟩ гіргашея.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "євусея"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "євусея"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "єморея"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "єморея"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "гіргашея"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "гіргашея"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:52.244972270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І сказав Есав: ось я йду на смерть, і навіщо мені це — первородство?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "іду"
+    },
+    {
+      "surface": "למות",
+      "gloss": "на смерть"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "і навіщо"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "первородство"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:48.823150856Z",
+  "model": "glm-5.3"
+}

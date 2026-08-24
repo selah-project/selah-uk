@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Пошли свій хліб на поверхню вод, бо багато днів потому знайдеш його.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "пошли"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "свій хліб"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "поверхню"
+    },
+    {
+      "surface": "המים",
+      "gloss": "вод"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "багато"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "знайдеш його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:43.903039059Z",
+  "model": "glm-5.3"
+}

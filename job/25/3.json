@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 25:3",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Чи ⟨є⟩ число військам Його? і на кого не зійде світло Його?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "Чи ⟨є⟩"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "число"
+    },
+    {
+      "surface": "לגדודיו",
+      "gloss": "військам Його"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кого"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "зійде"
+    },
+    {
+      "surface": "אורהו",
+      "gloss": "світло Його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:44:27.537305777Z",
+  "model": "glm-5.3"
+}

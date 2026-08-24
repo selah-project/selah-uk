@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 7:21",
+  "book": "daniel",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Дивився я, і цей ріг чинив війну зі святими — і зміг ⟨перемогти⟩ їх.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "Дивився"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "я"
+    },
+    {
+      "surface": "וקרנא",
+      "gloss": "і ріг"
+    },
+    {
+      "surface": "דכן",
+      "gloss": "цей"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "чинив"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "війну"
+    },
+    {
+      "surface": "עם",
+      "gloss": "зі"
+    },
+    {
+      "surface": "קדישין",
+      "gloss": "святими"
+    },
+    {
+      "surface": "ויכלה",
+      "gloss": "і зміг"
+    },
+    {
+      "surface": "להון",
+      "gloss": "їх"
+    }
+  ],
+  "timestamp": "2026-08-24T01:01:32.527450032Z",
+  "model": "glm-5.3"
+}

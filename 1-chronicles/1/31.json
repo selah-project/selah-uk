@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Єтур, Нафіш і Кедма. Ось вони — сини Ішмаеля.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "Єтур"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "Нафіш"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "і Кедма"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "הם",
+      "gloss": "вони"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ішмаеля"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:05.388628899Z",
+  "model": "glm-5.3"
+}

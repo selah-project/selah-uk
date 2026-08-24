@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 32:22",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І дав Ти їм ⟨את⟩ цю землю, яку Ти поклявся батькам їхнім дати їм, землю, що тече молоком і медом.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "І дав Ти"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цю землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цю"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "Ти поклявся"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "батькам їхнім"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "дати"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "що тече"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "молоком"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "і медом"
+    }
+  ],
+  "timestamp": "2026-08-23T23:33:49.281093635Z",
+  "model": "glm-5.3"
+}

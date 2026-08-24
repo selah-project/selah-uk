@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 25:14",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Сьомий — Єсар'ела, його сини та його брати — дванадцять.",
+  "tokens": [
+    {
+      "surface": "השבעי",
+      "gloss": "сьомий"
+    },
+    {
+      "surface": "ישראלה",
+      "gloss": "Єсар'ел"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "його сини"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "та його брати"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "десять"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:26.196837046Z",
+  "model": "glm-5.3"
+}

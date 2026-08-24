@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Промовив до всієї громади синів Ізраїля й скажи їм: святими будьте, бо святий Я, Яхве, Елогім ваш.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Промовив"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всієї"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "громади"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "й скажи"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "святими"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "будьте"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "святий"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елогім ваш"
+    }
+  ],
+  "timestamp": "2026-08-23T21:43:40.487104122Z",
+  "model": "glm-5.3"
+}

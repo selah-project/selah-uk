@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 64,
+  "translation": "Керівникові ⟨співу⟩. Мізмор Давида.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мізмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-24T00:18:21.245163016Z",
+  "model": "glm-5.3"
+}

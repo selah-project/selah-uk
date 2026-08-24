@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "Хай живе Реувен, і нехай не вмре, і хай будуть його люди численні.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "Хай живе"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і нехай не"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "вмре"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і хай будуть"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "його люди"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "численні"
+    }
+  ],
+  "timestamp": "2026-08-23T22:10:28.598418981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 15:7",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "І сказав їм Шимшон: якщо робите таке, то помщуся на вас — і після того перестану.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Шимшон"
+    },
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "робите"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "таке"
+    },
+    {
+      "surface": "כי",
+      "gloss": "то"
+    },
+    {
+      "surface": "אם",
+      "gloss": "справді"
+    },
+    {
+      "surface": "נקמתי",
+      "gloss": "помщуся"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "на вас"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "і після того"
+    },
+    {
+      "surface": "אחדל",
+      "gloss": "перестану"
+    }
+  ],
+  "timestamp": "2026-08-23T22:23:45.666163340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І я сказав панові моєму: можливо, не піде жінка вслід за мною.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "пана мого"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "можливо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "піде"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жінка"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "вслід за мною"
+    }
+  ],
+  "timestamp": "2026-08-23T21:14:58.255648550Z",
+  "model": "glm-5.3"
+}

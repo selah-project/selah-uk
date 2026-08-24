@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 22:11",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Або темрява — ти не бачиш, і повінь вод покриває тебе.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "темрява"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ти бачиш"
+    },
+    {
+      "surface": "ושפעת",
+      "gloss": "і повінь"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вод"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "покриває тебе"
+    }
+  ],
+  "timestamp": "2026-08-24T00:44:09.981460969Z",
+  "model": "glm-5.3"
+}

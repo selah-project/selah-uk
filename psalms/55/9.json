@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 55,
+  "translation": "Прискорив би я втечу собі, від вітру ураганного, від бурі.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "Прискорив би"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "втечу"
+    },
+    {
+      "surface": "לי",
+      "gloss": "собі"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "від вітру"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "ураганного"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "від бурі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:48.456267948Z",
+  "model": "glm-5.3"
+}

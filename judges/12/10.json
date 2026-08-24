@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "І вмер Івцан, і був похований у Бейт-Лехемі.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "І вмер"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Івцан"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "і був похований"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "у Бейт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехемі"
+    }
+  ],
+  "timestamp": "2026-08-23T22:23:02.006811636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 130,
+  "translation": "Бо в Тобі пробачення, щоб Тебе боялися.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "в Тобі"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "пробачення"
+    },
+    {
+      "surface": "למען",
+      "gloss": "щоб"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "Тебе боялися"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:11.787251733Z",
+  "model": "glm-5.3"
+}

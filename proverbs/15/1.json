@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "М'яка відповідь відвертає лють, а слово болюче підіймає гнів.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "відповідь"
+    },
+    {
+      "surface": "רך",
+      "gloss": "м'яка"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "відвертає"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "лють"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "а слово"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "болюче"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "підіймає"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гнів"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:58.586452415Z",
+  "model": "glm-5.3"
+}

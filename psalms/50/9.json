@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 50,
+  "translation": "Не візьму з дому твого бика, з твого кошару козлів.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "візьму"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "з дому твого"
+    },
+    {
+      "surface": "פר",
+      "gloss": "бика"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "з твого кошару"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "козлів"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:43.918876671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 32:19",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "А град — при спаданні лісу, і в долині впаде понизу місто.",
+  "tokens": [
+    {
+      "surface": "וברד",
+      "gloss": "а град"
+    },
+    {
+      "surface": "ברדת",
+      "gloss": "при спаданні"
+    },
+    {
+      "surface": "היער",
+      "gloss": "лісу"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "і в долині"
+    },
+    {
+      "surface": "תשפל",
+      "gloss": "впаде понизу"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "місто"
+    }
+  ],
+  "timestamp": "2026-08-23T23:11:43.225696738Z",
+  "model": "glm-5.3"
+}

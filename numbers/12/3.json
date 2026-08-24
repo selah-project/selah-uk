@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "А чоловік Моше ⟨був⟩ смирений дуже, понад усіх людей, що на лиці землі.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "а чоловік"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "смирений"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "дуже"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "понад усіх"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людей"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лиці"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:52:11.788728212Z",
+  "model": "glm-5.3"
+}

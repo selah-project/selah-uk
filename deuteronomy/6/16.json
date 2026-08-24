@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Не випробовуйте ⟨את⟩ Яхве, Елогіма вашого, як випробовували ⟨you⟩ в Массі.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "випробовуйте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве, Елогіма вашого"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елогіма вашого"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "випробовували"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "в Массі"
+    }
+  ],
+  "timestamp": "2026-08-23T22:01:42.591356548Z",
+  "model": "glm-5.3"
+}

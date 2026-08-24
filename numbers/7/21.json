@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 7:21",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "одного бика, сина худоби, одного овна, одного ягня, сина року, на всеспалення;",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "бика"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "худоби"
+    },
+    {
+      "surface": "איל",
+      "gloss": "овна"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ягня"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "року"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "на всеспалення"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:36.127777682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І скаже Паро про синів Ісраїля: заблукані вони в ⟨the⟩ країні, замкнув на них пустка.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "І скаже"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "про синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраїля"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "заблукані"
+    },
+    {
+      "surface": "הם",
+      "gloss": "вони"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в ⟨the⟩ країні"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "замкнув"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "на них"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "⟨the⟩ пустка"
+    }
+  ],
+  "timestamp": "2026-08-23T21:29:19.950068240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "і Циклаґ, і Бейт-Гаммаркавот, і Хацар-Суса,",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "і Циклаґ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "і Бейт-"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "Гаммаркавот"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "і Хацар-"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "Суса"
+    }
+  ],
+  "timestamp": "2026-08-23T22:16:19.830829678Z",
+  "model": "glm-5.3"
+}

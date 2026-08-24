@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Він увів мене до дому вина, і його прапор надо мною — любов.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "він увів мене"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "היין",
+      "gloss": "вина"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "і його прапор"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "надо мною"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "любов"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:58.498252409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Натягнув Свій лук і поставив мене як мішень для стріли.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "натягнув"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "Свій лук"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "і поставив мене"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "як мішень"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "для стріли"
+    }
+  ],
+  "timestamp": "2026-08-24T00:51:51.830826931Z",
+  "model": "glm-5.3"
+}

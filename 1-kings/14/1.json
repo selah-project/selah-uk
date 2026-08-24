@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "У той час захворів Авія, син Яровама.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "у час"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "той"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "захворів"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авія"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яровама"
+    }
+  ],
+  "timestamp": "2026-08-23T22:51:50.627950091Z",
+  "model": "glm-5.3"
+}

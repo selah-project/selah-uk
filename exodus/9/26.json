@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Тільки в землі Гошен, де там ⟨були⟩ сини Ісраейля, не було граду.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Тільки"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землі"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Гошен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "де"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраейля"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "було"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "граду"
+    }
+  ],
+  "timestamp": "2026-08-23T21:27:43.013381909Z",
+  "model": "glm-5.3"
+}

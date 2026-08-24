@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І відповіли ви ⟨את⟩ мені, і сказали: добра ⟨є⟩ річ, яку ти сказав зробити.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "і відповіли ви"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мене"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "і сказали"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "річ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ти сказав"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "зробити"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:38.327073232Z",
+  "model": "glm-5.3"
+}

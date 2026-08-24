@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 15:6",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Синам Мерарі — Асайя ⟨the⟩ начальник та його брати, двісті і двадцять.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "синам"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерарі"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Асайя"
+    },
+    {
+      "surface": "השר",
+      "gloss": "⟨the⟩ начальник"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "та його брати"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двісті"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "і двадцять"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:35.207826714Z",
+  "model": "glm-5.3"
+}

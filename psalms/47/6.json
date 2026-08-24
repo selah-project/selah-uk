@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 47,
+  "translation": "Вознісся Елогім серед лементу, Яхве — голосом шофара.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "Вознісся"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "серед лементу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "голосом"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "шофара"
+    }
+  ],
+  "timestamp": "2026-08-24T01:52:11.400860051Z",
+  "model": "glm-5.3"
+}

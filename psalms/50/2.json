@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 50,
+  "translation": "З Ціону, вершини краси, Елогім сяє.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "З Ціону"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "вершини"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "краси"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "сяє"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:46.822110638Z",
+  "model": "glm-5.3"
+}

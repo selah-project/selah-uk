@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 92,
+  "translation": "Ще плодоноситимуть у сивині, ситі й зелені будуть.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "плодоноситимуть"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "у сивині"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "ситі"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "і зелені"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "будуть"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:23.168002791Z",
+  "model": "glm-5.3"
+}

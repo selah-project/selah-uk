@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 36:13",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "І це сини Реуела: Нахат і Зерах, Шамма і Міза; ці були синами Босмат, дружини Єсава.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "І це"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуела"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "Нахат"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "і Зерах"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Шамма"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "і Міза"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "היו",
+      "gloss": "були"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синами"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Босмат"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "дружини"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Єсава"
+    }
+  ],
+  "timestamp": "2026-08-23T21:20:06.174687078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 25:13",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Шостий — Буккіягу, його сини та його брати — дванадцять.",
+  "tokens": [
+    {
+      "surface": "הששי",
+      "gloss": "шостий"
+    },
+    {
+      "surface": "בקיהו",
+      "gloss": "Буккіягу"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "його сини"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "та його брати"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "десять"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:26.196600193Z",
+  "model": "glm-5.3"
+}

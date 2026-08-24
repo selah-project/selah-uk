@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І шість років сій ⟨את⟩ землю свою, і збереш ⟨את⟩ плоди її.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "і шість"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "років"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "сій"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю свою"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "землю свою"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "і збереш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "плоди її"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "плоди її"
+    }
+  ],
+  "timestamp": "2026-08-23T21:31:08.343062373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І оце їхні імена: для колінa Реувена — Шамуа, син Закура.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "І оце"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "їхні імена"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "для колінa"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувена"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Шамуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Закура"
+    }
+  ],
+  "timestamp": "2026-08-23T21:52:14.181248655Z",
+  "model": "glm-5.3"
+}

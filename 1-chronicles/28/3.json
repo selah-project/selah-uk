@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Але Елогім сказав мені: не збудуєш дому для Імені Мого, бо мужа битв ти, і кров ти проливав.",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "Але Елогім"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "збудуєш"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "для Імені Мого"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "битв"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "і кров"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "ти проливав"
+    }
+  ],
+  "timestamp": "2026-08-24T01:21:29.247022114Z",
+  "model": "glm-5.3"
+}

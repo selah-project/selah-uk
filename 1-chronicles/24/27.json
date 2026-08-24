@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 24:27",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Сини Мрарі від Яазіяго: син його, Шогам, і Закур, і Їврі.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мрарі"
+    },
+    {
+      "surface": "ליעזיהו",
+      "gloss": "від Яазіяgo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    },
+    {
+      "surface": "ושהם",
+      "gloss": "Шогам"
+    },
+    {
+      "surface": "וזכור",
+      "gloss": "і Закур"
+    },
+    {
+      "surface": "ועברי",
+      "gloss": "і Їврі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:06.902679889Z",
+  "model": "glm-5.3"
+}

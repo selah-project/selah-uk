@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 2:35",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Тільки худобу ми забрали собі як здобич, і здобич міст, які ми захопили.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Тільки"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "худобу"
+    },
+    {
+      "surface": "בזזנו",
+      "gloss": "ми забрали як здобич"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "собі"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "і здобич"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "міст"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "לכדנו",
+      "gloss": "ми захопили"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:57.997050439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Повз поле лінивця я проходив, і повз виноградник людини, що бракує серця.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Повз"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "поле"
+    },
+    {
+      "surface": "איש",
+      "gloss": "лінивця"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "лінивого"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "я проходив"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і повз"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "виноградник"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людини"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "що бракує"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серця"
+    }
+  ],
+  "timestamp": "2026-08-24T01:55:01.847816668Z",
+  "model": "glm-5.3"
+}

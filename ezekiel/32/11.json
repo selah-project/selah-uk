@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "Бо так сказав Адонай Яхве: меч царя Бавела прийде на тебе.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бавела"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "прийде на тебе"
+    }
+  ],
+  "timestamp": "2026-08-23T23:50:16.656696233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 57,
+  "translation": "Немає миру, сказав мій Елогім, нечестивим.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Немає"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "миру"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "мій Елогім"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "нечестивим"
+    }
+  ],
+  "timestamp": "2026-08-23T23:20:01.461139738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "І тим, що в Хормі, і тим, що в Бор-Ашані, і тим, що в Атаці.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "і тим, що в"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "в Хормі"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "і тим, що в"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "в Бор"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "-Ашані"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "і тим, що в"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "в Атаці"
+    }
+  ],
+  "timestamp": "2026-08-23T22:35:25.348404929Z",
+  "model": "glm-5.3"
+}

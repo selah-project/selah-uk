@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І заріжеш ⟨את⟩ бика перед Яхве, біля входу Шатру Зустрічі.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "і заріжеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бика"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "бика"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "біля входу"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Шатру"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Зустрічі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:33:46.232959096Z",
+  "model": "glm-5.3"
+}

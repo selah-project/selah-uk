@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І взяв Давид ⟨את⟩ щити золоті, що були на слугах Гададезера, і приніс їх до Єрушалаїму.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "І взяв"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "щити золоті"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "щити"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "золоті"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "היו",
+      "gloss": "були"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слугах"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Гададезера"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "і приніс їх"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "до Єрушалаїму"
+    }
+  ],
+  "timestamp": "2026-08-24T01:18:48.772319200Z",
+  "model": "glm-5.3"
+}

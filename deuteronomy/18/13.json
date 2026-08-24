@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Цілим будеш із Яхве, Елогім твоїм.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "цілим"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "будеш"
+    },
+    {
+      "surface": "עם",
+      "gloss": "із"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елогім твоїм"
+    }
+  ],
+  "timestamp": "2026-08-23T22:05:36.139966626Z",
+  "model": "glm-5.3"
+}

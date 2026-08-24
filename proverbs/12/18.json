@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 12:18",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Є необачний у мові — як уколи меча, а язик мудрих — зцілення.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Є"
+    },
+    {
+      "surface": "בוטה",
+      "gloss": "необачний у мові"
+    },
+    {
+      "surface": "כמדקרות",
+      "gloss": "як уколи"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меча"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "а язик"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрих"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "зцілення"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:16.784967006Z",
+  "model": "glm-5.3"
+}

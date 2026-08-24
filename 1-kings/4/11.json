@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 4:11",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Бен-Авінадав — уся нагір'я Дору; Тафат, дочка Шеломо, була йому за жінку.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Бен-"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Авінадав"
+    },
+    {
+      "surface": "כל",
+      "gloss": "уся"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "нагір'я"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Дору"
+    },
+    {
+      "surface": "טפת",
+      "gloss": "Тафат"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочка"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "була"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жінку"
+    }
+  ],
+  "timestamp": "2026-08-23T22:46:12.473684750Z",
+  "model": "glm-5.3"
+}

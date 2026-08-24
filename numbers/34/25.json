@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 34:25",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "І для племені синів Зевулуна — князь Еліцафан, син Парнака.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "І для племені"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зевулуна"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князь"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "Еліцафан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "פרנך",
+      "gloss": "Парнака"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:00.063538509Z",
+  "model": "glm-5.3"
+}

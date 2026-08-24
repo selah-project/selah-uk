@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "одного козла з коз ⟨את⟩ — за гріх;",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "козла"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "з коз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за гріх"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:36.127972574Z",
+  "model": "glm-5.3"
+}

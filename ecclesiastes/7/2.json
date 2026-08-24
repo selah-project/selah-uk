@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Краще йти до дому жалоби, ніж іти до дому бенкету, бо він — кінець усякої людини, і живий дасть це на серце своє.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Краще"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "йти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "жалоби"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ніж іти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "бенкету"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "бо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "кінець"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усякої"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людини"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "і живий"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дасть"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "серце своє"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:25.812897107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "І не встав більш пророк в Ісраейлі, як Моше, якого знав Яхве обличчям до обличчя,",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "І не"
+    },
+    {
+      "surface": "קם",
+      "gloss": "встав"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "більш"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Ісраейлі"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "як Моше"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "якого"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "обличчям"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "обличчя"
+    }
+  ],
+  "timestamp": "2026-08-23T22:11:15.463709544Z",
+  "model": "glm-5.3"
+}

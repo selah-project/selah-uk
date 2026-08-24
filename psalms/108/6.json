@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 108,
+  "translation": "Зведися понад небеса, Елогім, і над усією ⟨…⟩ землею твоя слава.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "зведися"
+    },
+    {
+      "surface": "על",
+      "gloss": "понад"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усією"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землею"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "твоя слава"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:27.851642058Z",
+  "model": "glm-5.3"
+}

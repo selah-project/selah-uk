@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 114,
+  "translation": "Море побачило — і втекло, Ярден повернувся назад,",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "побачило"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "і втекло"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярден"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "повернувся"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "назад"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:41.335964636Z",
+  "model": "glm-5.3"
+}

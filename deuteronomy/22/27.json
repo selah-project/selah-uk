@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 22:27",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "бо в полі знайшов ⟨він⟩ її: кричала дівчина заручена, і не було рятувальника їй.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "в полі"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "знайшов її"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "кричала"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "дівчина"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "заручена"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "і не було"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "рятувальника"
+    },
+    {
+      "surface": "לה",
+      "gloss": "їй"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:33.563991475Z",
+  "model": "glm-5.3"
+}

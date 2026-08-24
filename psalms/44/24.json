@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 44,
+  "translation": "Пробудися! Чому спиш, Адонай? Прояви себе, не відкидай назавжди!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Пробудися"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Чому"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "спиш"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Прояви себе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "відкидай"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "назавжди"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:27.945616066Z",
+  "model": "glm-5.3"
+}

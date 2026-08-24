@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Святині Мої ти зневажила, і ⟨את⟩ Суботи Мої осквернила.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "Святині Мої"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "зневажила"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Суботи Мої"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Суботи Мої"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "осквернила"
+    }
+  ],
+  "timestamp": "2026-08-23T23:46:50.201114040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Нехай не заздрить твоє серце грішникам, але ⟨нехай буде⟩ в страху Яхве ввесь день.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "заздрить"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "твоє серце"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "грішникам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "але"
+    },
+    {
+      "surface": "אם",
+      "gloss": "лише"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "в страху"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ввесь"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:03.391817277Z",
+  "model": "glm-5.3"
+}

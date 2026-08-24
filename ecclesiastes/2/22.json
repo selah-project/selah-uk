@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Бо що має людина від усього труда свого і від прагнень серця свого, якими трудиться ⟨він⟩ під сонцем?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "має"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "людині"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "від усього"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "труда свого"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "і від прагнень"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "серця свого"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "якими"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "трудиться"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцем"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:18.810787325Z",
+  "model": "glm-5.3"
+}

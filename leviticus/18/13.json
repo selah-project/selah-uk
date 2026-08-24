@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Наготу сестри матері твоєї не відкривай, бо вона ⟨є⟩ плоть матері твоєї.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "наготу"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "сестри"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "матері твого"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "відкривай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "плоть"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "матері твого"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "вона"
+    }
+  ],
+  "timestamp": "2026-08-23T21:43:38.950272616Z",
+  "model": "glm-5.3"
+}

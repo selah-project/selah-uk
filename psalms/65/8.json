@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 65,
+  "translation": "Що втишає шум морів, шум хвиль їхніх і метушню народів:",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "втишає"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "шум"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "морів"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "шум"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "хвиль їхніх"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "і метушню"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "народів"
+    }
+  ],
+  "timestamp": "2026-08-24T01:52:47.018879588Z",
+  "model": "glm-5.3"
+}

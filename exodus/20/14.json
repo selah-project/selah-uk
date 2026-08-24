@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Не перелюбствуй.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "перелюбствуй"
+    }
+  ],
+  "timestamp": "2026-08-23T21:30:05.437801109Z",
+  "model": "glm-5.3"
+}

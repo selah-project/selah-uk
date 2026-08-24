@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І відповіли сини Хета ⟨את⟩ Аврагама, кажучи йому:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "І відповіли"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хета"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврагама"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагама"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    }
+  ],
+  "timestamp": "2026-08-24T01:36:13.070350724Z",
+  "model": "glm-5.3"
+}

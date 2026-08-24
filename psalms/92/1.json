@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 92,
+  "translation": "Мізмор, пісня на день шабату.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "мізмор"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "пісня"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "на день"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "шабату"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:19.762218643Z",
+  "model": "glm-5.3"
+}

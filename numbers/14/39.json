@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 14:39",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І сказав Моше ⟨את⟩ ці слова до всіх синів Ізраїлю, і народ жалобував дуже.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ці слова"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всіх"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлю"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "і жалобували"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "дуже"
+    }
+  ],
+  "timestamp": "2026-08-23T21:51:58.651858275Z",
+  "model": "glm-5.3"
+}

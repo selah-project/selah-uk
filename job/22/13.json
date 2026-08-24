@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 22:13",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "І сказав ти: «Що знає Ель? Чи крізь морок судитиме він?»",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "і сказав ти"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знає"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "הבעד",
+      "gloss": "чи крізь"
+    },
+    {
+      "surface": "ערפל",
+      "gloss": "морок"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "судитиме він"
+    }
+  ],
+  "timestamp": "2026-08-24T00:44:13.956939355Z",
+  "model": "glm-5.3"
+}

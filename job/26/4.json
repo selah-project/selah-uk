@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "⟨את⟩ кого ти сповістив слова, і подих чий вийшов від тебе?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кого"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кого"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "ти сповістив"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "слова"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "і подих"
+    },
+    {
+      "surface": "מי",
+      "gloss": "чий"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "вийшов"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "від тебе"
+    }
+  ],
+  "timestamp": "2026-08-24T00:44:29.072926554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Добре тому, хто чекає й мовчить, ⟨в надії⟩ на порятунок Яхве.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Добре"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "і чекає"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "й мовчить"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "⟨в надії⟩ на порятунок"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:48.152278755Z",
+  "model": "glm-5.3"
+}

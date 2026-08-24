@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Керівникові, на гіттіті, мелодія Давідові.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "гіттіті"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мелодія"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидові"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:37.390838715Z",
+  "model": "glm-5.3"
+}

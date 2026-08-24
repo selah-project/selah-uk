@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Я — мого коханого, а його прагнення — на мені.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "мого коханого"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "а на мені"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "його прагнення"
+    }
+  ],
+  "timestamp": "2026-08-24T01:56:18.032962901Z",
+  "model": "glm-5.3"
+}

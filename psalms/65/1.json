@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 65,
+  "translation": "Керівникові. Мізмор Давида. Пісня.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Мізмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Пісня"
+    }
+  ],
+  "timestamp": "2026-08-24T00:18:33.967231442Z",
+  "model": "glm-5.3"
+}

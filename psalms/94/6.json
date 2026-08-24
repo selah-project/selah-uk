@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 94,
+  "translation": "Вдову й чужинця вбивають, а сиріт убивають.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "вдову"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "й чужинця"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "вбивають"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "а сиріт"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "убивають"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:52.262148002Z",
+  "model": "glm-5.3"
+}

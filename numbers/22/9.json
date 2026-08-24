@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "І прийшов Елогім до Білама й сказав: хто ці люди з тобою?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "і прийшов"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Білама"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "й сказав"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ці люди"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "з тобою"
+    }
+  ],
+  "timestamp": "2026-08-23T21:54:01.342155496Z",
+  "model": "glm-5.3"
+}

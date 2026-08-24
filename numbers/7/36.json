@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 7:36",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "П'ятого дня — князя синів Шимона, Шлумієля, сина Цурі-Шаддая",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "у день"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "п'ятого"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князя"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимона"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Шлуміїль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "Цурі-Шаддая"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:14.638595985Z",
+  "model": "glm-5.3"
+}

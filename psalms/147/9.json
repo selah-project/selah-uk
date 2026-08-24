@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 147,
+  "translation": "Дає звірині її їжу, воронятам, що кличуть.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Дає"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "звірині"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "її їжу"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "воронятам"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ворона"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "кличуть"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:17.992980537Z",
+  "model": "glm-5.3"
+}

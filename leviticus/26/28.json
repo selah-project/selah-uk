@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "то й Я піду з вами в лютій ворожнечі, і покараю ⟨את⟩ вас — і Я — сім разів за ваші гріхи.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "то й Я піду"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "з вами"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "в лютій"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "ворожнечі"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "і покараю"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "אף",
+      "gloss": "і"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "сім разів"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "ваші гріхи"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:59.865368228Z",
+  "model": "glm-5.3"
+}

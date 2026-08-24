@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І померла Азува, і взяв собі Калев ⟨את⟩ Ефрат, і вона народила йому ⟨את⟩ Хура.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "І померла"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Азува"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "і взяв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "собі"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калев"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ефрат"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "Ефрат"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "і вона народила"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хура"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Хура"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:24.567285973Z",
+  "model": "glm-5.3"
+}

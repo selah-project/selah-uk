@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Целек амонітянин, Нахрай бееротянин, що носив зброю Йоава, сина Цруї.",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "Целек"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "амонітянин"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "Нахрай"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "бееротянин"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "носив"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "зброю"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоава"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Цруї"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:57.464840930Z",
+  "model": "glm-5.3"
+}

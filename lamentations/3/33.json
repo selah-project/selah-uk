@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Бо не притлумив Він із серця Свого, і не засмутив синів ⟨איש⟩ мужа —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "притлумив"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "із серця Свого"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "і не засмутив"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужа"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:29.501835054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "У темрявах посадив мене, немов померлих давніх.",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "У темрявах"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "посадив мене"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "немов померлих"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "давніх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:51:34.464993116Z",
+  "model": "glm-5.3"
+}

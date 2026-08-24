@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І були обоє нагі, людина та його жінка, і не соромилися.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "І були"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "обоє"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "нагі"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людина"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "та його жінка"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "соромилися"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:04.374999666Z",
+  "model": "glm-5.3"
+}

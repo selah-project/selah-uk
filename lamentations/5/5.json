@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "На нашій шиї нас переслідували, ми змучені — немає нам перепочинку.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "нашій шиї"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "нас переслідували"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "ми змучені"
+    },
+    {
+      "surface": "לא",
+      "gloss": "немає"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "перепочинку"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:07.886173501Z",
+  "model": "glm-5.3"
+}

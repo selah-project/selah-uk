@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І сталося по днях, і воювали сини Аммона з Їсраелем.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "по днях"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "і воювали"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммона"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраелем"
+    }
+  ],
+  "timestamp": "2026-08-23T22:23:35.182733135Z",
+  "model": "glm-5.3"
+}

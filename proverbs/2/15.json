@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 2:15",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Що стежки їхні криві, і викривлені вони в коліях своїх;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "ארחתיהם",
+      "gloss": "стежки їхні"
+    },
+    {
+      "surface": "עקשים",
+      "gloss": "криві"
+    },
+    {
+      "surface": "ונלוזים",
+      "gloss": "і викривлені"
+    },
+    {
+      "surface": "במעגלותם",
+      "gloss": "у коліях своїх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:40.696324018Z",
+  "model": "glm-5.3"
+}

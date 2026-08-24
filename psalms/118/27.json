@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 118,
+  "translation": "Ель ⟨is⟩ Яхве, і ⟨he⟩ освітив нам; прив'яжіть жертву свята ⟨with⟩ мотузками аж до рогів жертовника.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "і ⟨he⟩ освітив"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "прив'яжіть"
+    },
+    {
+      "surface": "חג",
+      "gloss": "жертву свята"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "⟨with⟩ мотузками"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "рогів"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жертовника"
+    }
+  ],
+  "timestamp": "2026-08-24T01:53:38.617641861Z",
+  "model": "glm-5.3"
+}

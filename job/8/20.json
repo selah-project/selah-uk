@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 8:20",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Ось, Ель не відкине досконалої, і не зміцнить руки злочинців.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ось"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "відкине"
+    },
+    {
+      "surface": "תם",
+      "gloss": "досконалої"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і-не"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "зміцнить"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "руки"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "злочинців"
+    }
+  ],
+  "timestamp": "2026-08-24T00:40:34.416053940Z",
+  "model": "glm-5.3"
+}

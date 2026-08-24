@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Іде на південь і кружляє на північ; кружляє, кружляє, іде вітер, і по колах своїх вертається вітер.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Іде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "південь"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "і кружляє"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "північ"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "кружляє"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "кружляє"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "іде"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "вітер"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і по"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "колах своїх"
+    },
+    {
+      "surface": "שב",
+      "gloss": "вертається"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "вітер"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:29.927419321Z",
+  "model": "glm-5.3"
+}

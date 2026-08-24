@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "А ім'я другої ріки — Гіхон, ⟨вона⟩ ⟨та, що⟩ обіймає ⟨את⟩ всю землю Куш.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "А ім'я"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ріки"
+    },
+    {
+      "surface": "השני",
+      "gloss": "другої"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Гіхон"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨вона⟩ ⟨та, що⟩"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "обіймає"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всю землю Куш"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:37.191247985Z",
+  "model": "glm-5.3"
+}

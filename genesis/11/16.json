@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І жив Евер тридцять і чотири роки, і породив ⟨את⟩ Пелега.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "І жив"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Евер"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чотири"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "і тридцять"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "роки"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "і породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Пелега"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Пелега"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:13.646979138Z",
+  "model": "glm-5.3"
+}

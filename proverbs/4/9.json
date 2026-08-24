@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 4:9",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Вона дасть голові твоїй вінець ласки, вінець краси він дарує тобі.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "дасть"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "голові твоїй"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "вінець"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ласки"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "вінець"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "краси"
+    },
+    {
+      "surface": "תמגנך",
+      "gloss": "він охоронить тебе"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:47.194479402Z",
+  "model": "glm-5.3"
+}

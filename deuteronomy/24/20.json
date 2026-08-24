@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Коли битимеш оливу свою, не обляджуй ⟨після⟩ себе: прибульцеві, сироті й вдові буде.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "битимеш"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "оливу свою"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "обляджуй"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "⟨після⟩ себе"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "прибульцеві"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "сироті"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "й вдові"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    }
+  ],
+  "timestamp": "2026-08-23T22:06:50.114519009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Думки праведних — право, а хитрощі злочинців — обман.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "думки"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведних"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "право"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "хитрощі"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злочинців"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "обман"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:37.433841834Z",
+  "model": "glm-5.3"
+}

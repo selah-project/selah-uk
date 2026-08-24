@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 16:1",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І взяв Корах, син Їцхара, син Кегата, син Леві, і Дата́н, і Авірам, сини Еліава, і Он, син Пелета, синів Реувена.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "І взяв"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Їцхара"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кегата"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леві"
+    },
+    {
+      "surface": "ודתן",
+      "gloss": "і Датан"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "і Авірам"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Еліава"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "і Он"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "Пелета"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувена"
+    }
+  ],
+  "timestamp": "2026-08-23T21:53:12.952939152Z",
+  "model": "glm-5.3"
+}

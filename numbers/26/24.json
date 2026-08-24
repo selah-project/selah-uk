@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 26:24",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Яшув — рід яшувців, Шимрон — рід шимронців.",
+  "tokens": [
+    {
+      "surface": "לישוב",
+      "gloss": "Яшув"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "рід"
+    },
+    {
+      "surface": "הישובי",
+      "gloss": "яшувців"
+    },
+    {
+      "surface": "לשמרן",
+      "gloss": "Шимрон"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "рід"
+    },
+    {
+      "surface": "השמרני",
+      "gloss": "шимронців"
+    }
+  ],
+  "timestamp": "2026-08-23T21:55:36.534809932Z",
+  "model": "glm-5.3"
+}

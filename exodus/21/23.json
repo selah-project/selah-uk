@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І якщо станеться катастрофа — то даси ⟨tu⟩ душу за душу.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "і якщо"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "катастрофа"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "станеться"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "то даси"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душу"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душу"
+    }
+  ],
+  "timestamp": "2026-08-23T21:31:57.741437240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 21:5",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І сказав я: Ах, Адонай Яхве! ⟨Вони⟩ говорять мені: хіба ⟨він⟩ не творець притч?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ах"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨Вони⟩"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "говорять"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "хіба"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "творець притч"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "притч"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨він⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T23:45:59.886067180Z",
+  "model": "glm-5.3"
+}

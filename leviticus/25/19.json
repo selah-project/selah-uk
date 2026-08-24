@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 25:19",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І дасть земля плід свій, і їстимете досита, і житимете на ній безпечно.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "і дасть"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "плід свій"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "і їстимете"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "досита"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "і житимете"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "безпечно"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на ній"
+    }
+  ],
+  "timestamp": "2026-08-23T21:45:34.104801780Z",
+  "model": "glm-5.3"
+}

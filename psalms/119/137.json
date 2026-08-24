@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Праведний Ти, Яхве, і праві ⟨є⟩ Твої присуди.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Праведний"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "і праві"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "Твої присуди"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:17.897717012Z",
+  "model": "glm-5.3"
+}

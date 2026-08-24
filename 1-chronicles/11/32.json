@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Хурай з нахалей Ґааша, Авіель га-Арваті,",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "Хурай"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "з нахалей"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Ґааша"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "Авіель"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "га-Арваті"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:07.657611917Z",
+  "model": "glm-5.3"
+}

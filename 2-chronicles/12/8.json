@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "бо будуть йому за слуг, і пізнають службу мою та службу царств країв.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "будуть"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "за слуг"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "і пізнають"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "службу мою"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "та службу"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "царств"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "країв"
+    }
+  ],
+  "timestamp": "2026-08-24T01:25:49.400030913Z",
+  "model": "glm-5.3"
+}

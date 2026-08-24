@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "За Яхве підуть, ⟨як⟩ лев реве, бо Він реве — і затремтять сини ⟨від⟩ моря.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "за"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "підуть"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "⟨як⟩ лев"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "реве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Він"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "реве"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "і затремтять"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сини"
+    },
+    {
+      "surface": "מים",
+      "gloss": "⟨від⟩ моря"
+    }
+  ],
+  "timestamp": "2026-08-23T23:57:57.040299504Z",
+  "model": "glm-5.3"
+}

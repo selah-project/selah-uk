@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 41,
+  "translation": "Сім корів добрих — сім років вони; і сім колосся добрих — сім років вони; сон один він.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "Сім"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "корів"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "добрих"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "сім"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "років"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вони"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "і сім"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "колосся"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "добрих"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "сім"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "років"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вони"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "сон"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    }
+  ],
+  "timestamp": "2026-08-23T21:21:24.758804765Z",
+  "model": "glm-5.3"
+}

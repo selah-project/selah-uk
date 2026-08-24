@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І сказав до Моше: я, тесть твій, Їтро, іду до тебе, і жінка твоя, і двоє синів її з нею.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "тесть твій"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Їтро"
+    },
+    {
+      "surface": "בא",
+      "gloss": "іду"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "до тебе"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "і жінка твоя"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "і двоє"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "синів її"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "з нею"
+    }
+  ],
+  "timestamp": "2026-08-23T21:29:56.347491911Z",
+  "model": "glm-5.3"
+}

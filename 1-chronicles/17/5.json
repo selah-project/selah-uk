@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Бо не мешкав я у ⟨the⟩ домі від дня, коли вивів я ⟨את⟩ Ізраїля, аж до дня цього, і був я від намету до намету і від мешкану.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "мешкав я"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "у домі"
+    },
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коли"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "вивів я"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ізраїля"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цього"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "і був я"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "від намету"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "намету"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "і від мешкану"
+    }
+  ],
+  "timestamp": "2026-08-24T01:18:32.931157889Z",
+  "model": "glm-5.3"
+}

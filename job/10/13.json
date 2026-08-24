@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 10:13",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І це ти сховав у своєму серці, я знаю, що це з тобою.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "І це"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "ти сховав"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "у твоєму серці"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "я знаю"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "з тобою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:40:49.637243358Z",
+  "model": "glm-5.3"
+}

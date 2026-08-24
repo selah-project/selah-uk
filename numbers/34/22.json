@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "І для коліна синів Дана — наголовник Буккі, син Йоглі.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "і для коліна"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дана"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "наголовник"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Буккі"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "Йоглі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:21.812194367Z",
+  "model": "glm-5.3"
+}

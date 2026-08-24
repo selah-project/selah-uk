@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 133,
+  "translation": "Пісня сходів, Давіда. Ось, як добре і як приємно сидіння братів разом-воєдино!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Пісня"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "сходів"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давіда"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "מה",
+      "gloss": "як"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добре"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "і як"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "приємно"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "сидіння"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "братів"
+    },
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "разом-воєдино"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:18.340571231Z",
+  "model": "glm-5.3"
+}

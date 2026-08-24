@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "і ⟨את⟩ Хілец з ⟨את⟩ його околицями, ⟨את⟩ Двір з ⟨את⟩ його околицями.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Хілец"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Хілец"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "його околицями"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "його околицями"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Двір"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Двір"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "його околицями"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "його околицями"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:10.671125014Z",
+  "model": "glm-5.3"
+}

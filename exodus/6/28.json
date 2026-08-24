@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І сталося в день, коли Яхве говорив до Моше в землі Міцраїму,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "коли говорив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землі"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїму"
+    }
+  ],
+  "timestamp": "2026-08-24T01:36:42.204610750Z",
+  "model": "glm-5.3"
+}

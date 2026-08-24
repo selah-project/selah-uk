@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "esther 9:26",
+  "book": "esther",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Тому назвали ті дні Пурім — на честь Пура; тому, за всі слова цього листа, і за те, що вони бачили таке, і що сталося з ними.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "тому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "саме"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "назвали"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "дні"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ті"
+    },
+    {
+      "surface": "פורים",
+      "gloss": "Пурім"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שם",
+      "gloss": "честь"
+    },
+    {
+      "surface": "הפור",
+      "gloss": "Пура"
+    },
+    {
+      "surface": "על",
+      "gloss": "тому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "саме"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "האגרת",
+      "gloss": "листа"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цього"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "і що"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "бачили"
+    },
+    {
+      "surface": "על",
+      "gloss": "таке"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "так"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "і що"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "сталося"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "з ними"
+    }
+  ],
+  "timestamp": "2026-08-24T00:58:46.498386346Z",
+  "model": "glm-5.3"
+}

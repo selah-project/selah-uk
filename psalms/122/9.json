@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 122,
+  "translation": "Задля дому Яхве, Елогіма нашого, я шукатиму добро тобі.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Задля"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елогіма нашого"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "я шукатиму"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:24.688866582Z",
+  "model": "glm-5.3"
+}

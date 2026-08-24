@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "А Єгошуа був одягнений у брудні шати й стояв перед ангелом.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "а Єгошуа"
+    },
+    {
+      "surface": "היה",
+      "gloss": "був"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "одягнений"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "у шати"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "брудні"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "і стояв"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ангелом"
+    }
+  ],
+  "timestamp": "2026-08-24T00:07:06.275048496Z",
+  "model": "glm-5.3"
+}

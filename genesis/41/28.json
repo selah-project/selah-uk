@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 41,
+  "translation": "Це ⟨є⟩ слово, що я говорив до Паро: ⟨את⟩ що Елогім робить, Він показав Паро.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Це"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "я говорив"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "робить"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "показав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Паро"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    }
+  ],
+  "timestamp": "2026-08-23T21:21:24.759160992Z",
+  "model": "glm-5.3"
+}

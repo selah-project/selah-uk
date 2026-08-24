@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І я обернувся я, щоб віддати на відчай ⟨את⟩ моє серце, через увесь труд, що я трудився під сонцем.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "і я обернувся"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "щоб віддати на відчай"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "моє серце"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "моє серце"
+    },
+    {
+      "surface": "על",
+      "gloss": "через"
+    },
+    {
+      "surface": "כל",
+      "gloss": "увесь"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "труд"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "що я трудився"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцем"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:10.229780756Z",
+  "model": "glm-5.3"
+}

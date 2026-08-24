@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 77,
+  "translation": "Елогім, у святості путь Твоя; хто ⟨є⟩ Ель великий, як Елогім?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "у святості"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "путь Твоя"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "як Елогім"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:03.969830007Z",
+  "model": "glm-5.3"
+}

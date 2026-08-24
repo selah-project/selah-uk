@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "У вісімнадцятому році царювання Йошияу був учинений цей Песах.",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "У вісім"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-надцятому"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "році"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "царювання"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Йошияу"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "був учинений"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Песах"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цей"
+    }
+  ],
+  "timestamp": "2026-08-24T01:34:56.910112396Z",
+  "model": "glm-5.3"
+}

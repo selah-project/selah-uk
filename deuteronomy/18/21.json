@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І коли скажеш у серці своєму: «Як пізнати ⟨את⟩ слово, якого не говорив Яхве?»",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "І коли"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "скажеш"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "у серці своєму"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Як"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "пізнати"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слово"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "якого"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "говорив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T22:05:23.378252792Z",
+  "model": "glm-5.3"
+}

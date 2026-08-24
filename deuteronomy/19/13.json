@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 19:13",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Не помилується око твоє над ним, і знищиш ти кров невинного з Ізраїлю, і буде добре тобі.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "помилується"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "око твоє"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "над ним"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "і знищиш ти"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кров"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "невинного"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "з Ізраїлю"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "і буде добре"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    }
+  ],
+  "timestamp": "2026-08-23T22:05:58.985094810Z",
+  "model": "glm-5.3"
+}

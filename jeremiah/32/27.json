@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "Ось Я — Яхве, Елогім усякої плоті; чи від Мене буде дивним будь-яке слово?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усякої"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плоті"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "від Мене"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "буде дивним"
+    },
+    {
+      "surface": "כל",
+      "gloss": "будь-яке"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    }
+  ],
+  "timestamp": "2026-08-23T23:33:06.600014054Z",
+  "model": "glm-5.3"
+}

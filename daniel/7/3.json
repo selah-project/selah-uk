@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І чотири звірини великі виходили з моря, різні одна від одної.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "І чотири"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "звірини"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "великі"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "виходили"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "моря"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "різні"
+    },
+    {
+      "surface": "דא",
+      "gloss": "одна"
+    },
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "דא",
+      "gloss": "одне"
+    }
+  ],
+  "timestamp": "2026-08-24T01:01:28.421640787Z",
+  "model": "glm-5.3"
+}

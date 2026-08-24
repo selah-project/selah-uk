@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І прийшов Гатак, і переказав Естер ⟨את⟩ слова Мордехая.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "і прийшов"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Гатак"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "і переказав"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Естер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слова Мордехая"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехая"
+    }
+  ],
+  "timestamp": "2026-08-24T00:57:07.444801333Z",
+  "model": "glm-5.3"
+}

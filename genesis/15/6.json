@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 15:6",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "І повірив у Яхве, і Він зарахував ⟨йому це⟩ за праведність.",
+  "tokens": [
+    {
+      "surface": "והאמן",
+      "gloss": "І повірив"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "у Яхве"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "і Він зарахував"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "за праведність"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:09.987283918Z",
+  "model": "glm-5.3"
+}

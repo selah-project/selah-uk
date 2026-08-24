@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 18:13",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І перейшли звідти на гору Ефраїмову, і прийшли аж до дому Михи.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "І перейшли"
+    },
+    {
+      "surface": "משם",
+      "gloss": "звідти"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраїмову"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "і прийшли"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Михи"
+    }
+  ],
+  "timestamp": "2026-08-23T22:25:09.037404853Z",
+  "model": "glm-5.3"
+}

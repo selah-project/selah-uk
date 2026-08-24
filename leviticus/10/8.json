@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І промовив Яхве до Агарона, кажучи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "і промовив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарона"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи:"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:20.190603928Z",
+  "model": "glm-5.3"
+}

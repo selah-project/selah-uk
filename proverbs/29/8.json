@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "Людей насмішки роздмухують місто, а мудрі відвертають гнів.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Людей"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "насмішки"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "роздмухують"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "місто"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "а мудрі"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "відвертають"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гнів"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:12.250305848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 25:35",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І загине втеча від пастухів, і порятунок від могутніх отари.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "І загине"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "втеча"
+    },
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "пастухів"
+    },
+    {
+      "surface": "ופליטה",
+      "gloss": "і порятунок"
+    },
+    {
+      "surface": "מאדירי",
+      "gloss": "від могутніх"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "отари"
+    }
+  ],
+  "timestamp": "2026-08-23T23:30:09.640336524Z",
+  "model": "glm-5.3"
+}

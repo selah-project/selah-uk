@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Іди до мурахи, ледачий, побач ⟨її⟩ дороги — і стань мудрим.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Іди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "мурахи"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ледачий"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "побач"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "шляхи її"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "і стань мудрим"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:56.590086568Z",
+  "model": "glm-5.3"
+}

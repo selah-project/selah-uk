@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Я побачив — і ось ⟨немає⟩ людини, і всі птахи небес порозліталася.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Я побачив"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "і ось"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨немає⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людини"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і всі"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "птахи"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "порозліталася"
+    }
+  ],
+  "timestamp": "2026-08-23T23:23:57.861844674Z",
+  "model": "glm-5.3"
+}

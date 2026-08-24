@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "⟨Є⟩ зло, яке я бачив під сонцем, — як помилка, що виходить від ⟨лиця⟩ володаря:",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "⟨Є⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "я бачив"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцем"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "як помилка"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "що виходить"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "від ⟨лиця⟩"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "володаря"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:56.124764249Z",
+  "model": "glm-5.3"
+}

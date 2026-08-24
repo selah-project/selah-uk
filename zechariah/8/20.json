@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Так сказав Яхве Цеваот: ще прийдуть народи, і мешканці багатьох міст.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "прийдуть"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "і мешканці"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "міст"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "багатьох"
+    }
+  ],
+  "timestamp": "2026-08-24T00:08:12.557477369Z",
+  "model": "glm-5.3"
+}

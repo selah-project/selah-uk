@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "⟨את⟩ срібло своє не давай йому на відсотки, і за надмір не давай їжу свою.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "срібло своє"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "срібло своє"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "давай"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "на відсотки"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "і за надмір"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "давай"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "їжу свою"
+    }
+  ],
+  "timestamp": "2026-08-23T21:45:36.842470393Z",
+  "model": "glm-5.3"
+}

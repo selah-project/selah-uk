@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 10:1",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "У той час сказав Яхве мені: висічи собі дві таблиці каменю, як перші, і зійди до мене на гору, і зробиш собі ковчег дерева.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "У"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "той час"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "висічи"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    },
+    {
+      "surface": "שני",
+      "gloss": "дві"
+    },
+    {
+      "surface": "לוחת",
+      "gloss": "таблиці"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "каменю"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "як перші"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "і зійди"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "на гору"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "і зробиш"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дерева"
+    }
+  ],
+  "timestamp": "2026-08-23T22:03:28.542469260Z",
+  "model": "glm-5.3"
+}

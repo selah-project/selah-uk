@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 51,
+  "translation": "Бо не бажаєш жертви — ⟨інакше⟩ я б дав ⟨її⟩; всепалення Тобі не до вподоби.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "бажаєш"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "жертви"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "я б дав ⟨її⟩"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "всепалення"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "до вподоби"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:00.064573250Z",
+  "model": "glm-5.3"
+}

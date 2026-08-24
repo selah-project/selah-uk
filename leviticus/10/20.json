@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І почув Моше, і це було добре в його очах.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "І почув"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "і це було добре"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в його очах"
+    }
+  ],
+  "timestamp": "2026-08-23T21:41:07.050728220Z",
+  "model": "glm-5.3"
+}

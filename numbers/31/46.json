@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "і ⟨нефеш⟩ людських шістнадцять тисяч",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "і ⟨нефеш⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людських"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шість"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надцать"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяч"
+    }
+  ],
+  "timestamp": "2026-08-23T21:57:57.896825761Z",
+  "model": "glm-5.3"
+}

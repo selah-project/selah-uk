@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 11:23",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Бо заповідь царя ⟨була⟩ на них, і наділення — на співаків, справа дня в дні його.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "заповідь"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "на них"
+    },
+    {
+      "surface": "ואמנה",
+      "gloss": "і наділення"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "співаків"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "справа"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "в дні його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:25.032061612Z",
+  "model": "glm-5.3"
+}

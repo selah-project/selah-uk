@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Хто ⟨є⟩ Цей, Цар слави? Яхве, могутній і сильний, Яхве, сильний у війні.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Цей"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Цар"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "слави"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "могутній"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "і сильний"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "сильний"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "у війні"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:22.076848447Z",
+  "model": "glm-5.3"
+}

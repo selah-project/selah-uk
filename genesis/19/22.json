@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 19:22",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Спіши, урятуйся туди, бо не можу я зробити нічого, аж поки не прийдеш ти туди. Тому названо ім'я міста — Цоар.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Спіши"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "урятуйся"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "туди"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "можу я"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "зробити"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "нічого"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж поки"
+    },
+    {
+      "surface": "באך",
+      "gloss": "не прийдеш ти"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "туди"
+    },
+    {
+      "surface": "על",
+      "gloss": "Тому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "названо"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ім'я"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "міста"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Цоар"
+    }
+  ],
+  "timestamp": "2026-08-23T21:12:31.638723824Z",
+  "model": "glm-5.3"
+}

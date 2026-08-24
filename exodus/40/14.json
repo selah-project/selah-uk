@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "А ⟨את⟩ синів його приведеш, і зодягнеш ⟨את⟩ їх у туніки.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "синів"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синів"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "приведеш"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "і зодягнеш"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ їх"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "у туніки"
+    }
+  ],
+  "timestamp": "2026-08-23T21:38:10.428660630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 4:14",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І сказав: «Ці — двоє синів олії, що стоять при Адонаї всієї землі».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ці"
+    },
+    {
+      "surface": "שני",
+      "gloss": "двоє"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "олії"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "що стоять"
+    },
+    {
+      "surface": "על",
+      "gloss": "при"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Адонаї"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всієї"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:06:47.097371087Z",
+  "model": "glm-5.3"
+}

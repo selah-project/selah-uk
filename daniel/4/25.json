@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Усе це спало на Невухаднецара, царя.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "усе"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "спало"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Невухаднецара"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-08-24T01:00:22.956970958Z",
+  "model": "glm-5.3"
+}

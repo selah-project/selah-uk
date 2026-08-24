@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Не закладай рота волові, коли він молотить ⟨зерно⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "закладай рота"
+    },
+    {
+      "surface": "שור",
+      "gloss": "волу"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "молотить зерно"
+    }
+  ],
+  "timestamp": "2026-08-23T22:06:54.835271383Z",
+  "model": "glm-5.3"
+}

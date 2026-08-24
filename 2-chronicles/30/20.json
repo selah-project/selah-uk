@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "І почув Яхве Єзекію, і зцілив ⟨את⟩ народ.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "І почув"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Єзекію"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Єзекію"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "і зцілив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-08-24T01:33:21.546628407Z",
+  "model": "glm-5.3"
+}

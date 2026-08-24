@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 4:45",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Ось перелічені з родин синів Мерарі, яких переписали Моше і Агарон за наказом Яхве рукою Моше.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "перелічені"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "з родин"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерарі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яких"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "переписали"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "і Агарон"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "פי",
+      "gloss": "наказом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "рукою"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-23T21:48:59.350828779Z",
+  "model": "glm-5.3"
+}

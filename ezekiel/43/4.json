@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 43,
+  "translation": "І слава Яхве прийшла до дому — шляхом брами, якої обличчя — шлях сходу.",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "і слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בא",
+      "gloss": "прийшла"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "шляхом"
+    },
+    {
+      "surface": "שער",
+      "gloss": "брами"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "якої"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "обличчя"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "шлях"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "сходу"
+    }
+  ],
+  "timestamp": "2026-08-23T23:54:05.456854486Z",
+  "model": "glm-5.3"
+}

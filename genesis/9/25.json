@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І сказав: проклятий Кенаан, раб рабів буде ⟨він⟩ у братів своїх.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "проклятий"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "раб"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "рабів"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "у братів своїх"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:33.205034474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 31:22",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Доки ще ти хитаєшся, дочко відступна? Бо Яхве створив нове на землі: жінка оточить мужа.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Доки"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ще"
+    },
+    {
+      "surface": "תתחמקין",
+      "gloss": "ти хитаєшся"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "дочко"
+    },
+    {
+      "surface": "השובבה",
+      "gloss": "відступна"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "створив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "нове"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на землі"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "жінка"
+    },
+    {
+      "surface": "תסובב",
+      "gloss": "оточить"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мужа"
+    }
+  ],
+  "timestamp": "2026-08-23T23:31:51.258545608Z",
+  "model": "glm-5.3"
+}

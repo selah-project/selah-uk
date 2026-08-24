@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І пошлю вогонь у дім Хазаела, і він пожере палаци Бен-Гадада.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "І пошлю"
+    },
+    {
+      "surface": "אש",
+      "gloss": "вогонь"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "у дім"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Хазаела"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "і він пожере"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "палаци"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Бен-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Гадада"
+    }
+  ],
+  "timestamp": "2026-08-24T00:00:31.190961614Z",
+  "model": "glm-5.3"
+}

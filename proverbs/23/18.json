@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Бо є майбутнє, і надія твоя не буде відрізана.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אם",
+      "gloss": "певно"
+    },
+    {
+      "surface": "יש",
+      "gloss": "є"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "майбутнє"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "і надія твоя"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "буде відрізана"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:03.392019191Z",
+  "model": "glm-5.3"
+}

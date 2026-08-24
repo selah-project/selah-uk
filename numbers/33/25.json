@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 33:25",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І рушили вони з Харади, і таборили в Махелоті.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "מחרדה",
+      "gloss": "з Харади"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і таборили"
+    },
+    {
+      "surface": "במקהלת",
+      "gloss": "в Махелоті"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:02.159469048Z",
+  "model": "glm-5.3"
+}

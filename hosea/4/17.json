@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Прив'язаний до ідолів Ефраїм — залиш ⟨його⟩.",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "Прив'язаний"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "до ідолів"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраїм"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "залиш"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨його⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T23:56:29.740256574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 121,
+  "translation": "Ось не дрімає і не спить Той, Хто стереже Ізраїль.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "дрімає"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "спить"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Той, Хто стереже"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїль"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:13.210196471Z",
+  "model": "glm-5.3"
+}

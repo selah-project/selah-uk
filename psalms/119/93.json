@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Повік не забуду Твоїх пікудім, бо ними Ти оживив мене.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "повік"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "забуду"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "Твоїх пікудим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ними"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "Ти оживив мене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:53.311515835Z",
+  "model": "glm-5.3"
+}

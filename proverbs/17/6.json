@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Вінець старців — сини синів, і пишність синів — батьки їхні.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "вінець"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "старців"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "і пишність"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синів"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "батьки їхні"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:56.729870030Z",
+  "model": "glm-5.3"
+}

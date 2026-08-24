@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І породив Нойх трьох синів: ⟨את⟩ Шема, ⟨את⟩ Хама і ⟨את⟩ Йефета.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "І породив"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нойх"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "трьох"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синів"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шема"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шема"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хама"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хама"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Йефета"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Йефета"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:05.138239269Z",
+  "model": "glm-5.3"
+}

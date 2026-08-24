@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 26:4",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "І робив він праве в очах Яхве, згідно з усім, що робив Амацияу, батько його.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "І робив"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "праве"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "згідно з усім"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "робив"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Амацияу"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "батько його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:30:00.800534454Z",
+  "model": "glm-5.3"
+}

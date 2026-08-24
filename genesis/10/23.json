@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І сини Арама: Уц, і Хул, і Гетер, і Маш.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "І сини"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арама"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Уц"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "і Хул"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "і Гетер"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "і Маш"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:52.705672991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І народилося йому семеро синів і три доньки.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "І народилося"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "семеро"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "і три"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "доньки"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:59.734315833Z",
+  "model": "glm-5.3"
+}

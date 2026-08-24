@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Бо хесед твій перед очима моїми, і я ходив у правді твоїй.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хесед твій"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "перед"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очима моїми"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "і я ходив"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "у правді твоїй"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:12.208100465Z",
+  "model": "glm-5.3"
+}

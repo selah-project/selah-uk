@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 142,
+  "translation": "Голосом моїм до Яхве кличу, голосом моїм до Яхве милість благаю.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Голосом моїм"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "кличу"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "голосом моїм"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "милість благаю"
+    }
+  ],
+  "timestamp": "2026-08-24T00:30:13.009854340Z",
+  "model": "glm-5.3"
+}

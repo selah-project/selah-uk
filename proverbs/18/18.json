@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 18:18",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Жереб втишає суперечки, і між могутніми розділяє.",
+  "tokens": [
+    {
+      "surface": "מדינים",
+      "gloss": "суперечки"
+    },
+    {
+      "surface": "ישבית",
+      "gloss": "втишає"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "жереб"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "і між"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "могутніми"
+    },
+    {
+      "surface": "יפריד",
+      "gloss": "розділяє"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:56.143410174Z",
+  "model": "glm-5.3"
+}

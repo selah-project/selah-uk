@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 4:18",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Твоя дорога і твої вчинки вчинили тобі це; це — твоє зло, бо гірке воно, бо сягнуло аж до твого серця.",
+  "tokens": [
+    {
+      "surface": "דרכך",
+      "gloss": "твоя дорога"
+    },
+    {
+      "surface": "ומעלליך",
+      "gloss": "і твої вчинки"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "вчинили"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "твоє зло"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "מר",
+      "gloss": "гірке"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "сягнуло"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "твого серця"
+    }
+  ],
+  "timestamp": "2026-08-23T23:24:24.465755793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 13:18",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І сказав йому посланець Яхве: нащо це питання про ім'я моє, а воно ⟨є⟩ дивне?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "посланець"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "למה",
+      "gloss": "нащо"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "питаєш"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "про ім'я моє"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а воно"
+    },
+    {
+      "surface": "פלאי",
+      "gloss": "дивне"
+    }
+  ],
+  "timestamp": "2026-08-23T22:23:07.361681645Z",
+  "model": "glm-5.3"
+}

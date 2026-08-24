@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "А до Шемаїгу га-Нехламія ти скажеш, говорячи:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "А до"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "Шемаїгу"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "га-Нехламія"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ти скажеш"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    }
+  ],
+  "timestamp": "2026-08-24T01:48:12.803030484Z",
+  "model": "glm-5.3"
+}

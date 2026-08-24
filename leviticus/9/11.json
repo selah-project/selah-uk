@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І ⟨את⟩ м'ясо та ⟨את⟩ шкуру спалив ⟨він⟩ у вогні за межами табору.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "м'ясо"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "м'ясо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "шкуру"
+    },
+    {
+      "surface": "העור",
+      "gloss": "шкуру"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "спалив ⟨він⟩"
+    },
+    {
+      "surface": "באש",
+      "gloss": "у вогні"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "за межами"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "табору"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:38.912353509Z",
+  "model": "glm-5.3"
+}

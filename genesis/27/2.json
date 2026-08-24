@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "І сказав: ось же, постарів я; не знаю дня смерті моєї.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "נא",
+      "gloss": "же"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "постарів я"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знаю"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "смерті моєї"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:58.192779940Z",
+  "model": "glm-5.3"
+}

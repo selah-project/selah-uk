@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Птах небес і риби моря, ⟨що⟩ проходить стежками морів.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "Птах"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "і риби"
+    },
+    {
+      "surface": "הים",
+      "gloss": "моря"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "проходить"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "стежками"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "морів"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:38.058788179Z",
+  "model": "glm-5.3"
+}

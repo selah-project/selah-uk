@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "і ⟨את⟩ Офіра, і ⟨את⟩ Гавілу, і ⟨את⟩ Йовава; усі ці ⟨були⟩ сини Йоктана.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Офіра"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Офір"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Гавілу"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Гавіла"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Йовава"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Йоктана"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:12.208424852Z",
+  "model": "glm-5.3"
+}

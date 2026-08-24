@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І взяли вони ⟨את⟩ все майно Содому та Ґомори і ⟨את⟩ всю їхню їжу, і пішли.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "і взяли"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все майно"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "майно"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Содому"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "та Ґомори"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "всю їжу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "їжу"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "і пішли"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:32.320733597Z",
+  "model": "glm-5.3"
+}

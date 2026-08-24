@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "На що скаржиться людина жива, муж — за гріх свій?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "На що"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "скаржиться"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людина"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жива"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "муж"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "гріх свій"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:35.330869235Z",
+  "model": "glm-5.3"
+}

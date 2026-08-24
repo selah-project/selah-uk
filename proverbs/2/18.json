@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Бо нахилився до смерті дім її, і до тіней ⟨⟩ стежки її.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "нахилився"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерті"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "дім її"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і до"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "тіней"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "стежки її"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:00.655292246Z",
+  "model": "glm-5.3"
+}

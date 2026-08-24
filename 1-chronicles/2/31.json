@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "А сини Аппаїма: Їші; а сини Їші: Шешан; а сини Шешана: Ахлай.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А сини"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "Аппаїма"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Їші"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "а сини"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Їші"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Шешан"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "а сини"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Шешана"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Ахлай"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:56.035445333Z",
+  "model": "glm-5.3"
+}

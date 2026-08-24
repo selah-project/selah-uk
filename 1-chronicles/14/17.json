@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 14:17",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І вийшло ім'я Давіда в усі землі, і Яхве дав ⟨את⟩ страх його на всі народи.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "І вийшло"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ім'я"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давіда"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "в усі"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "землі"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "і Яхве"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "страх його"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "страх його"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    }
+  ],
+  "timestamp": "2026-08-24T01:57:35.963115167Z",
+  "model": "glm-5.3"
+}

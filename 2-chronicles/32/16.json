@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 32:16",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І ще говорили раби його проти Яхве, Елогім, і проти Хізкіягу, раба Його.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "і ще"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "говорили"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "раби його"
+    },
+    {
+      "surface": "על",
+      "gloss": "проти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і проти"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Хізкіягу"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "раба Його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:32:41.129947378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Нехай дає щоку тому, хто б'є його, — насититься ганьбою.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "нехай дає"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "тому, хто б'є його"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "щоку"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "насититься"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "ганьбою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:32.538067990Z",
+  "model": "glm-5.3"
+}

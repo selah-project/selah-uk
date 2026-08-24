@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Дужого й мужа битви, суддю й наві, ворожбита й старця.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Дужого"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "й мужа"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "битви"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "суддю"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "й наві"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "ворожбита"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "старця"
+    }
+  ],
+  "timestamp": "2026-08-23T23:05:02.132269107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 1:2",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Якому було слово Яхве в дні Їошіяґу, сина Амона, царя Єгуди, у тринадцятому році його царювання.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Якому"
+    },
+    {
+      "surface": "היה",
+      "gloss": "було"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "в дні"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Їошіяґу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Амона"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "у три"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "надцять"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "році"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "його царювання"
+    }
+  ],
+  "timestamp": "2026-08-23T23:22:18.944503169Z",
+  "model": "glm-5.3"
+}

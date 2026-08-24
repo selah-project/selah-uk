@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Не повірили царі землі і всі мешканці всесвіту, що прийти може ворог і неприятель у брами Єрушалаїма.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "повірили"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царі"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і всі"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "мешканці"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "всесвіту"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "прийти може"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ворог"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "і неприятель"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "у брами"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Єрушалаїма"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:34.998181677Z",
+  "model": "glm-5.3"
+}

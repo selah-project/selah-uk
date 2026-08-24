@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 68,
+  "translation": "Адонай дає слово: вісниці — численне військо.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дає"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "вісниці"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "військо"
+    },
+    {
+      "surface": "רב",
+      "gloss": "численне"
+    }
+  ],
+  "timestamp": "2026-08-24T00:19:31.713093512Z",
+  "model": "glm-5.3"
+}

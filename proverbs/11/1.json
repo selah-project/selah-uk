@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Терези обману — мерзота для Яхве, а камінь цілий — Його вподоба.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "Терези"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "обману"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "мерзота"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "а камінь"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "цілий"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "Його вподоба"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:18.875974930Z",
+  "model": "glm-5.3"
+}

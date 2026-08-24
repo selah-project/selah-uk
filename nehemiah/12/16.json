@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "за Іддо — Зхар'ю, за Гіннетоном — Мешулам.",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "за Іддо"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Зхар'я"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "за Гіннетоном"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешулам"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:20.521911168Z",
+  "model": "glm-5.3"
+}

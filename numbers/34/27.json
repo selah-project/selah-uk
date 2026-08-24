@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "І для племені синів Ашера — князь Ахіхуд, син Шломі.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "І для племені"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашера"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князь"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "Ахіхуд"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "Шломі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:00.063900126Z",
+  "model": "glm-5.3"
+}

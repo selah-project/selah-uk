@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Голос мого улюбленого! Ось він іде, перескакує ⟨по⟩ горах, прудкає ⟨по⟩ пагорбах.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Голос"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "мого улюбленого"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "זה",
+      "gloss": "він"
+    },
+    {
+      "surface": "בא",
+      "gloss": "іде"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "перескакує"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨по⟩"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "горах"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "прудкає"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨по⟩"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "пагорбах"
+    }
+  ],
+  "timestamp": "2026-08-24T00:49:27.010318494Z",
+  "model": "glm-5.3"
+}

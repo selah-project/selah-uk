@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Добра мені Тора Твого уст понад тисячі золота й срібла.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "Твого уст"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "понад тисячі"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золота"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "й срібла"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:57.545305854Z",
+  "model": "glm-5.3"
+}

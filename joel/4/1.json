@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 4:1",
+  "book": "joel",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Бо ось, у ті дні та в ту пору, коли Я поверну ⟨את⟩ полон Юди та Єрушалаїму,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "у дні"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ті"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "та в пору"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ту"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коли"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "поверну"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "полон"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "полон"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Юди"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "та Єрушалаїму"
+    }
+  ],
+  "timestamp": "2026-08-24T01:50:43.982677871Z",
+  "model": "glm-5.3"
+}

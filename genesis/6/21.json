@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 6:21",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "А ти візьми собі з усього їства, що його їдять, і збереш до себе; і буде ⟨воно⟩ тобі та їм на їжу.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А ти"
+    },
+    {
+      "surface": "קח",
+      "gloss": "візьми"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "з усього"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "їства"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "їдять"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "і збереш"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "до себе"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "і буде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "та їм"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "на їжу"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:45.501829754Z",
+  "model": "glm-5.3"
+}

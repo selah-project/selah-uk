@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Кричали — та нема спасителя, до Яхве — і не відповів їм.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "кричали"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "та нема"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "спасителя"
+    },
+    {
+      "surface": "על",
+      "gloss": "до"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "відповів їм"
+    }
+  ],
+  "timestamp": "2026-08-24T01:51:30.596218517Z",
+  "model": "glm-5.3"
+}

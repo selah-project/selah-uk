@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Хто відплачує злом за добро — зло не відступить від його дому.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "Хто відплачує"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "злом"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "відступить"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "від його дому"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:16.908178791Z",
+  "model": "glm-5.3"
+}

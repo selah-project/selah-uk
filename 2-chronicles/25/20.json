@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 25:20",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І не послухав Амац'яху, бо від Елогім це було, щоб видати їх у руку, бо шукали вони ⟨את⟩ богів Едому.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "І не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "посухав"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Амац'яху"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "מהאלהים",
+      "gloss": "від Елогім"
+    },
+    {
+      "surface": "היא",
+      "gloss": "це"
+    },
+    {
+      "surface": "למען",
+      "gloss": "щоб"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "видати їх"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "у руку"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "шукали вони"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "богів Едому"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "богів"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едому"
+    }
+  ],
+  "timestamp": "2026-08-24T01:30:30.888612072Z",
+  "model": "glm-5.3"
+}

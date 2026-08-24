@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "З-синів Бані: Маадай, Амрам і Уел,",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "з-синів"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бані"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "Маадай"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "і Уел"
+    }
+  ],
+  "timestamp": "2026-08-24T01:07:02.253065013Z",
+  "model": "glm-5.3"
+}

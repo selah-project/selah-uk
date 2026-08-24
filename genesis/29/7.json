@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 29:7",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І сказав: Ось, ще день великий, не пора зганяти худобу; напійте овець і йдіть, пасіть.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עת",
+      "gloss": "пора"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "зганяти"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "худобу"
+    },
+    {
+      "surface": "השקו",
+      "gloss": "напійте"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "овець"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "і йдіть"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "пасіть"
+    }
+  ],
+  "timestamp": "2026-08-23T21:16:53.391033938Z",
+  "model": "glm-5.3"
+}

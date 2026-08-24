@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 9:17",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І вхопив я обидві таблиці, і кинув їх з обох своїх рук, і розбив їх перед вашими очима.",
+  "tokens": [
+    {
+      "surface": "ואתפש",
+      "gloss": "і вхопив"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "обидві"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "⟨the⟩ таблиці"
+    },
+    {
+      "surface": "ואשלכם",
+      "gloss": "і кинув їх"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "з"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "обох"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "своїх рук"
+    },
+    {
+      "surface": "ואשברם",
+      "gloss": "і розбив їх"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "перед вашими очима"
+    }
+  ],
+  "timestamp": "2026-08-23T22:03:04.877247494Z",
+  "model": "glm-5.3"
+}

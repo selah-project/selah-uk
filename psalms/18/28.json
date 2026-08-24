@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Бо народ пригнічений ти спасаєш, а очі гордісні ти принижуєш.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "пригнічений"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "спасаєш"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "а очі"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "гордісні"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "принижуєш"
+    }
+  ],
+  "timestamp": "2026-08-24T00:11:45.070170279Z",
+  "model": "glm-5.3"
+}

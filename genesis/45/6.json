@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 45,
+  "translation": "Бо ці два роки голод посеред землі, і ще п'ять років, у які немає ні орання, ні жнив.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "два роки"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "голод"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "посеред"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "і ще"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "п'ять"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "років"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "у які"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "חריש",
+      "gloss": "орання"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "і жнив"
+    }
+  ],
+  "timestamp": "2026-08-23T21:23:53.686402045Z",
+  "model": "glm-5.3"
+}

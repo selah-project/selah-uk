@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І з-поміж синів Іммера: Ханані і Зевадья.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "І з-поміж синів"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Іммера"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Ханані"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "і Зевадья"
+    }
+  ],
+  "timestamp": "2026-08-24T01:07:04.126372480Z",
+  "model": "glm-5.3"
+}

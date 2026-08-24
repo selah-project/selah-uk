@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 21:10",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Іди і говори до Давида, говорячи: так сказав Яхве: три ⟨речі⟩ я простягаю на тебе; обери собі одну з них, і я вчиню тобі.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "іди"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "і говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "три"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "простягаю"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "обери"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одну"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "з них"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "і я вчиню"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:19:43.715569719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "Не покидай мене, Яхве, Елогіме мій, не віддаляйся від мене.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "покидай мене"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогіме мій"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "віддаляйся"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "від мене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:15:10.905719056Z",
+  "model": "glm-5.3"
+}

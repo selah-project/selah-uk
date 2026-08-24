@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 1:11",
+  "book": "nahum",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Від тебе вийшов той, хто задумав проти Яхве лихо, порадник Беліала.",
+  "tokens": [
+    {
+      "surface": "ממך",
+      "gloss": "Від тебе"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "вийшов"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "задумав"
+    },
+    {
+      "surface": "על",
+      "gloss": "проти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "лихо"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "порадник"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Беліала"
+    }
+  ],
+  "timestamp": "2026-08-24T00:04:09.889392453Z",
+  "model": "glm-5.3"
+}

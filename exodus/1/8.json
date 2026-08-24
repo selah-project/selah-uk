@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І постав над Міцраїмом цар новий, що не знав ⟨את⟩ Йосефа.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "І постав"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "новий"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїмом"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йосефа"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефа"
+    }
+  ],
+  "timestamp": "2026-08-23T21:24:42.790451917Z",
+  "model": "glm-5.3"
+}

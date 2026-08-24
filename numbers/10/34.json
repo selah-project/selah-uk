@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 10:34",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "А хмара Яхве ⟨була⟩ над ними вдень, коли вони рушали від табору.",
+  "tokens": [
+    {
+      "surface": "וענן",
+      "gloss": "а хмара"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над ними"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "вдень"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "коли вони рушали"
+    },
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "табору"
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:54.257836589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 52,
+  "translation": "Згубу плете язик твій, наче гостру бритву, чинячи обман.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Згубу"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "плете"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "язик твій"
+    },
+    {
+      "surface": "кתער",
+      "gloss": "наче бритву"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "гостру"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чинячи"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "обман"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:15.807724438Z",
+  "model": "glm-5.3"
+}

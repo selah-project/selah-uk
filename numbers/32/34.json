@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І збудували сини Гада ⟨את⟩ Дівон, і ⟨את⟩ Атарот, і ⟨את⟩ Ароер.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "І збудували"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Дівон"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Дівон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Атарот"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Атарот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ароер"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Ароер"
+    }
+  ],
+  "timestamp": "2026-08-23T21:58:37.708098018Z",
+  "model": "glm-5.3"
+}

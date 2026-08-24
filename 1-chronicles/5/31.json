@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І Авішуя породив ⟨את⟩ Буккі, і Буккі породив ⟨את⟩ Уззі.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "І Авішуя"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Буккі"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Буккі"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "і Буккі"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Уззі"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Уззі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:44.445756302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І зачали обидві доньки Лота від батька свого.",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "і зачали"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "обидві"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "доньки"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лота"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "від батька їхнього"
+    }
+  ],
+  "timestamp": "2026-08-23T21:13:22.226979160Z",
+  "model": "glm-5.3"
+}

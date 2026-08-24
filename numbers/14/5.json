@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 14:5",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І впали Моше та Агарон на обличчя свої перед усім зібранням общини синів Ісраелю.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "І впали"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "та Агарон"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "обличчя свої"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усім"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "зібранням"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "общини"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраелю"
+    }
+  ],
+  "timestamp": "2026-08-23T21:51:43.948940030Z",
+  "model": "glm-5.3"
+}

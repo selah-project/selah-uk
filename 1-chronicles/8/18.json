@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "і Ішмерай, і Їзлія, і Йовав, сини Елпаала.",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "і Ішмерай"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "і Їзлія"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "і Йовав"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Елпаала"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:49.260749582Z",
+  "model": "glm-5.3"
+}

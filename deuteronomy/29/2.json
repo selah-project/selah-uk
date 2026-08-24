@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "випробування великі, які бачили очі ваші, ознаки і чуда ті великі;",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "випробування"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "великі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "бачили"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "очі ваші"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ознаки"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "і чуда"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "великі"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ті"
+    }
+  ],
+  "timestamp": "2026-08-24T01:39:54.220312843Z",
+  "model": "glm-5.3"
+}

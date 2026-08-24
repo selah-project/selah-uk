@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 66,
+  "translation": "Кривду, коли б я бачив у серці моєму, не почув би Адонай.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "кривду"
+    },
+    {
+      "surface": "אם",
+      "gloss": "коли б"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "я бачив"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "у серці моєму"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "почув би"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    }
+  ],
+  "timestamp": "2026-08-24T00:18:36.898547083Z",
+  "model": "glm-5.3"
+}

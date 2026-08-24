@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І сказав дідо Шаула: розкажи ж мені, що сказав вам Шмуель.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "дідо"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаула"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "розкажи"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ж"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шмуель"
+    }
+  ],
+  "timestamp": "2026-08-23T22:28:53.455086293Z",
+  "model": "glm-5.3"
+}

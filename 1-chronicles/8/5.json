@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 8:5",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "і Ґера, і Шфуфан, і Хурам.",
+  "tokens": [
+    {
+      "surface": "וגרא",
+      "gloss": "і Ґера"
+    },
+    {
+      "surface": "ושפופן",
+      "gloss": "і Шфуфан"
+    },
+    {
+      "surface": "וחורם",
+      "gloss": "і Хурам"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:27.539754165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 107,
+  "translation": "Землю плідну — на соляну пустку за лихість жителів її.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Землю"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "плідну"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "на соляну пустку"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "за лихість"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "жителів"
+    },
+    {
+      "surface": "בה",
+      "gloss": "її"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:12.651083406Z",
+  "model": "glm-5.3"
+}

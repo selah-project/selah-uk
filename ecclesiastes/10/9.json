@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Хто зсовує каміння — той пошкодиться ними; хто розколює дерева — той пораниться ними.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "зсовує"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "каміння"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "пошкодиться"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ними"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "розколює"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "дерева"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "пораниться"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ними"
+    }
+  ],
+  "timestamp": "2026-08-24T00:55:06.650856513Z",
+  "model": "glm-5.3"
+}

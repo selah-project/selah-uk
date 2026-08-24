@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "deuteronomy 28:61",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Також усяку хворобу і всяку поразку, що не написано в книзі цій Тори, зведе Яхве на тебе, аж до твого винищення.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Також"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усяку"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "хворобу"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і всяку"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "поразку"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "написано"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "в книзі"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тори"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цій"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "зведе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "твого винищення"
+    }
+  ],
+  "timestamp": "2026-08-23T22:09:17.452947707Z",
+  "model": "glm-5.3"
+}

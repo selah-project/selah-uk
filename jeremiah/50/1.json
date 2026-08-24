@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 50:1",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 50,
+  "translation": "Слово, яке говорив Яхве про Бавель і про землю касдимів рукою Єрміїгу, пророка:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Слово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "про"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бавель"
+    },
+    {
+      "surface": "אל",
+      "gloss": "про"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "касдимів"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "рукою"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Єрміїга"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророка"
+    }
+  ],
+  "timestamp": "2026-08-23T23:38:48.238406359Z",
+  "model": "glm-5.3"
+}

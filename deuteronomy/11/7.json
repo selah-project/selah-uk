@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "бо ваші очі бачили ⟨את⟩ усе велике діло Яхве, яке Він учинив.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ваші очі"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "бачили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усе велике діло"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "діло"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "велике"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Він учинив"
+    }
+  ],
+  "timestamp": "2026-08-23T22:02:59.208542563Z",
+  "model": "glm-5.3"
+}

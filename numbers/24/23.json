@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 24:23",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І підняв свою притчу, і сказав: горе! хто живий, коли поставить це Ель?",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "і підняв"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "свою притчу"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "горе!"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "живий"
+    },
+    {
+      "surface": "משמו",
+      "gloss": "коли поставить"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    }
+  ],
+  "timestamp": "2026-08-23T21:55:23.526467774Z",
+  "model": "glm-5.3"
+}

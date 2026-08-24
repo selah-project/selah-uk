@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Усе це я випробував мудрістю; я сказав: «Я стану мудрим» — але вона далека від мене.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "я випробував"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "мудрістю"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "я сказав"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "«я стану мудрим»"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "але вона"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "далека"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "від мене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:48.472160323Z",
+  "model": "glm-5.3"
+}

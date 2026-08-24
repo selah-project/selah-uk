@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 37:16",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "Коли Їрмейагу ввійшов до дому ями та до камер, і сидів там Їрмейагу багато днів.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Коли"
+    },
+    {
+      "surface": "בא",
+      "gloss": "увійшов"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Їрмейагу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "ями"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "та до"
+    },
+    {
+      "surface": "החניות",
+      "gloss": "камер"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "і сидів"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Їрмейагу"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "багато"
+    }
+  ],
+  "timestamp": "2026-08-23T23:35:03.178880008Z",
+  "model": "glm-5.3"
+}

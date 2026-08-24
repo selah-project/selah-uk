@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 58,
+  "translation": "що не слухає голосу заклиначів, чарівника чарів наймудрішого.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "слухає"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "голосу"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "заклиначів"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "чарівника"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "чарів"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "наймудрішого"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:57.178247011Z",
+  "model": "glm-5.3"
+}

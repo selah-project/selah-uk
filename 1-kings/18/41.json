@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 18:41",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І сказав Еліяу Ахаву: піднімись, їж і пий, бо ⟨є⟩ голос шуму ⟨від⟩ дощу.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Еліяу"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ахаву"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "піднімись"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "їж"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "і пий"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "המון",
+      "gloss": "шуму"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "⟨від⟩ дощу"
+    }
+  ],
+  "timestamp": "2026-08-23T22:53:47.742331173Z",
+  "model": "glm-5.3"
+}

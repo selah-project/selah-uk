@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І Коц породив ⟨את⟩ Анува, і ⟨את⟩ га-Цовеву, і роди Ахархела, сина Гарума.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "і Коц"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Анув"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Анув"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "га-Цовева"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "га-Цовева"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "і роди"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Ахархела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Гарума"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:36.618890819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І зварив Яаков вариво, і прийшов Есав із поля, і він ⟨був⟩ змучений.",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "і зварив"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "вариво"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "і прийшов"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "מן",
+      "gloss": "із"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поля"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "і він"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "змучений"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:48.822629555Z",
+  "model": "glm-5.3"
+}

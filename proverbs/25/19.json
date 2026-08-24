@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 25:19",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Зламаний зуб і вивихнута нога — опора на зрадника в день лиха.",
+  "tokens": [
+    {
+      "surface": "שן",
+      "gloss": "зуб"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зламаний"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "і нога"
+    },
+    {
+      "surface": "מועדת",
+      "gloss": "вивихнута"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "опора"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "на зрадника"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "лиха"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:25.509488031Z",
+  "model": "glm-5.3"
+}

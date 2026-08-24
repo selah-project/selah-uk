@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "і ⟨את⟩ тук з вола і з барана: курдюк, і покривало нутрощів, і нирки, і відросток печінки —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "тук"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "тук"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "השור",
+      "gloss": "вола"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "і з"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "барана"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "курдюк"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "і покривало"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "і нирки"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "і відросток"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "печінки"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:34.935928099Z",
+  "model": "glm-5.3"
+}

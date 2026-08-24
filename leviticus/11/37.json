@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І якщо впаде з їхньої падалі на всяке насіння сівби, яке буде посіяне, — чисте воно.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "і якщо"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "впаде"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "з їхньої падалі"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяке"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "насіння"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "сівби"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "буде посіяне"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисте"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "воно"
+    }
+  ],
+  "timestamp": "2026-08-24T01:37:53.186295119Z",
+  "model": "glm-5.3"
+}

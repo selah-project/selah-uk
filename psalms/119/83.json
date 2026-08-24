@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Бо я став, як міх ⟨у⟩ димі, — Твоїх приписів не забув я.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "я став"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "як міх"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "у димі"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "Твоїх приписів"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "забув я"
+    }
+  ],
+  "timestamp": "2026-08-24T01:53:54.372807107Z",
+  "model": "glm-5.3"
+}

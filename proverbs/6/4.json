@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "не давай сну очам своїм і дрімоти повікам своїм,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "давай"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сну"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "очам своїм"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "і дрімоти"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "повікам своїм"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:16.119791497Z",
+  "model": "glm-5.3"
+}

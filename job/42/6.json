@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 42,
+  "translation": "Тому я маю відкинене ⟨і⟩ шкодую на поросі та попелі.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "тому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "через це"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "маю відкинене"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "і шкодую"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "поросі"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "та попелі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:49:26.677929289Z",
+  "model": "glm-5.3"
+}

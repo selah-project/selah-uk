@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І призначив Яхве строк, кажучи: завтра зробить Яхве ⟨це⟩ слово ⟨це⟩ у землі.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "і призначив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "строк"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "завтра"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "зробить"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨це⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у землі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:27:21.265597383Z",
+  "model": "glm-5.3"
+}

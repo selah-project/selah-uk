@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І для сіету, і для сапагату, і для багарету,",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "і для сіету"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "і для сапагату"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "і для багарету"
+    }
+  ],
+  "timestamp": "2026-08-23T21:42:10.396103401Z",
+  "model": "glm-5.3"
+}

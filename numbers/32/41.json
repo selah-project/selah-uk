@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 32:41",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І Яїр, син Менаше, пішов, і захопив ⟨את⟩ селища їхні, і назвав їх Хавот-Яїр.",
+  "tokens": [
+    {
+      "surface": "ויאיר",
+      "gloss": "І Яїр"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "пішов"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "і захопив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "селища їхні"
+    },
+    {
+      "surface": "חותיהם",
+      "gloss": "селища їхні"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "і назвав"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "їх"
+    },
+    {
+      "surface": "חות",
+      "gloss": "Хавот"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Яїр"
+    }
+  ],
+  "timestamp": "2026-08-23T21:58:05.662833866Z",
+  "model": "glm-5.3"
+}

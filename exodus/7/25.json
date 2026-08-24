@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І минуло сім днів після того, як Яхве уразив ⟨את⟩ Я́ор.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "І минуло"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "сім"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "після"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "як уразив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Я́ор"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Я́ор"
+    }
+  ],
+  "timestamp": "2026-08-23T21:27:15.408172402Z",
+  "model": "glm-5.3"
+}

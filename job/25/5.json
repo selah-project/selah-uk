@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 25:5",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Ось навіть місяць — і той не сяє, і зорі не чисті в очах Його.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "עד",
+      "gloss": "навіть"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "місяць"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יאהיל",
+      "gloss": "сяє"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "і зорі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "זכו",
+      "gloss": "чисті"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в очах Його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:44:18.794423532Z",
+  "model": "glm-5.3"
+}

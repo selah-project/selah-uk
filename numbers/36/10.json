@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "Як заповів Яхве ⟨את⟩ Моше, так і вчинили дочки Цлофхада.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "вчинили"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дочки"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Цлофхада"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:32.124046489Z",
+  "model": "glm-5.3"
+}

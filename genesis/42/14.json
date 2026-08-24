@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 42,
+  "translation": "І сказав їм Йосеф: саме це те, що я казав вам, говорячи: розвідники ви.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "саме"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "я казав"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "розвідники"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    }
+  ],
+  "timestamp": "2026-08-23T21:22:45.188030072Z",
+  "model": "glm-5.3"
+}

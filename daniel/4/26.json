@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Наприкінці дванадцяти місяців він ходив палацом царства, що ⟨в⟩ Вавилоні.",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "наприкінці"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "місяців"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "два"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "десять"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "палацом"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "царства"
+    },
+    {
+      "surface": "די",
+      "gloss": "що"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "у Вавилоні"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "він ходив"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "⟨був⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T01:00:22.957220696Z",
+  "model": "glm-5.3"
+}

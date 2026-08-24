@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 24:12",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Іди й говори до Давида: так сказав Яхве: три ⟨річі⟩ я кладу на тебе — обери собі одну з них, і я вчиню тобі.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Іди"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "й говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "נוטל",
+      "gloss": "кладу"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "обери"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одну"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "з них"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "і я вчиню"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    }
+  ],
+  "timestamp": "2026-08-23T22:45:51.982854337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Руах Яхве говорив у мені, і Його слово — на моїму язиці.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Руах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорив"
+    },
+    {
+      "surface": "בי",
+      "gloss": "у мені"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "і слово Його"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "моїм язиці"
+    }
+  ],
+  "timestamp": "2026-08-23T22:45:30.929175173Z",
+  "model": "glm-5.3"
+}

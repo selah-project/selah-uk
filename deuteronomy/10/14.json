@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Ось, Яхве, Елогім твій, ⟨належать⟩ Йому ⟨את⟩ небеса й небеса небес, земля і все, що на ній.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ось"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елогім твій"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "й небеса"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і все"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "בה",
+      "gloss": "на ній"
+    }
+  ],
+  "timestamp": "2026-08-23T22:03:10.405477533Z",
+  "model": "glm-5.3"
+}

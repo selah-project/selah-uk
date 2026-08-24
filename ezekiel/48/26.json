@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 48:26",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "І при кордоні Їсахара, від боку сходу аж до боку моря, Зевулун — один ⟨уділ⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "і при"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "кордоні"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Їсахара"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "від боку"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "сходу"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "боку"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "моря"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зевулун"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-23T23:56:45.716009595Z",
+  "model": "glm-5.3"
+}

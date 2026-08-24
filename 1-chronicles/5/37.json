@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І породив Азарія ⟨את⟩ Амарію, а Амарія породив ⟨את⟩ Ахітува.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "і породив"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарія"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амарію"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амарію"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "а Амарія"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ахітува"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ахітува"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:58.212350942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 6:9",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Тільки ти не збудуєш ⟨את⟩ дому, бо твій син, той, що вийде з лона твого, — він збудує дім для Імені Мого.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Тільки"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "збудуєш"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "твій син"
+    },
+    {
+      "surface": "היוצא",
+      "gloss": "той, що вийде"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "з лона твого"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "збудує"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "для Імені Мого"
+    }
+  ],
+  "timestamp": "2026-08-24T01:23:25.514377384Z",
+  "model": "glm-5.3"
+}

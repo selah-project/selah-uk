@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "А якщо відмовитеся й повстанете, — меч вас пожере, бо уста Яхве говорили.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А якщо"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "відмовитеся"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "й повстанете"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "пожере"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорили"
+    }
+  ],
+  "timestamp": "2026-08-23T23:04:42.906526374Z",
+  "model": "glm-5.3"
+}

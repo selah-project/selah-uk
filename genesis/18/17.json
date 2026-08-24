@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І сказав Яхве: чи приховати мені від Аврагама, що я роблю?",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "І сказав Яхве"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "чи приховати"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мені"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "від Аврагама"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "роблю"
+    }
+  ],
+  "timestamp": "2026-08-23T21:12:28.677144606Z",
+  "model": "glm-5.3"
+}

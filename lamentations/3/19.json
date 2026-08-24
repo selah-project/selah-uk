@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Згадай моє убожество і мій гніт — полин і отруту.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "згадай"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "моє убожество"
+    },
+    {
+      "surface": "ומרודי",
+      "gloss": "і мій гніт"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "полин"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "і отрута"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:54.064135778Z",
+  "model": "glm-5.3"
+}

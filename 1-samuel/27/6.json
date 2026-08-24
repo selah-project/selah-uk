@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 27:6",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "І дав йому Акіш того дня ⟨את⟩ Циклаґ; тому була Циклаґ для царів Єгуди аж до дня цього.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "І дав"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Акіш"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "того дня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "того"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Циклаґ"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Циклаґ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "була"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Циклаґ"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "для царів"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цього"
+    }
+  ],
+  "timestamp": "2026-08-23T22:35:22.709073713Z",
+  "model": "glm-5.3"
+}

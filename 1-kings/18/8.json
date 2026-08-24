@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І сказав він йому: це я; іди, скажи пану своєму: ось Елія.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "לך",
+      "gloss": "іди"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "скажи"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "пану своєму"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Елія"
+    }
+  ],
+  "timestamp": "2026-08-23T22:52:12.664236004Z",
+  "model": "glm-5.3"
+}

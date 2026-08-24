@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Відкинуте срібло — назвали їх ⟨так⟩, бо відкинув їх Яхве.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "срібло"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "відкинуте"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "назвали"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їх"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "відкинув"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "їх"
+    }
+  ],
+  "timestamp": "2026-08-23T23:23:32.750784588Z",
+  "model": "glm-5.3"
+}

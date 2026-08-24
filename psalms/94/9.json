@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 94,
+  "translation": "Хто посадив вухо — хіба не почує? Хто витяв око — хіба не погляне?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "хто посадив"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "вухо"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "хіба не"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "почує"
+    },
+    {
+      "surface": "אם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "витяв"
+    },
+    {
+      "surface": "עין",
+      "gloss": "око"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "хіба не"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "погляне"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:00.518753908Z",
+  "model": "glm-5.3"
+}

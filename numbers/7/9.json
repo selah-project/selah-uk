@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "А синам Кегата не дав, бо служба святині ⟨була⟩ на них: на плечах вони носитимуть ⟨її⟩.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "а синам"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кегата"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "служба"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "святині"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "на них"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "на плечах"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "вони носитимуть"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:34.955005700Z",
+  "model": "glm-5.3"
+}

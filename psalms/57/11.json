@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 57,
+  "translation": "Бо великий аж до небес Твій хесед, і аж до хмар Твоя істина.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "великий"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Твій хесед"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "і аж до"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "хмар"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "Твоя істина"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:24.833318566Z",
+  "model": "glm-5.3"
+}

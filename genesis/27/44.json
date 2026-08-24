@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "І житимеш з ним кілька днів, аж поки відвернеться лють брата твого.",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "і житимеш"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "з ним"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "кілька"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж поки"
+    },
+    {
+      "surface": "אשר",
+      "gloss": " коли"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "відвернеться"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "лють"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брата твого"
+    }
+  ],
+  "timestamp": "2026-08-23T21:16:40.641874386Z",
+  "model": "glm-5.3"
+}

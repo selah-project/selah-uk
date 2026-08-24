@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 108,
+  "translation": "Хто мене приведе до міста-твердині? Хто доведе мене аж до Едому?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "мене приведе"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "до міста"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "твердині"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "доведе мене"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едому"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:12.007605029Z",
+  "model": "glm-5.3"
+}

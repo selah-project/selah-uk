@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "judges 20:44",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І впало з Біньяміна вісімнадцять тисяч мужів — усі ці ⟨були⟩ мужі відваги.",
+  "tokens": [
+    {
+      "surface": "ויפלו",
+      "gloss": "І впало"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "з Біньяміна"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "вісім"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надцять"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяч"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужів"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всі ці"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мужі"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "відваги"
+    }
+  ],
+  "timestamp": "2026-08-23T22:26:12.767942225Z",
+  "model": "glm-5.3"
+}

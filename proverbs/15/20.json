@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Син мудрий тішить батька, а глупий чоловік зневажає матір свою.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрий"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "тішить"
+    },
+    {
+      "surface": "אב",
+      "gloss": "батька"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "а глупий"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "зневажає"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "матір свою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:35.367297388Z",
+  "model": "glm-5.3"
+}

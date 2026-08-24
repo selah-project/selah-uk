@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Двері обертаються на своїх завісах, і ледар — на своєму ложі",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "двері"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "обертаються"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "своїх завісах"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "і ледар"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "своєму ложі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:20.754636657Z",
+  "model": "glm-5.3"
+}

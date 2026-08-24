@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 36:27",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "Бо Він зменшує краплі води, ллячи дощ із пари ⟨його⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "зменшує"
+    },
+    {
+      "surface": "נטפי",
+      "gloss": "краплі"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "ллячи"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "дощ"
+    },
+    {
+      "surface": "לאדו",
+      "gloss": "із пари ⟨його⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T00:47:23.826214097Z",
+  "model": "glm-5.3"
+}

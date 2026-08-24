@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Обгородив ⟨мене⟩ муром, і я не вийду, зважив мій мідний кайдан.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "Обгородив"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "⟨мене⟩ муром"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "вийду"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "зважив"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "мій мідний кайдан"
+    }
+  ],
+  "timestamp": "2026-08-24T00:51:34.465320756Z",
+  "model": "glm-5.3"
+}

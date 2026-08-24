@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Не сварися з людиною без причини, коли не вчинив тобі зла.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "сварися"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людиною"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "без причини"
+    },
+    {
+      "surface": "אם",
+      "gloss": "коли"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "вчинив тобі"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зла"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:00.176939443Z",
+  "model": "glm-5.3"
+}

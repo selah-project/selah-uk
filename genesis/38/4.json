@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "І зачала знову, і народила сина; і назвала ⟨את⟩ ім'я його Онан.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "І зачала"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "знову"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "і народила"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "і назвала"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ім'я його"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ім'я його"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Онан"
+    }
+  ],
+  "timestamp": "2026-08-23T21:20:27.683281604Z",
+  "model": "glm-5.3"
+}

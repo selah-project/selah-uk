@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 45,
+  "translation": "Так скажеш йому: так сказав Яхве: ось те, що збудував я, — руйную я, і ⟨את⟩ те, що насадив я, — вириваю я, і ⟨את⟩ всю землю цю.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "скажеш"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "те, що"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "збудував я"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "руйную"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "те, що насадив я"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "те, що"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "насадив я"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "вириваю"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "всю землю цю"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "היא",
+      "gloss": "цю"
+    }
+  ],
+  "timestamp": "2026-08-23T23:36:28.487932754Z",
+  "model": "glm-5.3"
+}

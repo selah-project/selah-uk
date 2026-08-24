@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Що мені проклинати, — не прокляв Ель, і що мені гніватись, — не прогнівався Яхве.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "мені проклинати"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "прокляв"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "і що"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "мені гніватись"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "прогнівався"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:55:39.421317356Z",
+  "model": "glm-5.3"
+}

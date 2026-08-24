@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І душа моя стривожена сильно; а Ти, Яхве, — до коли?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "І душа моя"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "стривожена"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "сильно"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "а Ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "коли"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:16.399932308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 7:11",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Сини Пахат-Моава, із синів Єшуї та Йоава: дві тисячі й вісімсот вісімнадцять.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Пахат"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "із синів"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Єшуї"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "та"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоава"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "дві тисячі"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "й вісім"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "вісім"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надцять"
+    }
+  ],
+  "timestamp": "2026-08-24T01:08:41.681238034Z",
+  "model": "glm-5.3"
+}

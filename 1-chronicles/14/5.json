@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 14:5",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "і Ївгар, і Елішуа, і Елпелет.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "і Ївгар"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "і Елішуа"
+    },
+    {
+      "surface": "ואלפלט",
+      "gloss": "і Елпелет"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:20.642901812Z",
+  "model": "glm-5.3"
+}

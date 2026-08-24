@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 89,
+  "translation": "Також я appoint його перворідним, верховним над царями землі.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "також"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "перворідним"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "призначу його"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "верховним"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "над царями"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:50.235884909Z",
+  "model": "glm-5.3"
+}

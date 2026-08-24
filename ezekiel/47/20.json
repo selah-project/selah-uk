@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 47:20",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 47,
+  "translation": "І край моря — ⟨the⟩ море велике: від межі до навпроти входу до Хамату. Це край моря.",
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "І край"
+    },
+    {
+      "surface": "ים",
+      "gloss": "моря"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "велике"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "від межі"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "навпроти"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "входу"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамату"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "край"
+    },
+    {
+      "surface": "ים",
+      "gloss": "моря"
+    }
+  ],
+  "timestamp": "2026-08-23T23:55:20.938279985Z",
+  "model": "glm-5.3"
+}

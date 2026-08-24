@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "щоб не наситилися чужинці твоєю силою, а твої труди — у домі чужого,",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "щоб не"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "наситилися"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "чужинці"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "твоєю силою"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "а твої труди"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "у домі"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "чужого"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:16.715573299Z",
+  "model": "glm-5.3"
+}

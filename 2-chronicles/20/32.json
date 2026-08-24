@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 20:32",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І ходив він у дорозі свого батька Аси, і не відхилився від неї, чинити праве в очах Яхве.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "І ходив"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "у дорозі"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "свого батька"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аси"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "סר",
+      "gloss": "відхилився"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "від неї"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "чинити"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "праве"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:58:31.380021568Z",
+  "model": "glm-5.3"
+}

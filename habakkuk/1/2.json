@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Доки, Яхве, кличу — і не чуєш? Кричу до Тебе: «Насильство!» — і не спасаєш?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Доки"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "доки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "кличу"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "чуєш"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "Кричу"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "до Тебе"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "Насильство"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "спасаєш"
+    }
+  ],
+  "timestamp": "2026-08-24T00:04:40.404809651Z",
+  "model": "glm-5.3"
+}

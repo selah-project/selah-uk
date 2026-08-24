@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 78,
+  "translation": "Відкрию в притчі мої уста, виллю загадки давні.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Відкрию"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "в притчі"
+    },
+    {
+      "surface": "פי",
+      "gloss": "мої уста"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "виллю"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "загадки"
+    },
+    {
+      "surface": "מני",
+      "gloss": "з"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "давнини"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:09.701562128Z",
+  "model": "glm-5.3"
+}

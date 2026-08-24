@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "Цар судом утверджує землю, а чоловік данин руйнує її.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "судом"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "утверджує"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "а чоловік"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "данин"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "руйнує її"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:58.209677997Z",
+  "model": "glm-5.3"
+}

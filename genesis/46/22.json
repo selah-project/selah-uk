@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 46,
+  "translation": "Це сини Рахейль, які народилися Яакову; усіх душ — чотирнадцять.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Це"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахейль"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "народилися"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яакову"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіх"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чотирнадцять"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "чотирнадцять"
+    }
+  ],
+  "timestamp": "2026-08-23T21:23:27.576358957Z",
+  "model": "glm-5.3"
+}

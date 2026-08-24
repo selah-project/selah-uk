@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "доки не потемніє сонце, і світло, і місяць, і зорі, та хмари повернуться по дощі.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "доки"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коли"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "потемніє"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонце"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "і світло"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "і місяць"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "і зорі"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "та повернуться"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "хмари"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "по"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "дощі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:56:04.961641283Z",
+  "model": "glm-5.3"
+}

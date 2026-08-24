@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 22:15",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "І додав ще Балак послати князів багатьох і шанованіших, ніж ті.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "І додав"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "послати"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "князів"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "багатьох"
+    },
+    {
+      "surface": "ונכבדים",
+      "gloss": "і шанованіших"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ніж ті"
+    }
+  ],
+  "timestamp": "2026-08-24T01:39:12.218443747Z",
+  "model": "glm-5.3"
+}

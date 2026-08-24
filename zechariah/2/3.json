@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І показав мені Яхве чотирьох майстрів.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "і показав мені"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чотирьох"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "майстрів"
+    }
+  ],
+  "timestamp": "2026-08-24T00:07:22.556077596Z",
+  "model": "glm-5.3"
+}

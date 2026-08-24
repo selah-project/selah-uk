@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 36:28",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "Яке вивержуть хмари, зіллють рясно на людину.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "вивержуть"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "хмари"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "зіллють"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людину"
+    },
+    {
+      "surface": "רב",
+      "gloss": "рясно"
+    }
+  ],
+  "timestamp": "2026-08-24T00:47:23.826370232Z",
+  "model": "glm-5.3"
+}

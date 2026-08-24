@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 135,
+  "translation": "Що поразив народи численні, і вбив царів могутніх:",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Що поразив"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "численні"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "і вбив"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "царів"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "могутніх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:49.534732333Z",
+  "model": "glm-5.3"
+}

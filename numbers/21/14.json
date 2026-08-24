@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 21:14",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "Тому кажеться в книзі воєнн Яхве: ⟨את⟩ Ваґев у Суфі, і ⟨את⟩ потоки Арнону.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "кажеться"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "в книзі"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "воєнн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ваґев"
+    },
+    {
+      "surface": "והב",
+      "gloss": "Ваґев"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "у Суфі"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "потоки"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "потоки"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Арнону"
+    }
+  ],
+  "timestamp": "2026-08-23T21:54:05.564767577Z",
+  "model": "glm-5.3"
+}

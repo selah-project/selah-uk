@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 106,
+  "translation": "І змінили ⟨את⟩ славу свою на подобу вола, що їсть траву.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "І змінили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "славу свою"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "славу свою"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "на подобу"
+    },
+    {
+      "surface": "שור",
+      "gloss": "вола"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "що їсть"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "траву"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:59.046784785Z",
+  "model": "glm-5.3"
+}

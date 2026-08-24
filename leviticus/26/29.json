@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "І ви їстимете плоть синів ваших, і плоть дочок ваших їстимете.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "І ви їстимете"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плоть"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "синів ваших"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "і плоть"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "дочок ваших"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "їстимете"
+    }
+  ],
+  "timestamp": "2026-08-23T21:47:02.091528811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 28:29",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "десятина, десятина — на ягня ⟨одного⟩, для семи ягнят.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "десятина"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "десятина"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "на ягня"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨одного⟩"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "для семи"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ягнят"
+    }
+  ],
+  "timestamp": "2026-08-23T21:56:42.590939747Z",
+  "model": "glm-5.3"
+}

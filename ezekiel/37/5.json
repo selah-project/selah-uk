@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 37:5",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "Так говорить Адонай Яхве цим кісткам: ось Я вводжу в вас руах — і ви оживете.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорить"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעצמות",
+      "gloss": "цим кісткам"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "цим"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "вводжу"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "в вас"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "וחייתם",
+      "gloss": "і ви оживете"
+    }
+  ],
+  "timestamp": "2026-08-23T23:52:00.674183816Z",
+  "model": "glm-5.3"
+}

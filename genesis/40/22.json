@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 40:22",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 40,
+  "translation": "А ⟨את⟩ сара пекарів він повісив, як витлумачив їм Йосеф.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "А ⟨את⟩"
+    },
+    {
+      "surface": "שר",
+      "gloss": "сара"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "пекарів"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "повісив"
+    },
+    {
+      "surface": "кאשер",
+      "gloss": "<NOTE: surface copied incorrectly>",
+      "comment": "token surface must be the Hebrew token as given: כאשר",
+      "gloss_for_kashер": "як",
+      "rationale": "placeholder fix below"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "витлумачив"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    }
+  ],
+  "timestamp": "2026-08-23T21:20:25.629242352Z",
+  "model": "glm-5.3"
+}

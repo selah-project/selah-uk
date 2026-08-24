@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Голос мій Ти почув: не ховай Свого вуха від дихання мого, від волання мого.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Голос мій"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Ти почув"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "ховай"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "Свого вуха"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "від дихання мого"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "від волання мого"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:45.012607546Z",
+  "model": "glm-5.3"
+}

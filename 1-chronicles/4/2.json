@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І Реая, син Шоваля, породив ⟨את⟩ Яхата, і Яхат породив ⟨את⟩ Ахумая і ⟨את⟩ Лагада; це роди ⟨⟩ цореатитів.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "І Реая"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Шоваля"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхата"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Яхата"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "і Яхат"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ахумая"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Ахумая"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Лагада"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Лагада"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "роди"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "цореатитів"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:47.597010689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "І поспішив Моше, і вклонився до землі, і простерся.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "І поспішив"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "і вклонився"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "до землі"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "і простерся"
+    }
+  ],
+  "timestamp": "2026-08-23T21:35:58.720264805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Що знаєш ти, чого не знаємо ми? що розумієш, чого немає ⟨в⟩ нас?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаєш ти"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "чого не"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "знаємо ми"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "розумієш"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "чого не"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "з нами"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "воно"
+    }
+  ],
+  "timestamp": "2026-08-24T00:42:24.400761761Z",
+  "model": "glm-5.3"
+}

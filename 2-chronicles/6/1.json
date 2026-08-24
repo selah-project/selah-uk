@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Тоді сказав Шломо: Яхве сказав — мешкати в темряві-імлі.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тоді"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "мешкати"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "в темряві-імлі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:23:31.653393470Z",
+  "model": "glm-5.3"
+}

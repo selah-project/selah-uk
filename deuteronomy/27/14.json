@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "І відповідають левити та кажуть до кожного мужа Ізраїлю голосом гучним:",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "І відповідають"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левити"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "та кажуть"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кожного"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлю"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голосом"
+    },
+    {
+      "surface": "רם",
+      "gloss": "гучним"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:22.017343006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 33:8",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "Тільки ж ти сказав у вухах моїх, і голос слів я чую.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "тільки ж"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ти сказав"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "у вухах моїх"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "і голос"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "слів"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "я чую"
+    }
+  ],
+  "timestamp": "2026-08-24T01:55:38.737453229Z",
+  "model": "glm-5.3"
+}

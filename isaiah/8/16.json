@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Зв'яжи свідоцтво, запечатай Тору серед Моїх учнів.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "Зв'яжи"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "свідоцтво"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "запечатай"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Тору"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "серед Моїх учнів"
+    }
+  ],
+  "timestamp": "2026-08-23T23:06:12.744912371Z",
+  "model": "glm-5.3"
+}

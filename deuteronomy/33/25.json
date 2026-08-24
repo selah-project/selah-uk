@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "Заліза й міді — твої засуви, і як дні твої — так спокій твій.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "заліза"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "й міді"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "твої засуви"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "і як дні твої"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "спокій твій"
+    }
+  ],
+  "timestamp": "2026-08-23T22:10:18.665324116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 2:20",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Щоб ти ходив шляхом добрих, і стежки праведних зберігав.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Щоб"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ти ходив"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "шляхом"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "добрих"
+    },
+    {
+      "surface": "וארחות",
+      "gloss": "і стежки"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведних"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "зберігав"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:00.655533926Z",
+  "model": "glm-5.3"
+}

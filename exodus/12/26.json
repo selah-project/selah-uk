@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "І станеться, коли скажуть вам ваші сини: що ⟨це⟩ за служба ця для вас?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "І станеться"
+    },
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "скажуть"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ваші сини"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "служба"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ця"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для вас"
+    }
+  ],
+  "timestamp": "2026-08-23T21:28:27.427314529Z",
+  "model": "glm-5.3"
+}

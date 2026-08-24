@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "і на Дівон, і на Нево, і на Бейт-Дівлатайім",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "Дівон"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Нево"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "дבלתים",
+      "gloss": "Дівлатайім"
+    }
+  ],
+  "timestamp": "2026-08-23T23:37:41.123802738Z",
+  "model": "glm-5.3"
+}

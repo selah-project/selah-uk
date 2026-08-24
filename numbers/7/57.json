@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "numbers 7:57",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Один бик, син стада, один баран, один ягня, син року свого, на всепалення",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "бик"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "стада"
+    },
+    {
+      "surface": "איל",
+      "gloss": "баран"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ягня"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "року свого"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "на всепалення"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:37.070088576Z",
+  "model": "glm-5.3"
+}

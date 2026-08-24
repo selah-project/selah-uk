@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Брами річкові відчинено, і палац розтанув.",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "брами"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "річкові"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "відчинено"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "і палац"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "розтанув"
+    }
+  ],
+  "timestamp": "2026-08-24T00:04:08.457621479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І ⟨את⟩ Ресен — між Ніневе і між Калах; це ⟨є⟩ велике місто.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ресен"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Ресен"
+    },
+    {
+      "surface": "בין",
+      "gloss": "між"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ніневе"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "і між"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Калах"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "це"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "місто"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "велике"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:56.753245161Z",
+  "model": "glm-5.3"
+}

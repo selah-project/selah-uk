@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 83,
+  "translation": "Знищені в Ен-Дорі, стали гноєм для землі.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "Знищені"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "в"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Ен-Дорі"
+    },
+    {
+      "surface": "היו",
+      "gloss": "стали"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "гноєм"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "для землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:48.972108979Z",
+  "model": "glm-5.3"
+}

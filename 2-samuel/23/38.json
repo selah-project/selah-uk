@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Іра ⟨ה⟩-їтрієць, Гарев ⟨ה⟩-їтрієць,",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "Іра"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "їтрієць"
+    },
+    {
+      "surface": "гרב... ",
+      "gloss": ""
+    },
+    {
+      "surface": "גרב",
+      "gloss": "Гарев"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "їтрієць"
+    }
+  ],
+  "timestamp": "2026-08-23T22:44:51.528542352Z",
+  "model": "glm-5.3"
+}

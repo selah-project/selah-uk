@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 1:54",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І зробили сини Ізраїля за все, що заповів Яхве ⟨את⟩ Моше; так зробили.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "І зробили"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "за все"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "зробили"
+    }
+  ],
+  "timestamp": "2026-08-24T01:38:34.033581285Z",
+  "model": "glm-5.3"
+}

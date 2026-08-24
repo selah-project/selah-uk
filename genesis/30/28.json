@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "І сказав: визнач мені плату твою, і я дам її.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "визнач"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "плату твою"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "і я дам її"
+    }
+  ],
+  "timestamp": "2026-08-23T21:17:14.212270366Z",
+  "model": "glm-5.3"
+}

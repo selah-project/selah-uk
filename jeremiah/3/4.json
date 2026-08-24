@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Хіба не віднині кликала ти мене: отче мій, друже юності моєї — ти?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "хіба не"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "віднині"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "кликала ти"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отче мій"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "друже"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "юності моєї"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-08-23T23:22:58.782951986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "Відтято ріг Моава, і рамено його зламано, — промовляє Яхве.",
+  "tokens": [
+    {
+      "surface": "נגדעה",
+      "gloss": "відтяно"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ріг"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "і рамено його"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "зламано"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "промовляє"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:37:55.847522524Z",
+  "model": "glm-5.3"
+}

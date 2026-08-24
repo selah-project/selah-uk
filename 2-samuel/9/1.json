@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І сказав Давид: чи є ще хто, хто лишився з дому Шаула, і я вчиню з ним хесед заради Єгогнатана?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "чи"
+    },
+    {
+      "surface": "יש",
+      "gloss": "є"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хто"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "лишився"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "з дому"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаула"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "і я вчиню"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "з ним"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "заради"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Єгонатана"
+    }
+  ],
+  "timestamp": "2026-08-23T22:39:01.088140291Z",
+  "model": "glm-5.3"
+}

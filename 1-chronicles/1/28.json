@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Сини Аврагама: Їцхак і Їшмаел.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагама"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Їцхак"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "і Їшмаел"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:50.245770449Z",
+  "model": "glm-5.3"
+}

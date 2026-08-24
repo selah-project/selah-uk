@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "бо сильний ⟨גоель⟩ їхній — він поведе ⟨את⟩ тяжбу їхню ⟨з⟩ тобою.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "⟨гоель⟩ їхній"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "сильний"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "поведе тяжбу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тяжбу їхню"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "тяжбу їхню"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ тобою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:49.766895492Z",
+  "model": "glm-5.3"
+}

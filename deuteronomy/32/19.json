@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 32:19",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І побачив Яхве, і знехтував — з гніву на синів своїх і дочок своїх.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "і побачив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "і знехтував"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "з гніву"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "на синів своїх"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "і дочок своїх"
+    }
+  ],
+  "timestamp": "2026-08-23T22:10:09.387960418Z",
+  "model": "glm-5.3"
+}

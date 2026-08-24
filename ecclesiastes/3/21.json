@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Хто знає, чи руах синів людських піднімається вгору, і чи руах тварини спускається вниз, на землю?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знає"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людських"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "піднімається вгору"
+    },
+    {
+      "surface": "היא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "вгору"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "і руах"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "тварини"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "спускається вниз"
+    },
+    {
+      "surface": "היא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "вниз"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "на землю"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:15.092874452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І сказав: не бійся, бо більше тих, що ⟨את⟩ нас, ніж тих, що ⟨את⟩ них.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бійся"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "більше"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "тих, що"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ нас"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ніж тих, що"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ них"
+    }
+  ],
+  "timestamp": "2026-08-23T22:56:21.017084326Z",
+  "model": "glm-5.3"
+}

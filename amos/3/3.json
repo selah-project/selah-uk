@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Хіба підуть двоє разом, як не домовилися?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "Хіба підуть"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двоє"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "разом"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "як не"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "домовилися"
+    }
+  ],
+  "timestamp": "2026-08-23T23:59:57.104121520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 32:10",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "Так сказав Санхерив цар Ашуру: на що ви сподіваєтесь і сидите в облозі в Єрушалаїмі?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Санхерив"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашуру"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "сподіваєтесь"
+    },
+    {
+      "surface": "וישבים",
+      "gloss": "і сидите"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "в облозі"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "в Єрушалаїмі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:32:03.557047103Z",
+  "model": "glm-5.3"
+}

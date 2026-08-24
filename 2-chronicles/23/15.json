@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 23:15",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І поклали на неї руки, і ввійшла вона до входу брами коней, дому царевого, і вбили її там.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "і поклали"
+    },
+    {
+      "surface": "לה",
+      "gloss": "на неї"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "руки"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "і ввійшла вона"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "входу"
+    },
+    {
+      "surface": "שער",
+      "gloss": "брами"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "коней"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царевого"
+    },
+    {
+      "surface": "וימיתוה",
+      "gloss": "і вбили її"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    }
+  ],
+  "timestamp": "2026-08-24T01:29:46.179516260Z",
+  "model": "glm-5.3"
+}

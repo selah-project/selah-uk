@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Бо близький день, і близький день для Яхве: день хмари, час народів він буде.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "близький"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "і близький"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "для Яхве"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "хмари"
+    },
+    {
+      "surface": "עת",
+      "gloss": "час"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народів"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "він буде"
+    }
+  ],
+  "timestamp": "2026-08-23T23:49:54.709220926Z",
+  "model": "glm-5.3"
+}

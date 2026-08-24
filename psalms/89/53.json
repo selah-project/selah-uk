@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 89,
+  "translation": "Благословенний Яхве навіки. Амен і Амен.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Благословенний"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "і Амен"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:11.910427978Z",
+  "model": "glm-5.3"
+}

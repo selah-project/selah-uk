@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "І не залишайте з нього до ранку, а залишене з нього до ранку — у вогні спаліть.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "І не"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "залишайте"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "з нього"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ранку"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "а залишене"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "з нього"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ранку"
+    },
+    {
+      "surface": "באש",
+      "gloss": "у вогні"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "спаліть"
+    }
+  ],
+  "timestamp": "2026-08-23T21:28:10.133580658Z",
+  "model": "glm-5.3"
+}

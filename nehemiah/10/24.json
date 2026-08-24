@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 10:24",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Гошеа, Хананія, Хашшув.",
+  "tokens": [
+    {
+      "surface": "הושע",
+      "gloss": "Гошеа"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Хананія"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "Хашшув"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:32.759748878Z",
+  "model": "glm-5.3"
+}

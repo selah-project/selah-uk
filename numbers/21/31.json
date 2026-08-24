@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І осів Ізраїль у землі еморіїв.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "І осів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїль"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у землі"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "еморіїв"
+    }
+  ],
+  "timestamp": "2026-08-23T21:54:37.166637379Z",
+  "model": "glm-5.3"
+}

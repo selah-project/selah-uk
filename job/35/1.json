@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "І відповів Елігу та й сказав:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "І відповів"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Елігу"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "та й сказав"
+    }
+  ],
+  "timestamp": "2026-08-24T00:46:47.233673408Z",
+  "model": "glm-5.3"
+}

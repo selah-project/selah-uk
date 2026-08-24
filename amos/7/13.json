@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 7:13",
+  "book": "amos",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "а в Бейт-Елі не додай більше пророкувати, бо святиня це царева, і дім царства це.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "а в Бейт-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-Елі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "додай"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "більше"
+    },
+    {
+      "surface": "להנבא",
+      "gloss": "пророкувати"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "святиня"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царева"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "це"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "і дім"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "царства"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "це"
+    }
+  ],
+  "timestamp": "2026-08-24T00:01:29.979161375Z",
+  "model": "glm-5.3"
+}

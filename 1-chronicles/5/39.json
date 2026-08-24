@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "А Шаллум породив ⟨את⟩ Хілкію, а Хілкія породив ⟨את⟩ Азарію.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "а Шаллум"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хілкію"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Хілкію"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "а Хілкія"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Азарію"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарію"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:58.212698071Z",
+  "model": "glm-5.3"
+}

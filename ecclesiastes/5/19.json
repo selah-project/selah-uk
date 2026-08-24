@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 5:19",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Бо не багато він згадує ⟨את⟩ дні життя свого, бо Елогім відповідає в радості серця його.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "багато"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "згадує"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дні життя свого"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дні"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "життя-його"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "відповідає"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "в-радості"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "серця-його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:26.859467323Z",
+  "model": "glm-5.3"
+}

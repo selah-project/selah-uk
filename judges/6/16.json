@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І сказав йому Яхве: бо я буду з тобою, і ти поб'єш ⟨את⟩ Мідʼяна як одну людину.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "я буду"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "з тобою"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "і ти поб'єш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мідʼяна"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мідʼяна"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "як одну людину"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одну"
+    }
+  ],
+  "timestamp": "2026-08-23T22:20:32.685875947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Бо Той, хто досліджує кров, пам'ятає ⟨את⟩ них, не забув крику пригноблених.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "досліджує"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кров"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ них",
+      "marks": "них"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "пам'ятає"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "забув"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "крику"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "пригноблених"
+    }
+  ],
+  "timestamp": "2026-08-24T00:11:27.270139968Z",
+  "model": "glm-5.3"
+}

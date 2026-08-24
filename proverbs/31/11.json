@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Серце її чоловіка впевнено ⟨в⟩ ній, і здобутку не бракуватиме йому.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "впевнено"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨в⟩ ній"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "її чоловіка"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "і здобутку"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "бракуватиме"
+    }
+  ],
+  "timestamp": "2026-08-24T00:39:00.799357602Z",
+  "model": "glm-5.3"
+}

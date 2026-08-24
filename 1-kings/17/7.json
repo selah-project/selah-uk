@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І сталося по закінченні днів, і висох потічок, бо не було дощу в ⟨⟩ землі.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "по закінченні"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "і висох"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "потічок"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "було"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "дощ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:43:35.480284278Z",
+  "model": "glm-5.3"
+}

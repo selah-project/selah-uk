@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "І згинете серед народів, і з'їсть ⟨את⟩ вас земля ворогів ваших.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "і згинете"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "серед народів"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "і з'їсть"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ворогів ваших"
+    }
+  ],
+  "timestamp": "2026-08-23T21:47:08.459581195Z",
+  "model": "glm-5.3"
+}

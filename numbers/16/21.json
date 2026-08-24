@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 16:21",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Відділіться з-посеред цієї громади, і Я винищу ⟨את⟩ їх у мить.",
+  "tokens": [
+    {
+      "surface": "הבדלו",
+      "gloss": "Відділіться"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "з-посеред"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "громади"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цієї"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "і Я винищу"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "їх"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "у мить"
+    }
+  ],
+  "timestamp": "2026-08-23T21:53:12.032229571Z",
+  "model": "glm-5.3"
+}

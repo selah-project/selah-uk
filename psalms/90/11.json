@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 90,
+  "translation": "Хто знає силу гніву Твого — і за страхом Твоїм лють Твою?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знає"
+    },
+    {
+      "surface": "עז",
+      "gloss": "силу"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "гніву Твого"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "і за страхом Твоїм"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "лють Твою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:41.504714911Z",
+  "model": "glm-5.3"
+}

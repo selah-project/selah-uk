@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "У всякій праці ⟨буде⟩ вигода, а слово уст — лише до нестачі.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "у всякій"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "праці"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "вигода"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "а слово"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "уст"
+    },
+    {
+      "surface": "אך",
+      "gloss": "лише"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "до нестачі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:49.059569914Z",
+  "model": "glm-5.3"
+}

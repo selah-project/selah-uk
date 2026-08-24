@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Тоді не знеславлюся, коли дивитимуся на всі заповіді Твої.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тоді"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "знеславлюся"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "коли дивитимуся"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "заповіді Твої"
+    }
+  ],
+  "timestamp": "2026-08-24T01:53:51.105167147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "Чистий я, без злочину, невинуватий я, і немає кривди в мене.",
+  "tokens": [
+    {
+      "surface": "זך",
+      "gloss": "Чистий"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "злочину"
+    },
+    {
+      "surface": "חף",
+      "gloss": "невинуватий"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і немає"
+    },
+    {
+      "surface": "עון",
+      "gloss": "кривди"
+    },
+    {
+      "surface": "לי",
+      "gloss": "в мене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:46:15.438922174Z",
+  "model": "glm-5.3"
+}

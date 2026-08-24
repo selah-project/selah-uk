@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 122,
+  "translation": "Заради братів моїх і приятелів моїх говоритиму: мир тобі.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Заради"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "братів моїх"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "і приятелів моїх"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "говоритиму"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ж"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "בך",
+      "gloss": "тобі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:41.546526859Z",
+  "model": "glm-5.3"
+}

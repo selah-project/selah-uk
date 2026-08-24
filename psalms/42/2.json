@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 42,
+  "translation": "Як олень прагне потоків води, так прагне моя нефеш до Тебе, Елогім.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Як олень"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "прагне"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨до⟩"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "потоків"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "моя нефеш"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "прагне"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "до Тебе"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    }
+  ],
+  "timestamp": "2026-08-24T00:15:22.176004549Z",
+  "model": "glm-5.3"
+}

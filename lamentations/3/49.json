@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Око моє вилилось і не вщухне, бо немає перепочинку.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "око моє"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "вилилось"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "вщухне"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "бо немає"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "перепочинку"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:38.297556499Z",
+  "model": "glm-5.3"
+}

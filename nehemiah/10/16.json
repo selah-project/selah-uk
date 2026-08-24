@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 10:16",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Бунні, Азгад, Бевай,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Бунні"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Азгад"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "Бевай"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:52.453576070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 2:12",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Здивуйтеся, небеса, над цим, і жахніться, спорожнілі дуже, оракул Яхве",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Здивуйтеся"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "цим"
+    },
+    {
+      "surface": "ושערו",
+      "gloss": "і жахніться"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "спорожнілі"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "дуже"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "оракул"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:21:52.832162856Z",
+  "model": "glm-5.3"
+}

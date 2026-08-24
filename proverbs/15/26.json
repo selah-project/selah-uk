@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 15:26",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Меріdetest — гидота для Яхве — задуми зла, а чисті — слова приємності.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "гидота"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "задуми"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    },
+    {
+      "surface": "וטהרים",
+      "gloss": "а чисті"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "приємності"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:35.851143567Z",
+  "model": "glm-5.3"
+}

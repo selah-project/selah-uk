@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Не вбивай.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "вбивай"
+    }
+  ],
+  "timestamp": "2026-08-23T22:01:24.198085999Z",
+  "model": "glm-5.3"
+}

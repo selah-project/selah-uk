@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Тоді прийшли дві жінки-блудниці до царя й стали перед ним.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "тоді"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "прийшли"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "дві"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "жінки"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "блудниці"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "й стали"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "перед ним"
+    }
+  ],
+  "timestamp": "2026-08-23T22:46:26.807538488Z",
+  "model": "glm-5.3"
+}

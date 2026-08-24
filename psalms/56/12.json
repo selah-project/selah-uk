@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 56,
+  "translation": "На Елогіма поклав я уповання: не боюся — що зробить мені людина?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "на Елогіма"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "поклав я уповання"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "боюся"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "зробить"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людина"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:39.561597541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Бо всі дні його — болі, і роздратування — клопіт його; також уночі не спочиває серце його; також це — марність воно.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "дні його"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "болі"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "і роздратування"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "клопіт його"
+    },
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "уночі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "спочиває"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "серце його"
+    },
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "марність"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "воно"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:18.810925325Z",
+  "model": "glm-5.3"
+}

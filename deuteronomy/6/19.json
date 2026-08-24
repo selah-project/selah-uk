@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "щоб вирвати всіх ворогів твоїх з-перед обличчя твого, як говорив Яхве.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "щоб вирвати"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усіх ворогів твоїх"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіх"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ворогів твоїх"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "з-перед обличчя твого"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T22:01:26.217916862Z",
+  "model": "glm-5.3"
+}

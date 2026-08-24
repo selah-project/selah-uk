@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "Не розпалюйте вогню в усіх ваших оселях в день шабату.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "розпалюйте"
+    },
+    {
+      "surface": "אש",
+      "gloss": "вогню"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "в усіх"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "ваших оселях"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "шабату"
+    }
+  ],
+  "timestamp": "2026-08-23T21:35:30.505089241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І не дав Яхве вам серця, щоб знати, та очей, щоб бачити, і вух, щоб чути, — аж до цього дня.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серця"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "щоб знати"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "та очей"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "щоб бачити"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "і вух"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "щоб чути"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "цього дня"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цього"
+    }
+  ],
+  "timestamp": "2026-08-24T01:39:42.166955588Z",
+  "model": "glm-5.3"
+}

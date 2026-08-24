@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Відчула, що добра торгівля її, — не згасне вночі світильник її.",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "Відчула"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "торгівля її"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "згасне"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "вночі"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "світильник її"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:45.486581690Z",
+  "model": "glm-5.3"
+}

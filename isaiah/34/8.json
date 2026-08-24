@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 34:8",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "Бо день помсти — Яхве, рік відплати за тяжбу Ційону.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "помсти"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "рік"
+    },
+    {
+      "surface": "שלומים",
+      "gloss": "відплати"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "за тяжбу"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ційону"
+    }
+  ],
+  "timestamp": "2026-08-23T23:13:51.939467726Z",
+  "model": "glm-5.3"
+}

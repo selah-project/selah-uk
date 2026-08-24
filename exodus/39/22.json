@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 39,
+  "translation": "І зробив ⟨את⟩ мантію ефода роботою ткача, суцільно з техелету.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "і зробив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мантія ефода"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "мантію"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ефода"
+    },
+    {
+      "surface": "мעשה",
+      "gloss": "роботою"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "ткача"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "суцільно"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "техелету"
+    }
+  ],
+  "timestamp": "2026-08-23T21:38:12.270573993Z",
+  "model": "glm-5.3"
+}

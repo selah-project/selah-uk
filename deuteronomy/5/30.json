@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Іди, скажи їм: поверніться собі до ваших шатрів.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Іди"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "скажи"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "поверніться"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "собі"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "до ваших шатрів"
+    }
+  ],
+  "timestamp": "2026-08-24T01:59:21.516279947Z",
+  "model": "glm-5.3"
+}

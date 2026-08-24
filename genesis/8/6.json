@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І сталося в кінці сорока днів, що відчинив Ноах ⟨את⟩ вікно ковчега, яке він зробив.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "в кінці"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорока"
+    },
+    {
+      "surface": "יום",
+      "gloss": "днів"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "що відчинив"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "вікно"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "вікно"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчега"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "він зробив"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:22.273021656Z",
+  "model": "glm-5.3"
+}

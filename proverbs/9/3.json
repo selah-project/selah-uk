@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Вислатала своїх служниць, кличе на найвищих місцях міста:",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "Вислатала"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "своїх служниць"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "кличе"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "верхівках"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "найвищих місцях"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "міста"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:19.210305623Z",
+  "model": "glm-5.3"
+}

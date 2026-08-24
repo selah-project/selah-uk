@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Яхве воюватиме за вас, а ви мовчітимете.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "воюватиме"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за-вас"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "а-ви"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "мовчітимете"
+    }
+  ],
+  "timestamp": "2026-08-23T21:28:55.261123343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 116,
+  "translation": "У дворах дому Яхве, посеред тебе, Єрушалаїме! Халелю Ях!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "У дворах"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "посеред тебе"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Єрушалаїме"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Халелю"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:56.491263052Z",
+  "model": "glm-5.3"
+}

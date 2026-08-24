@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 17:10",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І був страх Яхве на всіх царствах земель, що навколо Єгуди, і не воювали з Єгошафатом.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "і був"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всіх"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "царствах"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "земель"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "навколо"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "воювали"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Єгошафатом"
+    }
+  ],
+  "timestamp": "2026-08-24T01:26:49.402131861Z",
+  "model": "glm-5.3"
+}

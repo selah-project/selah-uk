@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 12:21",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Не спіткає праведника жодна кривда, а нечестиві наповнені злом.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאנה",
+      "gloss": "спіткає"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "כל",
+      "gloss": "жодна"
+    },
+    {
+      "surface": "און",
+      "gloss": "кривда"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "а нечестиві"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "наповнені"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злом"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:54.320806429Z",
+  "model": "glm-5.3"
+}

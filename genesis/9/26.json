@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І сказав: благословенний Яхве, Елогім Шема; і нехай буде Кенаан рабом їм.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "благословенний"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шема"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і нехай буде"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "рабом"
+    },
+    {
+      "surface": "למו",
+      "gloss": "їм"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:33.205241850Z",
+  "model": "glm-5.3"
+}

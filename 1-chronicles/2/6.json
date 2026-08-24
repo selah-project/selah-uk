@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "А сини Зераха: Зімрі, і Ейтан, і Гейман, і Калколь, і Дара — усіх їх п'ятеро.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "а сини"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Зімрі"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "і Ейтан"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "і Гейман"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "і Калколь"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "і Дара"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "усіх їх"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "п'ятеро"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:39.128886952Z",
+  "model": "glm-5.3"
+}

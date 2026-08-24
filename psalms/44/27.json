@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 44:27",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 44,
+  "translation": "Устань на поміч нам і визволь нас заради хеседу Твойого!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Устань"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "на поміч"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "ופדנו",
+      "gloss": "і визволь нас"
+    },
+    {
+      "surface": "למען",
+      "gloss": "заради"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседу Твойого"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:21.619639623Z",
+  "model": "glm-5.3"
+}

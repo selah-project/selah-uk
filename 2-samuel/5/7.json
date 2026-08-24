@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І захопив Давид ⟨את⟩ твердиню Ційона — вона ⟨є⟩ місто Давида.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "І захопив"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "твердиню Ційона"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "твердиню"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ційона"
+    },
+    {
+      "surface": "היא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "місто"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-23T22:38:23.502241340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 20:19",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І встали сини Їсраейла вранці, і стали табором над Гів'ою.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "І встали"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраейла"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "вранці"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і стали табором"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Гів'ою"
+    }
+  ],
+  "timestamp": "2026-08-23T22:27:08.526207970Z",
+  "model": "glm-5.3"
+}

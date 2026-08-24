@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 2:9",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І я побачив, і ось рука простягнута до мене, і ось у ній згорток книги.",
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "І я побачив"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "і ось"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "простягнута"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "і ось"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у ній"
+    },
+    {
+      "surface": "מגלת",
+      "gloss": "згорток"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "книги"
+    }
+  ],
+  "timestamp": "2026-08-24T01:49:01.778845671Z",
+  "model": "glm-5.3"
+}

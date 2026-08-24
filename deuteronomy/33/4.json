@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "Тору заповів нам Моше — надбання громади Яакова.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Тору"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповів"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "мורשה",
+      "gloss": "надбання"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "громади"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    }
+  ],
+  "timestamp": "2026-08-23T22:10:08.356920225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Мішмана — четвертий, Їрмейаґу — п'ятий.",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "Мішмана"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "четвертий"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Їрмейаґу"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "п'ятий"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:40.820308834Z",
+  "model": "glm-5.3"
+}

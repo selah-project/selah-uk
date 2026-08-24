@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Блудодіяння, і вино, і молоде вино забирають серце.",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "блудодіяння"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "і вино"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "і молоде вино"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "забирають"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серце"
+    }
+  ],
+  "timestamp": "2026-08-23T23:56:36.347273383Z",
+  "model": "glm-5.3"
+}

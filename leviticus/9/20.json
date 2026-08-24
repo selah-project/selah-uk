@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І поклали ⟨את⟩ тук на груди, і спалив ⟨את⟩ тук на жертовнику.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "І поклали"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тук"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "тук"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "груди"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "і спалив"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "тук"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "жертовник"
+    }
+  ],
+  "timestamp": "2026-08-23T21:40:34.936042914Z",
+  "model": "glm-5.3"
+}

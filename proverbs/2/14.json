@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 2:14",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Що тішаться чинити зло, радіють у викривленнях лихого;",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "що тішаться"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "чинити"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "радіють"
+    },
+    {
+      "surface": "בתהפכות",
+      "gloss": "у викривленнях"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лихого"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:40.696200377Z",
+  "model": "glm-5.3"
+}

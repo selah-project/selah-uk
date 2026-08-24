@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 19:41",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І ⟨був⟩ кордон спадку їхнього: Цора, і Ештаол, і Ір-Шемеш.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І був"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "кордон"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "спадок їхній"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Цора"
+    },
+    {
+      "surface": "ואשתאול",
+      "gloss": "і Ештаол"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "і Ір"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Шемеш"
+    }
+  ],
+  "timestamp": "2026-08-23T22:16:28.076127099Z",
+  "model": "glm-5.3"
+}

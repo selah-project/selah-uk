@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І накаже ⟨the⟩ коген, і заріжуть ⟨את⟩ одного птаха до глиняної посудини, над водою живою.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "і накаже"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коген"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "і заріжуть"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "одного птаха"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "птаха"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "одного"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "посудини"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "глиняної"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "מים",
+      "gloss": "водою"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живою"
+    }
+  ],
+  "timestamp": "2026-08-23T21:41:59.396397647Z",
+  "model": "glm-5.3"
+}

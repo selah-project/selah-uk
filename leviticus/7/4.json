@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "і ⟨את⟩ обидві нирки, і ⟨את⟩ тук, що на них, що на стегнах, і ⟨את⟩ нарост над печінкою — над нирками усуне її.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "обидві нирки"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "обидві"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "нирки"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "тук"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "тук"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "на них"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "стегнах"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "нарост"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "нарост"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "печінкою"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "нирками"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "усуне її"
+    }
+  ],
+  "timestamp": "2026-08-23T21:38:48.666894432Z",
+  "model": "glm-5.3"
+}

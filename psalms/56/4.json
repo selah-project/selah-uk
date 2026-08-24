@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 56,
+  "translation": "Днем, коли я боюся, я на Тебе уповаю.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Днем"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "коли я боюся"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "на Тебе"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "уповаю"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:27.409889885Z",
+  "model": "glm-5.3"
+}

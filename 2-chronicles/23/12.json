@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І почула Аталія ⟨את⟩ голос народу — тих, що бігли і славили царя, — і ввійшла до народу в дім Яхве.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "І почула"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Аталія"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "голос"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "тих, що бігли"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "і славили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "царя"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "і ввійшла"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "בית",
+      "gloss": "в дім"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:28:41.579514346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 5:14",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Це ⟨сини⟩ Авіхайла, син Хурі, син Яроаха, син Гілеада, син Міхаеля, син Єшишая, син Яхдо, син Буза.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Це"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨сини⟩"
+    },
+    {
+      "surface": "אביחיל",
+      "gloss": "Авіхайла"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "Хурі"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ירוח",
+      "gloss": "Яроаха"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гілеада"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Міхаеля"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ישישי",
+      "gloss": "Єшишая"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "Яхдо"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Буза"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:40.825015234Z",
+  "model": "glm-5.3"
+}

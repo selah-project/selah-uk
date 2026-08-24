@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "obadiah 1:6",
+  "book": "obadiah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Як перешукано Есава, як витекли схованки його!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "як"
+    },
+    {
+      "surface": "נחפשו",
+      "gloss": "перешукано"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есава"
+    },
+    {
+      "surface": "נבעו",
+      "gloss": "витекли"
+    },
+    {
+      "surface": "מצפניו",
+      "gloss": "схованки його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:01:21.299317016Z",
+  "model": "glm-5.3"
+}

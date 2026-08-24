@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І Уззі породив ⟨את⟩ Зерах'ю, і Зерах'я породив ⟨את⟩ Мерайота.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "І Уззі"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Зерах'ю"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Зерах'ю"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "і Зерах'я"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мерайота"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Мерайота"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:44.445931144Z",
+  "model": "glm-5.3"
+}

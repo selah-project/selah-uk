@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Час діяти для Яхве — ⟨вони⟩ зруйнували твою Тору.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "час"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "діяти"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "для Яхве"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "зруйнували"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "твою Тору"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:13.582133385Z",
+  "model": "glm-5.3"
+}

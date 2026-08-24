@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 24:9",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І робив він зло в очах Яхве, за всім, що робив його батько.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "І робив"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "за всім"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "робив"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "його батько"
+    }
+  ],
+  "timestamp": "2026-08-23T23:04:19.235141535Z",
+  "model": "glm-5.3"
+}

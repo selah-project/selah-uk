@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Магарай га-Нетофаті, Хелед син Баани га-Нетофаті,",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "Магарай"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "га-Нетофаті"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "Хелед"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "Баани"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "га-Нетофаті"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:07.657328944Z",
+  "model": "glm-5.3"
+}

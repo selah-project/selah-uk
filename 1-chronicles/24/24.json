@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Сини Уззієля: Міха; з синів Міхи — Шамір.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Уззієля"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Міха"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "з синів"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Міхи"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "Шамір"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:21.662052944Z",
+  "model": "glm-5.3"
+}

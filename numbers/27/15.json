@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "І говорив Моше до Яхве, говорячи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "і говорив"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    }
+  ],
+  "timestamp": "2026-08-23T21:57:27.388141979Z",
+  "model": "glm-5.3"
+}

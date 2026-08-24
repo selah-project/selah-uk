@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Маґбіш — сто пʼятдесят і шість.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "Маґбіш"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "пʼятдесят"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "і шість"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:12.019161682Z",
+  "model": "glm-5.3"
+}

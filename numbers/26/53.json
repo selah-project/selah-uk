@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 26:53",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Цим ⟨ has to be Ukrainian — let me write it properly: Цим буде поділена ⟨את⟩ земля в наділ за числом імен.",
+  "tokens": [
+    {
+      "surface": "לאלה",
+      "gloss": "цим"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "буде поділена"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩ землю"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "в наділ"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "за числом"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "імен"
+    }
+  ],
+  "timestamp": "2026-08-24T01:39:03.489924660Z",
+  "model": "glm-5.3"
+}

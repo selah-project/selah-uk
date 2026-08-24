@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "⟨את⟩ одне ягня зробиш ранком, а ⟨את⟩ друге ягня зробиш між вечорами.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "одне ягня"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ягня"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одне"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "зробиш"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ранком"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "друге ягня"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ягня"
+    },
+    {
+      "surface": "השני",
+      "gloss": "друге"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "зробиш"
+    },
+    {
+      "surface": "בין",
+      "gloss": "між"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "вечорами"
+    }
+  ],
+  "timestamp": "2026-08-23T21:57:10.504942278Z",
+  "model": "glm-5.3"
+}

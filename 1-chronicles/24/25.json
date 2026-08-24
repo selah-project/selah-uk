@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Брат Міхи: Їшшія; синам Їшшії: Захар'яго.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Міхи"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Їшшія"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синам"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Їшшії"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Захар'яго"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:06.902301609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Лод і Оно, долина ремісників.",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "Лод"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "і Оно"
+    },
+    {
+      "surface": "גי",
+      "gloss": "долина"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "ремісників"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:14.144432749Z",
+  "model": "glm-5.3"
+}

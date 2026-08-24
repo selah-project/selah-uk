@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "і ослів тридцять тисяч і п'ятсот",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "і ослів"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридцять"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяч"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "і п'ять"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    }
+  ],
+  "timestamp": "2026-08-23T21:57:57.896644256Z",
+  "model": "glm-5.3"
+}

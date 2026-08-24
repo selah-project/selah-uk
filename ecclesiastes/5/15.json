@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І це також — лиха недуга: разом із усім, як прийшов, так піде, і що ⟨це⟩ за вигода йому — що трудиться на вітер?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "і також"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "лиха"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "недуга"
+    },
+    {
+      "surface": "כל",
+      "gloss": "з усім"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "разом із"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "прийшов"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "піде"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "і що"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "вигода"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "що трудиться"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "на вітер"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:52.806637005Z",
+  "model": "glm-5.3"
+}

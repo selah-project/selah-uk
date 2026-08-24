@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 7:17",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Коли скажеш у серці своїм: «Численніші ці народи за мене — як зможу я їх вигнати?»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Коли"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "скажеш"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "у серці своїм"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Численніші"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "за мене"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "як"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "зможу"
+    },
+    {
+      "surface": "להורישם",
+      "gloss": "вигнати їх"
+    }
+  ],
+  "timestamp": "2026-08-23T22:02:53.935451019Z",
+  "model": "glm-5.3"
+}

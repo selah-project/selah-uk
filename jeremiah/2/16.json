@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 2:16",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Також сини Нофа і Тахпанхеса випасуть ⟨на⟩ тобі тім'я ⟨твоє⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Нофа"
+    },
+    {
+      "surface": "ותחפנס",
+      "gloss": "і Тахпанхес"
+    },
+    {
+      "surface": "ירעוך",
+      "gloss": "випасуть на тобі"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "тім'я"
+    }
+  ],
+  "timestamp": "2026-08-24T01:47:08.301977517Z",
+  "model": "glm-5.3"
+}

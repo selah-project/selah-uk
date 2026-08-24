@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 50,
+  "translation": "Якщо зголоднію — не скажу тобі, бо Моя вселенна і повнота її.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Якщо"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "зголоднію"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "скажу"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Моя"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "вселенна"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "і повнота її"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:43.919485493Z",
+  "model": "glm-5.3"
+}

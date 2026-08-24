@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "один козел, з кіз, за гріх.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "козел"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "з кіз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за гріх"
+    }
+  ],
+  "timestamp": "2026-08-23T21:48:47.521445186Z",
+  "model": "glm-5.3"
+}

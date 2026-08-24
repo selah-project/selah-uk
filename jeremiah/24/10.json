@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І пошлю Я на них ⟨את⟩ меч, ⟨את⟩ голод і ⟨את⟩ мор, аж поки не зникнуть з землі, яку Я дав їм та батькам їхнім.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "І пошлю Я"
+    },
+    {
+      "surface": "בם",
+      "gloss": "на них"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "меч"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "голод"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "голод"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "мор"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж поки"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "не зникнуть"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "з"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "землі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Я дав"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "та батькам їхнім"
+    }
+  ],
+  "timestamp": "2026-08-23T23:29:46.196604941Z",
+  "model": "glm-5.3"
+}

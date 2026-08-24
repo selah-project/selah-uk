@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 85,
+  "translation": "Також Яхве дасть ⟨את⟩ добро, і земля наша дасть урожай свій.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дасть"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "⟨את⟩ добро",
+      "marks": "добро"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "і земля наша"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "дасть"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "урожай свій"
+    }
+  ],
+  "timestamp": "2026-08-24T00:22:21.775883982Z",
+  "model": "glm-5.3"
+}

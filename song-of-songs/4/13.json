@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Твої пагони — ⟨це⟩ сад гранатовий, з плодами найкращими, хна з нардом.",
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "Твої пагони"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "сад"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "гранатовий"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "плодами"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "найкращими"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "хна"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "нардом"
+    }
+  ],
+  "timestamp": "2026-08-24T00:49:55.739579170Z",
+  "model": "glm-5.3"
+}

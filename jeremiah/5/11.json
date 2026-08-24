@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Бо віроломно зрадили мені дім Їсраеля і дім Єгуди, — віщування Яхве.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "віроломно"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "зрадили"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраеля"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "і дім"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "віщування"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:23:31.437028611Z",
+  "model": "glm-5.3"
+}

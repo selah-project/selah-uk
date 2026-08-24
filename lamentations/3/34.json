@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "lamentations 3:34",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "щоб топтати під ноги Свої ⟨את⟩ усіх в'язнів землі,",
+  "tokens": [
+    {
+      "surface": "לדכא",
+      "gloss": "щоб топтати"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ноги Свої"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіх"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "в'язнів"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:29.502095172Z",
+  "model": "glm-5.3"
+}

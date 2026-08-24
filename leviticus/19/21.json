@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І принесе ⟨את⟩ провину свою до Яхве, до входу шатра зустрічі, баран — провина.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "і принесе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "провину свою"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "провину свою"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "до Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входу"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "зустрічі"
+    },
+    {
+      "surface": "איל",
+      "gloss": "баран"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "провина"
+    }
+  ],
+  "timestamp": "2026-08-23T21:44:31.710191369Z",
+  "model": "glm-5.3"
+}

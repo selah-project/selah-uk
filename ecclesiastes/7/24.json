@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Далеке те, що було, і глибоке, глибоке — хто його знайде?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "далеке"
+    },
+    {
+      "surface": "מה",
+      "gloss": "те, що"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "було"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "і глибоке"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "глибоке"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "його знайде"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:48.472278574Z",
+  "model": "glm-5.3"
+}

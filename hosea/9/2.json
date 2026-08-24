@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Ток і прес не нагодують їх, і молоде вино зрадить у ній.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "Ток"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "і прес"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "нагодують їх"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "і молоде вино"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "зрадить"
+    },
+    {
+      "surface": "בה",
+      "gloss": "у ній"
+    }
+  ],
+  "timestamp": "2026-08-23T23:58:45.284382437Z",
+  "model": "glm-5.3"
+}

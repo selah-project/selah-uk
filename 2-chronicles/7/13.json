@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 7:13",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Якщо я стримаю небеса, і не буде дощу, і якщо накажу сарані з'їсти землю, і якщо пошлю мор на мій народ,",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Якщо"
+    },
+    {
+      "surface": "אעצר",
+      "gloss": "я стримаю"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "дощ"
+    },
+    {
+      "surface": "והן",
+      "gloss": "і якщо"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "накажу"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "сарана"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "з'їсти"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "і якщо"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "пошлю"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "мор"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "на мій народ"
+    }
+  ],
+  "timestamp": "2026-08-24T01:25:15.234354939Z",
+  "model": "glm-5.3"
+}

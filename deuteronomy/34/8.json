@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "І оплакали сини Ісраїля ⟨את⟩ Моше в степах Моаву тридцять днів; і закінчилися дні плачу й жалоби за Моше.",
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "і оплакали"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраїля"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "в степах"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаву"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридцять"
+    },
+    {
+      "surface": "יום",
+      "gloss": "днів"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "і закінчилися"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дні"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "плачу"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "жалоби"
+    },
+    {
+      "surface": "משה",
+      "gloss": "за Моше"
+    }
+  ],
+  "timestamp": "2026-08-23T22:09:30.350037760Z",
+  "model": "glm-5.3"
+}

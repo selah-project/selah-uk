@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Не робіть так для Яхве, вашого Елогіма.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "робіть"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "для Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "вашого Елогіма"
+    }
+  ],
+  "timestamp": "2026-08-23T22:04:06.686406258Z",
+  "model": "glm-5.3"
+}

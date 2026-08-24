@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І його син-первородок — Авдон, а також Цур, і Кіш, і Баал, і Нер, і Надав.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "І його син"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "первородок"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Авдон"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "а також Цур"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "і Кіш"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "і Баал"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "і Нер"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "і Надав"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:34.615037558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Одинадцять днів шляху від Хореву дорогою гори Сеїр до Кадеш-Барнеа.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "Один"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-адцять"
+    },
+    {
+      "surface": "יום",
+      "gloss": "днів"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "від Хореву"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "дорогою"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гори"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеїр"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кадеш"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Барнеа"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:44.437250808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І я сказав до ангела, що говорив у мені: куди вони ведуть ⟨את⟩ ефу?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "і я сказав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ангела"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "що говорив"
+    },
+    {
+      "surface": "בי",
+      "gloss": "у мені"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "куди"
+    },
+    {
+      "surface": "המה",
+      "gloss": "вони"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "ведуть"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ефу"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ефа"
+    }
+  ],
+  "timestamp": "2026-08-24T00:07:17.370123608Z",
+  "model": "glm-5.3"
+}

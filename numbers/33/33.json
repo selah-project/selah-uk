@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 33:33",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І рушили вони з Хор-га-Ґідґад, і таборили в Ятвата́.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "з"
+    },
+    {
+      "surface": "הגדגד",
+      "gloss": "Хор-га-Ґідґад"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і таборили"
+    },
+    {
+      "surface": "ביטבתה",
+      "gloss": "в Ятвата́"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:10.154806706Z",
+  "model": "glm-5.3"
+}

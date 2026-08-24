@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 19:21",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Багато задумів у серці людини, та рада Яхве — ⟨вона⟩ устоїться.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "Багато"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "задумів"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "у серці"
+    },
+    {
+      "surface": "איש",
+      "gloss": "людини"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "та рада"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨вона⟩"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "устоїться"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:06.427332705Z",
+  "model": "glm-5.3"
+}

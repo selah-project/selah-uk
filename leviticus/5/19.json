@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Провина ⟨це⟩; винен він учинив провину перед Яхве.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "провина"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨це⟩"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "винен"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "учинив провину"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "перед Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:39:40.197806300Z",
+  "model": "glm-5.3"
+}

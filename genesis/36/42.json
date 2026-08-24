@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "алуф Кеназ, алуф Теман, алуф Мівцар.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "алуф"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Кеназ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "алуф"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Теман"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "алуф"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "Мівцар"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:46.544559482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 32:16",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І чекав я, — бо не говорили, бо стали ⟨мовчки⟩ і не відповіли більше.",
+  "tokens": [
+    {
+      "surface": "והוחלתי",
+      "gloss": "і чекав я"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "говорили"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "стали"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "відповіли"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "більше"
+    }
+  ],
+  "timestamp": "2026-08-24T00:46:07.428484179Z",
+  "model": "glm-5.3"
+}

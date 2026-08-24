@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Цілий ⟨я⟩ — не знаю душі своєї, зневажаю життя моє.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "Цілий"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "знаю"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душі своєї"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "зневажаю"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "життя моє"
+    }
+  ],
+  "timestamp": "2026-08-24T00:40:59.031257798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Бо звичаї народів — марнота ⟨це⟩: дерево з лісу вирубали, витвір рук ремісника сокирою.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "звичаї"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народів"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "марнота"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨це⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дерево"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "з лісу"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "вирубали"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "витвір"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "рук"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ремісника"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "сокирою"
+    }
+  ],
+  "timestamp": "2026-08-23T23:26:25.738245034Z",
+  "model": "glm-5.3"
+}

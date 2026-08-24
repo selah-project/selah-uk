@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І не породичуйся з ними: своєї дочки не давай його синові, а його дочки не бери своєму синові.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "І не"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "породичуйся шлюбом"
+    },
+    {
+      "surface": "בם",
+      "gloss": "з ними"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "своєї дочки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "давай"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "його синові"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "а його дочки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "бери"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "своєму синові"
+    }
+  ],
+  "timestamp": "2026-08-23T22:02:21.418522272Z",
+  "model": "glm-5.3"
+}

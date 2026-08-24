@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Візьми ⟨את⟩ левитів з-посеред синів Ізраїля, і очистиш ⟨את⟩ їх.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Візьми"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "левитів"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитів"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "з-посеред"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "і очистиш"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ їх",
+      "marks": "їх"
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:53.375168174Z",
+  "model": "glm-5.3"
+}

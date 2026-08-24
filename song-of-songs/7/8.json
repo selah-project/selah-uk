@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Ця постава твоя подібна до пальми, і груди твої — до грон.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ця"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "постава твоя"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "подібна"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "до пальми"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "і груди твої"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "до грон"
+    }
+  ],
+  "timestamp": "2026-08-24T00:50:38.378290137Z",
+  "model": "glm-5.3"
+}

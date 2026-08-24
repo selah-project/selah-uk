@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "А ти, сину людський, підними над Цором жалобний спів;",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А ти"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людський"
+    },
+    {
+      "surface": "שא",
+      "gloss": "підними"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цором"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "жалобний спів"
+    }
+  ],
+  "timestamp": "2026-08-23T23:49:17.251331445Z",
+  "model": "glm-5.3"
+}

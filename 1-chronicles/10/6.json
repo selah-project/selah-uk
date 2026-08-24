@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І помер Шауль, і троє синів його, і ввесь дім його разом померли.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "І помер"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шауль"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "і троє"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синів його"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і ввесь"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "дім його"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "разом"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "померли"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:31.906921669Z",
+  "model": "glm-5.3"
+}

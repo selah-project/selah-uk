@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "nehemiah 7:57",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Сини слуг Шеломо: сини Сотай, сини Соферет, сини Перида.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слуг"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "סוטי",
+      "gloss": "Сотай"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "סופרת",
+      "gloss": "Соферет"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "פרידא",
+      "gloss": "Перида"
+    }
+  ],
+  "timestamp": "2026-08-24T01:09:45.244662455Z",
+  "model": "glm-5.3"
+}

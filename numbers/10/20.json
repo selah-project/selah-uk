@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І над військом племені синів Гада ⟨was⟩ Ельясаф, син Деуела.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "і над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "військом"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "племені"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Ельясаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Деуела"
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:57.804071163Z",
+  "model": "glm-5.3"
+}

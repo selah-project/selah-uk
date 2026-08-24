@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "і сталося їхнє число — вісім тисяч п'ятсот вісімдесять.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "і сталося"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "їхнє число"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "вісім"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "тисяч"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "п'ятсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "вісімдесять"
+    }
+  ],
+  "timestamp": "2026-08-23T21:48:59.351386540Z",
+  "model": "glm-5.3"
+}

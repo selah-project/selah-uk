@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 120,
+  "translation": "Стріли богатиря гострі — з вугіллям дроку ⟨разом⟩.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Стріли"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "богатиря"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "гострі"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "вугіллям"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "дроку"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:24.973008840Z",
+  "model": "glm-5.3"
+}

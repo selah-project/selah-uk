@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "А всю худобу й здобич міст ми пограбували для себе.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "А всю"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "худобу"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "й здобич"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "міст"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "ми пограбували"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "для себе"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:02.916077494Z",
+  "model": "glm-5.3"
+}

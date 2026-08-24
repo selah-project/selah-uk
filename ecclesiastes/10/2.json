@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Серце мудреця — праворуч від нього, а серце дурня — ліворуч від нього.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудреця"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "праворуч від нього"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "а серце"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "дурня"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "ліворуч від нього"
+    }
+  ],
+  "timestamp": "2026-08-24T00:55:32.898108446Z",
+  "model": "glm-5.3"
+}

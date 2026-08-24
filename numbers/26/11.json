@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "А сини Кораха не вмерли.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "а сини"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кораха"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "вмерли"
+    }
+  ],
+  "timestamp": "2026-08-23T21:55:47.235421119Z",
+  "model": "glm-5.3"
+}

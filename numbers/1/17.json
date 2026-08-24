@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І взяли Моше та Агарон ⟨את⟩ цих мужів, яких назвали на імена.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "І взяли"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "та Агарон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цих мужів"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "мужів"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "цих"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яких"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "назвали"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "на імена"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:39.388258299Z",
+  "model": "glm-5.3"
+}

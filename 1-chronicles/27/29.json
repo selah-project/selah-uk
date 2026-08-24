@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 27:29",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "І над ⟨the⟩ худобою, що пасеться в Шароні — Шітрай ⟨the⟩ Шаронієць; і над ⟨the⟩ худобою в долинах — Шафат син Адлая.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "і над"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "худобою"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "що пасеться"
+    },
+    {
+      "surface": "בשרון",
+      "gloss": "в Шароні"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "Шітрай"
+    },
+    {
+      "surface": "השרוני",
+      "gloss": "Шаронієць"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і над"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "худобою"
+    },
+    {
+      "surface": "בעמקים",
+      "gloss": "в долинах"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Шафат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עדלי",
+      "gloss": "Адлая"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:54.962478980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І привів ⟨Він⟩ ⟨את⟩ мене до входу двору, і я глянув — і ось одна діра в стіні.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "і-привів"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мене"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входу"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "двору"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "і-я-поглянув"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "і-ось"
+    },
+    {
+      "surface": "חר",
+      "gloss": "діра"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одна"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "в-стіні"
+    }
+  ],
+  "timestamp": "2026-08-23T23:41:55.859881980Z",
+  "model": "glm-5.3"
+}

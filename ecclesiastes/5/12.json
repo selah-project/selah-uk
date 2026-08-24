@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Є лиха хвороба, яку я бачив під сонцем: багатство, сховане власником його, — на лихо йому.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Є"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "лиха"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "хвороба"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "яку я бачив"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонцем"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "багатство"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "сховане"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "власником його"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "на лихо йому"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:25.108761988Z",
+  "model": "glm-5.3"
+}

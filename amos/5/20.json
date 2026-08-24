@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Хіба не темрява день Яхве, а не світло? І морок, а не сяйво йому?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Хіба не"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "темрява"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "אור",
+      "gloss": "світло"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "І морок"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "сяйво"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    }
+  ],
+  "timestamp": "2026-08-24T00:01:25.297336425Z",
+  "model": "glm-5.3"
+}

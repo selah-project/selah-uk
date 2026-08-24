@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І успадкує Яхве ⟨את⟩ Єгуду як частку Свою на землі святій, і вибере знову Єрушалаїм.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "І успадкує"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Єгуду"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуду"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "як частку Свою"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "землі"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "святій"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "і вибере"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "знову"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Єрушалаїм"
+    }
+  ],
+  "timestamp": "2026-08-24T00:07:06.206689596Z",
+  "model": "glm-5.3"
+}

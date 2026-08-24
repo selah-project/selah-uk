@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "і не навчився я мудрості, і знання Святих ⟨чи⟩ знаю.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "навчився я"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрості"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "і знання"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "Святих"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "знаю"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:53.934569752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "І даси ⟨את⟩ два ті шнури золоті на два ті каблучки, до кінців хошену.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "І даси"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "два ті шнури золоті"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "два"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "шнури"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "золоті"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "два"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ті каблучки"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "кінців"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "хошену"
+    }
+  ],
+  "timestamp": "2026-08-23T21:33:29.192508701Z",
+  "model": "glm-5.3"
+}

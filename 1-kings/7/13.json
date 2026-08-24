@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І послав цар Шломо, і взяв ⟨את⟩ Хірама з Цора.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "і-послав"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "і-взяв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хірама"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Хірам"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "з-Цора"
+    }
+  ],
+  "timestamp": "2026-08-23T22:48:54.458871807Z",
+  "model": "glm-5.3"
+}

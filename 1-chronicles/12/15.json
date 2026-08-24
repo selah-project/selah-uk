@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Це з синів Гада, голови війська: один проти сотні — менший, а більший — проти тисячі.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "з синів"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "голови"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "війська"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "проти сотні"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "менший"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "а більший"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "проти тисячі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:56.033822040Z",
+  "model": "glm-5.3"
+}

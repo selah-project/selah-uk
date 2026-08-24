@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 6:51",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "А з родів синів Кегата були ⟨is⟩ міста їхнього межування з племені Ефраїма.",
+  "tokens": [
+    {
+      "surface": "וממשפחות",
+      "gloss": "а з родів"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кегата"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і було"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "міста"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "їхнього межування"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "з племені"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраїма"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:24.414667207Z",
+  "model": "glm-5.3"
+}

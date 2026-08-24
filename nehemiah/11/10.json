@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Зі священників: Єдаягу син Йоярива, Яхін.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Зі"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "священників"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Єдаягу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "Йоярива"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Яхін"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:03.921010989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 3:8",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Зцілення ⟨буде⟩ твоєму тілу і живлення твоїм костям.",
+  "tokens": [
+    {
+      "surface": "רפאות",
+      "gloss": "Зцілення"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "⟨буде⟩"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "твоєму тілу"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "і живлення"
+    },
+    {
+      "surface": "לעצמותיך",
+      "gloss": "твоїм костям"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:36.158740235Z",
+  "model": "glm-5.3"
+}

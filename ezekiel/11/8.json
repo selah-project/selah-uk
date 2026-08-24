@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 11:8",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Меча ви боялися, і меч Я наведу на вас — слово Адная Яхве.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "меча"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "ви боялися"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "і меч"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "Я наведу"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "на вас"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адная"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:42:32.332398460Z",
+  "model": "glm-5.3"
+}

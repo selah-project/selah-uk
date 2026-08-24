@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 29:11",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "Не перейде нею нога людська, і нога худоби не перейде нею, і не буде вона населена сорок років.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "перейде"
+    },
+    {
+      "surface": "בה",
+      "gloss": "нею"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "нога"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людська"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "і нога"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "худоби"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "перейде"
+    },
+    {
+      "surface": "בה",
+      "gloss": "нею"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "буде населена"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    }
+  ],
+  "timestamp": "2026-08-23T23:49:59.952117554Z",
+  "model": "glm-5.3"
+}

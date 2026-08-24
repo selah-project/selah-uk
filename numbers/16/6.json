@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 16:6",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Це зробіть: візьміть собі кадильниці, Кораху і вся його громада.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Це"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "зробіть"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "візьміть"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "собі"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "кадильниці"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кораху"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і вся"
+    },
+    {
+      "surface": "עדתו",
+      "gloss": "його громада"
+    }
+  ],
+  "timestamp": "2026-08-23T21:53:30.762887910Z",
+  "model": "glm-5.3"
+}

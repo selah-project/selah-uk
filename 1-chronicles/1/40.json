@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 1:40",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Сини Шовал: Ал'ян, і Манахат, і Евал, Шефі й Онам; і сини Цив'она: Айя й Анаг.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Шовала"
+    },
+    {
+      "surface": "עלין",
+      "gloss": "Ал'ян"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "і Манахат"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "і Евал"
+    },
+    {
+      "surface": "שפי",
+      "gloss": "Шефі"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "й Онам"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "і сини"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Цив'она"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Айя"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "й Анаг"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:02.056548637Z",
+  "model": "glm-5.3"
+}

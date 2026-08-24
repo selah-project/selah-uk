@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І прийшла до нього Ізевель, дружина його, і spoke до нього: що це? дух твій похмурий, і ти не їси хліба.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "І прийшла"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "до нього"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Ізевель"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "дружина його"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "і spoke"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "до нього"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "дух твій"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "похмурий"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "і не"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "їси"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хліба"
+    }
+  ],
+  "timestamp": "2026-08-23T22:54:51.258447594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "А Нохові ⟨було⟩ шістьсот років, коли потоп вод стався на землі.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "А Нохові"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син (віку)"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шість"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "і потоп"
+    },
+    {
+      "surface": "היה",
+      "gloss": "стався"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вод"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:30.375623366Z",
+  "model": "glm-5.3"
+}

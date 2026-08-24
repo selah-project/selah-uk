@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "А ряд другий — нофех, саппір і ягалом.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "А ряд"
+    },
+    {
+      "surface": "השני",
+      "gloss": "другий"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "нофех"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "саппір"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "і ягалом"
+    }
+  ],
+  "timestamp": "2026-08-23T21:33:09.827960060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Тому не встаниуть нечестиві на суді, а грішники — у громаді праведних.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "встануть"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестиві"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "на суді"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "а грішники"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "у громаді"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведних"
+    }
+  ],
+  "timestamp": "2026-08-24T00:09:27.707894140Z",
+  "model": "glm-5.3"
+}

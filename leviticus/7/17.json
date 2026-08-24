@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "А решта від м'яса жертви на третій день у вогні буде спалена.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "а-решта"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "від-м'яса"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "жертви"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "на-день"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третій"
+    },
+    {
+      "surface": "באש",
+      "gloss": "у-вогні"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "буде-спалена"
+    }
+  ],
+  "timestamp": "2026-08-23T21:39:35.547922707Z",
+  "model": "glm-5.3"
+}

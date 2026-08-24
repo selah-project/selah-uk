@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "Співайте Йому пісню нову, добре граньте серед трубного кличу.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "співайте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Йому"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "пісню"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нову"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "добре"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "грайте"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "серед трубного кличу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:44.240798390Z",
+  "model": "glm-5.3"
+}

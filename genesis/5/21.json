@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І жив Ханох п'ять і шістдесят років, і породив ⟨את⟩ Метушелаха.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "І жив"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханох"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "п'ять"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "і шістдесят"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "і породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Метушелаха"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Метушелаха"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:47.044847591Z",
+  "model": "glm-5.3"
+}

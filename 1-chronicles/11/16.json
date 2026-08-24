@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "А Давид тоді ⟨був⟩ у твердині, а залога пеліштимців тоді була в Бейт-Лехемі.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "А Давид"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тоді"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "у твердині"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "а залога"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "пеліштимців"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тоді"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "в Бейт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехемі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:03.143188751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 46,
+  "translation": "А сини Дана: Хушшім.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А сини"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дана"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "Хушшім"
+    }
+  ],
+  "timestamp": "2026-08-23T21:23:27.576458873Z",
+  "model": "glm-5.3"
+}

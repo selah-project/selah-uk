@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Пришелець я ⟨⟨⟩⟩ на землі — не ховай від мене своїх заповідей.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "пришелець"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на землі"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ховай"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "від мене"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "своїх заповідей"
+    }
+  ],
+  "timestamp": "2026-08-24T01:53:49.101714883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 36:14",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "тому людей більше не пожратимеш, і народи свої більше не спіткнеш — слово Адоная Яхве.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людей"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "пожратимеш"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "більше"
+    },
+    {
+      "surface": "וגויך",
+      "gloss": "і народи свої"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכשלי",
+      "gloss": "спіткнеш"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "більше"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адоная"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:51:49.766850356Z",
+  "model": "glm-5.3"
+}

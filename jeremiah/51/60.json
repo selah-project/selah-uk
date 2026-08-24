@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "jeremiah 51:60",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 51,
+  "translation": "І написав Єрміяу ⟨את⟩ усе лихо, що прийде на Вавилон, до однієї книги — ⟨את⟩ усі ці слова, написані про Вавилон.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "І написав"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Єрміяу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усе лихо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "лихо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "прийде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "книги"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "однієї"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усі ці слова"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "הכתבים",
+      "gloss": "написані"
+    },
+    {
+      "surface": "אל",
+      "gloss": "про"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    }
+  ],
+  "timestamp": "2026-08-23T23:40:36.915992332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "І вителите воду з радістю з джерел спасіння.",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "І вителите"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воду"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "з радістю"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "з джерел"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "спасіння"
+    }
+  ],
+  "timestamp": "2026-08-23T23:07:21.564170403Z",
+  "model": "glm-5.3"
+}

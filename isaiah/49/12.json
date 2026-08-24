@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 49:12",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 49,
+  "translation": "Ось ці здалеку прийдуть, і ось ці з півночі та з заходу, і ці з краю Синім.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "мерахок",
+      "gloss": "здалеку"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "прийдуть"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "і ось"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "з півночі"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "та з заходу"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "і ці"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "з краю"
+    },
+    {
+      "surface": "סינים",
+      "gloss": "Синім"
+    }
+  ],
+  "timestamp": "2026-08-23T23:16:24.253326017Z",
+  "model": "glm-5.3"
+}

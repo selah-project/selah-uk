@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Мааз'я, Білгай, Шема'я — це ⟨були⟩ священики.",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "Мааз'я"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "Білгай"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шема'я"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "священики"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:34.627214576Z",
+  "model": "glm-5.3"
+}

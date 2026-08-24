@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І почув Ту, цар Хаматський, що Давид уразив ⟨את⟩ усе військо Хададезера, царя Цови.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "І почув"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хаматський"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "уразив"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усе військо Хададезера"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "військо"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Хададезера"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Цови"
+    }
+  ],
+  "timestamp": "2026-08-24T01:18:38.703026575Z",
+  "model": "glm-5.3"
+}

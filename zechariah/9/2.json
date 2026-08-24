@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "А також Хамат межуватиме з нею; Цор і Цидон, бо ⟨вона⟩ мудра ⟨дуже⟩ дуже.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "а також"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "межуватиме"
+    },
+    {
+      "surface": "בה",
+      "gloss": "з нею"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цор"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "і Цидон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудра"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "дуже"
+    }
+  ],
+  "timestamp": "2026-08-24T00:07:56.426534307Z",
+  "model": "glm-5.3"
+}

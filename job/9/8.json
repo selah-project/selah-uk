@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 9:8",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Простягтоди Сам небеса, і Той, що ступає на висоти моря.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "Простягтоди"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "Сам"
+    },
+    {
+      "surface": "ודורך",
+      "gloss": "і Той, що ступає"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "висоти"
+    },
+    {
+      "surface": "ים",
+      "gloss": " моря"
+    }
+  ],
+  "timestamp": "2026-08-24T00:40:31.677348684Z",
+  "model": "glm-5.3"
+}

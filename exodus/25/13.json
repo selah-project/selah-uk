@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І зробиш жердини з дерева шитим, і обкладеш їх ⟨את⟩ золотом.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "І зробиш"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "жердини"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "з дерева"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шитим"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "і обкладеш"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "їх ⟨את⟩",
+      "marks": "жердини"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золотом"
+    }
+  ],
+  "timestamp": "2026-08-23T21:32:26.008877279Z",
+  "model": "glm-5.3"
+}

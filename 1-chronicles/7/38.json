@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І сини Їтера: Єфунне, і Піспа, і Ара.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "і сини"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Їтера"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Єфунне"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "і Піспа"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "і Ара"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:05.778656364Z",
+  "model": "glm-5.3"
+}

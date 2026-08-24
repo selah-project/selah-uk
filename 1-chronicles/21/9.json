@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І говорив Яхве до Ґада, провидця Давида, говорячи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "і говорив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Ґада"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "провидця"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    }
+  ],
+  "timestamp": "2026-08-24T01:19:43.715352354Z",
+  "model": "glm-5.3"
+}

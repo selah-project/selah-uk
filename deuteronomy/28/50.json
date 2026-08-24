@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "народ твёрдолиций, що не зважатиме на обличчя старця, а юнака не помилує.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "лютий"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "обличчям"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "зважатиме"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "на обличчя"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "старця"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "а юнака"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "помилує"
+    }
+  ],
+  "timestamp": "2026-08-23T22:08:39.296880046Z",
+  "model": "glm-5.3"
+}

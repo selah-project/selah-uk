@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І сказав мені: увійди й побач ⟨את⟩ мерзоти злочинні, які вони чинять тут.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І-сказав"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "בא",
+      "gloss": "увійди"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "й-побач"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мерзоти злочинні"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "мерзоти"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "злочинні"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "הם",
+      "gloss": "вони"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "чинять"
+    },
+    {
+      "surface": "погар",
+      "gloss": "тут"
+    }
+  ],
+  "timestamp": "2026-08-23T23:42:20.958147265Z",
+  "model": "glm-5.3"
+}

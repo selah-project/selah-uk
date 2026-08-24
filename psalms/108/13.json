@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 108,
+  "translation": "Подай нам поміч від тісноти, і марна ⟨є⟩ порятунок людський.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Подай"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "поміч"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "від тісноти"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "і марна"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "порятунок"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людський"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:04.032123832Z",
+  "model": "glm-5.3"
+}

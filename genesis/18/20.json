@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І сказав Яхве: cryк Сдому і Амори — бо великий він, і гріх їхній — бо вельми тяжкий він.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "cryк"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Сдому"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "і Амори"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "великий"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "і гріх їхній"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "тяжкий"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "вельми"
+    }
+  ],
+  "timestamp": "2026-08-23T21:12:28.677765673Z",
+  "model": "glm-5.3"
+}

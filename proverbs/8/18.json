@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Багатство і слава ⟨є⟩ зі мною ⟨את⟩, статок давній і праведність.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "багатство"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "і слава"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ зо мною",
+      "marks": "зі мною"
+    },
+    {
+      "surface": "הון",
+      "gloss": "статок"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "давній"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "і праведність"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:57.641621513Z",
+  "model": "glm-5.3"
+}

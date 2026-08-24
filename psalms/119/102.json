@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Від приписів Твоїх я не відхилився, бо Ти навчив мене.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "Від приписів Твоїх"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "я відхилився"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "навчив мене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:46.934724777Z",
+  "model": "glm-5.3"
+}

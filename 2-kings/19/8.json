@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І повернувся Равшаке, і знайшов ⟨את⟩ царя Ашуру, що воює проти Лівни, бо почув, що він вирушив із Лахіша.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "І повернувся"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Рав"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "шаке"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "і знайшов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "царя"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашуру"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "що воює"
+    },
+    {
+      "surface": "על",
+      "gloss": "проти"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Лівни"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "почув"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "вirusшив"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "із Лахіша"
+    }
+  ],
+  "timestamp": "2026-08-23T23:01:16.628077639Z",
+  "model": "glm-5.3"
+}

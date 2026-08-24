@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І витер на жорнах мої зуби, потоптав мене в попелі.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "І витер"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "на жорнах"
+    },
+    {
+      "surface": "שני",
+      "gloss": "мої зуби"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "потоптав мене"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "в попелі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:51:36.707976818Z",
+  "model": "glm-5.3"
+}

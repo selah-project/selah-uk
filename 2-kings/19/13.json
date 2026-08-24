@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Де цар Хамата, і де цар Арпада, і де цар міста Сефарваїму, Гени та Авви?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "де"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамата"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "і цар"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Арпада"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "і цар"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "міста"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Сефарваїму"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Гена"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "та Авва"
+    }
+  ],
+  "timestamp": "2026-08-23T23:01:41.416789736Z",
+  "model": "glm-5.3"
+}

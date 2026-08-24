@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І вчинив Яаков так, і довершив цей семиден; і дав йому ⟨את⟩ Рахель, дочку свою, йому за жінку.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "І вчинив"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "і довершив"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семиден"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "цей"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "і дав"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рахель"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахель"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "дочку свою"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жінку"
+    }
+  ],
+  "timestamp": "2026-08-23T21:16:42.910137104Z",
+  "model": "glm-5.3"
+}

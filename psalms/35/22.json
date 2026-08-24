@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "Ти бачив, Яхве, не мовчи, Адонай, не віддаляйся від мене.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Ти бачив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "мовчи"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "не віддаляйся"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "від мене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:14:11.090097362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Вкрив ⟨Ти⟩ ⟨Себе⟩ хмарою, щоб не пройшла молитва.",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "вкрив Ти"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "хмарою"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨Собі⟩"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "щоб не пройшла"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "молитва"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:21.214998804Z",
+  "model": "glm-5.3"
+}

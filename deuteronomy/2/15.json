@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Також і рука Яхве була проти них, щоб уражати їх з-посеред табору, аж до їхнього кінцю.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Також і"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "була"
+    },
+    {
+      "surface": "בם",
+      "gloss": "проти них"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "щоб уражати"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "з-посеред"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "табору"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "їхнього кінцю"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:20.923240496Z",
+  "model": "glm-5.3"
+}

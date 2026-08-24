@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Тієї самої ночі був убитий Белшоццар, цар касдіїв.",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "Тієї"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "самої ночі"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "був убитий"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "Белшоццар"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "цар"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "касдіїв"
+    }
+  ],
+  "timestamp": "2026-08-24T01:00:08.946910190Z",
+  "model": "glm-5.3"
+}

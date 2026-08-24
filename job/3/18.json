@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Разом в'язні спокійні, не чують голосу наглядача.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "разом"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "в'язні"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "спокійні"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чують"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голосу"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "наглядача"
+    }
+  ],
+  "timestamp": "2026-08-24T00:39:30.950173444Z",
+  "model": "glm-5.3"
+}

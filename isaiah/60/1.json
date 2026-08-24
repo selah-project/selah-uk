@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 60,
+  "translation": "Уставай, світися, бо прийшло світло твоє, і слава Яхве над тобою зійшла.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Уставай"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "світися"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בא",
+      "gloss": "прийшло"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "світло твоє"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "і слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "над тобою"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "зійшла"
+    }
+  ],
+  "timestamp": "2026-08-23T23:20:50.253412826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 7:18",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Другого дня наблизив Нетанель, син Цуара, князь Їсаскара.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "השני",
+      "gloss": "другого"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "наблизив"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетанель"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Цуара"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князь"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Їсаскара"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:26.212298020Z",
+  "model": "glm-5.3"
+}

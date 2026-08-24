@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Ковшик одну десяти золота, повну кадила.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ковшик"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одну"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десяти"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золота"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "повну"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "кадила"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:26.212625321Z",
+  "model": "glm-5.3"
+}

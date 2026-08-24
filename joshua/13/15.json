@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 13:15",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І дав Моше коліну синів Реувена за їхніми родинами.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "І дав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "коліну"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувена"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "за їхніми родинами"
+    }
+  ],
+  "timestamp": "2026-08-23T22:14:30.594171089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І привів ⟨את⟩ когенів і ⟨את⟩ левітів, і зібрав їх на східному майдані.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "І привів"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "когенів"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "когенів"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "левітів"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левітів"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "і зібрав їх"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "на майдані"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "східному"
+    }
+  ],
+  "timestamp": "2026-08-24T01:30:52.558134967Z",
+  "model": "glm-5.3"
+}

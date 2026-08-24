@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 13:2",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Це земля, що лишилася: всі округи пеліштимців і всі ґешурці.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "що лишилася"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "округи"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "пеліштимців"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і всі"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "ґешурці"
+    }
+  ],
+  "timestamp": "2026-08-23T22:14:59.304964305Z",
+  "model": "glm-5.3"
+}

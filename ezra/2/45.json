@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezra 2:45",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Левани, сини Хаґави, сини Аккува.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Левани"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "Хаґави"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "Аккуба"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:35.863536039Z",
+  "model": "glm-5.3"
+}

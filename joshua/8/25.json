@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 8:25",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І сталося: усі, хто впав того дня, від мужа до жінки, — дванадцять тисяч, усі люди Гаю.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "хто впав"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "того дня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "того"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "від мужа"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жінки"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дванадцять"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "тисяч"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяч"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "люди"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Гаю"
+    }
+  ],
+  "timestamp": "2026-08-23T22:13:11.796329179Z",
+  "model": "glm-5.3"
+}

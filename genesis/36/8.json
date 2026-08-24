@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "І осів Есав на горі Сеїр; Есав — він ⟨є⟩ Едом.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "І осів"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на горі"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеїр"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    }
+  ],
+  "timestamp": "2026-08-23T21:20:03.618237315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 33:29",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І рушили вони з Мітки, і таборили в Хашмоні.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "ממתקה",
+      "gloss": "з Мітки"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і таборили"
+    },
+    {
+      "surface": "בחשמנה",
+      "gloss": "в Хашмоні"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:14.399296632Z",
+  "model": "glm-5.3"
+}

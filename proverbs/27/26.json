@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Ягнята ⟨будуть⟩ на одяг твій, а ціна поля — козли.",
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "ягнята"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "на одяг твій"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "а ціна"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "поля"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "козли"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:21.186641583Z",
+  "model": "glm-5.3"
+}

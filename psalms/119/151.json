@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Ти ⟨є⟩ близький, Яхве, і всі заповіді Твої — правда.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "близький"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і всі"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "заповіді Твої"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "правда"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:58.488843530Z",
+  "model": "glm-5.3"
+}

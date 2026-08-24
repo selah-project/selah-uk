@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 101,
+  "translation": "Давидів мізмор. Хесед і право заспіваю, Тобі, Яхве, заграю.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Давидів"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мізмор"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "і право"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "заспіваю"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Тобі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "заграю"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:41.280924743Z",
+  "model": "glm-5.3"
+}

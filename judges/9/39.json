@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "judges 9:39",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І вийшов Ґаал перед володарями Шхему, і воював з Авімелехом.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "І вийшов"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Ґаал"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "володарями"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шхему"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "і воював"
+    },
+    {
+      "surface": "באבימלך",
+      "gloss": "з Авімелехом"
+    }
+  ],
+  "timestamp": "2026-08-23T22:21:09.649208719Z",
+  "model": "glm-5.3"
+}

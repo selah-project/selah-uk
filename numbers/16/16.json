@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 16:16",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І сказав Моше до Кораха: ти і вся твоя громада станьте перед Яхве — ти, і вони, і Агарон, завтра.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кораха"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і вся"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "твоя громада"
+    },
+    {
+      "surface": "היו",
+      "gloss": "станьте"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "והם",
+      "gloss": "і вони"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "і Агарон"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "завтра"
+    }
+  ],
+  "timestamp": "2026-08-23T21:53:52.595761716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "І поселився Їцхак у Ґерарі.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "і поселився"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Їцхак"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "у Ґерарі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:50.685045574Z",
+  "model": "glm-5.3"
+}

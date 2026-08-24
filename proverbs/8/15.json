@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Мною царі царюють, і вельможні встановлюють правоту.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "мною"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "царі"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "царюють"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "і вельможні"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "встановлюють"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правоту"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:35.676663881Z",
+  "model": "glm-5.3"
+}

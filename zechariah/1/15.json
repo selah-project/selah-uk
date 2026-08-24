@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 1:15",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "А гнівом великим гніваюся я на народи спокійні, бо я коротко гнівався, а вони допомогли на лихо.",
+  "tokens": [
+    {
+      "surface": "וקצף",
+      "gloss": "А гнівом"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великим"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "гніваюся"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "спокійні"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "קצפתי",
+      "gloss": "гнівався"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "коротко"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "а вони"
+    },
+    {
+      "surface": "עזרו",
+      "gloss": "допомогли"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "на лихо"
+    }
+  ],
+  "timestamp": "2026-08-24T00:07:10.311926812Z",
+  "model": "glm-5.3"
+}

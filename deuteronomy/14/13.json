@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "і сипуху, і ⟨את⟩ соколицю, і коршуна за його видом",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "і сипуха"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "соколиця"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "соколиця"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "і коршун"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "за його видом"
+    }
+  ],
+  "timestamp": "2026-08-23T22:04:12.304332465Z",
+  "model": "glm-5.3"
+}

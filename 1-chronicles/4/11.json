@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "А Келув, брат Шухи, породив ⟨את⟩ Мехіра; він батько Ештона.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "А Келув"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Шухи"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мехіра"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Мехіра"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батько"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Ештона"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:45.144039346Z",
+  "model": "glm-5.3"
+}

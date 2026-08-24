@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І збудував він ⟨את⟩ Тадмор у пустелі, і ⟨את⟩ усі міста запасів, які збудував у Хаматі.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "І збудував"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Тадмор"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Тадмор"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "у пустелі"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "усі міста запасів"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "міста"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "запасів"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "збудував"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "у Хаматі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:24:15.241186954Z",
+  "model": "glm-5.3"
+}

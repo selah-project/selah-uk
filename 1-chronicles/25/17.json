@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 25:17",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Десятий — Шім'ї, його сини та його брати — дванадцять.",
+  "tokens": [
+    {
+      "surface": "העשירי",
+      "gloss": "десятий"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шім'ї"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "його сини"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "та його брати"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дванадцять ⟨два⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨-надцять⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:33.367190312Z",
+  "model": "glm-5.3"
+}

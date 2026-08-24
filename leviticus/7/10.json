@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 7:10",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І кожна мінха, змішана в олії, і суха — усім синам Агарона вона буде, кожен як брат його.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "і кожна"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "мінха"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "змішана"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "в олії"
+    },
+    {
+      "surface": "וחרבה",
+      "gloss": "і суха"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "усім"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синам"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарона"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кожен"
+    },
+    {
+      "surface": "כאחיו",
+      "gloss": "як брат його"
+    }
+  ],
+  "timestamp": "2026-08-23T21:39:11.331499524Z",
+  "model": "glm-5.3"
+}

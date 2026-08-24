@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Бо я вмираю в цій землі, я не переходжу ⟨את⟩ Йордан, а ви перейдете й успадкуєте ⟨את⟩ цю добру землю.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "מת",
+      "gloss": "вмираю"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землі"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цій"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "не"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "переходжу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йордан"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Йордан"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "а ви"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "перейдете"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "й успадкуєте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цю добру землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "добру"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цю"
+    }
+  ],
+  "timestamp": "2026-08-23T22:01:34.460481130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І ⟨את⟩ Євусея, і ⟨את⟩ Еморія, і ⟨את⟩ Гіргашея.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "І ⟨את⟩",
+      "marks": "Євусея"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Євусея"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Еморія"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Еморія"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Гіргашея"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Гіргашея"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:58.805551504Z",
+  "model": "glm-5.3"
+}

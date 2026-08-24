@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Тому скажи: ось я даю йому ⟨את⟩ заповіт мій — шалом.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Тому"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "скажи:"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ось я"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даю"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "заповіт мій"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "заповіт мій"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    }
+  ],
+  "timestamp": "2026-08-23T21:55:55.645889384Z",
+  "model": "glm-5.3"
+}

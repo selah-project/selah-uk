@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Горе тій, що бунтує й осквернена, місту ⟨that⟩ гнітить!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Горе"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "тій, що бунтує"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "й осквернена"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "місту"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "гнітить"
+    }
+  ],
+  "timestamp": "2026-08-24T00:05:36.791421601Z",
+  "model": "glm-5.3"
+}

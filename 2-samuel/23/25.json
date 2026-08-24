@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Шамма ⟨ה⟩а-Хороді, Еліка ⟨ה⟩а-Хороді,",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Шамма"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "ха-Хороді"
+    },
+    {
+      "surface": "אליקא",
+      "gloss": "Еліка"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "ха-Хороді"
+    }
+  ],
+  "timestamp": "2026-08-23T22:44:55.286390923Z",
+  "model": "glm-5.3"
+}

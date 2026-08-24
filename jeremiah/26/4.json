@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 26:4",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "І скажеш їм: так сказав Яхве: якщо не послухаєте мене, щоб ходити в моїй Торі, яку я дав перед вами —",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "і скажеш"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "послухаєте"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ходити"
+    },
+    {
+      "surface": "בתורתי",
+      "gloss": "в моїй Торі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дав"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "перед вами"
+    }
+  ],
+  "timestamp": "2026-08-23T23:31:08.812635008Z",
+  "model": "glm-5.3"
+}

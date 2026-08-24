@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 5:12",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Очі його — як голубки над потоками вод, що купаються в молоці, що сидять у повноті.",
+  "tokens": [
+    {
+      "surface": "עיניו",
+      "gloss": "очі його"
+    },
+    {
+      "surface": "כיונים",
+      "gloss": "як голубки"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "потоками"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вод"
+    },
+    {
+      "surface": "רחצות",
+      "gloss": "що купаються"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "в молоці"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "що сидять"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "повноті"
+    }
+  ],
+  "timestamp": "2026-08-24T00:49:25.925281990Z",
+  "model": "glm-5.3"
+}

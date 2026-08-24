@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 4:17",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "У рівнині Ярдену відлив їх цар — в глинистій землі, між Суккот і між Церedata.",
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "у рівнині"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярдену"
+    },
+    {
+      "surface": "יצקם",
+      "gloss": "відлив їх"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "בעבי",
+      "gloss": "в глинистій"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "землі"
+    },
+    {
+      "surface": "בין",
+      "gloss": "між"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Суккот"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "і між"
+    },
+    {
+      "surface": "צרדתה",
+      "gloss": "Церedata"
+    }
+  ],
+  "timestamp": "2026-08-24T01:22:41.134444364Z",
+  "model": "glm-5.3"
+}

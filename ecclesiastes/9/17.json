@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Слова мудрих у тиші чуються більше, ніж крик володаря серед безумців.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрих"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "у тиші"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "чуються"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "ніж крик"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "володаря"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "серед безумців"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:58.747770735Z",
+  "model": "glm-5.3"
+}

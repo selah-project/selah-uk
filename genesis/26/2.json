@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 26:2",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "І з'явився йому Яхве, і сказав: не сходи до Міцраїму; оселися в краю, про який скажу тобі.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "І з'явився"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "сходи"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "до Міцраїму"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "оселися"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у краї"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "скажу"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тобі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:52.481581477Z",
+  "model": "glm-5.3"
+}

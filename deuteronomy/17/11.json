@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 17:11",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "За Toroю, яку вкажуть тобі, і за судом, який скажуть тобі, зробиш; не відхилишся від слова, яке сповістять тобі, праворуч чи ліворуч.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "פי",
+      "gloss": "за"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Торою"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "вкажуть тобі"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і за"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "судом"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "скажуть"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "зробиш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "відхилишся"
+    },
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "сповістять"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "праворуч"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "чи ліворуч"
+    }
+  ],
+  "timestamp": "2026-08-23T22:05:42.700202250Z",
+  "model": "glm-5.3"
+}

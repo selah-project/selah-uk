@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І винищив Єгу ⟨את⟩ Баала з Ізраїля.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "І винищив"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Єгу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Баала"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Баала"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "з Ізраїля"
+    }
+  ],
+  "timestamp": "2026-08-23T22:58:21.479617703Z",
+  "model": "glm-5.3"
+}

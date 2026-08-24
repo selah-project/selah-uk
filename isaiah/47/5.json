@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 47:5",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 47,
+  "translation": "Сиди мовчки, і йди в темряву, дочко халдеїв, бо не додадуть кликати тебе «пані царств».",
+  "tokens": [
+    {
+      "surface": "שבי",
+      "gloss": "сиди"
+    },
+    {
+      "surface": "דומם",
+      "gloss": "мовчки"
+    },
+    {
+      "surface": "ובאי",
+      "gloss": "і йди"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "в темряву"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочко"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "халдеїв"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוסיפי",
+      "gloss": "додадуть"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "кликати"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "גברת",
+      "gloss": "пані"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "царств"
+    }
+  ],
+  "timestamp": "2026-08-23T23:16:18.404877262Z",
+  "model": "glm-5.3"
+}

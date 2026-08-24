@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "nehemiah 7:60",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Усі нтінім і сини слуг Шеломо — ⟨три⟩ сотні девʼяносто і дві ⟨людини⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "нтінім"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "і сини"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слуг"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотні"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "девʼяносто"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "і дві"
+    }
+  ],
+  "timestamp": "2026-08-24T01:09:45.245166340Z",
+  "model": "glm-5.3"
+}

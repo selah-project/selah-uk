@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Я — мого коханого, а мій коханий — мій; той, що пасе серед лілій.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "— мого коханого"
+    },
+    {
+      "surface": "ודодי",
+      "gloss": "а мій коханий"
+    },
+    {
+      "surface": "לי",
+      "gloss": "— мій"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "той, що пасе"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "серед лілій"
+    }
+  ],
+  "timestamp": "2026-08-24T00:49:43.787674007Z",
+  "model": "glm-5.3"
+}

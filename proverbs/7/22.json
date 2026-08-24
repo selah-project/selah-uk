@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 7:22",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Іде за нею раптово, як віл іде на заріз, і як кайдани — на кару глупця.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "іде"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "за нею"
+    },
+    {
+      "surface": "фתאם",
+      "gloss": "раптово"
+    },
+    {
+      "surface": "כשור",
+      "gloss": "як віл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "заріз"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "іде"
+    },
+    {
+      "surface": "וכעכס",
+      "gloss": "і як кайдани"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "кару"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "глупця"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:22.893162629Z",
+  "model": "glm-5.3"
+}

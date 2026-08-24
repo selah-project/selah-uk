@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "і Я напишу на таблицях ⟨את⟩ слова, що були на перших таблицях, які ти розбив, і покладеш їх у ковчег.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "і Я напишу"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "таблицях"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слова"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "היו",
+      "gloss": "були"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "таблицях"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "першах"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яких"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ти розбив"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "і покладеш їх"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "у ковчег"
+    }
+  ],
+  "timestamp": "2026-08-23T22:03:28.542709440Z",
+  "model": "glm-5.3"
+}

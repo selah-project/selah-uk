@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Кожен, хто лежить зі скотиною, — смертю буде вбитий.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "кожен"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "хто лежить"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "скотиною"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смертю"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "буде вбитий"
+    }
+  ],
+  "timestamp": "2026-08-23T21:31:10.603545743Z",
+  "model": "glm-5.3"
+}

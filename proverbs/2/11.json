@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Обачність буде берегти тебе, розумність охороняти тебе.",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "обачність"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "буде берегти"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "розумність"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "охороняти тебе"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:33.246075016Z",
+  "model": "glm-5.3"
+}

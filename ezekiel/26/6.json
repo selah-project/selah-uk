@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 26:6",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "І дочки її, що в полі, мечем будуть вбиті, і пізнають, що Я — Яхве.",
+  "tokens": [
+    {
+      "surface": "ובנותיה",
+      "gloss": "і дочки її"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "в полі"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "мечем"
+    },
+    {
+      "surface": "תהרגנה",
+      "gloss": "будуть вбиті"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "і пізнають"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:49:09.940995431Z",
+  "model": "glm-5.3"
+}

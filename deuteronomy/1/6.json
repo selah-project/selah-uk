@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Яхве, Елогім наш, говорив до нас у Хореві, кажучи: досить вам сидіти на цій горі —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елогім наш"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорив"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "до нас"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "у Хореві"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "רב",
+      "gloss": "досить"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "сидіти"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на горі"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цій"
+    }
+  ],
+  "timestamp": "2026-08-23T22:01:05.876685289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Бо Яхве дає мудрість; з Його уст — пізнання і розуміння.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дає"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрість"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "з Його уст"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "пізнання"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "і розуміння"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:53.358886606Z",
+  "model": "glm-5.3"
+}

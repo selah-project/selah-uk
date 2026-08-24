@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Довгота днів у правиці її, а в лівиці її — багатство і слава.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "довгота"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "у правиці її"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "в лівиці її"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "багатство"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "і слава"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:15.593365427Z",
+  "model": "glm-5.3"
+}

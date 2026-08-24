@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 7:19",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І води перемогли дуже-дуже на землі, і покрилися всі високі гори, що під усім небом.",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "І води"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "перемогли"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "дуже"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "дуже"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "і покрилися"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "гори"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "високі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усім"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небом"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:16.839104110Z",
+  "model": "glm-5.3"
+}

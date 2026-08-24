@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 29:14",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "Бо хто я і хто народ мій, що ⟨ми⟩ утримали силу так добровільно давати? Бо від Тебе ⟨є⟩ все, і з руки Твоєї дали ми Тобі.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "і хто"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народ мій"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "נעצר",
+      "gloss": "утримали"
+    },
+    {
+      "surface": "כח",
+      "gloss": "силу"
+    },
+    {
+      "surface": "להתנדב",
+      "gloss": "давати добровільно"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "так"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "від Тебе"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "все"
+    },
+    {
+      "surface": "ומידך",
+      "gloss": "і з руки Твоєї"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "дали ми"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Тобі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:22:28.371024560Z",
+  "model": "glm-5.3"
+}

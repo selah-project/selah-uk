@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 33:15",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І вирушили з Рефідім, і стали табором у пустелі Сінай.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І вирушили"
+    },
+    {
+      "surface": "מרפידם",
+      "gloss": "з Рефідім"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і стали табором"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "у пустелі"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Сінай"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:00.044411949Z",
+  "model": "glm-5.3"
+}

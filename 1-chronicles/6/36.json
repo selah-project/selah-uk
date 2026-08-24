@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Буккі, син його, Уззі, син його, Зерах'я, син його.",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "Буккі"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Уззі"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Зерах'я"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:39.637472208Z",
+  "model": "glm-5.3"
+}

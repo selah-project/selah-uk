@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "А син Шломо — Рехавам; Авія, син ⟨його⟩; Аса, син ⟨його⟩; Єгошафат, син ⟨його⟩.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "А син"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рехавам"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авія"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син ⟨його⟩"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син ⟨його⟩"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Єгошафат"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син ⟨його⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:17.759505273Z",
+  "model": "glm-5.3"
+}

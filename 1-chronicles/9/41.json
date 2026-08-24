@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І сини Міхи: Пітон, і Мелех, і Тахреа.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "і сини"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Міхи"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "Пітон"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "і Мелех"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "і Тахреа"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:33.439498665Z",
+  "model": "glm-5.3"
+}

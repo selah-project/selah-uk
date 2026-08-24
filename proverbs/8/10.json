@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Беріть мою настанову, а не срібло, і знання — понад вибране золото.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "беріть"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "мою настанову"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "а не"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "срібло"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "і знання"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "понад золото"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "вибране"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:44.300973243Z",
+  "model": "glm-5.3"
+}

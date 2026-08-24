@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 21:20",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "або горбата, або пересохла, або з плямою в оці, або паршива, або лишайна, або з роздавленими яєцьками.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "גבן",
+      "gloss": "горбата"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "דק",
+      "gloss": "пересохла"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "תבלל",
+      "gloss": "з плямою"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "в оці"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "паршива"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "ילפת",
+      "gloss": "лишайна"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "з роздавленими"
+    },
+    {
+      "surface": "אשך",
+      "gloss": "яєцьками"
+    }
+  ],
+  "timestamp": "2026-08-23T21:44:25.519309474Z",
+  "model": "glm-5.3"
+}

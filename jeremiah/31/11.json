@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Бо викупив Яхве ⟨את⟩ Яакова, і визволив його з руки сильнішого за нього.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "викупив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яакова"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "і визволив його"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "з руки"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "сильнішого"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "за нього"
+    }
+  ],
+  "timestamp": "2026-08-23T23:31:39.003060697Z",
+  "model": "glm-5.3"
+}

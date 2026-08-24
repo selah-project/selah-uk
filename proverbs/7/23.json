@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 7:23",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Аж поки стріла не проб'є печінку його, як птах поспішає до сильця, і не знає, що ⟨це⟩ за життя його.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "аж поки"
+    },
+    {
+      "surface": "יפלח",
+      "gloss": "проб'є"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "стріла"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "печінку його"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "як поспішає"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "птах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פח",
+      "gloss": "сильця"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знає"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "за життя його"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨це⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:22.893316519Z",
+  "model": "glm-5.3"
+}

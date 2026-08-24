@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 7:14",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "«Жертви мирні ⟨є⟩ в мене; сьогодні я сповнила обіти свої.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "Жертви"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "мирні"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "в мене"
+    },
+    {
+      "surface": "היום",
+      "gloss": "сьогодні"
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "я сповнила"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "обіти свої"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:31.281120178Z",
+  "model": "glm-5.3"
+}

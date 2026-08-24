@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "і все плазуюче-роїне з птаства — нечисте воно для вас, не буде їдене",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "і все"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "плазуюче-роїне"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "з птаства"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечисте"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "воно"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для вас"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "буде їдене"
+    }
+  ],
+  "timestamp": "2026-08-23T22:04:13.274331187Z",
+  "model": "glm-5.3"
+}

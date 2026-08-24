@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Син мудрий — настанова батька, а кепкувач не слухає докору.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрий"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "настанова"
+    },
+    {
+      "surface": "אב",
+      "gloss": "батька"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "а кепкувач"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слухає"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "докору"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:54.724199846Z",
+  "model": "glm-5.3"
+}

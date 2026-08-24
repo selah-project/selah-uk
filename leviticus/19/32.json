@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Перед сивиною стань і шануй обличчя старця, і бійтеся Елогім твого; Я — Яхве.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "сивиною"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "стань"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "і шануй"
+    },
+    {
+      "surface": "פני",
+      "gloss": "обличчя"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "старця"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "і бійтеся"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Елогім твого"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:44:49.841701860Z",
+  "model": "glm-5.3"
+}

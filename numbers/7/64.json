@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "один косматий козел на жертву за гріх.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "косматий козел"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "козлів"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "на жертву за гріх"
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:21.003605314Z",
+  "model": "glm-5.3"
+}

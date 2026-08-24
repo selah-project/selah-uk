@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 1:9",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "А сини Куша: Сева, і Хавіла, і Савта, і Раама, і Савтеха; а сини Раами: Шева і Дедан.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "а сини"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куша"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "Сева"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "і Хавіла"
+    },
+    {
+      "surface": "וסבתא",
+      "gloss": "і Савта"
+    },
+    {
+      "surface": "ורעמא",
+      "gloss": "і Раама"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "і Савтеха"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "а сини"
+    },
+    {
+      "surface": "רעמא",
+      "gloss": "Раами"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "і Дедан"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:33.780050919Z",
+  "model": "glm-5.3"
+}

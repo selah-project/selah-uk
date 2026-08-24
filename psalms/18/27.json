@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "З чистим чисто чиниходиш ⟨ти⟩, а з кривим чиниш звивисто.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "чистим"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "чисто чиниходиш"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "а з"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "кривим"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "чиниш звивисто"
+    }
+  ],
+  "timestamp": "2026-08-24T00:11:45.070058500Z",
+  "model": "glm-5.3"
+}

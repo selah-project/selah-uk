@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "Поспіши на поміч мені, Адонай, спасіння моє!",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "Поспіши"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "на поміч мені"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "спасіння моє"
+    }
+  ],
+  "timestamp": "2026-08-24T00:15:10.905843740Z",
+  "model": "glm-5.3"
+}

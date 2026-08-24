@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "А срібло перелічених громади — сто талантів, і тисяча, і сімсот, і п'ятдесят five... ",
+  "tokens": [],
+  "timestamp": "2026-08-23T21:37:27.481812727Z",
+  "model": "glm-5.3"
+}

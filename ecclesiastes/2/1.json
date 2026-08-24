@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сказав я у серці своєму: ходімо-но, випробую тебе радістю, і побачиш у добрі; і ось — навіть це ≪є⟩ марнота.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Сказав я"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "у серці моєму"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "хід-но"
+    },
+    {
+      "surface": "נא",
+      "gloss": "-но"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "випробую"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "радістю"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "і побачиш"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "у добрі"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "і ось"
+    },
+    {
+      "surface": "גם",
+      "gloss": "навіть"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "воно"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "марнота"
+    }
+  ],
+  "timestamp": "2026-08-24T01:56:02.206286867Z",
+  "model": "glm-5.3"
+}

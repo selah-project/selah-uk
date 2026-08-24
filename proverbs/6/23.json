@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Бо заповідь — світильник, і Тора — світло, і дорога життя — докори виховання.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "נר",
+      "gloss": "світильник"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "заповідь"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "і Тора"
+    },
+    {
+      "surface": "אור",
+      "gloss": "світло"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "і дорога"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "життя"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "докори"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "виховання"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:34.308605146Z",
+  "model": "glm-5.3"
+}

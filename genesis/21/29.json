@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 21:29",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І сказав Авімелех Аврагамові: що ⟨це⟩ — сім овець цих, які ти поставив окремо?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авімелех"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагама"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "це"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "сім"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "овець"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "цих"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "ти поставив"
+    },
+    {
+      "surface": "לבדנה",
+      "gloss": "окремо"
+    }
+  ],
+  "timestamp": "2026-08-23T21:13:45.324262766Z",
+  "model": "glm-5.3"
+}

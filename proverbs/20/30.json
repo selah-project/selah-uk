@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 20:30",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Синці рани вичищають зло, і удари — ⟨глибини⟩ нутра.",
+  "tokens": [
+    {
+      "surface": "חברות",
+      "gloss": "синці"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "рани"
+    },
+    {
+      "surface": "תמריק",
+      "gloss": "вичищають"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ומכות",
+      "gloss": "і удари"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "⟨глибини⟩"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "нутра"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:31.541855868Z",
+  "model": "glm-5.3"
+}

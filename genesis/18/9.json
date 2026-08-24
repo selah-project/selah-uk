@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І сказали до нього: де Сара, дружина твоя? І він сказав: ось, у шатрі.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "І сказали"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "до нього"
+    },
+    {
+      "surface": "איה",
+      "gloss": "де"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "дружина твоя"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "у шатрі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:12:29.796705324Z",
+  "model": "glm-5.3"
+}

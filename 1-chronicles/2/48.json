@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Наложниця Калева Мааха породила ⟨את⟩ Шевера і ⟨את⟩ Тірхану.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "Наложниця"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калева"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "породила"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "Шевера"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Тірхану"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "Тірхану"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:54.151959432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 78:61",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 78,
+  "translation": "І віддав на полон ⟨את⟩ силу свою, і красу свою — у руку ворога.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "І віддав"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "на полон"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "силу свою"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "і красу свою"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "у руку"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ворога"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:26.274979043Z",
+  "model": "glm-5.3"
+}

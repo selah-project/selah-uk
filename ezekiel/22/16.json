@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 22:16",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "І осквернена будеш ти перед очима народів, і пізнаєш, що Я — Яхве.",
+  "tokens": [
+    {
+      "surface": "ונחלת",
+      "gloss": "і осквернена будеш"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "перед очима"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народів"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "і пізнаєш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:47:41.459800075Z",
+  "model": "glm-5.3"
+}

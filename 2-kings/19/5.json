@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І прийшли слуги царя Хізкіягу до Їшайагу.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "І прийшли"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слуги"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хізкіягу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Їшайагу"
+    }
+  ],
+  "timestamp": "2026-08-23T23:01:16.627531278Z",
+  "model": "glm-5.3"
+}

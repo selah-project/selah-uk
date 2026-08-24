@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Бо що має мудрий більше за глупця? Що має бідний, що вміє ходити перед живими?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "має більше"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "мудрий"
+    },
+    {
+      "surface": "מן",
+      "gloss": "за"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "глупця"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "має бідний"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "що вміє"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "ходити"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "перед"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живими"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:13.395737347Z",
+  "model": "glm-5.3"
+}

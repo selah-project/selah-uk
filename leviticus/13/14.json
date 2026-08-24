@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "А в день, коли з'явиться в ньому живе тіло, — нечистий він.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "а в день"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "коли з'явиться"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в ньому"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тіло"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живе"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "нечистий він"
+    }
+  ],
+  "timestamp": "2026-08-23T21:42:11.554287158Z",
+  "model": "glm-5.3"
+}

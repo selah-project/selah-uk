@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І прийшов Моше, і промовив ⟨את⟩ усі слова цієї пісні у вуха народу, він і Гошеа, син Нуна.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "і прийшов"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "і промовив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усі слова цієї пісні"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "пісні"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цієї"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "у вуха"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "і Гошеа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нуна"
+    }
+  ],
+  "timestamp": "2026-08-24T01:39:28.568475972Z",
+  "model": "glm-5.3"
+}

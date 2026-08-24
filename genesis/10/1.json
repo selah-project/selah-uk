@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І оце потомки синів Ноаха: Шем, Хам і Яфет; і народилися їм сини після ⟨את⟩ потопу.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "І оце"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "потомки"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноаха"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хам"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "і Яфет"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "і народилися"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сини"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "після"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "потопу"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:32.934429515Z",
+  "model": "glm-5.3"
+}

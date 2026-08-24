@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І відпустив Єгóшуа ⟨את⟩ народ, кожного до спадку його.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "І відпустив"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Єгóшуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кожного"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "до спадку його"
+    }
+  ],
+  "timestamp": "2026-08-23T22:17:46.869544304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І герольд кличе з силою: вам говориться, народи, племена й мови:",
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "І герольд"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "кличе"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "з силою"
+    },
+    {
+      "surface": "لכון",
+      "gloss": "вам"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "говориться"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "народи"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "племена"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "й мови"
+    }
+  ],
+  "timestamp": "2026-08-24T00:59:23.074014540Z",
+  "model": "glm-5.3"
+}

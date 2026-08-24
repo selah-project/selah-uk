@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І ждав він іще сім днів інших, і додав послати ⟨את⟩ голубку з ковчега.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "і ждав"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "іще"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "сім"
+    },
+    {
+      "surface": "ямим",
+      "gloss": "днів"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "інших"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "і додав"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "послати"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "голубку"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "голубку"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчега"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:49.224308699Z",
+  "model": "glm-5.3"
+}

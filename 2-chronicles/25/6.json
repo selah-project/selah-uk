@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І найняв він з Ізраеля сто тисяч вітязів відваги за сто каррів срібла.",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "І найняв"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "з Ізраеля"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяч"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "вітязів"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "відваги"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "за сто"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "каррів"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "срібла"
+    }
+  ],
+  "timestamp": "2026-08-24T01:30:18.016403303Z",
+  "model": "glm-5.3"
+}

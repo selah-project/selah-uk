@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Зі смертю людини-нечестивця гине надія, і сподівання сили́ згинула.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "зі смертю"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людини"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "нечестивця"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "гине"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "надія"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "і сподівання"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "сили"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "згинула"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:26.157550125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Добрий Яхве тому, хто чекає ⟨на⟩ нього, до душі, що шукає його.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Добрий"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "тому, хто чекає ⟨на⟩ нього"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "до душі"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "що шукає його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:48.152085057Z",
+  "model": "glm-5.3"
+}

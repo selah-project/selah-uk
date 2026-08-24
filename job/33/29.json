@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 33:29",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "Ось, усе це чинить Ель, двічі — тричі з людиною,",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ось"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "чинить"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "двічі"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "тричі"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "людиною"
+    }
+  ],
+  "timestamp": "2026-08-24T00:46:46.099274865Z",
+  "model": "glm-5.3"
+}

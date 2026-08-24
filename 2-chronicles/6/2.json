@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "А я збудував ⟨Тобі⟩ дім оселі й ⟨Тобі⟩ місце для Твого перебування навіки.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А я"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "збудував"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "оселі"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Тобі"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "і місце"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "для Твого перебування"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "навіки"
+    }
+  ],
+  "timestamp": "2026-08-24T01:23:31.653638028Z",
+  "model": "glm-5.3"
+}

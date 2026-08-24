@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І сталося, що боялися повитухи ⟨את⟩ Елогім, і вчинив Він їм доми.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "боялися"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "повитухи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елогім"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "і вчинив"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "доми"
+    }
+  ],
+  "timestamp": "2026-08-23T21:24:32.328436477Z",
+  "model": "glm-5.3"
+}

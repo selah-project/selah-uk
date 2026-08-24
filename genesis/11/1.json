@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І сталося: вся земля ⟨була⟩ однією мовою, і слова в них були одні.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "мова"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "однією"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "і слова"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "одні"
+    }
+  ],
+  "timestamp": "2026-08-23T21:11:23.698867063Z",
+  "model": "glm-5.3"
+}

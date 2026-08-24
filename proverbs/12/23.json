@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 12:23",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Обачна людина приховує знання, а серце безглуздих кличе безумство.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "людина"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "обачна"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "приховує"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знання"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "а серце"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "безглуздих"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "кличе"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "безумство"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:54.321125872Z",
+  "model": "glm-5.3"
+}

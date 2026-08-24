@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Не бійся обличь їхніх, бо ⟨את⟩ тобою Я — рятувати тебе, — промовляє Яхве.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бійся"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "обличь їхніх"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ тобою"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "рятувати тебе"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "промовляє"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:22:11.550529313Z",
+  "model": "glm-5.3"
+}

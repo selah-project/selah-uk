@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 34:4",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "Тільки послухай слово Яхве, Цідкіягу, царю Єгуди: так сказав Яхве про тебе: не вмреш ти від меча.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Тільки"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послухай"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цідкіягу"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "про тебе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "вмреш"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "від меча"
+    }
+  ],
+  "timestamp": "2026-08-23T23:34:10.432445376Z",
+  "model": "glm-5.3"
+}

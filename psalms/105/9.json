@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 105,
+  "translation": "яку Він.cut-off ⟨את⟩ Аврагама, і Свою клятву Їцхаку;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "уклав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврагама"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагама"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "і Свою клятву"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "Їцхаку"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:50.134751553Z",
+  "model": "glm-5.3"
+}

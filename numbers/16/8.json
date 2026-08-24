@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І сказав Моше до Кораха: Послухайте ж, сини Леві!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кораха"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Послухайте"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ж"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леві"
+    }
+  ],
+  "timestamp": "2026-08-23T21:53:30.763170042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 41:53",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 41,
+  "translation": "І скінчилися сім років достатку, які були в землі Міцрайим.",
+  "tokens": [
+    {
+      "surface": "ותכלינה",
+      "gloss": "І-скінчилися"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "сім"
+    },
+    {
+      "surface": "שני",
+      "gloss": "роки"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "достатку"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "היה",
+      "gloss": "були"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в-землі"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцрайим"
+    }
+  ],
+  "timestamp": "2026-08-23T21:22:15.191112490Z",
+  "model": "glm-5.3"
+}

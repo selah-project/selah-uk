@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 16:4",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І не буде видно в тебе закваски в усій твоїй межі сім днів; і не заночує з ⟨the⟩ м'яса, яке заріжеш увечері в перший день, до ранку.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "І не"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "буде видно"
+    },
+    {
+      "surface": "לך",
+      "gloss": "в тобі"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "закваски"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "в усій"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "твоїй межі"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "сім"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "заночує"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "⟨the⟩ м'яса"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "заріжеш"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "увечері"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "перший"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "до ранку"
+    }
+  ],
+  "timestamp": "2026-08-23T22:04:46.980696136Z",
+  "model": "glm-5.3"
+}

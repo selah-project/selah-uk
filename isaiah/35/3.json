@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "Підкріпіть ослаблені руки, і коліна хитні зміцніть!",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Підкріпіть"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "руки"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "ослаблені"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "і коліна"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "хитні"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "зміцніть"
+    }
+  ],
+  "timestamp": "2026-08-23T23:13:04.302774336Z",
+  "model": "glm-5.3"
+}

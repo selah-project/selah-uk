@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 44,
+  "translation": "А тепер слухай, Яакове, рабе мій, і Ізраїлю, якого я обрав.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а тепер"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слухай"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакове"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "рабе мій"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "і Ізраїлю"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "обрав я"
+    },
+    {
+      "surface": "בו",
+      "gloss": "його"
+    }
+  ],
+  "timestamp": "2026-08-23T23:15:44.905890313Z",
+  "model": "glm-5.3"
+}

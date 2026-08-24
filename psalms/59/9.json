@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 59,
+  "translation": "А Ти, Яхве, смієшся з них, глузуєш з усіх народів.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А Ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "смієшся"
+    },
+    {
+      "surface": "למו",
+      "gloss": "з них"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "глузуєш"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "з усіх"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народів"
+    }
+  ],
+  "timestamp": "2026-08-24T00:18:05.349936387Z",
+  "model": "glm-5.3"
+}

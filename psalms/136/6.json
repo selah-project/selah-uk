@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 136,
+  "translation": "Тому, хто розпросторив ⟨the⟩ землю над ⟨the⟩ водами, бо навіки триває Його хесед.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "Тому, хто розпросторив"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "המים",
+      "gloss": "водами"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Його хесед"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:56.530500642Z",
+  "model": "glm-5.3"
+}

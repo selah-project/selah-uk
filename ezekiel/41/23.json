@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 41,
+  "translation": "І двоє дверей для храму і для святині.",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "і двоє"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "дверей"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "для храму"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "і для святині"
+    }
+  ],
+  "timestamp": "2026-08-23T23:53:18.588799407Z",
+  "model": "glm-5.3"
+}

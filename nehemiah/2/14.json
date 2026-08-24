@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 2:14",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І перейшов я до брами джерела, і до басейну царя, і не було місця звірі піді мною пройти.",
+  "tokens": [
+    {
+      "surface": "ואעבר",
+      "gloss": "і перейшов я"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "שער",
+      "gloss": "брами"
+    },
+    {
+      "surface": "העין",
+      "gloss": "джерела"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і до"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "басейну"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "і не було"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "місця"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "звірі"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "пройти"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "піді мною"
+    }
+  ],
+  "timestamp": "2026-08-24T01:08:48.659569685Z",
+  "model": "glm-5.3"
+}

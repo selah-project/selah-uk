@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 118,
+  "translation": "Сила моя і пісня — Ях, і ⟨він⟩ став мені спасінням.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "сила моя"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "і пісня"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і став"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "спасінням"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:09.161031850Z",
+  "model": "glm-5.3"
+}

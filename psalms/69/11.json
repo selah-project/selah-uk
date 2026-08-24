@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 69,
+  "translation": "І я плакав у пості душі моєї, і ⟨це⟩ стало на ганьбу мені.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "І я плакав"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "у пості"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душі моєї"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "і стало"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "на ганьбу"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    }
+  ],
+  "timestamp": "2026-08-24T00:19:46.725422462Z",
+  "model": "glm-5.3"
+}

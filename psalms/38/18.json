@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "Бо я ⟨готовий⟩ до спотикання, і біль мій передо мою завжди.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "до спотикання"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "⟨готовий⟩"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "і біль мій"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "передо мною"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "завжди"
+    }
+  ],
+  "timestamp": "2026-08-24T00:14:58.054090543Z",
+  "model": "glm-5.3"
+}

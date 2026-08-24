@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 118:29",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 118,
+  "translation": "Славте Яхве, бо добрий ⟨він⟩, бо навіки хесед Його.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Славте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добрий"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед Його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:49.293836228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 25:2",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Промовляй до синів Ісраеля і скажеш їм: коли прийдете до землі, яку Я даю вам, і спочине земля — шабат для Яхве.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Промовляй"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраеля"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "і скажеш"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "прийдете"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даю"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "і спочине"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "шабат"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "для Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:46:14.572014801Z",
+  "model": "glm-5.3"
+}

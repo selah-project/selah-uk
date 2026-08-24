@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 3:18",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Дерево життя ⟨вона⟩ — для тих, хто тримається її, і хто підтримує її — щасливий.",
+  "tokens": [
+    {
+      "surface": "עץ",
+      "gloss": "дерево"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "життя"
+    },
+    {
+      "surface": "היא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "למחזיקים",
+      "gloss": "для тих, хто тримається"
+    },
+    {
+      "surface": "בה",
+      "gloss": "її"
+    },
+    {
+      "surface": "ותמכיה",
+      "gloss": "і хто підтримує її"
+    },
+    {
+      "surface": "мAffected",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:51.176545669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 20:16",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "тільки з міст цих народів, які Яхве, Елогім твій, дає тобі в спадок, не лишай живим нікого, хто дихає",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "тільки"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "з міст"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "цих народів"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "цих"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елогім твій"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дає"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "в спадок"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "лишай живим"
+    },
+    {
+      "surface": "כל",
+      "gloss": "нікого"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "хто дихає"
+    }
+  ],
+  "timestamp": "2026-08-23T22:05:55.050670942Z",
+  "model": "glm-5.3"
+}

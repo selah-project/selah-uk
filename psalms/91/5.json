@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 91,
+  "translation": "Не будеш боятися страху нічного, стріли, що літає вдень.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "будеш боятися"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "страху"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "нічного"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "стріли"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "що літає"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "вдень"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:30.547160046Z",
+  "model": "glm-5.3"
+}

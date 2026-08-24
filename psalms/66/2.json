@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 66,
+  "translation": "Співайте ⟨з honor⟩ славу Ймення Його, віддайте славу хвалі Його!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Співайте"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славу"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Ймення Його"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "віддайте"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славу"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "хвалі Його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:18:46.991208394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І зробив Балак, як сказав Білам, і звів бика й овена ⟨на⟩ жертовник.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "І зробив"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Білам"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "і звів"
+    },
+    {
+      "surface": "פר",
+      "gloss": "бика"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "й овена"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "на жертовник"
+    }
+  ],
+  "timestamp": "2026-08-23T21:55:16.050580719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "Голос Яхве в коахі, голос Яхве в гадар.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Голос"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "в коахі"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "в гадар"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:28.458919248Z",
+  "model": "glm-5.3"
+}

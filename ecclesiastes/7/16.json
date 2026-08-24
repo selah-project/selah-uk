@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Не будь надто праведний і не показуй себе надто мудрим — навіщо ти спустошуватимеш себе?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "будь"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведний"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "надто"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "показуй себе мудрим"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "надто"
+    },
+    {
+      "surface": "למה",
+      "gloss": "навіщо"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "спустошуватимеш себе"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:28.273512993Z",
+  "model": "glm-5.3"
+}

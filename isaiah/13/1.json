@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Пророче́ння про Бавель, яке бачив Єшаягу, син Амоца.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "пророче́ння"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бавель"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "бачив"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Єшаягу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Амоца"
+    }
+  ],
+  "timestamp": "2026-08-23T23:08:06.953671077Z",
+  "model": "glm-5.3"
+}

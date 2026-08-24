@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Уста мудрих розсіюють знання, а серце глупих — не так.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "Уста"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрих"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "розсіюють"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знання"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "а серце"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "глупих"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:36.784179252Z",
+  "model": "glm-5.3"
+}

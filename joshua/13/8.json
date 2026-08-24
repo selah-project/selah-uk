@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 13:8",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "З ⟨ним⟩ Рубеніти й Ґадити взяли свій наділ, який дав їм Моше за Йорданом на схід, як дав їм Моше, раб Яхве.",
+  "tokens": [
+    {
+      "surface": "עמו",
+      "gloss": "з ним"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "Рубеніти"
+    },
+    {
+      "surface": "והגדי",
+      "gloss": "й Ґадити"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "взяли"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "свій наділ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "який"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дав"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "за"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Йорданом"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "на схід"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дав"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "раб"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:40:15.650452923Z",
+  "model": "glm-5.3"
+}

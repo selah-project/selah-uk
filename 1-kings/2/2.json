@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Я йду шляхом усієї ⟨the⟩ землі; зміцнійся ж і будь мужем.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Я"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "йду"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "шляхом"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усієї"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "зміцнійся ж"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "і будь"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "мужем"
+    }
+  ],
+  "timestamp": "2026-08-23T22:47:13.775832606Z",
+  "model": "glm-5.3"
+}

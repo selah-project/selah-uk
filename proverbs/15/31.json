@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Вухо, що слухає докору життя, перебуває серед мудрих.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "Вухо"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "що слухає"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "докору"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "життя"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "серед"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрих"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "перебуває"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:48.581563976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І сказав Яхве до риби, і викинула вона ⟨את⟩ Йону на сушу.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "до риби"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "і викинула"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йону"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йону"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "сушу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:02:34.852081984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Ті, що їли ⟨את⟩ делікатеси, спустошені на вулицях; виховані на червилі обійняли ⟨את⟩ смітники.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "Ті-що-їли"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "делікатеси"
+    },
+    {
+      "surface": "נשмו",
+      "gloss": "спустошені",
+      "note": "fix surface to נשמו"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "спустошені"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "на-вулицях"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "виховані"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "червилі"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "обійняли"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "смітники"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:45.016370151Z",
+  "model": "glm-5.3"
+}

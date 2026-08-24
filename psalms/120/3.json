@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 120,
+  "translation": "Що дасть тобі, і що додасть тобі, язику лукавий?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Що"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дасть"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "і що"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "додасть"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "язику"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "лукавий"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:24.972892404Z",
+  "model": "glm-5.3"
+}

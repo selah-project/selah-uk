@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Для племені Нафталі — Нахбі, син Вофсі.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "для племені"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафталі"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "Нахбі"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "Вофсі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:38:13.948407576Z",
+  "model": "glm-5.3"
+}

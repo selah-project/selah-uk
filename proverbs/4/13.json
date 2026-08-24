@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 4:13",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Міцно тримайся настави, не послаблюй її, бережи її, бо вона — твоє життя.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "міцно тримайся"
+    },
+    {
+      "surface": "במוסר",
+      "gloss": "настави"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "посаблюй"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "бережи її"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "היא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "твоє життя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:48.957247392Z",
+  "model": "glm-5.3"
+}

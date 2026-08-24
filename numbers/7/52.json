@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "один козел з кіз за гріх.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "козел"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "з кіз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за гріх"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:39.906250724Z",
+  "model": "glm-5.3"
+}

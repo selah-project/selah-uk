@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 5:8",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Тому так сказав Адонай Яхве: ось Я — на тебе, Я сам, і вчиню посеред тебе суди на очах народів.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Тому"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ось Я"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "і вчиню"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "посеред тебе"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "суди"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "на очах"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народів"
+    }
+  ],
+  "timestamp": "2026-08-23T23:42:07.365882098Z",
+  "model": "glm-5.3"
+}

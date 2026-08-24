@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 10:7",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "А сини Куша: Сева, і Хавіла, і Савта, і Раама, і Савтеха; а сини Раами: Шева і Дедан.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А сини"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куша"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "Сева"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "і Хавіла"
+    },
+    {
+      "surface": "וסבתה",
+      "gloss": "і Савта"
+    },
+    {
+      "surface": "ורעמה",
+      "gloss": "і Раама"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "і Савтеха"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "а сини"
+    },
+    {
+      "surface": "רעמה",
+      "gloss": "Раами"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "і Дедан"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:06.732479737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Не заздрь людям злочинним, і не бажай бути ⟨את⟩ ними.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "заздрь"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "людям"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "злочинним"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "бажай"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "бути"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ними"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:44.045643875Z",
+  "model": "glm-5.3"
+}

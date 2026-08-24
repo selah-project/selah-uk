@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 131,
+  "translation": "Нехай чекає Ізраїль на Яхве віднині і повіки.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Нехай чекає"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїль"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "віднині"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "і"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "повіки"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:18.292045022Z",
+  "model": "glm-5.3"
+}

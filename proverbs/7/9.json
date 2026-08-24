@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "У присмерку, у вечір дня, в найтемнішій частині ночі й темряви.",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "у присмерку"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "у вечір"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "в найтемнішій частині"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ночі"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "й темряви"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:32.041009252Z",
+  "model": "glm-5.3"
+}

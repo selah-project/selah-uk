@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Шість ⟨є⟩ таких, що ненавидить Яхве, і сім — мерзот для душі Його.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Шість"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨є⟩ таких"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ненавидить"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "і сім"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "мерзот"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "для душі Його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:28.641292051Z",
+  "model": "glm-5.3"
+}

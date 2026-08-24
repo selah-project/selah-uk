@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Викупи, Елогім, ⟨את⟩ Ісраейля від усіх утисків його!",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "викупи"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ісраейля"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраейль"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "від усіх"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "утисків його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:37.128470419Z",
+  "model": "glm-5.3"
+}

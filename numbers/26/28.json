@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 26:28",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Сини Йосефа за родами їхніми: Менаше і Ефраїм.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефа"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "за родами їхніми"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "і Ефраїм"
+    }
+  ],
+  "timestamp": "2026-08-23T21:55:40.805471011Z",
+  "model": "glm-5.3"
+}

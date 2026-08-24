@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 41,
+  "translation": "Цим я пізнав, що Ти вподобав мене, бо ворог мій не тріумфує надо мною.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "цим"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "я пізнав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "Ти вподобав"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "тріумфує"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ворог мій"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "надо мною"
+    }
+  ],
+  "timestamp": "2026-08-24T00:15:29.849873836Z",
+  "model": "glm-5.3"
+}

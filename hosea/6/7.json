@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 6:7",
+  "book": "hosea",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "А вони, як Адам, переступили завіт; там зрадили Мені.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "а вони"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "як Адам"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "переступили"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завіт"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "зрадили"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Мені"
+    }
+  ],
+  "timestamp": "2026-08-23T23:56:29.852099010Z",
+  "model": "glm-5.3"
+}

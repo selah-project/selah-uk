@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Бо хоч і засмутив, та змилується — за множину хеседу Свого.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אם",
+      "gloss": "хоч"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "засмутив"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "та змилується"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "за множину"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседу Свого"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:32.538521998Z",
+  "model": "glm-5.3"
+}

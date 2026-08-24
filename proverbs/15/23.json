@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 15:23",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Радість людині — у відповіді її уст, і слово своєчасне — як ⟨воно⟩ добре!",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "Радість"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "людині"
+    },
+    {
+      "surface": "במענה",
+      "gloss": "у відповіді"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "її уст"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "і слово"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "своєчасне"
+    },
+    {
+      "surface": "מה",
+      "gloss": "як"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добре"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:34.526092028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "А це сини Анага: Дішон і Оголівама, дочка Анага.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "А це"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Анага"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "Дішон"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "і Оголівама"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочка"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Анага"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:07.436437715Z",
+  "model": "glm-5.3"
+}

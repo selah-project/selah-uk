@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "⟨את⟩ устави Твої берегтиму — не полишай мене аж до краю.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "устави Твої"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "устави Твої"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "берегтиму"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "полишай мене"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "краю"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:02.338100582Z",
+  "model": "glm-5.3"
+}

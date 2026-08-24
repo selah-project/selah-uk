@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І зневажив ⟨את⟩ Ізраїля, і вбив його Йегонатан, син Шіми, брата Давида.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "і зневажив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ізраїля"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "і вбив його"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йегонатан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Шіми"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брата"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-24T01:19:57.731156982Z",
+  "model": "glm-5.3"
+}

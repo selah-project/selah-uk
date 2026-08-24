@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 24:11",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І встав Давид уранці, і слово Яхве було до Гада, пророка, провидця Давида, кажучи:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "і встав"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "уранці"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "і слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "היה",
+      "gloss": "було"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророка"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "провидця"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T22:45:51.982709362Z",
+  "model": "glm-5.3"
+}

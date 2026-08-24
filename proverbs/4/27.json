@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Не ухиляйся праворуч і ліворуч, відверни ногу твою від лиха.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ухиляйся"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "праворуч"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "і ліворуч"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "відверни"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ногу твою"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "від лиха"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:49.000145203Z",
+  "model": "glm-5.3"
+}

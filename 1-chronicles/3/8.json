@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І Елішама, і Еліяда, і Еліфелет — дев'ятеро.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "І Елішама"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "і Еліяда"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "і Еліфелет"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "дев'ятеро"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:12.992062992Z",
+  "model": "glm-5.3"
+}

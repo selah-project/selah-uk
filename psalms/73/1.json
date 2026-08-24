@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 73,
+  "translation": "Псалом Асафа. Тільки — добрий Ізраїлеві Елогім, чистим ⟨з⟩ серцем.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафа"
+    },
+    {
+      "surface": "אך",
+      "gloss": "тільки"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добрий"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Ізраїлеві"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "чистим"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "серцем"
+    }
+  ],
+  "timestamp": "2026-08-24T00:19:37.952990535Z",
+  "model": "glm-5.3"
+}

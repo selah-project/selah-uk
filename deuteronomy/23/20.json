@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Не бери лихви з брата свого: лихви срібла, лихви їжі, лихви всього, що дається ⟨в позику⟩ під лихву.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "бери лихви"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "з брата свого"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "лихви"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "срібла"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "лихви"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "їжі"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "лихви"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всього"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "що"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "дається під лихву"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:12.757747721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І насадив Яхве Елогім сад в Едені, на сході, і помістив там ⟨את⟩ людину, яку виліпив.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "і насадив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "גן",
+      "gloss": "сад"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "в Едені"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "на сході"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "і помістив"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "людину"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людину"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "виліпив"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:54.729804804Z",
+  "model": "glm-5.3"
+}

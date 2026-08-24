@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 32:19",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І говорили про Елогім Єрушалаїму, як про богів народів землі — діло рук людських.",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "І говорили"
+    },
+    {
+      "surface": "אל",
+      "gloss": "про"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Єрушалаїму"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "як про"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "богів"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народів"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "діло"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "рук"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людських"
+    }
+  ],
+  "timestamp": "2026-08-24T01:32:29.421731360Z",
+  "model": "glm-5.3"
+}

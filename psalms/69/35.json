@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 69,
+  "translation": "Нехай хвалять його небеса й земля, моря й усе, що повзає в них.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "нехай хвалять його"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "й земля"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "моря"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "й усе"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "що повзає"
+    },
+    {
+      "surface": "בם",
+      "gloss": "у них"
+    }
+  ],
+  "timestamp": "2026-08-24T01:52:33.184211077Z",
+  "model": "glm-5.3"
+}

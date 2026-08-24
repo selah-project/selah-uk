@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Від сяйва перед ним хмари його пройшли — град і вугілля огню.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "Від-сяйва"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "перед-ним"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "хмари-його"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "пройшли"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "град"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "і-вугілля"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огню"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:05.557294634Z",
+  "model": "glm-5.3"
+}

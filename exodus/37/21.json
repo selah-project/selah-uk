@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 37:21",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "і держак під двома-framework гілками з неї, і держак під двома-framework гілками з неї, і держак під двома-framework гілками з неї — для шести гілок, що виходять з неї",
+  "tokens": [
+    {
+      "surface": "וכפתר",
+      "gloss": "і держак"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "שני",
+      "gloss": "двома-framework"
+    },
+    {
+      "surface": "הקנים",
+      "gloss": "гілками"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "з неї"
+    },
+    {
+      "surface": "וכפתר",
+      "gloss": "і держак"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "שני",
+      "gloss": "двома-framework"
+    },
+    {
+      "surface": "הקנים",
+      "gloss": "гілками"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "з неї"
+    },
+    {
+      "surface": "וכפתר",
+      "gloss": "і держак"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "שני",
+      "gloss": "двома-framework"
+    },
+    {
+      "surface": "הקנים",
+      "gloss": "гілками"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "з неї"
+    },
+    {
+      "surface": "לששת",
+      "gloss": "для шести"
+    },
+    {
+      "surface": "הקנים",
+      "gloss": "гілок"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "що виходять"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "з неї"
+    }
+  ],
+  "timestamp": "2026-08-23T21:36:37.366482178Z",
+  "model": "glm-5.3"
+}

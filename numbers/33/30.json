@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 33:30",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І рушили з Хашмони, і таборили у Мосерот.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "מחשמנה",
+      "gloss": "з Хашмони"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і таборили"
+    },
+    {
+      "surface": "במסרות",
+      "gloss": "у Мосерот"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:14.399486143Z",
+  "model": "glm-5.3"
+}

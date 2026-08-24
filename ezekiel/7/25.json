@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Кара приходить, і шукатимуть миру, та ⟨його⟩ нема.",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "кара"
+    },
+    {
+      "surface": "בא",
+      "gloss": "приходить"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "і шукатимуть"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "миру"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "та нема"
+    }
+  ],
+  "timestamp": "2026-08-24T01:49:26.425933866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 42,
+  "translation": "І впізнав Йосеф ⟨את⟩ братів своїх, а вони не впізнали його.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "І впізнав"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "братів своїх"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "братів своїх"
+    },
+    {
+      "surface": "והם",
+      "gloss": "а вони"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "впізнали його"
+    }
+  ],
+  "timestamp": "2026-08-23T21:22:39.262829103Z",
+  "model": "glm-5.3"
+}

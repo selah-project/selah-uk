@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 27:6",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Вірні рани люблячого, а рясні поцілунки ненавистника.",
+  "tokens": [
+    {
+      "surface": "נאמנים",
+      "gloss": "Вірні"
+    },
+    {
+      "surface": "פצעי",
+      "gloss": "рани"
+    },
+    {
+      "surface": "אוהב",
+      "gloss": "люблячого"
+    },
+    {
+      "surface": "ונעתרות",
+      "gloss": "а рясні"
+    },
+    {
+      "surface": "נשיקות",
+      "gloss": "поцілунки"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ненавистника"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:36.070944048Z",
+  "model": "glm-5.3"
+}

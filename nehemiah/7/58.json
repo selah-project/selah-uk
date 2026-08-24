@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "nehemiah 7:58",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Сини Яала, сини Даркон, сини Ґіддел.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "יעלא",
+      "gloss": "Яала"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "Даркон"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "Ґіддел"
+    }
+  ],
+  "timestamp": "2026-08-24T01:09:45.244883216Z",
+  "model": "glm-5.3"
+}

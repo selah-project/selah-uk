@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І сказав Моше їм: нехай ніхто не лишає з нього до ранку.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ніхто"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "лишає"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "з нього"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ранку"
+    }
+  ],
+  "timestamp": "2026-08-23T21:30:19.997335762Z",
+  "model": "glm-5.3"
+}

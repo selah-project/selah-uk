@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Нехай покладе у порох уста свої, — може, є надія.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "нехай покладе"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "у порох"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "уста свої"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "може"
+    },
+    {
+      "surface": "יש",
+      "gloss": "є"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "надія"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:32.537803734Z",
+  "model": "glm-5.3"
+}

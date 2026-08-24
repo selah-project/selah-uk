@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 72,
+  "translation": "Змилується над бідним і вбогим, а душі вбогих спасе.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "Змилується"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "דל",
+      "gloss": "бідним"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "і вбогим"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "а душі"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "убогих"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "спасе"
+    }
+  ],
+  "timestamp": "2026-08-24T00:19:51.305218854Z",
+  "model": "glm-5.3"
+}

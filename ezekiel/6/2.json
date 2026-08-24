@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 6:2",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Сину людський, оберни обличчя твоє до гір Ізраїля і пророцюй їм:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сину"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людський"
+    },
+    {
+      "surface": "שים",
+      "gloss": "оберни"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "обличчя твоє"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "гір"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "і пророцюй"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "їм"
+    }
+  ],
+  "timestamp": "2026-08-23T23:41:55.686706637Z",
+  "model": "glm-5.3"
+}

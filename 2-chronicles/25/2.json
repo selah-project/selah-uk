@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І робив він праведне в очах Яхве, тільки не з ціленим серцем.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "і робив"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "праведне"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "רק",
+      "gloss": "тільки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "з серцем"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ціленим"
+    }
+  ],
+  "timestamp": "2026-08-24T01:30:21.971209658Z",
+  "model": "glm-5.3"
+}

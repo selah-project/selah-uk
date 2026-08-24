@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 1:44",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І помер Бела, і зацарював замість нього Йовав, син Зераха, з Боцри.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "і помер"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Бела"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "і зацарював"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "замість нього"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зераха"
+    },
+    {
+      "surface": "מבצרה",
+      "gloss": "з Боцри"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:26.649432967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "А всі кілки скинії й двору навколо — мідні.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "а всі"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "кілки"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "скинії"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "й двору"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "навколо"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "мідні"
+    }
+  ],
+  "timestamp": "2026-08-23T21:37:13.970063436Z",
+  "model": "glm-5.3"
+}

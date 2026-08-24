@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 36:19",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "І сказали князі Барукові: іди, сховайся ти та Єрміягу, і нехай ніхто не знає, де ви.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "І сказали"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "князі"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барукові"
+    },
+    {
+      "surface": "לך",
+      "gloss": "іди"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "сховайся"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וירמיהו",
+      "gloss": "та Єрміягу"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "і ніхто"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "нехай знає"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "де"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    }
+  ],
+  "timestamp": "2026-08-23T23:34:28.013809986Z",
+  "model": "glm-5.3"
+}

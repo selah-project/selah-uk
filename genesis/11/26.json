@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І жив Терах сімдесят років, і породив ⟨את⟩ Аврама, ⟨את⟩ Нахора і ⟨את⟩ Гаранa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "і жив"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терах"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "сімдесят"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "і породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврама"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврама"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нахора"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахора"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Гарана"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Гарана"
+    }
+  ],
+  "timestamp": "2026-08-24T01:35:53.804253652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І напишеш їх на одвірках твого дому і на твоїх брамах.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "і напишеш"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "одвірках"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "твого дому"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "і на твоїх брамах"
+    }
+  ],
+  "timestamp": "2026-08-23T22:01:41.572695007Z",
+  "model": "glm-5.3"
+}

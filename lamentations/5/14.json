@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Старці від брами перестали, юнаки — від своєї музики.",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "старці"
+    },
+    {
+      "surface": "משער",
+      "gloss": "від брами"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "перестали"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "юнаки"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "від своєї музики"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:00.748772899Z",
+  "model": "glm-5.3"
+}

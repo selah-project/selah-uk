@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І помер Єгошуа, син Нуна, слуга Яхве, син ста десяти років.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "І помер"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Єгошуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нуна"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "слуга"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ста"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "десяти"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "років"
+    }
+  ],
+  "timestamp": "2026-08-23T22:18:02.675739707Z",
+  "model": "glm-5.3"
+}

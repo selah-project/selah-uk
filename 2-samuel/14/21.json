@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І сказав цар до Йоава: Ось тепер я зробив ⟨את⟩ це слово; іди ж, поверни ⟨את⟩ юнака Авшалома.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоава"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "נא",
+      "gloss": "тепер"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "я зробив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "це слово"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "це"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "і йди"
+    },
+    {
+      "surface": "השב",
+      "gloss": "поверни"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "юнака"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "юнака"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авшалома"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалома"
+    }
+  ],
+  "timestamp": "2026-08-23T22:41:53.902224456Z",
+  "model": "glm-5.3"
+}

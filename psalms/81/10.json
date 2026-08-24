@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 81,
+  "translation": "Нехай не буде в тобі чужого Еля, і не вклоняйся Елю іноземному:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Нехай не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в тобі"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Еля"
+    },
+    {
+      "surface": "זר",
+      "gloss": "чужого"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "вклоняйся"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Елю"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "іноземному"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:52.913827474Z",
+  "model": "glm-5.3"
+}

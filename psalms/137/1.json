@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 137,
+  "translation": "Над ріками Бавелу — там ми сиділи, також плакали ми, згадуючи ⟨את⟩ Ційона.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ріками"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бавелу"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "сиділи ми"
+    },
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "плакали ми"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "згадуючи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ційона"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ційона"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:44.247134160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 13:4",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "від півдня вся земля кенанея, і Маара, що цидонцям, до Афеку, до межі еморія.",
+  "tokens": [
+    {
+      "surface": "מתימן",
+      "gloss": "від півдня"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "кенанея"
+    },
+    {
+      "surface": "ומערה",
+      "gloss": "і Маара"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "לצידנים",
+      "gloss": "цидонцям"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Афек"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "межі"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "еморія"
+    }
+  ],
+  "timestamp": "2026-08-23T22:14:59.305300643Z",
+  "model": "glm-5.3"
+}

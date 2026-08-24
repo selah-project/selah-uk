@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 115,
+  "translation": "А Елогім наш — на небесах; усе, що схотів, Він учинив.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "а Елогім наш"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "на небесах"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "схотів"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учинив"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:46.909686979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 30:2",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Сину людський, пророкуй і скажи: так сказав Адонай Яхве: голосіть, га-га за день!",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сину"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людський"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "пророкуй"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "і скажи"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "голосіть"
+    },
+    {
+      "surface": "הה",
+      "gloss": "га-га"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "за день"
+    }
+  ],
+  "timestamp": "2026-08-23T23:49:54.709080641Z",
+  "model": "glm-5.3"
+}

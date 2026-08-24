@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І сказали дерева смоківниці: йди, ти царю́й над нами.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "і сказали"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дерева"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "смоківниці"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "йди"
+    },
+    {
+      "surface": "את",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царю́й"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "над нами"
+    }
+  ],
+  "timestamp": "2026-08-23T22:22:04.456177214Z",
+  "model": "glm-5.3"
+}

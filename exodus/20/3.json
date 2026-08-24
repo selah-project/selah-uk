@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Не буде тобі інших богів понад ⟨обличчям⟩ Моїм.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богів"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "інших"
+    },
+    {
+      "surface": "על",
+      "gloss": "понад"
+    },
+    {
+      "surface": "פני",
+      "gloss": "обличчям Моїм"
+    }
+  ],
+  "timestamp": "2026-08-23T21:29:43.719878467Z",
+  "model": "glm-5.3"
+}

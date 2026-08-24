@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 24:3",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І взяли для нього Єговада дві жінки, і він породив синів і дочок.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "І взяв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "для нього"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Єговади"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "дві жінки"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "дві"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "і породив"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "і дочок"
+    }
+  ],
+  "timestamp": "2026-08-24T01:29:01.132389021Z",
+  "model": "glm-5.3"
+}

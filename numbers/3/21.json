@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 3:21",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Для Ґершона — рід лівні та рід шім'ї; це ⟨вони⟩ роди ґершонців.",
+  "tokens": [
+    {
+      "surface": "לגרשון",
+      "gloss": "Для Ґершона"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "рід"
+    },
+    {
+      "surface": "הלבני",
+      "gloss": "лівні"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "та рід"
+    },
+    {
+      "surface": "השמעי",
+      "gloss": "шім'ї"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "הם",
+      "gloss": "вони"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "роди"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "ґершонців"
+    }
+  ],
+  "timestamp": "2026-08-23T21:48:04.682927109Z",
+  "model": "glm-5.3"
+}

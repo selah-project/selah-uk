@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Північний вітер народжує дощ, а обличчя насуплені — мовчазний язик.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "вітер"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "північний"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "народжує"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "дощ"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "а обличчя"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "насуплені"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "язик"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "мовчазний"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:54.016361897Z",
+  "model": "glm-5.3"
+}

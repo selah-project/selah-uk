@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 43:15",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 43,
+  "translation": "А гори-Ел — чотири лікті; а від огнища й угору — чотири роги.",
+  "tokens": [
+    {
+      "surface": "וההראל",
+      "gloss": "А гори-Ел"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чотири"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "лікті"
+    },
+    {
+      "surface": "ומהאראיל",
+      "gloss": "а від огнища"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "й угору"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "роги"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чотири"
+    }
+  ],
+  "timestamp": "2026-08-23T23:53:58.569766502Z",
+  "model": "glm-5.3"
+}

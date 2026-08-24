@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І станеться: коли він провиниться в одному з цих, — визнає ⟨те⟩, у чому згрішив.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "І станеться"
+    },
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "він провиниться"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "в одному"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "з цих"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "і визнає"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨те, що⟩"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "згрішив"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "у ньому"
+    }
+  ],
+  "timestamp": "2026-08-23T21:39:22.384745Z",
+  "model": "glm-5.3"
+}

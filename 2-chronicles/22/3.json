@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 22:3",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Також і він ходив шляхами дому Ахава, бо мати його була радницею його — на лихе.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Також"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "і він"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ходив"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "шляхами"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахава"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "мати його"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "була"
+    },
+    {
+      "surface": "יועצתו",
+      "gloss": "радницею його"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "на лихе"
+    }
+  ],
+  "timestamp": "2026-08-24T01:28:59.456576816Z",
+  "model": "glm-5.3"
+}

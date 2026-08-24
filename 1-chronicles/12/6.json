@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 12:6",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Елузай, і Єрімот, і Беалія, і Шемар'ягу, і Шефат'ягу ⟨the⟩ харіфіт",
+  "tokens": [
+    {
+      "surface": "אלעוזי",
+      "gloss": "Елузай"
+    },
+    {
+      "surface": "וירימות",
+      "gloss": "і Єрімот"
+    },
+    {
+      "surface": "ובעליה",
+      "gloss": "і Беалія"
+    },
+    {
+      "surface": "ושמריהו",
+      "gloss": "і Шемар'ягу"
+    },
+    {
+      "surface": "ושפטיהו",
+      "gloss": "і Шефат'ягу"
+    },
+    {
+      "surface": "החריפי",
+      "gloss": "харіфіт"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:17.871766327Z",
+  "model": "glm-5.3"
+}

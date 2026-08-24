@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Задля Твого імені, Яхве, і пробач Ти мою провину, бо велика вона.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "задля"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Твого імені"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "і пробач Ти"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "мою провину"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "רב",
+      "gloss": "велика"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "вона"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:57.270938224Z",
+  "model": "glm-5.3"
+}

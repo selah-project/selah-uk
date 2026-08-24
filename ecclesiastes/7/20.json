@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Бо немає людини праведної на землі, яка робила б добре і не згрішила б.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людини"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведної"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на землі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яка"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "робила б"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добре"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "згрішила б"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:22.521187662Z",
+  "model": "glm-5.3"
+}

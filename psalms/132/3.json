@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 132,
+  "translation": "Якщо ввійду в шатро мого дому, якщо зійду на ложе моєї постелі —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Якщо"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ввійду"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "в шатро"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "мого дому"
+    },
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "зійду"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "ложе"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "моєї постелі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:23.689196539Z",
+  "model": "glm-5.3"
+}

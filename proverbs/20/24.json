@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Від Яхве — кроки людини-сильного, і людина — як зрозуміє свій шлях?",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "від Яхве"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "кроки"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "людини-сильного"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "і людина"
+    },
+    {
+      "surface": "מה",
+      "gloss": "як"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "зрозуміє"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "свій шлях"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:22.244950155Z",
+  "model": "glm-5.3"
+}

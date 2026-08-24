@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "І робив він зло, бо не підготував серця свого шукати ⟨את⟩ Яхве.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "і робив"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "підготував"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "серце своє"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "шукати"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:26:25.918096831Z",
+  "model": "glm-5.3"
+}

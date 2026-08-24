@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Не видавай раба його панові — того, хто врятується до тебе від свого пана.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "видавай"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "раба"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "його панові"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "того, хто"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "врятується"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "до тебе"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "від"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "свого пана"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:05.553203056Z",
+  "model": "glm-5.3"
+}

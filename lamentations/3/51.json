@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Око моє вимучило душу мою через усіх доньок міста мого.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "око моє"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "вимучило"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "душу мою"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "через усіх"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "доньок"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "міста мого"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:38.297944778Z",
+  "model": "glm-5.3"
+}

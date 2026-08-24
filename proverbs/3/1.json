@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Сину мій, мою Тору не забувай, а мої заповіді нехай береже твоє серце.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сину мій"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "мою Тору"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "забувай"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "а мої заповіді"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "нехай береже"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "твоє серце"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:41.364502354Z",
+  "model": "glm-5.3"
+}

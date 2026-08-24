@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 76,
+  "translation": "Осяйний Ти, величніший за гори здобичі.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "Осяйний"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "величніший"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "за гори"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "здобичі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:11.961032888Z",
+  "model": "glm-5.3"
+}

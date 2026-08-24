@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 9:22",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І в Таверах, і в Масі, і в Ківрот-га-Тааві ви розгнівлювали ⟨את⟩ Яхве.",
+  "tokens": [
+    {
+      "surface": "ובתבערה",
+      "gloss": "і в Таверах"
+    },
+    {
+      "surface": "ובמסה",
+      "gloss": "і в Масі"
+    },
+    {
+      "surface": "ובקברת",
+      "gloss": "і в Ківрот"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "га-Тааві"
+    },
+    {
+      "surface": "מקצפים",
+      "gloss": "розгнівлювали"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ви були"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T22:02:41.490725573Z",
+  "model": "glm-5.3"
+}

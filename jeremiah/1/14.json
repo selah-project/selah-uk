@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І сказав Яхве до мене: Від півночі відкриється зло на всіх мешканців ⟨את⟩ землі.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "Від півночі"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "відкриється"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всіх"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "мешканців"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:22:13.983945908Z",
+  "model": "glm-5.3"
+}

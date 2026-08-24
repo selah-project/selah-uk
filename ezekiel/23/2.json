@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Сину людський, дві жінки, дочки однієї матері, були ⟨ז ними⟩ —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "сину"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людський"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "дві"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "жінки"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дочки"
+    },
+    {
+      "surface": "אם",
+      "gloss": "матері"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "однієї"
+    },
+    {
+      "surface": "היו",
+      "gloss": "були"
+    }
+  ],
+  "timestamp": "2026-08-23T23:47:59.032211038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 15:19",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "І навіщо не послухав ти голосу Яхве, а кинувся на здобич і зробив зло в очах Яхве?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "І навіщо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "послухав ти"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "голосу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ותעט",
+      "gloss": "а кинувся"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "здобич"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "і зробив"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:42:17.321784071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Бо не назавжди багатство, і вінець — не на покоління поколінь.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "назавжди"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "багатство"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "і"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "вінець"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "на покоління"
+    },
+    {
+      "surface": "דור",
+      "gloss": "поколінь"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:03.102610004Z",
+  "model": "glm-5.3"
+}

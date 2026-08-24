@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 3:16",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І сини Єгоякіма: Єхонья, син його, Цідкіягу, син його.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "І сини"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Єгоякіма"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Єхонья"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "Цідкіягу"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:10.573980524Z",
+  "model": "glm-5.3"
+}

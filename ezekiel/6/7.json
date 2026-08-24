@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І впаде прободений серед вас, і ви пізнаєте, що Я — Яхве.",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "і впаде"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "прободений"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "серед вас"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "і ви пізнаєте"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:49:06.885973972Z",
+  "model": "glm-5.3"
+}

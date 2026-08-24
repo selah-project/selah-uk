@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Він обгородив мої дороги тесаним каменям, стежки мої викривив.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "обгородив"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "мої дороги"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "тесаним каменям"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "стежки мої"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "викривив"
+    }
+  ],
+  "timestamp": "2026-08-24T00:51:51.830259823Z",
+  "model": "glm-5.3"
+}

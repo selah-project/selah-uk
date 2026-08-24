@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Честь Елогім — приховати річ, і честь царів — дослідити річ.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Честь"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "приховати"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "річ"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "і честь"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "царів"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "дослідити"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "річ"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:39.470526579Z",
+  "model": "glm-5.3"
+}

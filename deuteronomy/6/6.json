@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І нехай будуть ці слова, які я наказую тобі сьогодні, на серці твоєму.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "І нехай будуть"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ці слова"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "наказую тобі"
+    },
+    {
+      "surface": "היום",
+      "gloss": "сьогодні"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "серці твоєму"
+    }
+  ],
+  "timestamp": "2026-08-23T22:01:24.908745106Z",
+  "model": "glm-5.3"
+}

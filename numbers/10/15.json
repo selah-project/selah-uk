@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "А над військом племені синів Їсахара — Нетанел, син Цуара.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "а над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "військом"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "племені"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Їсахара"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетанел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Цуара"
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:50.561665986Z",
+  "model": "glm-5.3"
+}

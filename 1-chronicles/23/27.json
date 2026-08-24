@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 23:27",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Бо за останніх слів Давидових ⟪пораховано⟫ число синів Леві — від двадцяти років і вище.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "за слів"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "האחרנים",
+      "gloss": "останніх"
+    },
+    {
+      "surface": "המה",
+      "gloss": "вони"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "число"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леві"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "від віку"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцяти"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "і вище"
+    }
+  ],
+  "timestamp": "2026-08-24T01:19:51.395187159Z",
+  "model": "glm-5.3"
+}

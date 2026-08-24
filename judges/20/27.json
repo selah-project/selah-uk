@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "judges 20:27",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І питали сини Ізраїля Яхве — а там був ковчег заповіту Елогіма в ті дні",
+  "tokens": [
+    {
+      "surface": "וישאלו",
+      "gloss": "І питали"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а там"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "заповіту"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогіма"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "в дні"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ті"
+    }
+  ],
+  "timestamp": "2026-08-23T22:27:19.275106619Z",
+  "model": "glm-5.3"
+}

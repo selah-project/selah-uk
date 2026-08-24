@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 13:17",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Устань, пройди по землі по довжині її і по ширині її, бо тобі Я дам її.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Устань"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "пройди"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "по землі"
+    },
+    {
+      "surface": "לארכה",
+      "gloss": "по довжині її"
+    },
+    {
+      "surface": "ולרחבה",
+      "gloss": "і по ширині її"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "Я дам її"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:52.598223035Z",
+  "model": "glm-5.3"
+}

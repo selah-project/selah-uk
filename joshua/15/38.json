@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "і Діл'ан, і ⟨ה⟩а-Міцпа, і Йоктеел,",
+  "tokens": [
+    {
+      "surface": "ודלען",
+      "gloss": "і Діл'ан"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "і ⟨ה⟩а-Міцпа"
+    },
+    {
+      "surface": "ויקתאל",
+      "gloss": "і Йоктеел"
+    }
+  ],
+  "timestamp": "2026-08-23T22:15:44.324973876Z",
+  "model": "glm-5.3"
+}

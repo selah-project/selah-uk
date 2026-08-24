@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 21:28",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І було слово Яхве до Еліяу Тішбі, кажучи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "і було"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Еліяу"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "Тішбі"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T22:55:06.968301921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Ось Я піднімаю на них ⟨את⟩ мідян, які срібла не рахуватимуть, і золота не схочуть його.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Ось Я"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "піднімаю"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "на них"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мідян"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "мідян"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "срібла"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "рахуватимуть"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "і золота"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "схочуть"
+    },
+    {
+      "surface": "בו",
+      "gloss": "його"
+    }
+  ],
+  "timestamp": "2026-08-23T23:07:35.882937922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 4:21",
+  "book": "daniel",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Це тлумачення, царю, і ⟨це⟩ вирішення Всевишнього, що дійшло на мого пана, царя.",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "Це"
+    },
+    {
+      "surface": "פשרא",
+      "gloss": "тлумачення"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царю"
+    },
+    {
+      "surface": "וגזרת",
+      "gloss": "і вирішення"
+    },
+    {
+      "surface": "עליא",
+      "gloss": "Всевишнього"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨це⟩"
+    },
+    {
+      "surface": "די",
+      "gloss": "що"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "дійшло"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מראי",
+      "gloss": "мого пана"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-08-24T01:00:44.453865902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І Яхве дощив на Сдом і на Амору сірку та огонь — від ⟨את⟩ Яхве, з небес.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "І Яхве"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "дощив"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Сдом"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Амору"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "сірку"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "та огонь"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "від ⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    }
+  ],
+  "timestamp": "2026-08-23T21:12:31.638995275Z",
+  "model": "glm-5.3"
+}

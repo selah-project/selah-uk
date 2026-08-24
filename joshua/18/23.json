@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "і га-Аввім, і га-Пара, і Офра.",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "і га-Аввім"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "і га-Пара"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "і Офра"
+    }
+  ],
+  "timestamp": "2026-08-23T22:16:00.218181997Z",
+  "model": "glm-5.3"
+}

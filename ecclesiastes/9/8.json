@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "У всякий час нехай будуть одежі твої білі, і олива на голові твоїй нехай не бракує.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "у всякий"
+    },
+    {
+      "surface": "עת",
+      "gloss": "час"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "нехай будуть"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "одежі твої"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "білі"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "і олива"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "голові твоїй"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "нехай бракує"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:44.356388485Z",
+  "model": "glm-5.3"
+}

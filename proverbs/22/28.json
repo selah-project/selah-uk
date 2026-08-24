@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Не зсувай віковічної межі, яку встановили батьки твої.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "зсувай"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "межі"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "віковічної"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "встановили"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "батьки твої"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:52.913332398Z",
+  "model": "glm-5.3"
+}

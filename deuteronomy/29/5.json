@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "Хліба не їли ви, і вина, і п'янкого напою не пили ви, щоб ви знали, що Я — Яхве, Елогім ваш.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "хліба"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "їли ви"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "і вина"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "і п'янкого напою"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "пили ви"
+    },
+    {
+      "surface": "למען",
+      "gloss": "щоб"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "ви знали"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елогім ваш"
+    }
+  ],
+  "timestamp": "2026-08-23T22:08:44.304615311Z",
+  "model": "glm-5.3"
+}

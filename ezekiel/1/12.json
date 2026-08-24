@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 1:12",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І кожен до боку обличчя свого йшли; туди, куди буде руха йти, йшли; не поверталися в ході своїй.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "і кожен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "боку"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "обличчя свого"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "йшли"
+    },
+    {
+      "surface": "אל",
+      "gloss": "туди"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "куди"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "там"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "руха"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "йти"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "йшли"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יסבו",
+      "gloss": "поверталися"
+    },
+    {
+      "surface": "בלכתן",
+      "gloss": "в ході своїй"
+    }
+  ],
+  "timestamp": "2026-08-23T23:39:41.284990903Z",
+  "model": "glm-5.3"
+}

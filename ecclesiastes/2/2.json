@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Про сміх сказав я: божевілля; а про радість: що воно чинить?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "про сміх"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "сказав я"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "божевілля"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "а про радість"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "זה",
+      "gloss": "воно"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чинить"
+    }
+  ],
+  "timestamp": "2026-08-24T01:56:02.206524262Z",
+  "model": "glm-5.3"
+}

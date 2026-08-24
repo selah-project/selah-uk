@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 31:26",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Якщо я бачив світло, коли воно сяяло, і місяць коштовний ішов,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Якщо"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "я бачив"
+    },
+    {
+      "surface": "אור",
+      "gloss": "світло"
+    },
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "сяяло"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "і місяць"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "коштовний"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ішов"
+    }
+  ],
+  "timestamp": "2026-08-24T00:45:43.777671332Z",
+  "model": "glm-5.3"
+}

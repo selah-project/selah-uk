@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 19:14",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Дім і достаток — спадщина батьків, а дружину розумну — від Яхве.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "והון",
+      "gloss": "і достаток"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "спадщина"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "батьків"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "а від Яхве"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "дружину"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "розумну"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:24.516345670Z",
+  "model": "glm-5.3"
+}

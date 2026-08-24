@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 115,
+  "translation": "Навіщо казатимуть народи: де ж, ⟨мов⟩, боги їхні?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "навіщо"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "казатимуть"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "איה",
+      "gloss": "де"
+    },
+    {
+      "surface": "נא",
+      "gloss": "же \/ ⟨мов⟩"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "боги їхні"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:46.909423292Z",
+  "model": "glm-5.3"
+}

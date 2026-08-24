@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І тернину й будяки виростить ⟨вона⟩ тобі, і ти їстимеш ⟨את⟩ траву поля.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "і тернину"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "й будяки"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "виростить"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "і ти їстимеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "траву поля"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "траву"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поля"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:21.572501015Z",
+  "model": "glm-5.3"
+}

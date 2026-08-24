@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Тому я наказую тобі, говорячи: три міста відділиш собі.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тому"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "наказую тобі"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорячи"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "міста"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "відділиш"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    }
+  ],
+  "timestamp": "2026-08-23T22:06:21.563454452Z",
+  "model": "glm-5.3"
+}

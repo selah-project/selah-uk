@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 33:18",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І рушили вони з Хацерот, і станом стали в Рітмі.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "מחצרת",
+      "gloss": "з Хацерот"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і станом стали"
+    },
+    {
+      "surface": "ברתמה",
+      "gloss": "в Рітмі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:58:58.578189464Z",
+  "model": "glm-5.3"
+}

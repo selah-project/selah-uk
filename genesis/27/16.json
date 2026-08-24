@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "А ⟨את⟩ шкіри козенят кіз поклала вона на руки його й на гладкість шиї його.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "а ⟨את⟩",
+      "marks": "шкіри"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "шкіри"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "козенят"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "кіз"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "одягла вона"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "руки його"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "й на"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "гладкість"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "шиї його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:36:31.147339552Z",
+  "model": "glm-5.3"
+}

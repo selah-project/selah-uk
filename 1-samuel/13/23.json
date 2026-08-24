@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І вийшла залога плиштим до переходу Міхмаша.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "і вийшла"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "залога"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "плиштим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "переходу"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Міхмаша"
+    }
+  ],
+  "timestamp": "2026-08-23T22:28:47.421761959Z",
+  "model": "glm-5.3"
+}

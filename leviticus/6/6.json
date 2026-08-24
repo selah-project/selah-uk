@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Вогонь постійно горітиме на жертовнику, не згасне.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Вогонь"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "постійно"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "горітиме"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жертовнику"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "згасне"
+    }
+  ],
+  "timestamp": "2026-08-23T21:39:03.287827189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 42,
+  "translation": "Усі ми — сини одного чоловіка; чесні ми; не були раби твої розвідниками.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "Усі ми"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловіка"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "⟨ми⟩"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "чесні"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היו",
+      "gloss": "були"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "раби твої"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "розвідниками"
+    }
+  ],
+  "timestamp": "2026-08-23T21:22:10.441833952Z",
+  "model": "glm-5.3"
+}

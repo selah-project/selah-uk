@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 9:29",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Я — я став грішним; чому це? Даремно я мучуся.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "став грішним"
+    },
+    {
+      "surface": "למה",
+      "gloss": "чому"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "даремно"
+    },
+    {
+      "surface": "איגע",
+      "gloss": "я мучуся"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:38.609950847Z",
+  "model": "glm-5.3"
+}

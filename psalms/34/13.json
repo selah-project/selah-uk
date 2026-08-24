@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "Хто ⟨є⟩ той муж, що бажає життя, любить дні, щоб бачити добро?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "той муж"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "що бажає"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "життя"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "любить"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дні"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "щоб бачити"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    }
+  ],
+  "timestamp": "2026-08-24T00:14:34.349911594Z",
+  "model": "glm-5.3"
+}

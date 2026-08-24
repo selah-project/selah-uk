@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Бо нема в смерті пам'яті про тебе, в Шеолі хто славитиме тебе?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "במות",
+      "gloss": "в смерті"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "пам'яті про тебе"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "в Шеолі"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "славитиме"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:10.032056318Z",
+  "model": "glm-5.3"
+}

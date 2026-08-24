@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Сини Йефета: Гомер, і Магог, і Мадай, і Яван, і Тувал, і Мешех, і Тірас.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Йефета"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Гомер"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "і Магог"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "і Мадай"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "і Яван"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "і Тувал"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "і Мешех"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "і Тірас"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:15.280103083Z",
+  "model": "glm-5.3"
+}

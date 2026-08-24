@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 30:23",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Ось буря Яхве — лютість вийшла, вихор, що кружляє, на голову нечестивих завирує.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ось"
+    },
+    {
+      "surface": "סערת",
+      "gloss": "буря"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "лютість"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "вийшла"
+    },
+    {
+      "surface": "סער",
+      "gloss": "вихор"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "що кружляє"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "голову"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивих"
+    },
+    {
+      "surface": "יחול",
+      "gloss": "завирує"
+    }
+  ],
+  "timestamp": "2026-08-23T23:31:42.130150115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Серце людини задумує свій шлях, та Яхве утверджує його крок.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людини"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "задумує"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "свій шлях"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "та Яхве"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "утверджує"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "його крок"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:49.854245163Z",
+  "model": "glm-5.3"
+}

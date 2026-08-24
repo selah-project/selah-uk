@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І рушили сини Ізраїля, і стали табором в Овоті.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і стали табором"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "в Овоті"
+    }
+  ],
+  "timestamp": "2026-08-23T21:54:09.038136828Z",
+  "model": "glm-5.3"
+}

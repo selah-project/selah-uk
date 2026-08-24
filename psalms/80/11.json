@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 80,
+  "translation": "Покрили гори тінь її, і гілки її ⟨є⟩ кедри Ела.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "покрили"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "гори"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "тінь її"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "і гілки її"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "кедри"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ела"
+    }
+  ],
+  "timestamp": "2026-08-24T00:21:47.860521998Z",
+  "model": "glm-5.3"
+}

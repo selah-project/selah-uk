@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Усе йде до місця одного; усе було з пороху, і усе повернеться до пороху.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Усе"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "йде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "місця"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "היה",
+      "gloss": "було"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "пороху"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "і усе"
+    },
+    {
+      "surface": "שב",
+      "gloss": "повернеться"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "пороху"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:08.431074711Z",
+  "model": "glm-5.3"
+}

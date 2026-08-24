@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Пора плакати, і пора смiятися; пора голосити, і пора танцювати;",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Пора"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "плакати"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "і пора"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "смiятися"
+    },
+    {
+      "surface": "עת",
+      "gloss": "пора"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "голосити"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "і пора"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "танцювати"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:12.514349464Z",
+  "model": "glm-5.3"
+}

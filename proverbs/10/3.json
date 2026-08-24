@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Не дає Яхве голодувати душі праведника, а пожаду лихих відкидає ⟨він⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "дає голодувати"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "души"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "והות",
+      "gloss": "а пожаду"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "лихих"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "відкидає"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:05.907968130Z",
+  "model": "glm-5.3"
+}

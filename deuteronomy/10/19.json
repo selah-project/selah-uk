@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І любіть ⟨את⟩ приїжджого, бо були ви приїжджими в землі Міцраїму.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "і любіть"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "приїжджого"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "приїжджого"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "приїжджими"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "були"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землі"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїму"
+    }
+  ],
+  "timestamp": "2026-08-23T22:03:20.657424093Z",
+  "model": "glm-5.3"
+}

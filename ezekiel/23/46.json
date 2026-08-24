@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezekiel 23:46",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Бо так сказав Адонай Яхве: зведи на них зібрання, і віддай ⟨את⟩ їх на трепет і на розбій.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "зведи"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "на них"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "зібрання"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "і віддай"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "їх"
+    },
+    {
+      "surface": "לזעוה",
+      "gloss": "на трепет"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "і на розбій"
+    }
+  ],
+  "timestamp": "2026-08-23T23:47:44.535989507Z",
+  "model": "glm-5.3"
+}

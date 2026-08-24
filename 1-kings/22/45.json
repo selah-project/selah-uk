@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 22:45",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "І встановив мир Єгошафат із царем Ізраїля.",
+  "tokens": [
+    {
+      "surface": "וישלם",
+      "gloss": "І встановив мир"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Єгошафат"
+    },
+    {
+      "surface": "עם",
+      "gloss": "із"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царем"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    }
+  ],
+  "timestamp": "2026-08-23T22:55:16.620118653Z",
+  "model": "glm-5.3"
+}

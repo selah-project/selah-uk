@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "А ⟨את⟩ Море поставив від правого плеча, на схід, навпроти півдня.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "А ⟨את⟩",
+      "marks": "Море"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Море"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "поставив"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "від плеча"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "правого"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "на схід"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "навпроти"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "півдня"
+    }
+  ],
+  "timestamp": "2026-08-24T01:22:34.697282293Z",
+  "model": "glm-5.3"
+}

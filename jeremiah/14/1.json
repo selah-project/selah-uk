@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Яке було слово Яхве до Єрміїгу про ⟨дела⟩ посухи:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "היה",
+      "gloss": "було"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Єрміїгу"
+    },
+    {
+      "surface": "על",
+      "gloss": "про"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "справи"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "посухи"
+    }
+  ],
+  "timestamp": "2026-08-23T23:27:34.786858179Z",
+  "model": "glm-5.3"
+}

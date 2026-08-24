@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Відстаньте собі від людини, якої подих у ніздрях її, — бо в чому він уважається?",
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "відстаньте"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "собі"
+    },
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людини"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "якої"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "подих"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "у ніздрях його"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "במה",
+      "gloss": "в чому"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "уважається"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    }
+  ],
+  "timestamp": "2026-08-24T01:45:19.286338289Z",
+  "model": "glm-5.3"
+}

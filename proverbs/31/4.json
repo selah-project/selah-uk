@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Не царям, Лемуеле, не царям пити вино, і вельможам — жадати міцного напою.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "царям"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Лемуеле"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "царям"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "пити"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вино"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "і вельможам"
+    },
+    {
+      "surface": "או",
+      "gloss": "жадати"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "міцного напою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:46.762201055Z",
+  "model": "glm-5.3"
+}

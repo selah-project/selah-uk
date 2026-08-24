@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І пішли, і служили богам іншим, і поклонялися їм — богам, яких вони не знали і яких ⟨Він⟩ не призначив їм.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "і пішли"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "і служили"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богам"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "іншим"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "і поклонялися"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яких"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "знали"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "призначив"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    }
+  ],
+  "timestamp": "2026-08-23T22:09:01.388283131Z",
+  "model": "glm-5.3"
+}

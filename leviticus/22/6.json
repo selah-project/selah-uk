@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Нефеш, яка торкнеться його, буде нечистою до вечора, і не їстиме від святих, якщо не обмиє тіло своє водою.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "Нефеш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яка"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "торкнеться"
+    },
+    {
+      "surface": "בו",
+      "gloss": "його"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "і буде нечистою"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "вечора"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "їстиме"
+    },
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "святих"
+    },
+    {
+      "surface": "כי",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "אם",
+      "gloss": "не"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "обмиє"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "тіло своє"
+    },
+    {
+      "surface": "במים",
+      "gloss": "водою"
+    }
+  ],
+  "timestamp": "2026-08-23T21:44:51.849842159Z",
+  "model": "glm-5.3"
+}

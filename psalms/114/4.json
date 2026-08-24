@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 114,
+  "translation": "Гори скакали, як олені, пагорби — як ягнята отари,",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "гори"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "скакали"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "як олені"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "пагорби"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "як сини"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "отари"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:41.336093238Z",
+  "model": "glm-5.3"
+}

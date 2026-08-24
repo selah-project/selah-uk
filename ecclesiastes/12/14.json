@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Бо ⟨את⟩ кожен учинок Елогім приведе на суд щодо всього прихованого, чи доброго, чи злого.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кожен учинок"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кожен"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "учинок"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "приведе"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "на суд"
+    },
+    {
+      "surface": "על",
+      "gloss": "щодо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всього"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "прихованого"
+    },
+    {
+      "surface": "אם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "доброго"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злого"
+    }
+  ],
+  "timestamp": "2026-08-24T00:55:42.426508856Z",
+  "model": "glm-5.3"
+}

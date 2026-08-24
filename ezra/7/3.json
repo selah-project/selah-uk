@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Син Амар'ї, син Азар'ї, син Мерайота.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Син"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амар'ї"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азар'ї"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Мерайота"
+    }
+  ],
+  "timestamp": "2026-08-24T01:05:25.381793364Z",
+  "model": "glm-5.3"
+}

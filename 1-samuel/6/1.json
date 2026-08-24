@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І був ковчег Яхве в полі плиштим сім місяців.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І був"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "у полі"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "плиштим"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "сім"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "місяців"
+    }
+  ],
+  "timestamp": "2026-08-23T22:28:30.248246657Z",
+  "model": "glm-5.3"
+}

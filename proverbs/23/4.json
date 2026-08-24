@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Не стомлюйся, щоб збагатіти, — з твого розуміння відстань.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "стомлюйся"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "щоб збагатіти"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "з твого розуміння"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "відстань"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:37.159033040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Бо хто їстиме, і хто прагнутиме ⟨того⟩ — окрім мене?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "їстиме"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "і хто"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "прагнутиме"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "окрім"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "мене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:09.183020460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 66,
+  "translation": "що розтулили уста мої, і вимовили уста мої в тісноті моїй.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "розтулили"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "губи мої"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "і вимовили"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста мої"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "в тісноті"
+    },
+    {
+      "surface": "לי",
+      "gloss": "моїй"
+    }
+  ],
+  "timestamp": "2026-08-24T01:51:56.304927719Z",
+  "model": "glm-5.3"
+}

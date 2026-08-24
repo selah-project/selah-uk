@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 106,
+  "translation": "І дав ⟨את⟩ їх на милощі перед усіма, хто полонив їх.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "І дав"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "їх"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "на милощі"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіма"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "хто полонив їх"
+    }
+  ],
+  "timestamp": "2026-08-24T01:53:23.556659395Z",
+  "model": "glm-5.3"
+}

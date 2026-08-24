@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І будете принижувати ⟨את⟩ насіння Давидове за це, — та не всі дні.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "і будете принижувати"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "насіння Давидове"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "насіння"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидове"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "אך",
+      "gloss": "та"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дні"
+    }
+  ],
+  "timestamp": "2026-08-23T22:51:14.478156256Z",
+  "model": "glm-5.3"
+}

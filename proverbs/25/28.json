@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Місто розбите, без муру — людина, що не має стриму для свого духа.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "місто"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "розбите"
+    },
+    {
+      "surface": "אין",
+      "gloss": "без"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "муру"
+    },
+    {
+      "surface": "איש",
+      "gloss": "людина"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "אין",
+      "gloss": "не має"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "стриму"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "для свого духа"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:07.226142701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 4:23",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Понад усяку обережність стережи серце твоє, бо з нього — витоки життя.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "понад усяку"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "обережність"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "стережи"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "серце твоє"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "з нього"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "витоки"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "життя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:07.683034447Z",
+  "model": "glm-5.3"
+}

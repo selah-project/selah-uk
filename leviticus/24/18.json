@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "А той, хто вб'є нефеш тварини, — нехай відшкодує її: нефеш за нефеш.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "А той, хто вб'є"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "тварини"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "нехай відшкодує її"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    }
+  ],
+  "timestamp": "2026-08-23T21:45:54.080107660Z",
+  "model": "glm-5.3"
+}

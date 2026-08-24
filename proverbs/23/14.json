@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 23:14",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Ти жезлом вдариш його — і його нефеш від Шеолу врятуєш.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "жезлом"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "вдариш його"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "і його нефеш"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "від Шеолу"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "врятуєш"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:06.571518120Z",
+  "model": "glm-5.3"
+}

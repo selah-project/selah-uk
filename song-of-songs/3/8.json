@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "усі вони тримають меча, навчені війни, кожен — свій меч при стегні через жах ночей.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "усі вони"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "тримають"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меча"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "навчені"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "війни"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кожен"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "свій меч"
+    },
+    {
+      "surface": "על",
+      "gloss": "при"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "стегні"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "через жах"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "ночей"
+    }
+  ],
+  "timestamp": "2026-08-24T00:49:57.658087177Z",
+  "model": "glm-5.3"
+}

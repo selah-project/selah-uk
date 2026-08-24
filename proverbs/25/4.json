@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Відділити домішки від срібла — і вийде посуд для рафінатора.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "Відділити"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "домішки"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "від срібла"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "і вийде"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "для рафінатора"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "посуд"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:39.470857294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Устань, Яхве! Ель, піднеси свою руку, не забудь убогих!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Устань"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "піднеси"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "свою руку"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "забудь"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "убогих"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:52.515599943Z",
+  "model": "glm-5.3"
+}

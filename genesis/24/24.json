@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 24:24",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І сказала вона йому: я дочка Бетуеля, сина Мілки, яку вона породила Нахорові.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "І сказала"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочка"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Бетуеля"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Мілки"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "вона породила"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "Нахорові"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:02.884448214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Як люблю я Тору твою — увесь день вона роздумування моє.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Як"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "люблю я"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Тору твою"
+    },
+    {
+      "surface": "כל",
+      "gloss": "увесь"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    },
+    {
+      "surface": "היא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "роздумування моє"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:01.335708245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "На кожному місці — очі Яхве, що спостерігають лихих і добрих.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "на кожному"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "місці"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "що спостерігають"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "лихих"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "і добрих"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:58.586812798Z",
+  "model": "glm-5.3"
+}

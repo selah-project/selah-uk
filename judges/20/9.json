@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 20:9",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "А тепер — ось та річ, яку вчинимо Ґів'ї: проти неї за жеребом.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а тепер"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ось ця"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "річ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "вчинимо"
+    },
+    {
+      "surface": "לגבעה",
+      "gloss": "Ґів'ї"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "проти неї"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "за жеребом"
+    }
+  ],
+  "timestamp": "2026-08-23T22:24:45.075321864Z",
+  "model": "glm-5.3"
+}

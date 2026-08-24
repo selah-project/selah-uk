@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 17:2",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І чинив ⟨ה⟩ зло в очах Яхве — тільки не як царі Їсраеля, що були перед ним.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "і чинив"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "רק",
+      "gloss": "тільки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כמלכי",
+      "gloss": "як царі"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраеля"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "היו",
+      "gloss": "були"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "перед ним"
+    }
+  ],
+  "timestamp": "2026-08-23T23:01:41.896993402Z",
+  "model": "glm-5.3"
+}

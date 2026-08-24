@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 42,
+  "translation": "У ширину стіни ⟨את⟩ двору — шлях на схід, до обличчя гізри та до обличчя будівлі — лішот.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "у ширину"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "стіни"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "двору"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "шлях"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "на схід"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פני",
+      "gloss": "обличчя"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "гізри"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і до"
+    },
+    {
+      "surface": "פני",
+      "gloss": "обличчя"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "будівлі"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "лішот"
+    }
+  ],
+  "timestamp": "2026-08-23T23:53:30.339297570Z",
+  "model": "glm-5.3"
+}

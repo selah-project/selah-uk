@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "А від когенів: Єдаягу, і Єгоярів, і Яхін.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "А від"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "когенів"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Єдаягу"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "і Єгоярів"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "і Яхін"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:28.505334058Z",
+  "model": "glm-5.3"
+}

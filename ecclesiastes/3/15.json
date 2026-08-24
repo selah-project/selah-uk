@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Що було — уже ⟨є⟩, і що має бути — уже було; і Елогім шукає ⟨את⟩ переслідуваного.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "що було"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "уже"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨є⟩"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "і що"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "має бути"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "уже"
+    },
+    {
+      "surface": "היה",
+      "gloss": "було"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "і Елогім"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "шукає"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "переслідуваного"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "переслідуваного"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:44.796340272Z",
+  "model": "glm-5.3"
+}

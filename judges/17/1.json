@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 17:1",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "І був один чоловік з гори Єфраїмової, а ім'я його ⟨було⟩ Мікаху.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І був"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "з гори"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Єфраїмової"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "а ім'я його"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Мікаху"
+    }
+  ],
+  "timestamp": "2026-08-23T22:24:54.962885896Z",
+  "model": "glm-5.3"
+}

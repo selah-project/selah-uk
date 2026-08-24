@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І засяяло сонце, і зайшло сонце, і до місця свого захекане ⟨воно⟩ сяє — там ⟨воно⟩.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "І засяяло"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонце"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "і зайшло"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сонце"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і до"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "місця свого"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "захекане"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "сяє"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨воно⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:29.927164293Z",
+  "model": "glm-5.3"
+}

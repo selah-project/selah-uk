@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 33:35",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І рушили з Авро́ни, і таборили в Еціон-Ґевері.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "מעברנה",
+      "gloss": "з Аврони"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і таборили"
+    },
+    {
+      "surface": "בעציון",
+      "gloss": "в Еціон-Ґевері"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Еціон-Ґевер"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:10.155136572Z",
+  "model": "glm-5.3"
+}

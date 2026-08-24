@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 92,
+  "translation": "сповіщати вранці хесед твій і віру твою в ночах,",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "сповіщати"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "вранці"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хесед твій"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "і віру твою"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "в ночах"
+    }
+  ],
+  "timestamp": "2026-08-24T00:23:19.762655929Z",
+  "model": "glm-5.3"
+}

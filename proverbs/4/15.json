@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Уника́й її, не переходь нею, відхилися від неї та й мимо.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "уника́й її"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "переходь"
+    },
+    {
+      "surface": "בו",
+      "gloss": "нею"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "відхилися"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "від неї"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "та й мимо"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:48.957541475Z",
+  "model": "glm-5.3"
+}

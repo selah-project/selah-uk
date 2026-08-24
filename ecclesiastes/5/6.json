@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Бо при множині снів і марнот — і слів багато; ⟨але⟩ Елогім ⟨את⟩ бійся.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "при множині"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "снів"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "і марнот"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "і слів"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "багато"
+    },
+    {
+      "surface": "כי",
+      "gloss": "але"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елогім"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "бійся"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:45.435669173Z",
+  "model": "glm-5.3"
+}

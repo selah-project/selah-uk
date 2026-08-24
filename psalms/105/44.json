@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 105,
+  "translation": "І дав їм землі народів, і працю племен вони посіли.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "І дав"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "землі"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народів"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "і працю"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "племен"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "вони посіли"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:20.685110855Z",
+  "model": "glm-5.3"
+}

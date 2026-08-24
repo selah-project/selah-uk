@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Оце ⟨є⟩ слово, яке промовив Яхве до Моава відтоді.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Оце"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "промовив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "відтоді"
+    }
+  ],
+  "timestamp": "2026-08-23T23:08:28.523784121Z",
+  "model": "glm-5.3"
+}

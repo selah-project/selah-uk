@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Бо великий Яхве і вельми хвалений, і страшний Він над усіма богами.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "і вельми хвалений"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "вельми"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "і страшний"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Він"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіма"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богами"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:09.009800825Z",
+  "model": "glm-5.3"
+}

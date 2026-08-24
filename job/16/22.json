@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 16:22",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Бо роки лічені прийдуть, і я піду дорогою, яку не повернуся.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "роки"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "лічені"
+    },
+    {
+      "surface": "יאתיו",
+      "gloss": "прийдуть"
+    },
+    {
+      "surface": "וארח",
+      "gloss": "і дорогу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "повернуся"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "піду"
+    }
+  ],
+  "timestamp": "2026-08-24T00:42:39.173074638Z",
+  "model": "glm-5.3"
+}

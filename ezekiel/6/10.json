@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І взнають, що я — Яхве; не надаремно я говорив учинити їм це зло.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "і взнають"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨надаремно⟩"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "надаремно"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "я говорив"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "учинити"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "це зло"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "це"
+    }
+  ],
+  "timestamp": "2026-08-23T23:41:12.710014694Z",
+  "model": "glm-5.3"
+}

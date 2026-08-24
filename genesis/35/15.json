@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "І нарік Яаков ⟨את⟩ ім'я ⟨того⟩ місця, де Він говорив ⟨з⟩ ним ⟨את⟩ там, Бейт-Ель.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "І нарік"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ім'я"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ім'я"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨того⟩ місця"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "де"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорив"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ним"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:14.165841396Z",
+  "model": "glm-5.3"
+}

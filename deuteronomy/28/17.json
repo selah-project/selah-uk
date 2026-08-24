@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Проклятий кошик твій і корито для тіста твоє.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Проклятий"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "кошик твій"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "і корито для тіста твоє"
+    }
+  ],
+  "timestamp": "2026-08-23T22:08:10.402697776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 52,
+  "translation": "Ти покохав усякі слова ковтання, язик омани.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ти покохав"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усякі"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ковтання"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "язик"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "омани"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:04.370157709Z",
+  "model": "glm-5.3"
+}

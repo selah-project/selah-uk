@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І ⟨את⟩ Атарот-Шофан, і ⟨את⟩ Яазер, і Йогбегу.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Атарот-Шофан"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Атарот"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Шофан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Яазер"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Яазер"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "і Йогбегу"
+    }
+  ],
+  "timestamp": "2026-08-23T21:58:37.708236949Z",
+  "model": "glm-5.3"
+}

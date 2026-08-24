@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Не лякайся перед ними, бо Яхве, Елогім твій, — у твоїй середині, Ель великий і страшний.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "лякайся"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "перед ними"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елогім твій"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "у твоїй середині"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "і страшний"
+    }
+  ],
+  "timestamp": "2026-08-23T22:03:04.030201663Z",
+  "model": "glm-5.3"
+}

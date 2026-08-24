@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Роззинили на нас свої уста всі вороги наші.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "роззинили"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "на нас"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "свої уста"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "вороги наші"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:33.720317365Z",
+  "model": "glm-5.3"
+}

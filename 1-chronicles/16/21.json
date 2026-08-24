@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 16:21",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Не дав Він людині кривдити їх, і докоряв через них царів.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "дав"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "людині"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "кривдити їх"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "і докоряв"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "через них"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "царів"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:20.608930761Z",
+  "model": "glm-5.3"
+}

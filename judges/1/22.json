@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І пішли вгору дім Йосефа — також вони — на Бейт-Ель, і Яхве ⟨був⟩ з ними.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "І пішли вгору"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефа"
+    },
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "הם",
+      "gloss": "вони"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-Ель"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "і Яхве"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "з ними"
+    }
+  ],
+  "timestamp": "2026-08-23T22:18:29.935702774Z",
+  "model": "glm-5.3"
+}

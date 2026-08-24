@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "І знову вчини́ли Пелиштим і розли́лися в доли́ні.",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "і вчини́ли"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "знову"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Пелиштим"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "і розли́лися"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "в доли́ні"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:57.980874105Z",
+  "model": "glm-5.3"
+}

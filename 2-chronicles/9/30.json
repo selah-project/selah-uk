@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 9:30",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І царював Шломо в Єрушалаїмі над усім Ізраїлем сорок років.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "І царював"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "в Єрушалаїмі"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усім"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлем"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    }
+  ],
+  "timestamp": "2026-08-24T01:25:07.937319445Z",
+  "model": "glm-5.3"
+}

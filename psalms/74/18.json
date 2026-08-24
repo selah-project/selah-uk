@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 74,
+  "translation": "Згадай це: ворог ганьбив Яхве, і народ безбожний зневажив Ім'я Твоє.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Згадай"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ворог"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ганьбив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "і народ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "безбожний"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "зневажив"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Ім'я Твоє"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:34.197933979Z",
+  "model": "glm-5.3"
+}

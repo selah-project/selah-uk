@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 12:19",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "І для Єоярива — Маттенай; для Єдаї — Уззі.",
+  "tokens": [
+    {
+      "surface": "וליויריב",
+      "gloss": "і для Єоярива"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "Маттенай"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "для Єдаї"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Уззі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:19.772659087Z",
+  "model": "glm-5.3"
+}

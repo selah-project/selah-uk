@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 102,
+  "translation": "Яхве, почуй молитву мою, і клич мій до Тебе хай прийде.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "почуй"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "молитву мою"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "і клич мій"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "до Тебе"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "хай прийде"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:18.691169574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Синів і дочок породиш, та не будуть вони тобі, бо підуть у полон.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "Синів"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "і дочок"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "породиш"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "та не"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "будуть"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "підуть"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "у полон"
+    }
+  ],
+  "timestamp": "2026-08-23T22:08:14.933707648Z",
+  "model": "glm-5.3"
+}

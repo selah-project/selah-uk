@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 22:19",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "І тепер посидьте, прошу, також ви цієї ночі, і я пізнаю, що додасть Яхве говорити зі мною.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "і тепер"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "посидьте"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "цьої"
+    },
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ночі"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "і я пізнаю"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "додасть"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорити"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "зі мною"
+    }
+  ],
+  "timestamp": "2026-08-23T21:55:10.297961561Z",
+  "model": "glm-5.3"
+}

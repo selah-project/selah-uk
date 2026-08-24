@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 31:8",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "А Яхве — він Той, Хто йде перед тобою; він буде з тобою; не послабить тебе і не покине тебе; не бійся і не лякайся.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "А Яхве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він ⟨є⟩"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "Той, Хто йде"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "перед тобою"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "з тобою"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "послабить тебе"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "покине тебе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бійся"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "лякайся"
+    }
+  ],
+  "timestamp": "2026-08-23T22:09:47.154025427Z",
+  "model": "glm-5.3"
+}

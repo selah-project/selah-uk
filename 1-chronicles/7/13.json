@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 7:13",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Сини Нафталі: Яхціель, і Ґуні, і Єцер, і Шаллум — сини Білги.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафталі"
+    },
+    {
+      "surface": "יחציאל",
+      "gloss": "Яхціель"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "і Ґуні"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "і Єцер"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "і Шаллум"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Білги"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:02.704394298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "А ти, сину його, Белшацаре, не впокорив свого серця, хоч усе це ти знав.",
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "А ти"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "сину"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "Белшацаре"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "впокорив"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "своє серце"
+    },
+    {
+      "surface": "כל",
+      "gloss": "хоч усе"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "тому що"
+    },
+    {
+      "surface": "די",
+      "gloss": "що"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "це"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ти знав"
+    }
+  ],
+  "timestamp": "2026-08-24T01:01:05.916817531Z",
+  "model": "glm-5.3"
+}

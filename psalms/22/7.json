@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "А я — хробак, а не людина, ганьба людська й мерзотник для народу.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "А я"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "хробак"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "איש",
+      "gloss": "людина"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ганьба"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людська"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "й мерзотник"
+    },
+    {
+      "surface": "עם",
+      "gloss": "для народу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:38.740238180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "За всіма цими словами й за увесь цей обитель так сказав Натан до Давіда.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "за всіма"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "цими словами"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "цими"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "й за увесь"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "цей обитель"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цей"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давіда"
+    }
+  ],
+  "timestamp": "2026-08-24T01:18:15.092577577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "і Азор'я, Езра і Мешуллам,",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "і Азор'я"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Езра"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "і Мешуллам"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:38.601195518Z",
+  "model": "glm-5.3"
+}

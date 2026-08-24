@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 4:4",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І Пенуель батько Гедора, і Езер батько Хуши; це сини Хура, первенця Ефрати, батька Бейт-Лахема.",
+  "tokens": [
+    {
+      "surface": "ופנואל",
+      "gloss": "І Пенуель"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батько"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "Гедора"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "і Езер"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батько"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "Хуши"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Хура"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "первенець"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "Ефрати"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батька"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лахема"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:47.597363488Z",
+  "model": "glm-5.3"
+}

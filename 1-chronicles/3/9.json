@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Усі сини Давіда — окрім синів наложниць — і Тамар, сестра ⟨їх⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Усі"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давіда"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "окрім"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "наложниць"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "і Тамар"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "сестра ⟨їх⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:17.759266526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Свідок вірний не збрехає, а той, хто видихає брехні, — свідок кривди.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "свідок"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "вірний"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "збрехає"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "а видихає"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "брехні"
+    },
+    {
+      "surface": "עד",
+      "gloss": "свідок"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "кривди"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:16.172874518Z",
+  "model": "glm-5.3"
+}

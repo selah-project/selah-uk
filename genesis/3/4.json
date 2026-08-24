@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І сказав змій до жінки: «Не вмираючи — вмрете».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "змій"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жінки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "מות",
+      "gloss": "вмираючи"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "вмрете"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:23.666685836Z",
+  "model": "glm-5.3"
+}

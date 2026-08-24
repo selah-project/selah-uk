@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Лишень твердо тримайся, щоб не їсти кров, бо кров — ⟨це⟩ нефеш, і не їж нефеш разом із м'ясом.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Лишень"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "твердо тримайся"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "щоб не"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "їсти"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кров"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кров"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨це⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "їж"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "עם",
+      "gloss": "разом із"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "м'ясом"
+    }
+  ],
+  "timestamp": "2026-08-23T22:04:25.146708816Z",
+  "model": "glm-5.3"
+}

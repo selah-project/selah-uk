@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Праведність стереже путь невинного, а нечестя повалює грішника.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "праведність"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "стереже"
+    },
+    {
+      "surface": "תם",
+      "gloss": "невинного"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "путь"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "а нечестя"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "повалює"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "грішника"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:09.250511604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 32:24",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "У ті дні захворів Хізкіягу аж до смерті, і молився до Яхве, і Він сказав йому, і знак дав йому.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "У дні"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ті"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "захворів"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Хізкіягу"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "למות",
+      "gloss": "смерті"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "і молився"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "і знак"
+    },
+    {
+      "surface": "нתן",
+      "gloss": "дав"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    }
+  ],
+  "timestamp": "2026-08-24T01:32:26.707531041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Тісніть ⟨את⟩ мідіянців — і вдарите ⟨את⟩ їх.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "Тісніть"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мідіянців"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "мідіянців"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "і вдарите"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ їх"
+    }
+  ],
+  "timestamp": "2026-08-23T21:55:39.319916706Z",
+  "model": "glm-5.3"
+}

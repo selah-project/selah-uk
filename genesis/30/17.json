@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 30:17",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "І почув Елогім Лію, і зачала вона, і народила Яакову сина — п'ятого.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "І почув"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лії"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "і зачала"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "і народила"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яакову"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "п'ятого"
+    }
+  ],
+  "timestamp": "2026-08-23T21:17:03.667724303Z",
+  "model": "glm-5.3"
+}

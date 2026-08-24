@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 44:27",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 44,
+  "translation": "Що говорить безодні: «Висхни», і ріки твої Я осушу.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "що говорить"
+    },
+    {
+      "surface": "לצולה",
+      "gloss": "безодні"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "висхни"
+    },
+    {
+      "surface": "ונהרתיך",
+      "gloss": "і ріки твої"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "осушу"
+    }
+  ],
+  "timestamp": "2026-08-23T23:16:09.021595157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Передумав Яхве ⟨щодо⟩ цього: «І цього не буде», — сказав Адонай Яхве.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "Передумав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "щодо"
+    },
+    {
+      "surface": "зאת",
+      "gloss": "цього"
+    },
+    {
+      "surface": "גם",
+      "gloss": "І"
+    },
+    {
+      "surface": "היא",
+      "gloss": "цього"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T00:01:05.165879388Z",
+  "model": "glm-5.3"
+}

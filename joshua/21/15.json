@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І ⟨את⟩ Холон і ⟨את⟩ його околиці, і ⟨את⟩ Девір і ⟨את⟩ його околиці.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Холон"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Холон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "околиць"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "околиці"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Девір"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Девір"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "околиць"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "околиці"
+    }
+  ],
+  "timestamp": "2026-08-23T22:16:57.008806315Z",
+  "model": "glm-5.3"
+}

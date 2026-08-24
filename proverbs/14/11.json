@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Дім нечестивих буде зруйнований, а шатро прямих квітне.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Дім"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивих"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "буде зруйнований"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "а шатро"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "прямих"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "квітне"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:39.179594631Z",
+  "model": "glm-5.3"
+}

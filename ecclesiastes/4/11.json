@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Також якщо ляжуть двоє, тепло їм, а одному як зігрітись?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Також"
+    },
+    {
+      "surface": "אם",
+      "gloss": "якщо"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ляжуть"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двоє"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "тепло"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "а одному"
+    },
+    {
+      "surface": "איך",
+      "gloss": "як"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "зігрітись"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:29.687397159Z",
+  "model": "glm-5.3"
+}

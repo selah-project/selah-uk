@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Небеса ⟨є⟩ на висоті, і земля — на глибині, і серце царів — недослідне.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "Небеса"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "на висоті"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "і земля"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "на глибині"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "і серце"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "царів"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "досліду"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:39.470705909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Дослідімо шляхи наші й розвідаймо, і повернімось до Яхве.",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "Дослідімо"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "шляхи наші"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "й розвідаймо"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "і повернімось"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:35.331029659Z",
+  "model": "glm-5.3"
+}

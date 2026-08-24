@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Мізмор Давіда: Яхве — пастух мій, не буду я Needsing",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "мізмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давіда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "пастух мій"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "буду я мати Needs"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:11.177042939Z",
+  "model": "glm-5.3"
+}

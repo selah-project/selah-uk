@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 2:13",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Що покидають стежки правоти, щоб ходити шляхами темряви;",
+  "tokens": [
+    {
+      "surface": "העזבים",
+      "gloss": "що покидають"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "стежки"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "правоти"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "щоб ходити"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "шляхами"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "темряви"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:40.695974347Z",
+  "model": "glm-5.3"
+}

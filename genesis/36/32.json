@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "І зацарював в Едомі Бела, син Беора; а ім'я його міста — Дінгава.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "І зацарював"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "в Едомі"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Бела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Беора"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а ім'я"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "його міста"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "Дінгава"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:34.103494173Z",
+  "model": "glm-5.3"
+}

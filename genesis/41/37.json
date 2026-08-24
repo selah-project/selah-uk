@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 41:37",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 41,
+  "translation": "І сподобалася ⟨ця⟩ справа в очах Паро і в очах усіх його рабів.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "і сподобалася"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "справа"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "і в очах"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіх"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "його рабів"
+    }
+  ],
+  "timestamp": "2026-08-23T21:21:59.811223700Z",
+  "model": "glm-5.3"
+}

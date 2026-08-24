@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І Авіґаїл народила ⟨את⟩ Амасу, а батько Амаси — Йетер ⟨їсьмаелянин⟩.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "І Авіґаїл"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "народила"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амасу"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Амасу"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "а батько"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Амаси"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Йетер"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "їсьмаелянин"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:24.566840451Z",
+  "model": "glm-5.3"
+}

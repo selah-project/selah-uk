@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І в Єрушалаїмі мешкали ⟨деякі⟩ з синів Єгуди, і з синів Біньяміна, і з синів Ефраїма та Менаше.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "і в Єрушалаїмі"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "мешкали"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "і з"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Біньяміна"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "і з"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраїма"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "та Менаше"
+    }
+  ],
+  "timestamp": "2026-08-24T01:57:56.652948683Z",
+  "model": "glm-5.3"
+}

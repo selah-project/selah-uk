@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 11:36",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "А з левитів — відділи Єгуди ⟨були⟩ для Біньяміна.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "а з"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитів"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "відділи"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "לבנימין",
+      "gloss": "для Біньяміна"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:14.144566620Z",
+  "model": "glm-5.3"
+}

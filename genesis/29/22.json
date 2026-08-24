@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І зібрав Лаван ⟨את⟩ усіх чоловіків ⟨того⟩ місця, і зробив бенкет.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "І зібрав"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усіх чоловіків"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіх"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "чоловіків"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "місця"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "і зробив"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "бенкет"
+    }
+  ],
+  "timestamp": "2026-08-23T21:16:56.732923508Z",
+  "model": "glm-5.3"
+}

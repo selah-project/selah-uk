@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 19:30",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Ума ж, і Афек, і Рехов: міст двадцять і два, і їхні селища.",
+  "tokens": [
+    {
+      "surface": "ועמה",
+      "gloss": "і Ума"
+    },
+    {
+      "surface": "ואפק",
+      "gloss": "і Афек"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "і Рехов"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "міст"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцять"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "і два"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "і їхні селища"
+    }
+  ],
+  "timestamp": "2026-08-24T01:40:36.137948563Z",
+  "model": "glm-5.3"
+}

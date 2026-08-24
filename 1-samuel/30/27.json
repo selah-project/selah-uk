@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 30:27",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "тим, що в Бейт-Елі, і тим, що в Рамоті Негеву, і тим, що в Ятірі,",
+  "tokens": [
+    {
+      "surface": "לאשר",
+      "gloss": "тим, що"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "в Бейт-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Елі"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "і тим, що"
+    },
+    {
+      "surface": "ברמות",
+      "gloss": "в Рамоті"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Негеву"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "і тим, що"
+    },
+    {
+      "surface": "ביתר",
+      "gloss": "в Ятірі"
+    }
+  ],
+  "timestamp": "2026-08-23T22:35:13.852398201Z",
+  "model": "glm-5.3"
+}

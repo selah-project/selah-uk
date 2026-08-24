@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 23:16",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І уклав Єгояда заповіт між собою і між усім народом і між царем — бути народом для Яхве.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "і уклав"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Єгояда"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "заповіт"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "між собою"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "і між"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усім"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народом"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "і між"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царем"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "бути"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "народом"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "для Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:29:46.179649811Z",
+  "model": "glm-5.3"
+}

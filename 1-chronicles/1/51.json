@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І помер Гадад, і сталися князі Едому: князь Тімна, князь Алва, князь Йтет.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "І помер"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Гадад"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "і сталися"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "князі"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едому"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "князь"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Тімна"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "князь"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "Алва"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "князь"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Йтет"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:26.527447556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 25:7",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І це дні років життя Аврагама, які він прожив: сто років і сімдесят років і п'ять років.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "І це"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дні"
+    },
+    {
+      "surface": "שני",
+      "gloss": "років"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "життя"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагама"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "חי",
+      "gloss": "він прожив"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "і сімдесят"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "і п'ять"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "років"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:31.208053086Z",
+  "model": "glm-5.3"
+}

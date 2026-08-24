@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Губи цілує той, хто відповідає слова правдиві.",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "губи"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "цілує"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "той, хто відповідає"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "правдиві"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:58.629560187Z",
+  "model": "glm-5.3"
+}

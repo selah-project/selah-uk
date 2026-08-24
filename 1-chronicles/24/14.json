@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Білзі — п'ятнадцятому, Іммеру — шістнадцятому",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "Білзі"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "п'ять"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надцять"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "Іммеру"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шість"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надцять"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:18.577934848Z",
+  "model": "glm-5.3"
+}

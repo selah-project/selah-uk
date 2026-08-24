@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 59,
+  "translation": "Ось не скоротилася рука Яхве, щоб не спасти, і не важчеє вухо ⟨його⟩, щоб не чути.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "скоротилася"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "щоб не спасти"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "важчеє"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "вухо"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "щоб не чути"
+    }
+  ],
+  "timestamp": "2026-08-23T23:21:03.745897648Z",
+  "model": "glm-5.3"
+}

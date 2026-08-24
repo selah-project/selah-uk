@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Життя тіла — серце цілюще, а гниль костей — заздрість.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "Життя"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "тіла"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "цілюще"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "а гниль"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "костей"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "заздрість"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:40.554793842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Як понесу я один тягар ваш, і ношу вашу, і суперечки ваші?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Як"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "понесу я"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "один"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "тягар ваш"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "і ношу вашу"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "і суперечки ваші"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:03.056458486Z",
+  "model": "glm-5.3"
+}

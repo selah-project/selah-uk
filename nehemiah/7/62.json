@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "nehemiah 7:62",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Сини Делаї, сини Товії, сини Некоди — шістсот сорок два.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "Делаї"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Товії"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "Некоди"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шістсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "—"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "два"
+    }
+  ],
+  "timestamp": "2026-08-24T01:09:49.687611261Z",
+  "model": "glm-5.3"
+}

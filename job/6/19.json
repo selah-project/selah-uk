@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 6:19",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Дивилися каравани Теми, хід Шеви чекав на них.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "дивилися"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "каравани"
+    },
+    {
+      "surface": "תמא",
+      "gloss": "Теми"
+    },
+    {
+      "surface": "הליכת",
+      "gloss": "хід"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Шеви"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "чекав"
+    },
+    {
+      "surface": "למו",
+      "gloss": "на них"
+    }
+  ],
+  "timestamp": "2026-08-24T00:40:07.970394954Z",
+  "model": "glm-5.3"
+}

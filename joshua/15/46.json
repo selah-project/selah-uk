@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 15:46",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "від Екрону і на захід, усе, що біля боку Ашдоду, та селища їхні.",
+  "tokens": [
+    {
+      "surface": "מעקרון",
+      "gloss": "від Екрону"
+    },
+    {
+      "surface": "וימה",
+      "gloss": "і на захід"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "על",
+      "gloss": "біля"
+    },
+    {
+      "surface": "יד",
+      "gloss": "боку"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ашдоду"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "та селища їхні"
+    }
+  ],
+  "timestamp": "2026-08-24T01:40:31.865398864Z",
+  "model": "glm-5.3"
+}

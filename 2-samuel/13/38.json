@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 13:38",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І Авшалом утік, і пішов до Гешуру, і був там три роки.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "і Авшалом"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "утік"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "і пішов"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "до Гешуру"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і був"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "роки"
+    }
+  ],
+  "timestamp": "2026-08-23T22:40:13.916141077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Семи років ⟨був⟩ Єгоаш син, коли він царював.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семи"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "років"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Єгоаш"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "у його царюванні"
+    }
+  ],
+  "timestamp": "2026-08-23T23:00:01.215091780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 68,
+  "translation": "Керівникові ⟨хору⟩. Давида. Мізмур, пісня.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові ⟨хору⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Мізмур"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "пісня"
+    }
+  ],
+  "timestamp": "2026-08-24T00:18:57.066460105Z",
+  "model": "glm-5.3"
+}

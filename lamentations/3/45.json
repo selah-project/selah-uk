@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Поміт і погань ти вчинив нас серед народів.",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "поміт"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "і погань"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "ти вчинив нас"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "серед"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народів"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:33.720014533Z",
+  "model": "glm-5.3"
+}

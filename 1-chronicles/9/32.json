@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 9:32",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "А з синів кегатитів — з братів їхніх — над хлібом ряду, щоб приготувати його шабат-у-шабат.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "А з"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "кегатитів"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "братів їхніх"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлібом"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "ряду"
+    },
+    {
+      "surface": "להכין",
+      "gloss": "щоб приготувати"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "шабат-"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "у-шабат"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:36.028194975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Князів на їхніх очах повішено, обличчя старців не шановано.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "князів"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "на їхніх очах"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "повішено"
+    },
+    {
+      "surface": "פני",
+      "gloss": "обличчя"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "старців"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "шановано"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:04.912330154Z",
+  "model": "glm-5.3"
+}

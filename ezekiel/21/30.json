@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 21:30",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "А ти, пробитий, нечестивцю, князю Ізраїлю, чий день настав, у час провини — кінець!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А ти"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "пробитий"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "нечестивцю"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князю"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлю"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кому"
+    },
+    {
+      "surface": "בא",
+      "gloss": "настав"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "день"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "у час"
+    },
+    {
+      "surface": "עון",
+      "gloss": "провини"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "кінець"
+    }
+  ],
+  "timestamp": "2026-08-23T23:47:02.482897034Z",
+  "model": "glm-5.3"
+}

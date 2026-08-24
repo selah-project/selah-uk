@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 10:15",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І піднялися керувим — це ⟨та⟩ жива істота, яку я бачив при річці Кевар.",
+  "tokens": [
+    {
+      "surface": "וירמו",
+      "gloss": "І піднялися"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "керувим"
+    },
+    {
+      "surface": "היא",
+      "gloss": "це"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "жива істота"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "я бачив"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "при річці"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "Кевар"
+    }
+  ],
+  "timestamp": "2026-08-23T23:43:09.449895426Z",
+  "model": "glm-5.3"
+}

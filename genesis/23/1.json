@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І були роки життя Сари сто років і двадцять років і сім років — роки життя Сари.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "І були"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "життя"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сари"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "і двадцять"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "і сім"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "років"
+    },
+    {
+      "surface": "שני",
+      "gloss": "роки"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "життя"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сари"
+    }
+  ],
+  "timestamp": "2026-08-23T21:13:58.153408169Z",
+  "model": "glm-5.3"
+}

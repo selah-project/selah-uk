@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Бо є слова багаті, що примножують гевель; що ⟨є⟩ лишкового для людини?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יש",
+      "gloss": "є"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "багаті"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "що примножують"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "гевель"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "лишкового"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "для людини"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:42.197127737Z",
+  "model": "glm-5.3"
+}

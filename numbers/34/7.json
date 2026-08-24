@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 34:7",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "І це буде вам межа півночі: від моря Великого позначите собі гору Гора.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "і це"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "межа"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "півночі"
+    },
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "הים",
+      "gloss": "моря"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "Великого"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "позначите"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "собі"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Гора"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:27.834219673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 53,
+  "translation": "Хіба не знають чинителі лиха — їдці мого народу, що їли хліб? Елогіма не кликали.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Хіба не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знають"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "чинителі"
+    },
+    {
+      "surface": "און",
+      "gloss": "лиха"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "їдці"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "мого народу"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "що їли"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хліб"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогіма"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "кликали"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:09.157888146Z",
+  "model": "glm-5.3"
+}

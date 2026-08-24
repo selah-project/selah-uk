@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Роззявили на мене свої пащі, лев роздираючий і ревучий.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "роззявили"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на мене"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "свої пащі"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "лев"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "роздираючий"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "і ревучий"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:24.182266758Z",
+  "model": "glm-5.3"
+}

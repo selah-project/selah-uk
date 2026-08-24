@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Бо грабіж замислює серце їхнє, і лихоту уста їхні говорять.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "שד",
+      "gloss": "грабіж"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "замислює"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "серце їхнє"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "і лихоту"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "уста їхні"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "говорять"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:44.045872110Z",
+  "model": "glm-5.3"
+}

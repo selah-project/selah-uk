@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "nehemiah 7:39",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Коґани: сини Єдаяї, з дому Йешуї: дев'ятсот сімдесят і три.",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "коґани"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Єдаяї"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "з дому"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Йешуї"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "дев'ятсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "сімдесят"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "і три"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:02.982447465Z",
+  "model": "glm-5.3"
+}

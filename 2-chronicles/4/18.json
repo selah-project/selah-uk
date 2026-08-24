@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 4:18",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І зробив Шеломо всі ці посудини у великій кількості дуже, бо не було зважене ваги міді.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "І зробив"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "посудини"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "у великій кількості"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "дуже"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נחקר",
+      "gloss": "було зважене\/обчислене"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "вага"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "міді"
+    }
+  ],
+  "timestamp": "2026-08-24T01:22:41.134712418Z",
+  "model": "glm-5.3"
+}

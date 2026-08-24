@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Тоді від присутності Його була послана долоня, і цей напис надписано.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Тоді"
+    },
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "присутності Його"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "була послана"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "долоня"
+    },
+    {
+      "surface": "די",
+      "gloss": "яка"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "руки"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "і напис"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "цей"
+    },
+    {
+      "surface": "рשים",
+      "gloss": "надписано"
+    }
+  ],
+  "timestamp": "2026-08-24T01:01:05.917202894Z",
+  "model": "glm-5.3"
+}

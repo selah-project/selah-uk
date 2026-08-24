@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Для Харима — третій, для Сеорима — четвертий.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "Для Харима"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третій"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "для Сеорима"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "четвертий"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:18.201159582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 36:28",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "І дві дошки зробив для кутів скинії, ззаду.",
+  "tokens": [
+    {
+      "surface": "ושני",
+      "gloss": "і дві"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "дошки"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "зробив"
+    },
+    {
+      "surface": "למקצעת",
+      "gloss": "для кутів"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "скинії"
+    },
+    {
+      "surface": "בירכתים",
+      "gloss": "ззаду"
+    }
+  ],
+  "timestamp": "2026-08-23T21:36:55.229225138Z",
+  "model": "glm-5.3"
+}

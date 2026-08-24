@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "А сини Елпаала: Евр, і Мішам, і Шемед, — він збудував ⟨את⟩ Оно і ⟨את⟩ Лод та селища її.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "а сини"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Елпаала"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Евр"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "і Мішам"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "і Шемед"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "збудував"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Оно"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Оно"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Лод"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Лод"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "та селища її"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:49.082701518Z",
+  "model": "glm-5.3"
+}

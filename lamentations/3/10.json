@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Ведмідь, що чатує, ⟨він⟩ мені, лев у засідках.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "ведмідь"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "що чатує"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨він⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "лев"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "у засідках"
+    }
+  ],
+  "timestamp": "2026-08-24T00:51:51.830486796Z",
+  "model": "glm-5.3"
+}

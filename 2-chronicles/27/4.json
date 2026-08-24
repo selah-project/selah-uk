@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 27:4",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "І міста збудував він у горах Єгуди, і в лісах збудував фортеці й башти.",
+  "tokens": [
+    {
+      "surface": "וערים",
+      "gloss": "І міста"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "збудував"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "у горах"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "ובחרשים",
+      "gloss": "і в лісах"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "збудував"
+    },
+    {
+      "surface": "בירניות",
+      "gloss": "фортеці"
+    },
+    {
+      "surface": "ומגדלים",
+      "gloss": "й башти"
+    }
+  ],
+  "timestamp": "2026-08-24T01:31:11.365095749Z",
+  "model": "glm-5.3"
+}

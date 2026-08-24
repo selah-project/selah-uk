@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "А якщо дар на мархешет — твій корбан, тонке борошо в олії буде зроблене.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А якщо"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "дар"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "на мархешет"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "твій корбан"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "тонке борошо"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "в олії"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "буде зроблене"
+    }
+  ],
+  "timestamp": "2026-08-23T21:37:53.538525083Z",
+  "model": "glm-5.3"
+}

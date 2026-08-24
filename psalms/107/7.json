@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 107,
+  "translation": "І провів їх прямим шляхом, щоб іти до міста ⟨для⟩ мешкання.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "І провів їх"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "шляхом"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "прямим"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "щоб іти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "міста"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "мешкання"
+    }
+  ],
+  "timestamp": "2026-08-24T01:53:33.048384477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 70,
+  "translation": "Нехай осоромляться й засоромляться ті, хто шукає ⟨את⟩ душу мою; нехай відступать назад і пр kind= confounded",
+  "tokens": [],
+  "timestamp": "2026-08-24T00:19:10.005531185Z",
+  "model": "glm-5.3"
+}

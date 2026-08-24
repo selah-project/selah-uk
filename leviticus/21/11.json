@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І до жодної померлої душі не ввійде: за батька свого і за матір свою не оскверниться.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "І до"
+    },
+    {
+      "surface": "כל",
+      "gloss": "жодної"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "душі"
+    },
+    {
+      "surface": "מת",
+      "gloss": "померлої"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ввійде"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "за батька свого"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "і за матір свою"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "оскверниться"
+    }
+  ],
+  "timestamp": "2026-08-23T21:45:15.950970421Z",
+  "model": "glm-5.3"
+}

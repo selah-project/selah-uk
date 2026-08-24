@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 22:5",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Але якщо не послухаєте ⟨את⟩ слів цих — бо Мною поклявся, — слово Яхве, — то на спустошення стане дім цей.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а якщо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "послушаєте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слів цих"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слів"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "цих"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Мною"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "поклявся"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "на спустошення"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "стане"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цей"
+    }
+  ],
+  "timestamp": "2026-08-23T23:28:44.724140124Z",
+  "model": "glm-5.3"
+}

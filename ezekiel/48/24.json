@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 48:24",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "А при кордоні Біньяміна — від краю на схід аж до краю на захід: Шимон — один.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "а при"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "кордоні"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Біньяміна"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "від краю"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "на схід"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "краю"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "на захід"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-23T23:56:33.132867832Z",
+  "model": "glm-5.3"
+}

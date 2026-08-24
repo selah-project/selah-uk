@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "А трупи ваші — ви самі впадете в цій пустелі.",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "а трупи ваші"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви самі"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "впадете"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "у пустелі"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цій"
+    }
+  ],
+  "timestamp": "2026-08-23T21:52:18.725395169Z",
+  "model": "glm-5.3"
+}

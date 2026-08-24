@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "Отрута танінімів — їхнє вино, і жорстока голова гадюок.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "отрута"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "танінімів"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "їхнє вино"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "і жорстока голова"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "гадюк"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "жорстока"
+    }
+  ],
+  "timestamp": "2026-08-23T22:09:50.555670540Z",
+  "model": "glm-5.3"
+}

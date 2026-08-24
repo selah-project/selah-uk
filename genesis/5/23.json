@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І стали всі дні Ханоха п'ять і шістдесят років і триста років.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І стали"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дні"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханоха"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "п'ять"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "і шістдесят"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "і триста"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "років"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:47.045340326Z",
+  "model": "glm-5.3"
+}

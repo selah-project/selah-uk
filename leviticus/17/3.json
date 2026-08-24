@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Кожен чоловік із дому Ісраейля, хто заріже вола, або ягня, або козу в таборі, або хто заріже поза табором,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кожен"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "із дому"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраейля"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хто"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "заріже"
+    },
+    {
+      "surface": "שור",
+      "gloss": "вола"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "ягня"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "עז",
+      "gloss": "козу"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "в таборі"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хто"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "заріже"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "поза"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "табором"
+    }
+  ],
+  "timestamp": "2026-08-23T21:43:28.498474895Z",
+  "model": "glm-5.3"
+}

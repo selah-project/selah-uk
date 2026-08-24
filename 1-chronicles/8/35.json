@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "А сини Міхи: Пітон, і Мелех, і Тагареа, і Ахаз.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Міхи"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "Пітон"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "і Мелех"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "і Тагареа"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "і Ахаз"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:37.135435840Z",
+  "model": "glm-5.3"
+}

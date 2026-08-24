@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Хто ⟨це⟩ сказав — і ⟨це⟩ сталося, якщо Адонай не повелів?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Хто"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨це⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "і сталося"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелів"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:35.330295383Z",
+  "model": "glm-5.3"
+}

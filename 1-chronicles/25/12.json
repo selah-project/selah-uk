@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 25:12",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "П'ятий Нетаньягу, сини його і брати його — дванадцять.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "П'ятий"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "Нетаньягу"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "сини його"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "і брати його"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дванадцять"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(десять)"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:28.950910078Z",
+  "model": "glm-5.3"
+}

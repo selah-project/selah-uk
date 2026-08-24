@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "З тієї землі вийшов Ашур і збудував ⟨את⟩ Ніневе, і ⟨את⟩ Реховот-Ір, і ⟨את⟩ Калах.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "З"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "тієї землі"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тієї"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "вийшов"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "і збудував"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ніневе"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ніневе"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Реховот-Ір"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Реховот"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ір"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Калах"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Калах"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:56.753093985Z",
+  "model": "glm-5.3"
+}

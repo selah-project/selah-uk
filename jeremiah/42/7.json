@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 42,
+  "translation": "І сталося в кінці десяти днів, і було слово Яхве до Єреміїху.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "в кінці"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "десяти"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "і було"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Єреміїху"
+    }
+  ],
+  "timestamp": "2026-08-23T23:36:21.755970576Z",
+  "model": "glm-5.3"
+}

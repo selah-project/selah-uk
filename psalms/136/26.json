@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 136,
+  "translation": "Дякуйте Елові ⟨the⟩ небес, бо навіки його хесед.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "дякуйте"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Елові"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨the⟩ небес"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "його хесед"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:20.583712233Z",
+  "model": "glm-5.3"
+}

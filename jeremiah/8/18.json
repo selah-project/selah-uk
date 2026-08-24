@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 8:18",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Знемога моя — смуток на мені, моє серце хворе.",
+  "tokens": [
+    {
+      "surface": "מבליגיתי",
+      "gloss": "знемога моя"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на мені"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "смуток"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "моє серце"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "хворе"
+    }
+  ],
+  "timestamp": "2026-08-23T23:25:55.992830808Z",
+  "model": "glm-5.3"
+}

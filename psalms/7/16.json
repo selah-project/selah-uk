@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Яму викопав і розкопав її, — і впав у провалля, яке вчинив.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "яму"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "викопав"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "і розкопав її"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "і впав"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "у провалля"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "яке вчинив"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:27.450612837Z",
+  "model": "glm-5.3"
+}

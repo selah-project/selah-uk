@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І сталося в кінці днів, що Каїн приніс з плоду землі дарунок Яхве.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "в кінці"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днів"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "що приніс"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каїн"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "з плоду"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "землі"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "дарунок"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:55.140380772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "і Ягца, і Кедемот, і Мефаат.",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "і Ягца"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "і Кедемот"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "і Мефаат"
+    }
+  ],
+  "timestamp": "2026-08-24T01:39:51.787768292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 116,
+  "translation": "Обітниці свої Яхве виплачу, ⟨нині⟩ перед усім народом Його.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Обітниці свої"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "виплачу"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "перед"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨нині⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "усім"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народом Його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:56.491113830Z",
+  "model": "glm-5.3"
+}

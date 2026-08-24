@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Чи ⟨є⟩ річ, про яку скажуть: дивись, це нове? Вона вже була віками, що були перед нами.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "чи ⟨є⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "річ"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "скажуть"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "дивись"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нове"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "вже"
+    },
+    {
+      "surface": "היה",
+      "gloss": "була"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "віками"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "היה",
+      "gloss": "були"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "перед нами"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:37.633069538Z",
+  "model": "glm-5.3"
+}

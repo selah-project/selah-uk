@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Устань, бо на тобі ця справа, і ми з тобою; будь сильний і дій.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "устань"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на-тобі"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "справа"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "і-ми"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "з-тобою"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "будь-сильний"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "і-дій"
+    }
+  ],
+  "timestamp": "2026-08-24T01:07:54.827152685Z",
+  "model": "glm-5.3"
+}

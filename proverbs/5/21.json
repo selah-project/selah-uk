@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 5:21",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Бо перед очима Яхве ⟨ дороги ⟩ людини, і всі його стежі Він виважує.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "перед"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очима"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "дороги"
+    },
+    {
+      "surface": "איש",
+      "gloss": "людини"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і всі"
+    },
+    {
+      "surface": "מעגלתיו",
+      "gloss": "його стежі"
+    },
+    {
+      "surface": "מפלס",
+      "gloss": "виважує"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:16.634440136Z",
+  "model": "glm-5.3"
+}

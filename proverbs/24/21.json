@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Бійся, сину мій, Яхве ⟨את⟩ і царя, із мінливими не смешуйся.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "Бійся"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сину мій"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "і царя"
+    },
+    {
+      "surface": "עם",
+      "gloss": "із"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "мінливими"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "смешуйся"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:15.612910526Z",
+  "model": "glm-5.3"
+}

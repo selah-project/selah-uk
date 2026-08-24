@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "і Бейт-Пеор, і схили га-Пісґи, і Бейт га-Єшіммот",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "і Бейт"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Пеор"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "і схили"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "га-Пісґи"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "і Бейт"
+    },
+    {
+      "surface": "הישמות",
+      "gloss": "га-Єшіммот"
+    }
+  ],
+  "timestamp": "2026-08-24T01:40:10.137108351Z",
+  "model": "glm-5.3"
+}

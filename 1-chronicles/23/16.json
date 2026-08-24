@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Сини Гершома: Шевуел, голова.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Гершома"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "Шевуел"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "голова"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:04.248729853Z",
+  "model": "glm-5.3"
+}

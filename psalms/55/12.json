@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 55,
+  "translation": "Загибіль посеред неї, і не відходить з площ її гніт і підступ.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Загибіль"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "посеред неї"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "відходить"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "з площ її"
+    },
+    {
+      "surface": "תך",
+      "gloss": "гніт"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "і підступ"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:48.456847994Z",
+  "model": "glm-5.3"
+}

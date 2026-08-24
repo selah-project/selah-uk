@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Не сидів я з людьми марності, і з прихованими не увійду.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "сидів я"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "людьми"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "марності"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "і з"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "прихованими"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "увійду"
+    }
+  ],
+  "timestamp": "2026-08-24T00:13:12.208221572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І не здобув сили Яровам більше за днів Авійї; і вразив його Яхве, і він помер.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "здобув"
+    },
+    {
+      "surface": "כח",
+      "gloss": "сили"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яровам"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "більше"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "за днів"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "Авійї"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "і вразив його"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "і помер"
+    }
+  ],
+  "timestamp": "2026-08-24T01:26:09.108451561Z",
+  "model": "glm-5.3"
+}

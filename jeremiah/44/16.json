@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 44,
+  "translation": "Слово, що ти говорив до нас в Ім'ї Яхве, — ми його не слухаємо тебе.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Слово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ти говорив"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "до нас"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "в Ім'ї"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "слухаємо"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тебе"
+    }
+  ],
+  "timestamp": "2026-08-23T23:36:51.281893492Z",
+  "model": "glm-5.3"
+}

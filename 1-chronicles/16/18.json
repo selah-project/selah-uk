@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": " кажучи: Тобі дам землю Кенаан, вимірювальний шнур ⟨вашої⟩ спадщини вашої.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "дам"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "вимірювальний шнур"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "спадщини вашої"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:48.384309928Z",
+  "model": "glm-5.3"
+}

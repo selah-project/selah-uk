@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Шеол і Аваддон не наситяться, і очі людини не наситяться.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "і Аваддон"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "наситяться"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "і очі"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людини"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "наситяться"
+    }
+  ],
+  "timestamp": "2026-08-24T00:38:15.173287602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І осідлав ⟨Він⟩ керуба, і полетів, і понісся на крилах вітру.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "І осідлав"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "керуба"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "і полетів"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "і понісся"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "крилах"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "вітру"
+    }
+  ],
+  "timestamp": "2026-08-24T00:11:56.245948434Z",
+  "model": "glm-5.3"
+}

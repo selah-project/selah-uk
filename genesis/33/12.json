@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І сказав: Рушаймо й підемо, і я піду перед тобою.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "рушаймо"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "й підемо"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "і я піду"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "перед тобою"
+    }
+  ],
+  "timestamp": "2026-08-23T21:18:22.042461595Z",
+  "model": "glm-5.3"
+}

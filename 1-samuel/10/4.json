@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І спитають тебе про мир, і дадуть тобі два хліби, і візьмеш з руки їх.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "І спитають"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "про мир"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "і дадуть"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "два"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хліби"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "і візьмеш"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "з руки їх"
+    }
+  ],
+  "timestamp": "2026-08-23T22:28:52.709734613Z",
+  "model": "glm-5.3"
+}

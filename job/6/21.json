@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 6:21",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Бо тепер ви стали ⟨нічим⟩: не бачите жаху — і лякаєтесь.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "тепер"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ви стали"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "бачите"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "жах"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "і лякаєтесь"
+    }
+  ],
+  "timestamp": "2026-08-24T00:40:28.252533379Z",
+  "model": "glm-5.3"
+}

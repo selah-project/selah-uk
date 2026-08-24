@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 72,
+  "translation": "Скінчилися молитви Давіда, сина Їшая.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Скінчилися"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "молитви"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давіда"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Їшая"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:13.613431774Z",
+  "model": "glm-5.3"
+}

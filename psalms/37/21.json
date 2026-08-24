@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "Позичає лихий і не віддає, а праведний ласкавий і дає.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "Позичає"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "лихий"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "віддає"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "а праведний"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ласкавий"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "і дає"
+    }
+  ],
+  "timestamp": "2026-08-24T01:51:55.254608102Z",
+  "model": "glm-5.3"
+}

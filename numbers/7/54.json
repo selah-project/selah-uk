@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 7:54",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Восьмого дня — князь синів Менаше: Гамліель, син Педацура.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "восьмого"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князь"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Гамліель"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "Педа"
+    },
+    {
+      "surface": "צור",
+      "gloss": "цура"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:38.928250283Z",
+  "model": "glm-5.3"
+}

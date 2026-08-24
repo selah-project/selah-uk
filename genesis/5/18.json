@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І жив Яред шістдесят і два роки, і сто років, і породив ⟨את⟩ Ханоха.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "І жив"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Яред"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "два"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "і шістдесят"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "роки"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "і сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "років"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "і породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ханоха"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханоха"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:31.494362375Z",
+  "model": "glm-5.3"
+}

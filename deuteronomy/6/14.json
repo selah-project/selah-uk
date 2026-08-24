@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Не ходітимете за іншими богами, з-поміж богів ⟨the⟩ народів, що навколо вас.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "ходитимете"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "за"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богами"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "іншими"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "з-поміж богів"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народів"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "навколо вас"
+    }
+  ],
+  "timestamp": "2026-08-23T22:01:42.591079306Z",
+  "model": "glm-5.3"
+}

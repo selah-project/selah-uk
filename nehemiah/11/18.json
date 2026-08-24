@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Усіх левітів у святому місті — двісті вісімдесят чотири.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Усіх"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левітів"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "у місті"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "святому"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двісті"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "вісімдесят"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "і чотири"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:29.135448799Z",
+  "model": "glm-5.3"
+}

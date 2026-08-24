@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 145,
+  "translation": "Відкриваєш ⟨את⟩ руку Твою, і насичуєш кожне живе бажанням.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "Відкриваєш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руку Твою"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "руку Твою"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "і насичуєш"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "кожне"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живе"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "бажанням"
+    }
+  ],
+  "timestamp": "2026-08-24T00:30:42.387617748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І сказав Яаков Лаванові: дай ⟨את⟩ мою жінку, бо сповнилися мої дні, і я ввійду до неї.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лавана"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "дай"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мою жінку"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "мою жінку"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "сповнилися"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "мої дні"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "і я ввійду"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "до неї"
+    }
+  ],
+  "timestamp": "2026-08-23T21:16:56.732677266Z",
+  "model": "glm-5.3"
+}

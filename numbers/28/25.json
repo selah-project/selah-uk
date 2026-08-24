@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 28:25",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "І в день сьомий: святе зібрання буде вам, уся робота служби не робіть.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "і в день"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "сьомий"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "зібрання"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "святе"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "כל",
+      "gloss": "уся"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "робота"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "служби"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "робіть"
+    }
+  ],
+  "timestamp": "2026-08-23T21:57:00.045502531Z",
+  "model": "glm-5.3"
+}

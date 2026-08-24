@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 25:38",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І щипці її, і лотки для ґноту її — золото чисте.",
+  "tokens": [
+    {
+      "surface": "ומלקחיה",
+      "gloss": "і щипці її"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "і лотки її"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золото"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисте"
+    }
+  ],
+  "timestamp": "2026-08-23T21:32:34.982839161Z",
+  "model": "glm-5.3"
+}

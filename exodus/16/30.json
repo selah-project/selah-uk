@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І спочив народ у сьомий день.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "І-спочив"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у-день"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "сьомий"
+    }
+  ],
+  "timestamp": "2026-08-23T21:30:02.967535261Z",
+  "model": "glm-5.3"
+}

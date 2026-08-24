@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 68,
+  "translation": "Отець сиріт і суддя вдів — Елогім в оселені святині Своєї.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Отець"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "сиріт"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "і суддя"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "вдів"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "в оселені"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "святині Своєї"
+    }
+  ],
+  "timestamp": "2026-08-24T00:19:10.963548098Z",
+  "model": "glm-5.3"
+}

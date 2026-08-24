@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Оце ⟨є⟩ Torah для всякої уражи цараат і для нетеку.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Оце"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "для всякої"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "уражі"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "цараат"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "і для нетеку"
+    }
+  ],
+  "timestamp": "2026-08-23T21:42:10.395911906Z",
+  "model": "glm-5.3"
+}

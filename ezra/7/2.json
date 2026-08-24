@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Син Шаллума, син Цадока, син Ахітува.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Син"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шаллума"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадока"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ахітува"
+    }
+  ],
+  "timestamp": "2026-08-24T01:05:25.381563584Z",
+  "model": "glm-5.3"
+}

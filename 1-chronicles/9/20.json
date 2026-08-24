@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 9:20",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "А Пінхас, син Ельазара, володар був над ними колись — Яхве з ним.",
+  "tokens": [
+    {
+      "surface": "ופינחס",
+      "gloss": "А Пінхас"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Ельазара"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "володар"
+    },
+    {
+      "surface": "היה",
+      "gloss": "був"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над ними"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "колись"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "з ним"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:58.612729354Z",
+  "model": "glm-5.3"
+}

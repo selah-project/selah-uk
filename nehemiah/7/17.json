@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Сини Азгада: дві тисячі триста двадцять і два.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Азгада"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "дві тисячі"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "триста — три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотні"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцять"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "і два"
+    }
+  ],
+  "timestamp": "2026-08-24T01:09:38.756598228Z",
+  "model": "glm-5.3"
+}

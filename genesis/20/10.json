@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І сказав Авімелех Аврагамові: що ти побачив, що вчинив ⟨את⟩ ├─ цю справу?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авімелех"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Аврагамові"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагам"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ти побачив"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ти вчинив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цю справу"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "справу"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цю"
+    }
+  ],
+  "timestamp": "2026-08-23T21:13:41.031932701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Шамма ⟨the⟩ Гарарі, Ахіам син Шарара ⟨the⟩ Гарарі,",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Шамма"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "⟨the⟩ Гарарі"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "Ахіам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "Шарара"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "⟨the⟩ Гарарі"
+    }
+  ],
+  "timestamp": "2026-08-23T22:44:52.168866729Z",
+  "model": "glm-5.3"
+}

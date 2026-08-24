@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І став сатана проти Ізраїля, і підбурив ⟨את⟩ Давида порахувати ⟨את⟩ Ізраїля.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "І став"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "сатана"
+    },
+    {
+      "surface": "על",
+      "gloss": "проти"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "і підбурив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давида"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "порахувати"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ізраїля"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    }
+  ],
+  "timestamp": "2026-08-24T01:19:19.544938477Z",
+  "model": "glm-5.3"
+}

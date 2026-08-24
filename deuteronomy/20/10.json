@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Коли наблизишся до міста, щоб воювати проти нього, то запропонуєш йому мир.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "наблизишся"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "міста"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "щоб воювати"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "проти нього"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "то запропонуєш"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "йому"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "мир"
+    }
+  ],
+  "timestamp": "2026-08-24T01:39:25.744754955Z",
+  "model": "glm-5.3"
+}

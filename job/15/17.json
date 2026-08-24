@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 15:17",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Покажу тобі — слухай мені, і це я бачив і розповім.",
+  "tokens": [
+    {
+      "surface": "אחוך",
+      "gloss": "покажу тобі"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слухай"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "і це"
+    },
+    {
+      "surface": "חזיתי",
+      "gloss": "я бачив"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "і розповім"
+    }
+  ],
+  "timestamp": "2026-08-24T00:42:18.235253242Z",
+  "model": "glm-5.3"
+}

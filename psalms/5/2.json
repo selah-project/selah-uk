@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Слова́ мої вислухай, Яхве, зрозумій шепіт мій.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "слова́ мої"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "вислухай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "зрозумій"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "шепіт мій"
+    }
+  ],
+  "timestamp": "2026-08-24T00:10:34.117371182Z",
+  "model": "glm-5.3"
+}

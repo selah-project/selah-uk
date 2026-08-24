@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 24:25",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І сказала вона йому: і солома є, і корму багато в нас, і місце, щоб заночувати.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "і сказала"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "גם",
+      "gloss": "і"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "солома"
+    },
+    {
+      "surface": "גם",
+      "gloss": "і"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "корм"
+    },
+    {
+      "surface": "רב",
+      "gloss": "багато"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "в нас"
+    },
+    {
+      "surface": "גם",
+      "gloss": "і"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "місце"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "щоб заночувати"
+    }
+  ],
+  "timestamp": "2026-08-23T21:15:10.390171238Z",
+  "model": "glm-5.3"
+}

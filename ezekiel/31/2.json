@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 31:2",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "Сину людини, скажи до Паро, царя Міцраїму, і до юрби його: до кого ти подібний у величі своїй?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сину"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людини"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "скажи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Міцраїму"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і до"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "юрби його"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кого"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "ти подібний"
+    },
+    {
+      "surface": "בגדלך",
+      "gloss": "у величі своїй"
+    }
+  ],
+  "timestamp": "2026-08-23T23:50:17.493629850Z",
+  "model": "glm-5.3"
+}

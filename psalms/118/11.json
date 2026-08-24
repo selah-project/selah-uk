@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 118,
+  "translation": "Оточили мене, так, оточили мене — в Імені Яхве я винищу їх.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Оточили мене"
+    },
+    {
+      "surface": "גם",
+      "gloss": "так"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "оточили мене"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "в Імені"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "він же"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "я винищу їх"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:07.624681395Z",
+  "model": "glm-5.3"
+}

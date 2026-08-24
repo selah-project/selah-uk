@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Відповів мій дощок і сказав мені: встань, собі, моя люба, моя вродлива, і йди собі!",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "відповів"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "мій дощок"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "встань"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "моя люба"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "моя вродлива"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "і йди"
+    },
+    {
+      "surface": "לך",
+      "gloss": "собі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:49:54.260305376Z",
+  "model": "glm-5.3"
+}

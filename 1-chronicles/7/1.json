@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "А синів Їсасхара: Тола, і Пуа, Яшув, і Шімрон — чотири.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "А синів"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Їсасхара"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Тола"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "і Пуа"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "Яшув"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "і Шімрон"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чотири"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:53.235052211Z",
+  "model": "glm-5.3"
+}

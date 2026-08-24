@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І послав Іш-Бошет, і взяв її від чоловіка, від Палтіела, сина Лайша.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "І послав"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Іш"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Бошет"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "і взяв її"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "від"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловіка"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "від"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Палтіела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "Лайша"
+    }
+  ],
+  "timestamp": "2026-08-23T22:37:59.935451236Z",
+  "model": "glm-5.3"
+}

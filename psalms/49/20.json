@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 49,
+  "translation": "Прийде ⟨він⟩ до покоління батьків своїх, навіки не побачать вони світла.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "прийде"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "דור",
+      "gloss": "покоління"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "батьків своїх"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "побачать"
+    },
+    {
+      "surface": "אור",
+      "gloss": "світла"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:46.605593072Z",
+  "model": "glm-5.3"
+}

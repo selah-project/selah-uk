@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Майже був я в усякому лиху, посеред зібрання й громади.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "майже"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "був я"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "в усякому"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лиху"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "посеред"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "зібрання"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "й громади"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:19.877813444Z",
+  "model": "glm-5.3"
+}

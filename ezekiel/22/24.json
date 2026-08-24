@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Сину людський, скажи їй: ти — земля, неочищена вона, не дощена в день обурення.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сину"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людський"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "скажи"
+    },
+    {
+      "surface": "לה",
+      "gloss": "їй"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ти",
+      "marks": "ти"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "очищена"
+    },
+    {
+      "surface": "היא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "дощена"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "обурення"
+    }
+  ],
+  "timestamp": "2026-08-23T23:47:13.334488325Z",
+  "model": "glm-5.3"
+}

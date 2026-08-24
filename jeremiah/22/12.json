@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "бо в місці, куди вигнали ⟨את⟩ нього, там він помре, і ⟨את⟩ цю землю більше не побачить.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "в місці"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "куди"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "вигнали"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ нього",
+      "marks": "нього"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "він помре"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "цю землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "цю землю"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "цю"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "побачить"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "більше"
+    }
+  ],
+  "timestamp": "2026-08-23T23:28:49.291475920Z",
+  "model": "glm-5.3"
+}

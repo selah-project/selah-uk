@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 116,
+  "translation": "Обіти мої Яхві сплачу — ⟨це⟩ прошу, перед усім народом Його.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "обіти мої"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхві"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "сплачу"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "перед"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "всьому"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народу Його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:16.847821015Z",
+  "model": "glm-5.3"
+}

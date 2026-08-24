@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Хай цілує він мене поцілунками уст своїх, бо кохання твої кращі за вино.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "Хай цілує він мене"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "поцілунками"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "уст своїх"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "кращі"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "кохання твої"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "за вино"
+    }
+  ],
+  "timestamp": "2026-08-24T01:55:53.544976530Z",
+  "model": "glm-5.3"
+}

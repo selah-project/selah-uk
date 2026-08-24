@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Чи я — море, чи морський монстр, що Ти ставиш надо мною варту?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "чи я — море"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "אם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "морський монстр"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ставиш"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "надо мною"
+    },
+    {
+      "surface": "мשמר",
+      "gloss": "варту"
+    }
+  ],
+  "timestamp": "2026-08-24T00:40:32.626229408Z",
+  "model": "glm-5.3"
+}

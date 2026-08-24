@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 22,
+  "translation": "Хіба не написав я тобі тричі — в порадах і знанні?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "хіба не"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "написав я"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "тричі"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "в порадах"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "і знанні"
+    }
+  ],
+  "timestamp": "2026-08-24T01:54:41.829215436Z",
+  "model": "glm-5.3"
+}

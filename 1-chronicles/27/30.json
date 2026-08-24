@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 27:30",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "І над ⟨the⟩ верблюдами — Овіл ⟨the⟩ ішмаельти; і над ⟨the⟩ ослицями — Єхдіягу ⟨the⟩ меронофієць.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "і над"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "верблюдами"
+    },
+    {
+      "surface": "אוביל",
+      "gloss": "Овіл"
+    },
+    {
+      "surface": "הישמעלי",
+      "gloss": "ішмаельти"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і над"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "ослицями"
+    },
+    {
+      "surface": "יחדיהו",
+      "gloss": "Єхдіягу"
+    },
+    {
+      "surface": "המרנתי",
+      "gloss": "меронофієць"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:54.962779859Z",
+  "model": "glm-5.3"
+}

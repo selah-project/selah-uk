@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Мені ⟨належить⟩ срібло, і мені ⟨належить⟩ золото, — слово Яхве Цеваот.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "срібло"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "і мені"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "золото"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    }
+  ],
+  "timestamp": "2026-08-24T00:06:13.324711014Z",
+  "model": "glm-5.3"
+}

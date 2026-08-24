@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 11:14",
+  "book": "judges",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І додав ще Яфтах, і послав послів до царя синів Аммона,",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "І додав"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Яфтах"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "і послав"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "послів"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммона"
+    }
+  ],
+  "timestamp": "2026-08-23T22:23:37.262245666Z",
+  "model": "glm-5.3"
+}

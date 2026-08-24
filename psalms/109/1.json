@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 109,
+  "translation": "Керівникові. Псалом Давида. Елогімі хвали моєї не мовчи",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елогімі"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "хвали моєї"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "мовчи"
+    }
+  ],
+  "timestamp": "2026-08-24T00:26:25.048609614Z",
+  "model": "glm-5.3"
+}

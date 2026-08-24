@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 21:11",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І стало це слово дуже тяжким в очах Аврагама через сина його.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "і стало тяжким"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "це слово"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "дуже"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагама"
+    },
+    {
+      "surface": "על",
+      "gloss": "через"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "через"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сина його"
+    }
+  ],
+  "timestamp": "2026-08-23T21:13:34.765153432Z",
+  "model": "glm-5.3"
+}

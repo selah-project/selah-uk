@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 30:17",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Юнаки Авену і Пі-Бесет впадуть від меча, а вони підуть у полон.",
+  "tokens": [
+    {
+      "surface": "בחורי",
+      "gloss": "юнаки"
+    },
+    {
+      "surface": "און",
+      "gloss": "Авену"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "і Пі"
+    },
+    {
+      "surface": "בסת",
+      "gloss": "Бесет"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "від меча"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "впадуть"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "а вони"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "у полон"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "підуть"
+    }
+  ],
+  "timestamp": "2026-08-23T23:49:38.751713542Z",
+  "model": "glm-5.3"
+}

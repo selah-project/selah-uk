@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 31:39",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "І вийде ще мірний шнур просто навпроти неї на пагорб Гарева, і обійде до Ґоа.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "І вийде"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ще"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "мірний шнур"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "міри"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "навпроти"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "пагорб"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "Гарева"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "і обійде"
+    },
+    {
+      "surface": "געתה",
+      "gloss": "до Ґоа"
+    }
+  ],
+  "timestamp": "2026-08-23T23:32:06.545170686Z",
+  "model": "glm-5.3"
+}

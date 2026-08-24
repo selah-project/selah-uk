@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "І робив Йоаш праведне в очах Яхве всі дні Єговади-когена.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "І робив"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаш"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "праведне"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дні"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Єговади"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "когена"
+    }
+  ],
+  "timestamp": "2026-08-24T01:29:01.132248035Z",
+  "model": "glm-5.3"
+}

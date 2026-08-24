@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І рушили сини Їсраеля з Раамсеса, і таборили в Суккоті.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраеля"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "з Раамсеса"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і таборили"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "в Суккоті"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:27.959168154Z",
+  "model": "glm-5.3"
+}

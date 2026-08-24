@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "і ослів — один і шістдесят тисяч",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "і ослів"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "і шістдесят"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тисяч"
+    }
+  ],
+  "timestamp": "2026-08-23T21:58:33.654735653Z",
+  "model": "glm-5.3"
+}

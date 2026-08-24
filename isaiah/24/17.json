@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Жах, і яма, і сітка — на тобі, мешканцю землі!",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "Жах"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "і яма"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "і сітка"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на тобі"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "мешканцю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-23T23:10:45.108233095Z",
+  "model": "glm-5.3"
+}

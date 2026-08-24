@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 36,
+  "translation": "І це ⟨∩⟩ покоління Есава — він ⟨є⟩ Едом.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "І це"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "покоління"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есава"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:30.909170593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І поклав на нього ⟨את⟩ нагрудник, і вставив у нагрудник ⟨את⟩ Урим і ⟨את⟩ Тумім.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "І поклав"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на нього"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нагрудник"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "нагрудник"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "і вставив"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "нагрудник"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Урим"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Урим"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "й ⟨את⟩",
+      "marks": "Тумім"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Тумім"
+    }
+  ],
+  "timestamp": "2026-08-23T21:41:06.376860345Z",
+  "model": "glm-5.3"
+}

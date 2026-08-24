@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Кращі двоє за одного, що є в них плата добра за працю їхню.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "Кращі"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "двоє"
+    },
+    {
+      "surface": "מן",
+      "gloss": "за"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "одного"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "יש",
+      "gloss": "є"
+    },
+    {
+      "surface": "להם",
+      "gloss": "у них"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "плата"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "за працю їхню"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:29.687008830Z",
+  "model": "glm-5.3"
+}

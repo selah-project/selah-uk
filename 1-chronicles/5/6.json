@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 5:6",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Беера, син його, якого вигнав Тілгат-Пілне́сер, цар Ашуру; він ⟨був⟩ князем Рувимлян.",
+  "tokens": [
+    {
+      "surface": "בארה",
+      "gloss": "Беера"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "якого"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "вигнав"
+    },
+    {
+      "surface": "תלגת",
+      "gloss": "Тілгат"
+    },
+    {
+      "surface": "פלנאסר",
+      "gloss": "Пілнесер"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашуру"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князем"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "Рувимлян"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:58.861224988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Гіббара — дев'яносто і п'ять.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Гіббара"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "дев'яносто"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "і п'ять"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:14.307023710Z",
+  "model": "glm-5.3"
+}

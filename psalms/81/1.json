@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 81,
+  "translation": "Керівникові ⟨хору⟩, на ґіттіті, Асафу",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "ґіттіті"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафу"
+    }
+  ],
+  "timestamp": "2026-08-24T01:52:58.333644859Z",
+  "model": "glm-5.3"
+}

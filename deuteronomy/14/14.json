@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "і ⟨את⟩ кожного ворона за його видом",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "кожного ворона"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кожного"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ворона"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "за його видом"
+    }
+  ],
+  "timestamp": "2026-08-23T22:04:12.304528589Z",
+  "model": "glm-5.3"
+}

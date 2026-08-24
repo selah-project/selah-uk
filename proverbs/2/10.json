@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Бо прийде мудрість у твоє серце, і знання буде милим твоїй нефеш.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "прийде"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрість"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "у твоє серце"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "і знання"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "твоїй нефеш"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "буде милим"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:33.245922078Z",
+  "model": "glm-5.3"
+}

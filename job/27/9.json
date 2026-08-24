@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Чи почує Ел його крик, коли прийде на нього ⟨את⟩ скрута?",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "його крик"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "чи почує"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "прийде"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на нього"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "скрута"
+    }
+  ],
+  "timestamp": "2026-08-24T00:45:21.733158157Z",
+  "model": "glm-5.3"
+}

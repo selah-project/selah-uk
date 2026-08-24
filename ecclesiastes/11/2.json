@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Дай частину семи, а також і вісьмом, бо не знаєш, яке лихо станеться на землі.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "дай"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "частину"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "семи"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "а також"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "і вісьмом"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "знаєш"
+    },
+    {
+      "surface": "מה",
+      "gloss": "яке"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "станеться"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "лихо"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:43.903322624Z",
+  "model": "glm-5.3"
+}

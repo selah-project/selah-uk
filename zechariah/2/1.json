@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І підняв я ⟨את⟩ очі свої, і побачив, і ось — чотири роги.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "і підняв я"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "очі свої"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очі свої"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "і побачив"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "і ось"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четверо"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "роги"
+    }
+  ],
+  "timestamp": "2026-08-24T00:07:22.555634639Z",
+  "model": "glm-5.3"
+}

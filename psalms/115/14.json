@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 115,
+  "translation": "Хай додає Яхве вам, вам і вашим дітям.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "Хай додає"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "і"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "вашим дітям"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:08.733312480Z",
+  "model": "glm-5.3"
+}

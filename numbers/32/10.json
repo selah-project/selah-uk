@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І запалав гнів Яхве того дня, і Він присягнув, кажучи:",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "і запалав"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гнів"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "і Він присягнув"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-24T01:39:38.949127293Z",
+  "model": "glm-5.3"
+}

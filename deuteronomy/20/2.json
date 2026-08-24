@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "І буде: коли наблизитеся до війни, то підійде ⟨коген⟩ і промовить до народу.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "І буде"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "коли наблизитеся"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "війни"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "то підійде"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коген"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "і промовить"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    }
+  ],
+  "timestamp": "2026-08-23T22:05:48.411356011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "Жах, і яма, і сітка — на тебе, мешканцю Моаву, — промовляє Яхве.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "жах"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "і яма"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "і сітка"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "мешканцю"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаву"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "промовляє"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:37:47.226222266Z",
+  "model": "glm-5.3"
+}

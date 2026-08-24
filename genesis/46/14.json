@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 46,
+  "translation": "І сини Зевулуна: Серед, і Елон, і Яхлеел.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "І сини"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зевулуна"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "Серед"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "і Елон"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "і Яхлеел"
+    }
+  ],
+  "timestamp": "2026-08-23T21:23:28.048818065Z",
+  "model": "glm-5.3"
+}

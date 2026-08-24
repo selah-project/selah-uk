@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 4:20",
+  "book": "joel",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "А Єгуда мешкатиме повіки, і Єрушалаїм — рід у рід.",
+  "tokens": [
+    {
+      "surface": "ויהודה",
+      "gloss": "а Єгуда"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "повіки"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "мешкатиме"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "і Єрушалаїм"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "рід"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "у рід"
+    }
+  ],
+  "timestamp": "2026-08-24T00:00:06.585038182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Який прибуток має той, хто робить, у тому, чим він мучиться?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "який"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "прибуток"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "той, хто робить"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "у тому, чим"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "мучиться"
+    }
+  ],
+  "timestamp": "2026-08-24T00:53:27.181748108Z",
+  "model": "glm-5.3"
+}

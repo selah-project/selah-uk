@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 27:16",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Хто ховає її — ховає вітер, і олія правиці його кличе ⟨назовні⟩.",
+  "tokens": [
+    {
+      "surface": "צפניה",
+      "gloss": "Хто ховає її"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "ховає"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "вітер"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "і олія"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "правиці його"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "кличе"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:44.669571542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Прив'яжи їх до твого серця повсякчас, опояшжи їх на твоєму горлі.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "Прив'яжи їх"
+    },
+    {
+      "surface": "על",
+      "gloss": "до"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "твого серця"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "повсякчас"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "опояшжи їх"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "твоєму горлі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:34.308167964Z",
+  "model": "glm-5.3"
+}

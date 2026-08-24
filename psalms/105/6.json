@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 105,
+  "translation": "Насіння Аврагама, раба Його, сини Яакова, обрані Його!",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "Насіння"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврагам"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "раба Його"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "обрані Його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:38.925770240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І сталося, коли почала людина множитися на лиці землі, і дочок народжено їм,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І сталося"
+    },
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "החל",
+      "gloss": "почала"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людина"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "множитися"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лиці"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "землі"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "і дочок"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "народжено"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    }
+  ],
+  "timestamp": "2026-08-23T21:09:54.431086700Z",
+  "model": "glm-5.3"
+}

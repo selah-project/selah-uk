@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 15:22",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "І якщо ви зіб'єтесь і не виконаєте ⟨את⟩ усі ці заповіді, які сказав Яхве Моше,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "і якщо"
+    },
+    {
+      "surface": "תשגו",
+      "gloss": "зіб'єтесь"
+    },
+    {
+      "surface": "вלא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "виконаєте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усі ці заповіді"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ці заповіді"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ці"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Моше (до)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-23T21:53:24.615211325Z",
+  "model": "glm-5.3"
+}

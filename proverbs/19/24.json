@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Ховає ледачий руку свою у мисці, та навіть до рота свого не поверне ⟨її⟩.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "Ховає"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ледачий"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку свою"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "у мисці"
+    },
+    {
+      "surface": "גם",
+      "gloss": "навіть"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "рота свого"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "поверне ⟨її⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:06.428033984Z",
+  "model": "glm-5.3"
+}

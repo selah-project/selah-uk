@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zephaniah 3:14",
+  "book": "zephaniah",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Співай, дочко Ційону; вигукуй, Ісраелю; тішся і радій усім серцем, дочко Єрушалаїму!",
+  "tokens": [
+    {
+      "surface": "רני",
+      "gloss": "Співай"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочко"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ційону"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "вигукуй"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраелю"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "тішся"
+    },
+    {
+      "surface": "ועלזי",
+      "gloss": "і радій"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "всім"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серцем"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочко"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Єрушалаїму"
+    }
+  ],
+  "timestamp": "2026-08-24T00:06:09.347015219Z",
+  "model": "glm-5.3"
+}

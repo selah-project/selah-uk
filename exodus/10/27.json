@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І зміцнив Яхве ⟨את⟩ серце Паро, і не схотів він відпустити їх.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "І зміцнив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "серце Паро"
+    },
+    {
+      "surface": "לב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "схотів"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "відпустити їх"
+    }
+  ],
+  "timestamp": "2026-08-23T21:27:38.382776147Z",
+  "model": "glm-5.3"
+}

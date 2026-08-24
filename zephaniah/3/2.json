@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Не слухала голосу, не прийняла виправлення; на Яхве не поклалася, до Елогім свого не наблизилася.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "слухала"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "голосу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "прийняла"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "виправлення"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "поклалася"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "Елогім свого"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "наблизилася"
+    }
+  ],
+  "timestamp": "2026-08-24T00:05:36.791801816Z",
+  "model": "glm-5.3"
+}

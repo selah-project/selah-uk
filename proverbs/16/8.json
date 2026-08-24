@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Краще мале в праведності, ніж великий прибуток без права.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "краще"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "мале"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "в праведності"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ніж великий"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "прибуток"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "без"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "права"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:52.289223880Z",
+  "model": "glm-5.3"
+}

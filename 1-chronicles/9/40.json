@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "А син Єгонатана — Мерів-Баал; а Мерів-Баал породив ⟨את⟩ Міху.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "А син"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Єгонатана"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Мерів-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "а Мері"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Міху"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Міху"
+    }
+  ],
+  "timestamp": "2026-08-24T01:15:36.094030417Z",
+  "model": "glm-5.3"
+}

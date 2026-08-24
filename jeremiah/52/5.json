@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 52,
+  "translation": "І було місто в облозі аж до одинадцятого року царя Цідкіягу.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "і ввійшло"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "місто"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "в облозі"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "одинадцятого"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(над)цять"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "року"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цідкіягу"
+    }
+  ],
+  "timestamp": "2026-08-23T23:40:19.917179447Z",
+  "model": "glm-5.3"
+}

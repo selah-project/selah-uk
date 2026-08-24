@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І народила Ада ⟨את⟩ Явала; він був батьком мешканців наметів і худоби.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "і народила"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ада"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Явала"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Явала"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "היה",
+      "gloss": "був"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батьком"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "мешканців"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "наметів"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "і худоби"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:30.818358213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "А якщо не послухаєтеся Мене і не виконаєте ⟨את⟩ усіх цих заповідей —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а-якщо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "послухаєтеся"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мене"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і-не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "виконаєте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "усіх цих заповідей"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіх"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "заповідей"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "цих"
+    }
+  ],
+  "timestamp": "2026-08-24T01:38:49.249863599Z",
+  "model": "glm-5.3"
+}

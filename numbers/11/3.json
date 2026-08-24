@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І назвав він ім'я того місця Тав'ера, бо palав серед них огонь Яхве.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "І назвав"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ім'я"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "місця"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "того"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Тав'ера"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "palав"
+    },
+    {
+      "surface": "בם",
+      "gloss": "серед них"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огонь"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:51:14.731304957Z",
+  "model": "glm-5.3"
+}

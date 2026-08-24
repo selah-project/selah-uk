@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І приходили до Ноаха, до ковчега, по два, по два, з усього тіла, у якому ⟨є⟩ дух життя.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "і приходили"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноаха"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчега"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "по два"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "по два"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "з усього"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "тіла"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "життя"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:22.267729689Z",
+  "model": "glm-5.3"
+}

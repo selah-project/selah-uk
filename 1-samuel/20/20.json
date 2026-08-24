@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "А я — три стріли вбік пустити буду, стріляти собі на ціль.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а я"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "стріли"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "вбік"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "буду стріляти"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "пустити"
+    },
+    {
+      "surface": "לי",
+      "gloss": "собі"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "на ціль"
+    }
+  ],
+  "timestamp": "2026-08-23T22:32:49.886440269Z",
+  "model": "glm-5.3"
+}

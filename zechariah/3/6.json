@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І засвідчив посланець Яхве Єгошуа, кажучи:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "І засвідчив"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "посланець"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "Єгошуа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-24T00:07:29.926886106Z",
+  "model": "glm-5.3"
+}

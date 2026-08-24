@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І візьме коген-машіах із крові ⟨את⟩ бика, і внесе його до шатра зустрічі.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "І візьме"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коген"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "машіах"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "із крові"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "бика"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "і внесе"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ нього",
+      "marks": "нього (кров)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "зустрічі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:39:28.314942794Z",
+  "model": "glm-5.3"
+}

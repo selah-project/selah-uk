@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 2:26",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І я послав послів з пустелі Кедемот до Сихона, царя Хешбона, слова миру, кажучи:",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "і я послав"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "послів"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "з пустелі"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Кедемот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Сихона"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Хешбона"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "миру"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:50.039371401Z",
+  "model": "glm-5.3"
+}

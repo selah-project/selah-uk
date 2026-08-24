@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "І не виривай цілком із моїх уст слово істини, бо на Твої присуди я чекаю.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "і не"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "виривай"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "із моїх уст"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "істини"
+    },
+    {
+      "surface": "עד",
+      "gloss": "цілком"
+    },
+    {
+      "surface": "מאד",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "на Твої присуди"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "я чекаю"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:33.817034811Z",
+  "model": "glm-5.3"
+}

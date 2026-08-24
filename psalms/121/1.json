@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 121,
+  "translation": "Пісня сходів. Підіймаю очі мої до гір — звідки прийде поміч моя?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Пісня"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "сходів"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "Підіймаю"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очі мої"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "гір"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "звідки"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "прийде"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "поміч моя"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:13.209537330Z",
+  "model": "glm-5.3"
+}

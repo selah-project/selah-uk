@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "Сини Мрарі: Махлі й Муші; сини Яазіяго — син його.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мрарі"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махлі"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "й Муші"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "Яазіяго"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:06.902545696Z",
+  "model": "glm-5.3"
+}

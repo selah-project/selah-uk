@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Іївгар, і Елішуа, і Нефег, і Яфія,",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Іївгар"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "і Елішуа"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "і Нефег"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "і Яфія"
+    }
+  ],
+  "timestamp": "2026-08-23T22:38:24.273130565Z",
+  "model": "glm-5.3"
+}

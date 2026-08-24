@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "Бо в марності він приходить, і в темряві йде, і в темряві ім'я його буде покрите.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "в марності"
+    },
+    {
+      "surface": "בא",
+      "gloss": "приходить"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "і в темряві"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "йде"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "і в темряві"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ім'я його"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "буде покрите"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:37.532240561Z",
+  "model": "glm-5.3"
+}

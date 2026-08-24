@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "А Моше, чоловік Елогіма, — сини його були названі над коліном Леві.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "А Моше"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогіма"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "сини його"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "були названі"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "коліном"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Леві"
+    }
+  ],
+  "timestamp": "2026-08-24T01:20:04.248492619Z",
+  "model": "glm-5.3"
+}

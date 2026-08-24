@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "І я зійшов до дому гончара, і ось ⟨він⟩ робив роботу на колах.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "і я зійшов"
+    },
+    {
+      "surface": "בית",
+      "gloss": "до дому"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "гончара"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "і ось він"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "робив"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "роботу"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "колах"
+    }
+  ],
+  "timestamp": "2026-08-23T23:28:55.899137244Z",
+  "model": "glm-5.3"
+}

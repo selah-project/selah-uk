@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 34,
+  "translation": "Прийдіть, сини, послухайте мене: страх Яхве я навчатиму вас.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "прийдіть"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сини"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "послушайте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "я навчатиму вас"
+    }
+  ],
+  "timestamp": "2026-08-24T01:52:17.013498183Z",
+  "model": "glm-5.3"
+}

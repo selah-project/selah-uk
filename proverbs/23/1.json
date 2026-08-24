@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Коли сидиш їсти з ⟨את⟩ володарем, розумій-розумій ⟨את⟩ те, що перед тобою.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Коли"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "сидиш"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "їсти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "володарем"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "володарем"
+    },
+    {
+      "surface": "בין",
+      "gloss": "розумій"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "розумій"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "те, що перед тобою"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "те, що"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "перед тобою"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:37.158612099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 23:29",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "І сказав Білам Балаку: Збудуй мені тут сім жертовників, і приготуй мені тут сім биків і сім овенів.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Білам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балака"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "збудуй"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "тут"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "сім"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "жертовників"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "і приготуй"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "тут"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "сім"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "биків"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "і сім"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "овенів"
+    }
+  ],
+  "timestamp": "2026-08-23T21:55:16.050319809Z",
+  "model": "glm-5.3"
+}

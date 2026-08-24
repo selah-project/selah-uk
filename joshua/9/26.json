@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І зробив їм так, і врятував ⟨את⟩ них від руки синів Ізраїлю, і не вбили їх.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "і зробив"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "і врятував"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ніх"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "від руки"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїлю"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "вбили їх"
+    }
+  ],
+  "timestamp": "2026-08-23T22:12:44.351268634Z",
+  "model": "glm-5.3"
+}

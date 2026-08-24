@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 94,
+  "translation": "Яхве знає ⟨את⟩ думки людини, що вони ⟨є⟩ марнота.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знає"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "думки"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людини"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "המה",
+      "gloss": "вони"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "марнота"
+    }
+  ],
+  "timestamp": "2026-08-24T00:24:00.519142939Z",
+  "model": "glm-5.3"
+}

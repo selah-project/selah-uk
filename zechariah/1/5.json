@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Ваші батьки — де ⟨вони⟩? А пророки — хіба навіки житимуть?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "Ваші батьки"
+    },
+    {
+      "surface": "איה",
+      "gloss": "де"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨вони⟩"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "А пророки"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "хіба навіки"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "житимуть"
+    }
+  ],
+  "timestamp": "2026-08-24T00:06:34.850687237Z",
+  "model": "glm-5.3"
+}

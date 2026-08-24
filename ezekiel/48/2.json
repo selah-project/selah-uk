@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "І при межі Дану, від краю сходу аж до краю моря: Ашер — один.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "І при"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "межі"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дану"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "від краю"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "сходу"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "краю"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "моря"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашер"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-23T23:55:52.489302347Z",
+  "model": "glm-5.3"
+}

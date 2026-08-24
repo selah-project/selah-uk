@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 10:11",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Так скажете їм: боги, що небеса та землю не створили, зникнуть із землі і з-під цих небес.",
+  "tokens": [
+    {
+      "surface": "כדנה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "скажете"
+    },
+    {
+      "surface": "להום",
+      "gloss": "їм"
+    },
+    {
+      "surface": "אלהיא",
+      "gloss": "боги"
+    },
+    {
+      "surface": "די",
+      "gloss": "що"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "וארקא",
+      "gloss": "та землю"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "створили"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "зникнуть"
+    },
+    {
+      "surface": "מארעא",
+      "gloss": "із землі"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "і з-під"
+    },
+    {
+      "surface": "תחות",
+      "gloss": "під"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "цих небес"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ці"
+    }
+  ],
+  "timestamp": "2026-08-23T23:25:17.292612955Z",
+  "model": "glm-5.3"
+}

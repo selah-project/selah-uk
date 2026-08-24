@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 29:14",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І з синів Геймана: Йехіель та Шім'і; і з синів Єдутуна: Шема'ягу та Уззіель.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "і з"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "Геймана"
+    },
+    {
+      "surface": "יחואל",
+      "gloss": "Йехіель"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "та Шім'і"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "і з"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Єдутуна"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шема'ягу"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "та Уззіель"
+    }
+  ],
+  "timestamp": "2026-08-24T01:31:19.109294923Z",
+  "model": "glm-5.3"
+}

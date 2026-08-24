@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 4:19",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "Шлях нечестивих — як темрява; не знають вони, об що споткнуться.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "шлях"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивих"
+    },
+    {
+      "surface": "כאפלה",
+      "gloss": "як темрява"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знають"
+    },
+    {
+      "surface": "במה",
+      "gloss": "об що"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "споткнуться"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:05.331985663Z",
+  "model": "glm-5.3"
+}

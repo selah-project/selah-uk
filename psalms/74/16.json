@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 74,
+  "translation": "Твій день, також Твоя ніч; Ти встановив світило і сонце.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Твій"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "אף",
+      "gloss": "також"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Твоя"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ніч"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "встановив"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "світило"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "і сонце"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:27.584653296Z",
+  "model": "glm-5.3"
+}

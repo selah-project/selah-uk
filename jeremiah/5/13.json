@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 5:13",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "І стануть пророки вітром, а слово — немає ⟨в⟩ них; так буде зроблено їм.",
+  "tokens": [
+    {
+      "surface": "והנביאים",
+      "gloss": "І пророки"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "стануть"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "вітром"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "а слово"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "в них"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "буде зроблено"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    }
+  ],
+  "timestamp": "2026-08-23T23:24:21.611984085Z",
+  "model": "glm-5.3"
+}

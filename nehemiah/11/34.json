@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 11:34",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Хадід, Цевоїм, Неваллат,",
+  "tokens": [
+    {
+      "surface": "חדיד",
+      "gloss": "Хадід"
+    },
+    {
+      "surface": "צבעים",
+      "gloss": "Цевоїм"
+    },
+    {
+      "surface": "נבלט",
+      "gloss": "Неваллат"
+    }
+  ],
+  "timestamp": "2026-08-24T01:11:14.144286953Z",
+  "model": "glm-5.3"
+}

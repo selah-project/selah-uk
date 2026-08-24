@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "І зарізала ти ⟨את⟩ синів своїх, і віддала їх, проводжаючи ⟨את⟩ їм.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "І зарізала ти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синів"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "і віддала їх"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "проводжаючи"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "їм"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    }
+  ],
+  "timestamp": "2026-08-23T23:44:09.189329895Z",
+  "model": "glm-5.3"
+}

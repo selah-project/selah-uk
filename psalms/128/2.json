@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 128,
+  "translation": "Працю рук своїх ти їстимеш; щасливий ти, і добре тобі.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "Працю"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "рук своїх"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ти їстимеш"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "щасливий ти"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "і добре"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:53.972692836Z",
+  "model": "glm-5.3"
+}

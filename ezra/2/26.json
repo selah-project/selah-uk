@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Рами й Гаваї — шістсот двадцять один.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Рами"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "й Гаваї"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шість"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцять"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "і один"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:21.683140622Z",
+  "model": "glm-5.3"
+}

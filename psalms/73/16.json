@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 73,
+  "translation": "І я роздумував, щоб пізнати це, — але ⟨це⟩ мука в моїх очах.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "і я роздумував"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "щоб пізнати"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "мука"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨це⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в моїх очах"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:21.535079211Z",
+  "model": "glm-5.3"
+}

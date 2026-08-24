@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "В одному домі буде воно з'їдене; не винось із дому м'яса назовні, і кістки не ламайте в ньому.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "в домі"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одному"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "буде з'їдене"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "винось"
+    },
+    {
+      "surface": "מן",
+      "gloss": "із"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "מן",
+      "gloss": "з"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "м'яса"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "назовні"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "і кістки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "ламайте"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у ньому"
+    }
+  ],
+  "timestamp": "2026-08-23T21:28:50.969052573Z",
+  "model": "glm-5.3"
+}

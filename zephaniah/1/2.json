@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Заберу-заберу усе з-над лиця землі, — промовлення Яхве.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Заберу-заберу"
+    },
+    {
+      "surface": "אסף",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "з-над"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лиця"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "землі"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "промовлення"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T00:05:54.655313574Z",
+  "model": "glm-5.3"
+}

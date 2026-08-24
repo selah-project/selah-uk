@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "від Ароера, що над краєм потоку Арнона, аж до гори Сіону — ⟨це⟩ Хермон.",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "від Ароера"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "краєм"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "потоку"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Арнона"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гори"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "Сіону"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨це⟩"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Хермон"
+    }
+  ],
+  "timestamp": "2026-08-23T22:02:08.274865561Z",
+  "model": "glm-5.3"
+}

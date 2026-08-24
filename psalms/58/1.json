@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 58,
+  "translation": "Керівникові. «Не погуби». Давидів. Міхтам.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові"
+    },
+    {
+      "surface": "אל",
+      "gloss": "«Не"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "погуби»"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидів"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Міхтам"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:49.701014554Z",
+  "model": "glm-5.3"
+}

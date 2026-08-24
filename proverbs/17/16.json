@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Навіщо цьому ціна в руці глупця — купувати мудрість, а серця немає?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Навіщо"
+    },
+    {
+      "surface": "זה",
+      "gloss": "цьому"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "ціна"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "в руці"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупця"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "купувати"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрість"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "а серця"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:16.908686552Z",
+  "model": "glm-5.3"
+}

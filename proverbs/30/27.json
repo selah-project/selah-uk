@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 30,
+  "translation": "Сарана не має царя, та виходить усе одна згуртована.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "אין",
+      "gloss": "не має"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "сарана"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "та виходить"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "згуртована"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "усе одна"
+    }
+  ],
+  "timestamp": "2026-08-24T00:37:53.572543085Z",
+  "model": "glm-5.3"
+}

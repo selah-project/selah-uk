@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "І сказав я до вас у ⟨той⟩ час, кажучи: не можу один нести вас ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "до вас"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "у час"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "можу"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "один"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "нести"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    }
+  ],
+  "timestamp": "2026-08-23T22:00:03.055934962Z",
+  "model": "glm-5.3"
+}

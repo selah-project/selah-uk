@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Бо не відкине повік Адонай.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "відкине"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "повік"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:32.538287730Z",
+  "model": "glm-5.3"
+}

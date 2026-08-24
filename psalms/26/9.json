@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Не збирай з грішниками душу мою, і з кровожерними людьми — життя моє.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "збирай"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "грішниками"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душу мою"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "і з"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "людьми"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кровожерними"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "життя моє"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:48.281071599Z",
+  "model": "glm-5.3"
+}

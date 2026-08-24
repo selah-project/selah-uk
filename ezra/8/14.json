@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 8:14",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І з синів Бігваю — Утай і Завуд, і з ним сімдесят самців.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "І з синів"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "Бігваю"
+    },
+    {
+      "surface": "עותי",
+      "gloss": "Утай"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "і Завуд"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "і з ним"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "сімдесят"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "самців"
+    }
+  ],
+  "timestamp": "2026-08-24T01:06:53.529544303Z",
+  "model": "glm-5.3"
+}

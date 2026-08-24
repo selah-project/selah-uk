@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І прийшов аж до передніх воріт царських, бо нема входу до воріт царя в одязі волосяному.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "І прийшов"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "передніх"
+    },
+    {
+      "surface": "שער",
+      "gloss": "воріт"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царських"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "входу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "שער",
+      "gloss": "воріт"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "в одязі"
+    },
+    {
+      "surface": "שק",
+      "gloss": "волосяному"
+    }
+  ],
+  "timestamp": "2026-08-24T00:56:46.177201089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 3:18",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "А ці — імена синів Гершона за їхніми родами: Лівні та Шім'ї.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "А ці"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "імена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершона"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "за їхніми родами"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Лівні"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "та Шім'ї"
+    }
+  ],
+  "timestamp": "2026-08-23T21:48:18.966570212Z",
+  "model": "glm-5.3"
+}

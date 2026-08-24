@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "Доки ще не зробив ⟨він⟩ землю та околиці, ані верху пороху всесвіту.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "доки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ще-не"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "зробив"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "וחוצות",
+      "gloss": "та-околиці"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ані-верху"
+    },
+    {
+      "surface": "עפרות",
+      "gloss": "пороху"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "всесвіту"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:25.741989510Z",
+  "model": "glm-5.3"
+}

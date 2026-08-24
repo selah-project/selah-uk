@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 11:24",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "Це вчинив Бнаягу, син Єгояди, і йому — ім'я серед трьох сильних.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Це"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "вчинив"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Бнаягу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Єгояди"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "і йому"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ім'я"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "серед трьох"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "сильних"
+    }
+  ],
+  "timestamp": "2026-08-24T01:58:14.345138335Z",
+  "model": "glm-5.3"
+}

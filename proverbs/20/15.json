@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 20:15",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 20,
+  "translation": "Є золото, і багато перлів, і посудина дорогоцінна — уста знання.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "є"
+    },
+    {
+      "surface": "זהб",
+      "gloss": "золото"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "і багато"
+    },
+    {
+      "surface": "פנינים",
+      "gloss": "перлів"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "і посудина"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "дорогоцінна"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "уста"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знання"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:40.939515927Z",
+  "model": "glm-5.3"
+}

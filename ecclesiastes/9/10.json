@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "Усе, що знайде рука твоя робити, силою твоєю роби, бо немає діла, і задуму, і пізнання, і мудрості в Шеолі, куди ти йдеш туди.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Усе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "знайде"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "рука твоя"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "робити"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "силою твоєю"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "роби"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "діла"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "і задуму"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "і пізнання"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "і мудрості"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "у Шеолі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "куди"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "йдеш"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "туди"
+    }
+  ],
+  "timestamp": "2026-08-24T00:55:41.784131267Z",
+  "model": "glm-5.3"
+}

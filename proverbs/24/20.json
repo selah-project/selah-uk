@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 24,
+  "translation": "бо не буде майбутнього лихому, світильник нечестивих догорить.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "майбутнього"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "лихому"
+    },
+    {
+      "surface": "נר",
+      "gloss": "світильник"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивих"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "догорить"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:47.004040002Z",
+  "model": "glm-5.3"
+}

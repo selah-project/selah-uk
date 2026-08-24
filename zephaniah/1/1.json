@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 1:1",
+  "book": "zephaniah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Слово Яхве, яке було до Цфанії, сина Куші, сина Ґедалії, сина Амар'ї, сина Хізкія, в дні Йошії, сина Амона, царя Єгуди.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яке"
+    },
+    {
+      "surface": "היה",
+      "gloss": "було"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Цфанії"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "כושי",
+      "gloss": "Куші"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "גדליה",
+      "gloss": "Ґедалії"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амар'ї"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Хізкія"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "в дні"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Йошії"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Амона"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    }
+  ],
+  "timestamp": "2026-08-24T00:05:54.655065358Z",
+  "model": "glm-5.3"
+}

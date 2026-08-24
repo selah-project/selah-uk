@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 23,
+  "translation": "Сини, що народяться їм, — третій рід — увійде їм до громади Яхве.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "народяться"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "דור",
+      "gloss": "рід"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "третій"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "увійде"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "до громади"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:08.271152756Z",
+  "model": "glm-5.3"
+}

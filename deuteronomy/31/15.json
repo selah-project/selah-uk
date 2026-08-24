@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "І з'явився Яхве в шатрі, у стовпі хмари, і стояв стовп хмари над входом шатра.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "І з'явився"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "в шатрі"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "у стовпі"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "хмари"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "і стояв"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "стовп"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "хмари"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входом"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "шатра"
+    }
+  ],
+  "timestamp": "2026-08-23T22:10:42.089363424Z",
+  "model": "glm-5.3"
+}

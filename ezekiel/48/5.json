@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 48:5",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "І при кордоні Менаше, від краю східного аж до краю західного, Ефраїм — один ⟨облиш⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "і при"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "кордоні"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "від краю"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "східного"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "краю"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "західного"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраїм"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-23T23:55:48.447938207Z",
+  "model": "glm-5.3"
+}

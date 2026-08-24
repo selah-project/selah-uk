@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "А по ній узяв ⟨את⟩ Мааху, доньку Авшалома, і породила йому ⟨את⟩ Авію, і ⟨את⟩ Аттая, і ⟨את⟩ Зізу, і ⟨את⟩ Шломіт.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "А по ній"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "узяв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мааху"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааху"
+    },
+    {
+      "surface": "בת",
+      "gloss": "доньку"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалома"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "і породила"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авію"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авію"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Аттая"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Аттая"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Зізу"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Зізу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "Шломіт"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Шломіт"
+    }
+  ],
+  "timestamp": "2026-08-24T01:25:43.327161493Z",
+  "model": "glm-5.3"
+}

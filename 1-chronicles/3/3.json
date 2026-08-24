@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "П'ятий Шефатія від Авіталь; шостий Їтреам від Еґли, дружини його.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "п'ятий"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Шефатія"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "від Авіталь"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шостий"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Їтреам"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "від Еґли"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "дружини його"
+    }
+  ],
+  "timestamp": "2026-08-24T01:13:36.618741487Z",
+  "model": "glm-5.3"
+}

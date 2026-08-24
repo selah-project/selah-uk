@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Плем'я Зевулуна, і князь синів Зевулуна — Еліав, син Хелона.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "Плем'я"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зевулуна"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "і князь"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зевулуна"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Еліав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Хелона"
+    }
+  ],
+  "timestamp": "2026-08-23T21:47:55.233072259Z",
+  "model": "glm-5.3"
+}

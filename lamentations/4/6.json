@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 4:6",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І зросла провина дочки мого народу понад гріх Сдому, що був перевернутий як за мить, і не кружляли в ній руки.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "і зросла"
+    },
+    {
+      "surface": "עון",
+      "gloss": "провина"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочка"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "мого народу"
+    },
+    {
+      "surface": "מחטאת",
+      "gloss": "понад гріх"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Сдому"
+    },
+    {
+      "surface": "ההפוכה",
+      "gloss": "перевернутий"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "як"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "за мить"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "חלו",
+      "gloss": "кружляли"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в ній"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "руки"
+    }
+  ],
+  "timestamp": "2026-08-24T01:56:01.318257011Z",
+  "model": "glm-5.3"
+}

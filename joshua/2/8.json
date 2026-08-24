@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "А вони ще не лягли спати, а вона зійшла до них на даху.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "А вони"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ще не"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "лягли спати"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "а вона"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "зійшла"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "до них"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "даху"
+    }
+  ],
+  "timestamp": "2026-08-23T22:11:26.633160971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 27:9",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "А якщо худоба, яку приносять з неї жертву Яхве, — усе, що дадуть з неї Яхве, буде святинею.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А якщо"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "худоба"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яку"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "приносять"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "з неї"
+    },
+    {
+      "surface": "кרבן",
+      "gloss": "жертву"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дадуть"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "з неї"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "святинею"
+    }
+  ],
+  "timestamp": "2026-08-23T21:47:43.543346733Z",
+  "model": "glm-5.3"
+}

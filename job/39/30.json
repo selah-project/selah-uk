@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 39:30",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 39,
+  "translation": "А пташенята його впиваються кров'ю, і де slain — там ⟨він⟩ ⟨є⟩.",
+  "tokens": [
+    {
+      "surface": "ואפרחו",
+      "gloss": "а пташенята його"
+    },
+    {
+      "surface": "יעלעו",
+      "gloss": "впиваються"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кров'ю"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "і де"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "вбиті"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    }
+  ],
+  "timestamp": "2026-08-24T00:48:34.310031629Z",
+  "model": "glm-5.3"
+}

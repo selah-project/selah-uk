@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Усі роди, що лишилися, — рід за родом окремо, і жінки їхні — окремо.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Усі"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "роди"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "що лишилися"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "рід"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "за родом"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "окремо"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "і жінки їхні"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "окремо"
+    }
+  ],
+  "timestamp": "2026-08-24T00:08:58.847370993Z",
+  "model": "glm-5.3"
+}

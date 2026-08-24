@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 1:2",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "П'ятого дня місяця — вона ⟨є⟩ п'ятий рік вигнання царя Йойяхіна —",
+  "tokens": [
+    {
+      "surface": "בחמשה",
+      "gloss": "П'ятого"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "дня місяця"
+    },
+    {
+      "surface": "היא",
+      "gloss": "вона"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "рік"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "п'ятий"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "вигнання"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "יויכין",
+      "gloss": "Йойяхіна"
+    }
+  ],
+  "timestamp": "2026-08-23T23:40:28.364990736Z",
+  "model": "glm-5.3"
+}

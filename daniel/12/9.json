@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "І сказав: іди, Данієле, бо замкнені й запечатані ці слова аж до часу кінця.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "לך",
+      "gloss": "іди"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Данієле"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "замкнені"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "й запечатані"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ці слова"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "עת",
+      "gloss": "часу"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "кінця"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:02.488211514Z",
+  "model": "glm-5.3"
+}

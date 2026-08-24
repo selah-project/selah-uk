@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Сини Бацліта, сини Мехіди, сини Харші.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "בצלית",
+      "gloss": "Бацліта"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "Мехіди"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "Харші"
+    }
+  ],
+  "timestamp": "2026-08-24T01:09:53.116104691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Любий мій — сяйний і рум'яний, видатний понад десять тисяч.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "любий мій"
+    },
+    {
+      "surface": "צח",
+      "gloss": "сяйний"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "і рум'яний"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "видатний"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "понад десять тисяч"
+    }
+  ],
+  "timestamp": "2026-08-24T00:49:25.924961494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І повернувся того дня Есав своєю дорогою до Сеїри.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "і повернувся"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "своєю дорогою"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "до Сеїри"
+    }
+  ],
+  "timestamp": "2026-08-23T21:18:22.917079621Z",
+  "model": "glm-5.3"
+}

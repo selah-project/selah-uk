@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Надійтеся на Яхве назавжди, бо в Яг, Яхве ⟨є⟩ скеля віків.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Надійтеся"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "עד",
+      "gloss": "навіки"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "в Яг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צור",
+      "gloss": "скеля"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "віків"
+    }
+  ],
+  "timestamp": "2026-08-23T23:10:40.155116059Z",
+  "model": "glm-5.3"
+}

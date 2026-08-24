@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "Він збудував ⟨את⟩ верхню браму дому Яхве, і на стіні Офеля збудував багато.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Він"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "збудував"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "верхню браму дому Яхве"
+    },
+    {
+      "surface": "שער",
+      "gloss": "браму"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "верхню"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "і на стіні"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Офеля"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "збудував"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "багато"
+    }
+  ],
+  "timestamp": "2026-08-24T01:31:11.364954503Z",
+  "model": "glm-5.3"
+}

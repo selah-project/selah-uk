@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 62,
+  "translation": "Одне сказав Елогім, двічі це я чув: що сила — ⟨належить⟩ Елогімові.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "одне"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "двічі"
+    },
+    {
+      "surface": "זו",
+      "gloss": "це"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "я чув"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "עז",
+      "gloss": "сила"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елогімові"
+    }
+  ],
+  "timestamp": "2026-08-24T01:52:51.170457836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "І дадуть ⟨את⟩ її, і ⟨את⟩ усі посудини її, до покриву зі шкіри тахаша, і дадуть на ношу.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "і дадуть"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "її"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "усі посудини її"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "посудини її"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "покриву"
+    },
+    {
+      "surface": "עור",
+      "gloss": "шкіри"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "тахаша"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "і дадуть"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "ношу"
+    }
+  ],
+  "timestamp": "2026-08-23T21:48:55.961048320Z",
+  "model": "glm-5.3"
+}

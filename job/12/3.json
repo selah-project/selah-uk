@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Також і в мене серце, як у вас; не впав я нижче від вас; а ⟨את⟩ кого немає, подібного до цих?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Також"
+    },
+    {
+      "surface": "לי",
+      "gloss": "у мене"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "серце"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "як у вас"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "впав"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "нижче від вас"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "кого"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кого"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "подібного"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "до цих"
+    }
+  ],
+  "timestamp": "2026-08-24T00:41:20.219816609Z",
+  "model": "glm-5.3"
+}

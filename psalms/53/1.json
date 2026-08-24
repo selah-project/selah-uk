@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 53,
+  "translation": "Керівникові ⟨музикантів⟩, на Махалат, Mascil Давида.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Керівникові ⟨музикантів⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Махалат"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Mascil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-24T00:17:18.914982466Z",
+  "model": "glm-5.3"
+}

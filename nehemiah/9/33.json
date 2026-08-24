@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 9:33",
+  "book": "nehemiah",
+  "lang": "uk",
+  "chapter": 9,
+  "translation": "І Ти ⟨є⟩ праведний у всьому, що прийшло на нас, бо правду Ти вчинив, а ми чинили зло.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "І Ти"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведний"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всьому"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "що прийшло"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "на нас"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "правду"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Ти вчинив"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "а ми"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "чинили зло"
+    }
+  ],
+  "timestamp": "2026-08-24T01:10:44.618013671Z",
+  "model": "glm-5.3"
+}

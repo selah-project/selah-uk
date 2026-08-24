@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "У Шефелі: Ештаол, і Цор'а, і Ашна.",
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "У Шефелі"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "Ештаол"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "і Цор'а"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "і Ашна"
+    }
+  ],
+  "timestamp": "2026-08-23T22:15:47.283158962Z",
+  "model": "glm-5.3"
+}

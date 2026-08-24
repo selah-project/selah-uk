@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 21:6",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І ходив він шляхом царів Ісраелю, як чинив дім Ахава, бо дочка Ахава була йому жоною, і чинив зло в очах Яхве.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "і ходив"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "шляхом"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царів"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраелю"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "чинив"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахава"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочка"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахава"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "була"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жоною"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "і чинив"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-24T01:28:41.712170852Z",
+  "model": "glm-5.3"
+}

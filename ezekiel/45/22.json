@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 45:22",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 45,
+  "translation": "І зробить насі того дня за себе і за ввесь народ землі бика за гріх.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "і зробить"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "насі"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "за себе"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "і за"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ввесь"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "פר",
+      "gloss": "бика"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "за гріх"
+    }
+  ],
+  "timestamp": "2026-08-23T23:55:05.464094606Z",
+  "model": "glm-5.3"
+}

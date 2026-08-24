@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 105,
+  "translation": "Він послав Моше, раба Свого, Агарона, якого обрав Він.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "послав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "раба Свого"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарона"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "якого"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "обрав"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Він"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:32.707079153Z",
+  "model": "glm-5.3"
+}

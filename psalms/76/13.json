@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 76:13",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 76,
+  "translation": "Він збирає дух князів, страшний для царів землі.",
+  "tokens": [
+    {
+      "surface": "יבצר",
+      "gloss": "збирає"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "князів"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "страшний"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "для царів"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    }
+  ],
+  "timestamp": "2026-08-24T00:20:26.668139809Z",
+  "model": "glm-5.3"
+}

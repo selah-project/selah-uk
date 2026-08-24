@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Обернись до мене і змилуйся надо мною, бо самотній і бідний я.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "обернись"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "і змилуйся надо мною"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "самотній"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "і бідний"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:53.293905811Z",
+  "model": "glm-5.3"
+}

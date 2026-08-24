@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 17:14",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Зціли мене, і я зцілюся; спаси мене, і я спасуся, бо Ти — хвала моя.",
+  "tokens": [
+    {
+      "surface": "רפאני",
+      "gloss": "зціли мене"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וארפא",
+      "gloss": "і я зцілюся"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "врятуй мене"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "і я врятуюся"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "хвала моя"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    }
+  ],
+  "timestamp": "2026-08-23T23:28:39.838647730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 10:24",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Жах лихого — він прийде на нього, а бажання праведних буде дане.",
+  "tokens": [
+    {
+      "surface": "מגורת",
+      "gloss": "жах"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "лихого"
+    },
+    {
+      "surface": "היא",
+      "gloss": "він"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "прийде на нього"
+    },
+    {
+      "surface": "ותאות",
+      "gloss": "а бажання"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведних"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "буде дане"
+    }
+  ],
+  "timestamp": "2026-08-24T00:34:08.205968072Z",
+  "model": "glm-5.3"
+}

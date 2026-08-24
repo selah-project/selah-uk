@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 7:2",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Стережи мої заповіді, і живи, і мою Тору — як зіницю ока твого.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "стережи"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "мої заповіді"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "і живи"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "і мою Тору"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "як зіницю"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ока твого"
+    }
+  ],
+  "timestamp": "2026-08-24T00:32:37.856763641Z",
+  "model": "glm-5.3"
+}

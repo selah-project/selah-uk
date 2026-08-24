@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 14:28",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Скажи їм: Живий Я, — це слово Яхве, — як ви говорили у вухах моїх, так я вчиню вам.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "скажи"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живий"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "це слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "як"
+    },
+    {
+      "surface": "לא",
+      "gloss": "[не]"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "ви говорили"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "у вухах моїх"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "я вчиню"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    }
+  ],
+  "timestamp": "2026-08-23T21:52:04.531706964Z",
+  "model": "glm-5.3"
+}

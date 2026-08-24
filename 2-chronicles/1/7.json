@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Тієї ночі з'явився Елогім Шломо і сказав йому: Проси, що дам тобі.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "уночі"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тієї"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "з'явився"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "проси"
+    },
+    {
+      "surface": "מה",
+      "gloss": "що"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "дам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тобі"
+    }
+  ],
+  "timestamp": "2026-08-24T01:22:06.083734177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 46,
+  "translation": "Отже не боїмось, коли зміниться земля і коли зсунуться гори в серце морів.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כן",
+      "gloss": "те"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "боїмось"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "коли зміниться"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "і коли зсунуться"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "гори"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "в серце"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "морів"
+    }
+  ],
+  "timestamp": "2026-08-24T00:16:09.132518659Z",
+  "model": "glm-5.3"
+}

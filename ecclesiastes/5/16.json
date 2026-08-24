@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 5,
+  "translation": "Також усі дні свої в темряві він їсть, і досади багато, і хвороба його, і гнів.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "також"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "дні свої"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "в темряві"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "він їсть"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "і досади"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "багато"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "і хвороба його"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "і гнів"
+    }
+  ],
+  "timestamp": "2026-08-24T00:54:52.806764534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezra 2:48",
+  "book": "ezra",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Сини Рецина, сини Некоди, сини Ґаззама.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сини"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Рецина"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "Некоди"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "Ґаззама"
+    }
+  ],
+  "timestamp": "2026-08-24T01:04:35.864015026Z",
+  "model": "glm-5.3"
+}

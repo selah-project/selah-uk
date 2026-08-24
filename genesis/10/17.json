@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "і ⟨את⟩ хівійця, і ⟨את⟩ аркійця, і ⟨את⟩ синійця,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "хівієць"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "хівієць"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "аркієць"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "аркієць"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "синієць"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "синієць"
+    }
+  ],
+  "timestamp": "2026-08-23T21:10:54.067525814Z",
+  "model": "glm-5.3"
+}

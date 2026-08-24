@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "І закричав Моше до Яхве, кажучи: Еле, прошу, зціли, прошу, її.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "І закричав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ель"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "зціли"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу"
+    },
+    {
+      "surface": "לה",
+      "gloss": "її"
+    }
+  ],
+  "timestamp": "2026-08-23T21:51:40.798216223Z",
+  "model": "glm-5.3"
+}

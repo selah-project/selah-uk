@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "Не личить розкошуванню глупцеві, а ще менше рабові панувати над князями.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "личить"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "глупцеві"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "розкошуванню"
+    },
+    {
+      "surface": "אף",
+      "gloss": "а ще"
+    },
+    {
+      "surface": "כי",
+      "gloss": "менше"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "рабові"
+    },
+    {
+      "surface": "משל",
+      "gloss": "панувати"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "над князями"
+    }
+  ],
+  "timestamp": "2026-08-24T00:36:14.669069705Z",
+  "model": "glm-5.3"
+}

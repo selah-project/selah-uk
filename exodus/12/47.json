@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Уся громада Ісраейля зробить ⟨את⟩ нього.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "уся"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "громада"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраейля"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "зробить"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ нього",
+      "marks": "нього"
+    }
+  ],
+  "timestamp": "2026-08-23T21:28:50.969191515Z",
+  "model": "glm-5.3"
+}

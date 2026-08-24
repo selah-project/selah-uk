@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Зі синів Леві — чотири тисячі й шістсот.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "зі"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Леві"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "чотири"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "тисячі"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "й шістсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:57.408269598Z",
+  "model": "glm-5.3"
+}

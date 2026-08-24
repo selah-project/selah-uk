@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 32:20",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "І молився Єхізкіягу-цар і Їшаягу, син Амуса, пророк про це, і волали до небес.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "І молився"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Єхізкіягу"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "וישעיהו",
+      "gloss": "і Їшаягу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Амуса"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "על",
+      "gloss": "про"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "це"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "і волали"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "до небес"
+    }
+  ],
+  "timestamp": "2026-08-24T01:32:29.421853629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 33,
+  "translation": "І рушили із Суккоту, і таборили в Етамі, що на краю пустелі.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "І рушили"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "із Суккоту"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "і таборили"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "в Етамі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "на краю"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "пустелі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:59:27.959346623Z",
+  "model": "glm-5.3"
+}

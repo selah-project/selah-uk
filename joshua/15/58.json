@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Халхул, Бейт-Цур і Ґдор",
+  "tokens": [
+    {
+      "surface": "חלחול",
+      "gloss": "Халхул"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "-Цур"
+    },
+    {
+      "surface": "וגדור",
+      "gloss": "і Ґдор"
+    }
+  ],
+  "timestamp": "2026-08-23T22:15:55.333729393Z",
+  "model": "glm-5.3"
+}

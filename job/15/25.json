@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 15:25",
+  "book": "job",
+  "lang": "uk",
+  "chapter": 15,
+  "translation": "Бо простягнув до Ела руку свою, і проти Шаддая зміцнюється.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "простягнув"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку свою"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і проти"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддая"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "зміцнюється"
+    }
+  ],
+  "timestamp": "2026-08-24T00:42:26.322351480Z",
+  "model": "glm-5.3"
+}

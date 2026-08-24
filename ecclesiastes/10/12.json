@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "Слова уст мудрого — ⟨⟨сповнені⟩⟩ прихильності, а губи дурня пожирають його.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уст"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрого"
+    },
+    {
+      "surface": "חן",
+      "gloss": "прихильності"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "а губи"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "дурня"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "пожирають його"
+    }
+  ],
+  "timestamp": "2026-08-24T00:55:06.651392551Z",
+  "model": "glm-5.3"
+}

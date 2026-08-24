@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І затрубе́ть у них, і збере́ться до тебе вся громада до входу шатра зустрічі.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "І затрубе́ть"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "у них"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "і збере́ться"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "до тебе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "громада"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входу"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "зустрічі"
+    }
+  ],
+  "timestamp": "2026-08-23T21:50:57.390795559Z",
+  "model": "glm-5.3"
+}

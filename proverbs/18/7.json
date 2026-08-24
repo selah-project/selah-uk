@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 18,
+  "translation": "Уста глупця — загибель йому, і його губи — пастка його нефеш.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "уста"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупця"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "загибель"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "і його губи"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "пастка"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "його нефеш"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:25.023785501Z",
+  "model": "glm-5.3"
+}

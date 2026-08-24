@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Кінець слова, ⟨the⟩ все почуто: бійся ⟨את⟩ Елогіма і стережи ⟨את⟩ заповіді Його, бо це — вся людина.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "Кінець"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слова"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨the⟩ все"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "почуто"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елогіма"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елогіма"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "бійся"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "заповіді Його"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "заповіді Його"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "стережи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "זה",
+      "gloss": "це"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людина"
+    }
+  ],
+  "timestamp": "2026-08-24T00:55:42.426207687Z",
+  "model": "glm-5.3"
+}

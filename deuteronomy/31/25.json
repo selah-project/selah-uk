@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 31,
+  "translation": "і заповів Моше ⟨את⟩ левітів, носіїв ковчега заповіту Яхве, кажучи:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "і заповів"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "левітів"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левітів"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "носіїв"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчега"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "заповіту"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "кажучи"
+    }
+  ],
+  "timestamp": "2026-08-23T22:10:29.438579020Z",
+  "model": "glm-5.3"
+}

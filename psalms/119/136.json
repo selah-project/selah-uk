@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Потоки води ллються з очей моїх, бо не берегли Твоєї Тори.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "Потоки"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "лються"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "з очей моїх"
+    },
+    {
+      "surface": "על",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "берегли"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Твоєї Тори"
+    }
+  ],
+  "timestamp": "2026-08-24T00:28:20.346197558Z",
+  "model": "glm-5.3"
+}

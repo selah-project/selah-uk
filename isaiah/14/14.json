@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 14:14",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Зійду на висоти хмар, уподібнюся Всевишньому».",
+  "tokens": [
+    {
+      "surface": "אעלה",
+      "gloss": "зійду"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "висоти"
+    },
+    {
+      "surface": "עב",
+      "gloss": "хмар"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "уподібнюся"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "Всевишньому"
+    }
+  ],
+  "timestamp": "2026-08-23T23:07:48.240617696Z",
+  "model": "glm-5.3"
+}

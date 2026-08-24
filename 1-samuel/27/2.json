@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 27,
+  "translation": "І встав Давид, і перейшов він та шість сотень чоловіків, що з ним, до Ахіша, сина Маоха, царя Ґата.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "І встав"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "і перейшов"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "та шість"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотень"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловіків"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "з ним"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Ахіша"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "Маоха"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Ґата"
+    }
+  ],
+  "timestamp": "2026-08-23T22:35:48.457562690Z",
+  "model": "glm-5.3"
+}

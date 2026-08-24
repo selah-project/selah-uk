@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 38,
+  "translation": "Бо провину мою я викажу, тривожуся через гріх мій.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "провину мою"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "я викажу"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "тривожуся"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "через гріх мій"
+    }
+  ],
+  "timestamp": "2026-08-24T00:14:58.054214275Z",
+  "model": "glm-5.3"
+}

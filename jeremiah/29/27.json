@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 29:27",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І тепер чому не докорив ти Єрміяґу з Анатота, який пророкує вам?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "І тепер"
+    },
+    {
+      "surface": "למה",
+      "gloss": "чому"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "докорив"
+    },
+    {
+      "surface": "בירמיהו",
+      "gloss": "ти Єрміяґу"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "з Анатота"
+    },
+    {
+      "surface": "המתנבא",
+      "gloss": "який пророкує"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    }
+  ],
+  "timestamp": "2026-08-23T23:31:33.833910408Z",
+  "model": "glm-5.3"
+}

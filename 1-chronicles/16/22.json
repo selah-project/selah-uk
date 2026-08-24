@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 16:22",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 16,
+  "translation": "Не торкайтеся Моїх помазанців, і Моїм пророкам не робіть лиха.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "торкайтеся"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "Моїх помазанців"
+    },
+    {
+      "surface": "ובנביאי",
+      "gloss": "і Моїм пророкам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "робіть лиха"
+    }
+  ],
+  "timestamp": "2026-08-24T01:17:20.609296296Z",
+  "model": "glm-5.3"
+}

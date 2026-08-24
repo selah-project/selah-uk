@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 3:7",
+  "book": "habakkuk",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Під злиднями бачив я намети Кушану — затремтіли завіси землі Мід'яну.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "під"
+    },
+    {
+      "surface": "און",
+      "gloss": "злиднями"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "бачив я"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "намети"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "Кушану"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "затремтіли"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "завіси"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землі"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мід'яну"
+    }
+  ],
+  "timestamp": "2026-08-24T00:05:57.813325794Z",
+  "model": "glm-5.3"
+}

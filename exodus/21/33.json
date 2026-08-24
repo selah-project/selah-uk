@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 21:33",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І коли відкриє чоловік яму, або коли викопає чоловік яму і не покриє її, і впаде туди вол або осел,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "І коли"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "відкриє"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "בור",
+      "gloss": "яму"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "викопає"
+    },
+    {
+      "surface": "איש",
+      "gloss": "чоловік"
+    },
+    {
+      "surface": "בר",
+      "gloss": "яму"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "і не"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "покриє її"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "і впаде"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "туди"
+    },
+    {
+      "surface": "שור",
+      "gloss": "вол"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "осел"
+    }
+  ],
+  "timestamp": "2026-08-23T21:31:48.416401922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 35,
+  "translation": "І рушив Ісраель, і розпорошив шатро своє далі за Мігдал-Едера.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "І рушив"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраель"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "і розпростер"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "шатро своє"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "далі за"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "Мігдал"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "-Едер"
+    }
+  ],
+  "timestamp": "2026-08-23T21:19:35.693746158Z",
+  "model": "glm-5.3"
+}

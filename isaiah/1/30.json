@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Бо ви будете як теребинт, що в'яне в листі, і як сад, якому води немає.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ви будете"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "як теребинт"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "що в'яне"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "в листі"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "і як сад"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "якому"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немає"
+    },
+    {
+      "surface": "לה",
+      "gloss": "йому"
+    }
+  ],
+  "timestamp": "2026-08-23T23:04:51.265295293Z",
+  "model": "glm-5.3"
+}

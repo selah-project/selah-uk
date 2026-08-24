@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "А сини Надава: Селед і Аппаїм; і помер Селед без синів.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А сини"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Надава"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Селед"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "і Аппаїм"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "і помер"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Селед"
+    },
+    {
+      "surface": "לא",
+      "gloss": "без"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синів"
+    }
+  ],
+  "timestamp": "2026-08-24T01:12:56.035274038Z",
+  "model": "glm-5.3"
+}

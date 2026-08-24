@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І прочитав Цефанія-коген ⟨את⟩ цей лист у вушах Єрміїгу-наві.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "і прочитав"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Цефанія"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коген"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цей лист"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "цей лист"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цей"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "у вушах"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Єрміїгу"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "наві"
+    }
+  ],
+  "timestamp": "2026-08-23T23:32:18.591114092Z",
+  "model": "glm-5.3"
+}

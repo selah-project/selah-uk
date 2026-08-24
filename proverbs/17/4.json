@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 17,
+  "translation": "Творець злого прислухається до губ беззаконня, брехун вдає вухо до язива лиха.",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "Творець злого"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "пислухається"
+    },
+    {
+      "surface": "על",
+      "gloss": "до"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "губ"
+    },
+    {
+      "surface": "און",
+      "gloss": "беззаконня"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "Брехня"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "вдає вухо"
+    },
+    {
+      "surface": "על",
+      "gloss": "до"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "язива"
+    },
+    {
+      "surface": "הות",
+      "gloss": "лиха"
+    }
+  ],
+  "timestamp": "2026-08-24T00:35:25.844449099Z",
+  "model": "glm-5.3"
+}

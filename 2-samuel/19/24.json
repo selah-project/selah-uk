@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І сказав король до Шімї: не вмреш. І поклявся йому король.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "король"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шімї"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "вмреш"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "І поклявся"
+    },
+    {
+      "surface": "לו",
+      "gloss": "йому"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "король"
+    }
+  ],
+  "timestamp": "2026-08-23T22:44:02.375235381Z",
+  "model": "glm-5.3"
+}

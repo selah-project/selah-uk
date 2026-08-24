@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Стежки її — стежки приємності, і всі її дороги — шалом.",
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "стежки її"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "стежки"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "приємності"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і всі"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "її дороги"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:51.176335760Z",
+  "model": "glm-5.3"
+}

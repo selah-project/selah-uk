@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "Коли постане серед тебе пророк, або сновидець сну, і дасть тобі знак або див,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "постане"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "серед тебе"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "сновидець"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "сну"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "і дасть"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тобі"
+    },
+    {
+      "surface": "אות",
+      "gloss": "знак"
+    },
+    {
+      "surface": "או",
+      "gloss": "або"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "див"
+    }
+  ],
+  "timestamp": "2026-08-23T22:05:01.085903493Z",
+  "model": "glm-5.3"
+}

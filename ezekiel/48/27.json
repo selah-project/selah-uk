@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 48,
+  "translation": "І при кордоні Зевулуна, від боку сходу аж до боку моря, Ґад — один ⟨уділ⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "і при"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "кордоні"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зевулуна"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "від боку"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "сходу"
+    },
+    {
+      "surface": "עד",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "боку"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "моря"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Ґад"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-23T23:56:45.716118128Z",
+  "model": "glm-5.3"
+}

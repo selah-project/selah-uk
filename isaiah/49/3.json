@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 49,
+  "translation": "І сказав мені: раб Мій — ти, Їсраїль, що в тобі Я прославлюся.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "раб Мій"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраїль"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в тобі"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "Я прославлюся"
+    }
+  ],
+  "timestamp": "2026-08-23T23:17:19.340359874Z",
+  "model": "glm-5.3"
+}

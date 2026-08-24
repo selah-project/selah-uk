@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 139,
+  "translation": "І подивись, чи є шлях болю в мені, і веди мене шляхом вічним.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "і подивись"
+    },
+    {
+      "surface": "אם",
+      "gloss": "чи"
+    },
+    {
+      "surface": "дרк",
+      "gloss": "шлях"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "болю (болячий)"
+    },
+    {
+      "surface": "בי",
+      "gloss": "в мені"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "і веди мене"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "шляхом"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вічним"
+    }
+  ],
+  "timestamp": "2026-08-24T00:30:04.271940219Z",
+  "model": "glm-5.3"
+}

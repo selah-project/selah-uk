@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "Доме Яакова, ідіть, і підемо в світлі Яхве.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "доме"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ідіть"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "і підемо"
+    },
+    {
+      "surface": "באור",
+      "gloss": "в світлі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T23:04:14.189280145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 32,
+  "translation": "Над груди б'ються в жалобі, над поля втіхи, над виноград плідний.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "груди"
+    },
+    {
+      "surface": "ספדים",
+      "gloss": "б'ються в жалобі"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "поля"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "втіхи"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "виноград"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "плідний"
+    }
+  ],
+  "timestamp": "2026-08-23T23:11:47.987942908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": "І Хазаель, цар Араму, тиснув ⟨את⟩ Ізраїля всі дні Єгоахаза.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "І Хазаель"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Араму"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "тиснув"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ізраїля"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ізраїля"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всі"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дні"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Єгоахаза"
+    }
+  ],
+  "timestamp": "2026-08-23T23:00:17.903507788Z",
+  "model": "glm-5.3"
+}

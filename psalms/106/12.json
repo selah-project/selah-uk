@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 106,
+  "translation": "І повірили в слова Його, співали хвалу Йому.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "І повірили"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "в слова Його"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "співали"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "хвалу Йому"
+    }
+  ],
+  "timestamp": "2026-08-24T00:25:20.705067554Z",
+  "model": "glm-5.3"
+}

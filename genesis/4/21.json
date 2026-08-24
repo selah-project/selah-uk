@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 4,
+  "translation": "А ім'я його брата — Юваль; він був батьком усякого, хто грає на кінорі та угаві.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "А ім'я"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "його брата"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Юваль"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "היה",
+      "gloss": "був"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батьком"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усякого"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "хто грає"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "на кінорі"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "та угаві"
+    }
+  ],
+  "timestamp": "2026-08-24T01:35:59.199364718Z",
+  "model": "glm-5.3"
+}

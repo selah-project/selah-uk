@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "і ⟨את⟩ усіх царів Зімрі, і ⟨את⟩ усіх царів Ейламу, і ⟨את⟩ усіх царів Мадаю;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "усіх царів Зімрі"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіх"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царів"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Зімрі"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "усіх царів Ейламу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіх"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царів"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Ейламу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "усіх царів Мадаю"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усіх"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царів"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Мадаю"
+    }
+  ],
+  "timestamp": "2026-08-23T23:30:15.185849024Z",
+  "model": "glm-5.3"
+}

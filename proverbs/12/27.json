@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 12:27",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 12,
+  "translation": "Не спече здобичі своєї ледачий, а маєтність мужа — дорога ретельному.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחרך",
+      "gloss": "спече"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ледачий"
+    },
+    {
+      "surface": "צידו",
+      "gloss": "здобичі своєї"
+    },
+    {
+      "surface": "והון",
+      "gloss": "а маєтність"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "дорога"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "ретельному"
+    }
+  ],
+  "timestamp": "2026-08-24T00:33:23.161445687Z",
+  "model": "glm-5.3"
+}

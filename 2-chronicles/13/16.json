@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 13:16",
+  "book": "2-chronicles",
+  "lang": "uk",
+  "chapter": 13,
+  "translation": " І втекли сини Ісраеля від обличчя Єгуди, і віддав їх Елогім у їхню руку.",
+  "tokens": [
+    {
+      "surface": "וינוסו",
+      "gloss": "І втекли"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраеля"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "від обличчя"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Єгуди"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "і віддав їх"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "у їхню руку"
+    }
+  ],
+  "timestamp": "2026-08-24T01:26:17.356407713Z",
+  "model": "glm-5.3"
+}

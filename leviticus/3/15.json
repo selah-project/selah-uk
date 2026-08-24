@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "І ⟨את⟩ обидві нирки, і ⟨את⟩ лій, що на них, що на стегнах, і ⟨את⟩ придаток на печінці — на нирках віддалить їх.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "обидві нирки"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "обидві"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "нирки"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "лій"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "лій"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "на них"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "що"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "стегнах"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "придаток"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "придаток"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "печінці"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "нирках"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "віддалить їх"
+    }
+  ],
+  "timestamp": "2026-08-23T21:38:32.743229940Z",
+  "model": "glm-5.3"
+}

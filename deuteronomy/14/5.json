@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 14,
+  "translation": "Олень, і газель, і лань, і гірський козел, і дішон, і дикий бик, і серна.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "олень"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "і газель"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "і лань"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "і гірський козел"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "і дішон"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "і дикий бик"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "і серна"
+    }
+  ],
+  "timestamp": "2026-08-24T01:39:24.131296160Z",
+  "model": "glm-5.3"
+}

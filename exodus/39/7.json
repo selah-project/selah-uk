@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 39,
+  "translation": "І поклав ⟨את⟩ їх на плечi ефуда — каменi на згадку для синiв Iсраеля, як заповiв Яхве ⟨את⟩ Моше.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "і поклав"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ їх"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "плечi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ефуда"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "каменi"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "на згадку"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "для синiв"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iсраеля"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "як"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповiв"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-23T21:37:28.920441355Z",
+  "model": "glm-5.3"
+}

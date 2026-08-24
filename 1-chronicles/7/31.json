@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І сини Бер'ї: Хевер і Малкіейл; він батько Бірзота.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "і сини"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Бер'ї"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "Хевер"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "і Малкіейл"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "він"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "батько"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "Бірзота"
+    }
+  ],
+  "timestamp": "2026-08-24T01:14:35.896673996Z",
+  "model": "glm-5.3"
+}

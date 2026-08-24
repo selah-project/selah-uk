@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 29,
+  "translation": "І підняв Яаков свої ноги, і пішов у землю синів Кедему.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "І підняв"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "свої ноги"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "і пішов"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "у землю"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синів"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Кедему"
+    }
+  ],
+  "timestamp": "2026-08-23T21:16:22.414282965Z",
+  "model": "glm-5.3"
+}

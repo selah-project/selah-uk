@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 8,
+  "translation": "І зарізав, і покропив Моше ⟨את⟩ кров на жертовник навколо.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "зарізав"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "покропив"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кров"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кров"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жертовник"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "навколо"
+    }
+  ],
+  "timestamp": "2026-08-23T21:41:08.596024556Z",
+  "model": "glm-5.3"
+}

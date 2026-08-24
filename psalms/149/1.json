@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 149,
+  "translation": "Хваліть Яха, співайте Яхве нову пісню, хвалу Йому — в зборі хасидим.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Хваліть"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "співайте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "пісню"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нову"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "хвалу Йому"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "в зборі"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "хасидим"
+    }
+  ],
+  "timestamp": "2026-08-24T00:30:56.057416593Z",
+  "model": "glm-5.3"
+}

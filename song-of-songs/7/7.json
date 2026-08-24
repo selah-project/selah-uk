@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "Яка ж ти вродлива і яка приємна, люба, у насолодах!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Яка ж"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "вродлива"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "і яка"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "приємна"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "люба"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "у насолодах"
+    }
+  ],
+  "timestamp": "2026-08-24T00:50:38.378122630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "uk",
+  "chapter": 10,
+  "translation": "І вийшов вогонь від лиця Яхве, і пожер ⟨את⟩ їх, і померли вони перед Яхве.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "І вийшов"
+    },
+    {
+      "surface": "אש",
+      "gloss": "вогонь"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "від лиця"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "і пожер"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ їх"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "і померли"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-08-23T21:41:19.698289074Z",
+  "model": "glm-5.3"
+}

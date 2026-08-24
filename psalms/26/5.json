@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 26,
+  "translation": "Зненавидів я збіговисько злочинців, і з лихими не сидітиму.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "зненавидів я"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "збіговисько"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "злочинців"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "і з"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "лихими"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "сидітиму"
+    }
+  ],
+  "timestamp": "2026-08-24T00:12:54.642354603Z",
+  "model": "glm-5.3"
+}

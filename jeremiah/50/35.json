@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 50:35",
+  "book": "jeremiah",
+  "lang": "uk",
+  "chapter": 50,
+  "translation": "Меч на касдимів — промовлення Яхве, і на мешканців Бавеля, і на князів її, і на мудреців її.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "Меч"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "касдимів"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "промовлення"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "мешканців"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бавеля"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "князів її"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "і на"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "мудреців її"
+    }
+  ],
+  "timestamp": "2026-08-23T23:38:23.119474547Z",
+  "model": "glm-5.3"
+}

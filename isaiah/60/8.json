@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 60,
+  "translation": "Хто ж це, що мов хмара літають, і мов голуби — до віконець своїх?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "це"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "мов хмара"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "літають"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "і мов голуби"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "віконець своїх"
+    }
+  ],
+  "timestamp": "2026-08-23T23:20:36.537039622Z",
+  "model": "glm-5.3"
+}

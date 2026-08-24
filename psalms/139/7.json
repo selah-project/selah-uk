@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 139,
+  "translation": "Куди піду від духа Твого? І куди від обличчя Твого утічу?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "куди"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "піду"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "від духа Твого"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "і куди"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "від обличчя Твого"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "утічу"
+    }
+  ],
+  "timestamp": "2026-08-24T00:30:11.100274994Z",
+  "model": "glm-5.3"
+}

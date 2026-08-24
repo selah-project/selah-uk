@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 21,
+  "translation": "І сказав Авімелєх: не знав я, хто вчинив ⟨את⟩ цю річ, і навіть ти не сказав мені, і навіть я не чув аж до цього дня.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "І сказав"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авімелєх"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знав я"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хто"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "вчинив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цю річ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "річ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "цю"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "і навіть"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "сказав"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "і навіть"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "чув"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "аж до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "цього дня"
+    }
+  ],
+  "timestamp": "2026-08-23T21:13:37.209398797Z",
+  "model": "glm-5.3"
+}

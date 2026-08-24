@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "uk",
+  "chapter": 2,
+  "translation": "І сказав Яхве Елогім: «Не добре ⟨бути⟩ людині самій; зроблю їй поміч, відповідну їй.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "і сказав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елогім"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добре"
+    },
+    {
+      "surface": "היות",
+      "gloss": "бути"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людині"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "самій"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "зроблю"
+    },
+    {
+      "surface": "לו",
+      "gloss": "їй"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "поміч"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "відповідну їй"
+    }
+  ],
+  "timestamp": "2026-08-23T21:08:24.717465923Z",
+  "model": "glm-5.3"
+}

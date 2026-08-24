@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І вийде пагін із пня Їшая, і галузка з коренів його дасть плід.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "і вийде"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "пагін"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "із пня"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Їшая"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "і галузка"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "з коренів його"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "дасть плід"
+    }
+  ],
+  "timestamp": "2026-08-23T23:07:10.354054959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 119,
+  "translation": "Викопали мені зухвалі ями, які ⟨не⟩ за Твоїм законом.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "Викопали"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "зухвалі"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "ями"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "які"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "за Твоїм законом"
+    }
+  ],
+  "timestamp": "2026-08-24T00:27:58.373440887Z",
+  "model": "glm-5.3"
+}

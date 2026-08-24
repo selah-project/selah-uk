@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "І прийшов цар, і Гаман, напитися з Естер царицею.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "І прийшов"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "і Гаман"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "напитися"
+    },
+    {
+      "surface": "עם",
+      "gloss": "з"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естер"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "царицею"
+    }
+  ],
+  "timestamp": "2026-08-24T00:57:19.399536117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "uk",
+  "chapter": 1,
+  "translation": "Бо вінок ласки вони для голови твоєї, і намиста для шиї твоєї.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Бо"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "вінок"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ласки"
+    },
+    {
+      "surface": "הם",
+      "gloss": "вони"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "для голови твоєї"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "і намиста"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "для шиї твоєї"
+    }
+  ],
+  "timestamp": "2026-08-24T00:31:34.161864936Z",
+  "model": "glm-5.3"
+}

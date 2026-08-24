@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "uk",
+  "chapter": 7,
+  "translation": "⟨את⟩ Два вози і ⟨את⟩ чотирьох волів дав синам Гершона, за їхньою службою.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Два вози"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "Два"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "вози"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "і ⟨את⟩",
+      "marks": "чотирьох волів"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "чотирьох"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "волів"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дав"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синам"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершона"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "за"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "їхньою службою"
+    }
+  ],
+  "timestamp": "2026-08-23T21:49:26.968217891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Добре мужеві, коли нестиме ярмо у своїй молодості.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Добре"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "мужеві"
+    },
+    {
+      "surface": "כי",
+      "gloss": "коли"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "нестиме"
+    },
+    {
+      "surface": "על",
+      "gloss": "ярмо"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "у своїй молодості"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:48.152390343Z",
+  "model": "glm-5.3"
+}

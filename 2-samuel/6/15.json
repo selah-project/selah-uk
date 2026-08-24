@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "uk",
+  "chapter": 6,
+  "translation": "І Давид і ввесь дім Ісраеля піднімали ⟨את⟩ ковчег Яхве з трuboю і з голосом шофару.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "І Давид"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "і ввесь"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дім"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ісраеля"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "піднімали"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ковчег Яхве"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "з трuboю"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "і з голосом"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "шофару"
+    }
+  ],
+  "timestamp": "2026-08-23T22:39:01.594100Z",
+  "model": "glm-5.3"
+}

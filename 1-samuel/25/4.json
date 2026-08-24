@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "І почув Давид у пустелі, що стриже Навал ⟨את⟩ свою отару.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "І почув"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "у пустелі"
+    },
+    {
+      "surface": "כי",
+      "gloss": "що"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "стриже"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Навал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свою отару"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "свою отару"
+    }
+  ],
+  "timestamp": "2026-08-23T22:34:34.914070983Z",
+  "model": "glm-5.3"
+}

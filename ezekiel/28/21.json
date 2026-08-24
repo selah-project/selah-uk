@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 28:21",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 28,
+  "translation": "Сину людський, оберни обличчя своє до Цайдона і пророкуй проти нього",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "сину"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людський"
+    },
+    {
+      "surface": "שים",
+      "gloss": "оберни"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "обличчя своє"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Цайдона"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "і пророкуй"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "проти нього"
+    }
+  ],
+  "timestamp": "2026-08-24T01:50:14.937858280Z",
+  "model": "glm-5.3"
+}

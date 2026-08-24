@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Бо не до народу глибоких уст і вагомого язика ти посланий — до дому Їсраейлу.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "глибоких"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "уст"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "і вагомого"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "язика"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "посланий"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Їсраейлу"
+    }
+  ],
+  "timestamp": "2026-08-23T23:41:39.738945261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "uk",
+  "chapter": 25,
+  "translation": "Бо мерзота для Яхве, Елогіма твого, — кожен, хто чинить таке, кожен чинивець кривди.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "мерзота"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елогім твій"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кожен"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хто чинить"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "таке"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кожен"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чинивець"
+    },
+    {
+      "surface": "עול",
+      "gloss": "кривди"
+    }
+  ],
+  "timestamp": "2026-08-23T22:07:23.200474315Z",
+  "model": "glm-5.3"
+}

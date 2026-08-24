@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 43:6",
+  "book": "ezekiel",
+  "lang": "uk",
+  "chapter": 43,
+  "translation": "І почув я, ⟨як⟩ хтось говорив до мене з дому, і чоловік стояв при мені.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "І почув я"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "той, хто говорить"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до мене"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "з дому"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "і чоловік"
+    },
+    {
+      "surface": "היה",
+      "gloss": "був"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "standing"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "при мені"
+    }
+  ],
+  "timestamp": "2026-08-23T23:54:35.233664673Z",
+  "model": "glm-5.3"
+}

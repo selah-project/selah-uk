@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 127,
+  "translation": "Ось спадщина Яхве — сини; нагорода — плід утроби.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ось"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "спадщина"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сини"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "нагорода"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "плід"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "утроби"
+    }
+  ],
+  "timestamp": "2026-08-24T00:29:05.304592124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "uk",
+  "chapter": 3,
+  "translation": "Ти бачив усяку їхню помсту, усі їхні задуми проти мене.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Ти бачив"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усяку"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "їхню помсту"
+    },
+    {
+      "surface": "כל",
+      "gloss": "усі"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "їхні задуми"
+    },
+    {
+      "surface": "לי",
+      "gloss": "проти мене"
+    }
+  ],
+  "timestamp": "2026-08-24T00:52:24.472695370Z",
+  "model": "glm-5.3"
+}

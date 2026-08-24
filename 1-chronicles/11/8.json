@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "uk",
+  "chapter": 11,
+  "translation": "І збудував ⟨את⟩ місто навколо, від Мілло й до околиць; а Йоав оживив ⟨את⟩ решту міста.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "І збудував"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨את⟩ місто"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "навколо"
+    },
+    {
+      "surface": "מן",
+      "gloss": "від"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Мілло"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "й до"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "околиць"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "а Йоав"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "оживив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "решту міста"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "решту"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "міста"
+    }
+  ],
+  "timestamp": "2026-08-24T01:16:22.398159699Z",
+  "model": "glm-5.3"
+}

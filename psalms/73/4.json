@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "uk",
+  "chapter": 73,
+  "translation": "Бо нема кайданів у смерті їх, а тіло — бадьоре.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "кайданів"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "у смерті їх"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "а бадьоре"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "тіло"
+    }
+  ],
+  "timestamp": "2026-08-24T00:19:37.953436318Z",
+  "model": "glm-5.3"
+}

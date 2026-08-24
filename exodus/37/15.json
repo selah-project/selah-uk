@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "uk",
+  "chapter": 37,
+  "translation": "І зробив ⟨את⟩ шести з дерева шитим, і обклав ⟨את⟩ їх золотом, щоб носити ⟨את⟩ стіл.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "і зробив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шести"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "⟨the⟩ шести"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "з дерева"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шитим"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "і обклав"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ їх"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золотом"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "щоб носити"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "стіл"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "⟨the⟩ стіл"
+    }
+  ],
+  "timestamp": "2026-08-23T21:37:07.224125437Z",
+  "model": "glm-5.3"
+}

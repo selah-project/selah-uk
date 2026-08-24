@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "uk",
+  "chapter": 19,
+  "translation": "І були їм у їхньому спадку Беер-Шева, і Шева, і Молада.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "І були"
+    },
+    {
+      "surface": "להם",
+      "gloss": "їм"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "у їхньому спадку"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беер"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "і Шева"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "і Молада"
+    }
+  ],
+  "timestamp": "2026-08-23T22:16:14.428403766Z",
+  "model": "glm-5.3"
+}
