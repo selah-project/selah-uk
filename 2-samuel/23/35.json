@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "uk",
   "chapter": 23,
-  "translation": "Хецро ⟨the⟩ Кармелі; Паарай ⟨the⟩ Арбі.",
+  "translation": "Хецро ⟨ה⟩Кармелі, Паараї ⟨ה⟩Арбі.",
   "tokens": [
     {
       "surface": "חצרו",
@@ -13,17 +13,17 @@
     },
     {
       "surface": "הכרמלי",
-      "gloss": "⟨the⟩ Кармелі"
+      "gloss": "Кармелі"
     },
     {
       "surface": "פערי",
-      "gloss": "Паарай"
+      "gloss": "Паараї"
     },
     {
       "surface": "הארבי",
-      "gloss": "⟨the⟩ Арбі"
+      "gloss": "Арбі"
     }
   ],
-  "timestamp": "2026-08-23T22:44:52.169295353Z",
+  "timestamp": "2026-08-24T02:26:28.792013769Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,33 @@
   "book": "leviticus",
   "lang": "uk",
   "chapter": 14,
-  "translation": "Оце ⟨є⟩ Torah для всякої уражи цараат і для нетеку.",
+  "translation": "Це ⟨є⟩ тора для кожної урази цараат і для натека.",
   "tokens": [
     {
-      "surface": "זאת",
-      "gloss": "Оце"
+      "surface": "זֹ֖את",
+      "gloss": "це"
     },
     {
-      "surface": "התורה",
-      "gloss": "Torah"
+      "surface": "הַתּוֹרָ֑ה",
+      "gloss": "тора"
     },
     {
-      "surface": "לכל",
-      "gloss": "для всякої"
+      "surface": "לְכָל",
+      "gloss": "для кожної"
     },
     {
-      "surface": "נגע",
-      "gloss": "уражі"
+      "surface": "נֶ֥גַע",
+      "gloss": "урази"
     },
     {
-      "surface": "הצרעת",
+      "surface": "הַצָּרַ֖עַת",
       "gloss": "цараат"
     },
     {
-      "surface": "ולנתק",
-      "gloss": "і для нетеку"
+      "surface": "וְלַנָּֽתֶק",
+      "gloss": "і для натека"
     }
   ],
-  "timestamp": "2026-08-23T21:42:10.395911906Z",
+  "timestamp": "2026-08-24T02:20:26.558170850Z",
   "model": "glm-5.3"
 }

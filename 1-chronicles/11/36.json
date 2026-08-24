@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "uk",
   "chapter": 11,
-  "translation": "Хефер ⟨the⟩ Мехераті, Ахія ⟨the⟩ Пелоні",
+  "translation": "Хефер, га-Мехераті; Ахія, га-Пелоні.",
   "tokens": [
     {
       "surface": "חפר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "המכרתי",
-      "gloss": "⟨the⟩ Мехераті"
+      "gloss": "га-Мехераті"
     },
     {
       "surface": "אחיה",
@@ -21,9 +21,9 @@
     },
     {
       "surface": "הפלני",
-      "gloss": "⟨the⟩ Пелоні"
+      "gloss": "га-Пелоні"
     }
   ],
-  "timestamp": "2026-08-24T01:16:08.836025995Z",
+  "timestamp": "2026-08-24T03:09:48.858475149Z",
   "model": "glm-5.3"
 }

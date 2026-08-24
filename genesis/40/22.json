@@ -9,7 +9,8 @@
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "А ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "сара пекарів"
     },
     {
       "surface": "שר",
@@ -24,11 +25,8 @@
       "gloss": "повісив"
     },
     {
-      "surface": "кאשер",
-      "gloss": "<NOTE: surface copied incorrectly>",
-      "comment": "token surface must be the Hebrew token as given: כאשר",
-      "gloss_for_kashер": "як",
-      "rationale": "placeholder fix below"
+      "surface": "כאשר",
+      "gloss": "як"
     },
     {
       "surface": "פתר",
@@ -43,6 +41,6 @@
       "gloss": "Йосеф"
     }
   ],
-  "timestamp": "2026-08-23T21:20:25.629242352Z",
+  "timestamp": "2026-08-24T02:18:15.100982927Z",
   "model": "glm-5.3"
 }

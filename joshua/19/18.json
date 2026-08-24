@@ -5,29 +5,29 @@
   "book": "joshua",
   "lang": "uk",
   "chapter": 19,
-  "translation": "І був їхній кордон: Їзреель, і ⟨the⟩ Кесулот, і Шунем.",
+  "translation": "І ⟨was⟩ їхній кордон: Їзреел, і ⟨the⟩ Кесуллот, і Шунем.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "І був"
+      "gloss": "І"
     },
     {
-      "surface": "гבולם",
+      "surface": "גבולם",
       "gloss": "їхній кордон"
     },
     {
       "surface": "יזרעאלה",
-      "gloss": "Їзреель"
+      "gloss": "Їзреел"
     },
     {
       "surface": "והכסולת",
-      "gloss": "і ⟨the⟩ Кесулот"
+      "gloss": "і ⟨the⟩ Кесуллот"
     },
     {
       "surface": "ושונם",
       "gloss": "і Шунем"
     }
   ],
-  "timestamp": "2026-08-23T22:16:30.819166620Z",
+  "timestamp": "2026-08-24T03:05:54.630056643Z",
   "model": "glm-5.3"
 }

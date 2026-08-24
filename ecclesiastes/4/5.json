@@ -5,8 +5,39 @@
   "book": "ecclesiastes",
   "lang": "uk",
   "chapter": 4,
-  "translation": "Кpell…",
-  "tokens": [],
-  "timestamp": "2026-08-24T00:53:52.838041411Z",
+  "translation": "Глузд ⟨את⟩ руки свої обіймає, і ⟨את⟩ тіло своє з'їдає.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Глузд"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "обіймає"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руки свої"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "руки свої"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "і з'їдає"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тіло своє"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "тіло своє"
+    }
+  ],
+  "timestamp": "2026-08-24T02:35:39.938785704Z",
   "model": "glm-5.3"
 }

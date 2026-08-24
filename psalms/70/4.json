@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "uk",
   "chapter": 70,
-  "translation": "x",
-  "tokens": [],
-  "timestamp": "2026-08-24T00:19:10.005708883Z",
+  "translation": "Хай повернуться за п'яту ганьби своєї ті, що кажуть: ага, ага!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "хай повернуться"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "п'яту"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "ганьби своєї"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ті, що кажуть"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ага"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ага"
+    }
+  ],
+  "timestamp": "2026-08-24T02:33:55.948967272Z",
   "model": "glm-5.3"
 }

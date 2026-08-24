@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "uk",
   "chapter": 97,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-24T00:23:54.397212680Z",
+  "translation": "Вогонь іде перед Ним і палить навколо ворогів Його.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Вогонь"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "перед Ним"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "іде"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "і палить"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "навколо"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ворогів Його"
+    }
+  ],
+  "timestamp": "2026-08-24T02:33:49.190946114Z",
   "model": "glm-5.3"
 }

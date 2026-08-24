@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "uk",
   "chapter": 100,
-  "translation": "Псалом подяки. Glamte Яхве, вся земля.",
+  "translation": "Мізмор подяки. Тріумфуйте Яхве, вся земля.",
   "tokens": [
     {
       "surface": "מזמור",
-      "gloss": "псалом"
+      "gloss": "Мізмор"
     },
     {
       "surface": "לתודה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הריעו",
-      "gloss": " Glamte"
+      "gloss": "Тріумфуйте"
     },
     {
       "surface": "ליהוה",
@@ -32,6 +32,6 @@
       "gloss": "земля"
     }
   ],
-  "timestamp": "2026-08-24T00:24:46.794905263Z",
+  "timestamp": "2026-08-24T02:33:56.582425703Z",
   "model": "glm-5.3"
 }

@@ -5,21 +5,21 @@
   "book": "psalms",
   "lang": "uk",
   "chapter": 21,
-  "translation": "Керуючому ⟨співом⟩, Mizmor Давіду.",
+  "translation": "Керівникові. Мізмор Давида.",
   "tokens": [
     {
       "surface": "למנצח",
-      "gloss": "Керуючому ⟨співом⟩"
+      "gloss": "Керівникові"
     },
     {
-      "surface": "мізмор",
-      "gloss": "псалом-наспів"
+      "surface": "מזמור",
+      "gloss": "мізмор"
     },
     {
       "surface": "לדוד",
-      "gloss": "Давіду"
+      "gloss": "Давида"
     }
   ],
-  "timestamp": "2026-08-24T00:12:34.100156862Z",
+  "timestamp": "2026-08-24T02:33:15.576845083Z",
   "model": "glm-5.3"
 }

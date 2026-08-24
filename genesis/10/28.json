@@ -5,36 +5,36 @@
   "book": "genesis",
   "lang": "uk",
   "chapter": 10,
-  "translation": "і ⟨את⟩ Оввала, і ⟨את⟩ Авімaelа, і ⟨את⟩ Шеву",
+  "translation": "і ⟨את⟩ Овала, і ⟨את⟩ Авімаела, і ⟨את⟩ Шеву.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Оввала"
+      "marks": "Овала"
     },
     {
       "surface": "עובל",
-      "gloss": "Оввал"
+      "gloss": "Овал"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Авімaelа"
+      "marks": "Авімаела"
     },
     {
       "surface": "אבימאל",
-      "gloss": "Авімael"
+      "gloss": "Авімаел"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Шеви"
+      "marks": "Шеву"
     },
     {
       "surface": "שבא",
       "gloss": "Шева"
     }
   ],
-  "timestamp": "2026-08-24T01:36:03.667640161Z",
+  "timestamp": "2026-08-24T02:17:43.555388680Z",
   "model": "glm-5.3"
 }

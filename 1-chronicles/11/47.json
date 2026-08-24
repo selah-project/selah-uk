@@ -5,25 +5,25 @@
   "book": "1-chronicles",
   "lang": "uk",
   "chapter": 11,
-  "translation": "Еліель, і Овед, і Яасієль ⟨the⟩ мецоваєць.",
+  "translation": "Еліел, і Овед, і Яасіел га-Мецоваї.",
   "tokens": [
     {
       "surface": "אליאל",
-      "gloss": "Еліель"
+      "gloss": "Еліел"
     },
     {
-      "surface": "ויעובד",
+      "surface": "ועובד",
       "gloss": "і Овед"
     },
     {
       "surface": "ויעשיאל",
-      "gloss": "і Яасієль"
+      "gloss": "і Яасіел"
     },
     {
       "surface": "המצביה",
-      "gloss": "мецоваєць"
+      "gloss": "га-Мецоваї"
     }
   ],
-  "timestamp": "2026-08-24T01:15:45.722717051Z",
+  "timestamp": "2026-08-24T03:09:35.600151884Z",
   "model": "glm-5.3"
 }

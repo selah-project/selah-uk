@@ -5,29 +5,29 @@
   "book": "lamentations",
   "lang": "uk",
   "chapter": 3,
-  "translation": "І я сказав: згинув мій Extraneousצח, і моя надія — від Яхве.",
+  "translation": "І я сказав: зникла сподіванка моя, і чекання моє — від Яхве.",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "і я сказав"
+      "gloss": "І я сказав"
     },
     {
       "surface": "אבד",
-      "gloss": "згинув"
+      "gloss": "зникла"
     },
     {
       "surface": "נצחי",
-      "gloss": "мій нeцах"
+      "gloss": "сподіванка моя"
     },
     {
       "surface": "ותוחלתי",
-      "gloss": "і моя надія"
+      "gloss": "і чекання моє"
     },
     {
       "surface": "מיהוה",
       "gloss": "від Яхве"
     }
   ],
-  "timestamp": "2026-08-24T00:52:54.064002698Z",
+  "timestamp": "2026-08-24T02:35:25.733934836Z",
   "model": "glm-5.3"
 }

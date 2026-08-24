@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uk",
   "chapter": 26,
-  "translation": "Цим ⟨ has to be Ukrainian — let me write it properly: Цим буде поділена ⟨את⟩ земля в наділ за числом імен.",
+  "translation": "Цим ⟨від них⟩ поділена буде земля ⟨як⟩ спадок за числом імен.",
   "tokens": [
     {
       "surface": "לאלה",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "תחלק",
-      "gloss": "буде поділена"
+      "gloss": "поділена буде"
     },
     {
       "surface": "הארץ",
-      "gloss": "землю"
+      "gloss": "земля"
     },
     {
       "surface": "בנחלה",
-      "gloss": "в наділ"
+      "gloss": "⟨як⟩ спадок"
     },
     {
       "surface": "במספר",
@@ -32,6 +32,6 @@
       "gloss": "імен"
     }
   ],
-  "timestamp": "2026-08-24T02:17:04.642213410Z",
+  "timestamp": "2026-08-24T02:21:58.998422692Z",
   "model": "glm-5.3"
 }

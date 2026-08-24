@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "uk",
   "chapter": 11,
-  "translation": "сини Гашема ⟨the⟩ Гізоні, Йонатан син Шаге ⟨the⟩ Гарарі",
+  "translation": "сини ⟨the⟩ Гашема ⟨the⟩ Ґізонійця, Йонатан син ⟨the⟩ Шаґе ⟨the⟩ Гарарійця,",
   "tokens": [
     {
       "surface": "בני",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "השם",
-      "gloss": "Гашема"
+      "gloss": "⟨the⟩ Гашем"
     },
     {
       "surface": "הגזוני",
-      "gloss": "⟨the⟩ Гізоні"
+      "gloss": "⟨the⟩ Ґізонієць"
     },
     {
       "surface": "יונתן",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "שגה",
-      "gloss": "Шаге"
+      "gloss": "⟨the⟩ Шаґе"
     },
     {
       "surface": "ההררי",
-      "gloss": "⟨the⟩ Гарарі"
+      "gloss": "⟨the⟩ Гарарієць"
     }
   ],
-  "timestamp": "2026-08-24T01:16:08.835801405Z",
+  "timestamp": "2026-08-24T03:09:46.491867338Z",
   "model": "glm-5.3"
 }

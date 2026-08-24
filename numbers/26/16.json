@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uk",
   "chapter": 26,
-  "translation": "за Озні — рід ⟨the⟩ Ознітів; за Ері — рід ⟨the⟩ Ерітів.",
+  "translation": "за Озні — рід ⟨того⟩ Ознія; за Ері — рід Ерій.",
   "tokens": [
     {
       "surface": "לאזני",
@@ -17,21 +17,21 @@
     },
     {
       "surface": "האזני",
-      "gloss": "Ознітів"
+      "gloss": "Ознія"
     },
     {
       "surface": "לערי",
       "gloss": "за Ері"
     },
     {
-      "surface": "משפחת",
+      "surface": "мשפחת",
       "gloss": "рід"
     },
     {
       "surface": "הערי",
-      "gloss": "Ерітів"
+      "gloss": "Ерій"
     }
   ],
-  "timestamp": "2026-08-23T21:56:11.111222314Z",
+  "timestamp": "2026-08-24T02:21:58.840306232Z",
   "model": "glm-5.3"
 }

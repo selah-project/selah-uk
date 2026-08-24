@@ -5,37 +5,37 @@
   "book": "2-chronicles",
   "lang": "uk",
   "chapter": 4,
-  "translation": "і ⟨the⟩ квіти, і ⟨the⟩ лампади, і ⟨the⟩ щипці — золото, золото досконале.",
+  "translation": "і квіти, і лампи, і щипці золотом — це золото довершеного золота",
   "tokens": [
     {
       "surface": "והפרח",
-      "gloss": "і ⟨the⟩ квіти"
+      "gloss": "і квіти"
     },
     {
       "surface": "והנרות",
-      "gloss": "і ⟨the⟩ лампади"
+      "gloss": "і лампи"
     },
     {
       "surface": "והמלקחים",
-      "gloss": "і ⟨the⟩ щипці"
+      "gloss": "і щипці"
     },
     {
       "surface": "זהב",
-      "gloss": "золото"
+      "gloss": "золотом"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨це⟩"
+      "gloss": "це"
     },
     {
       "surface": "מכלות",
-      "gloss": "досконале"
+      "gloss": "довершеного"
     },
     {
       "surface": "זהב",
-      "gloss": "золото"
+      "gloss": "золота"
     }
   ],
-  "timestamp": "2026-08-24T01:23:02.644392286Z",
+  "timestamp": "2026-08-24T02:38:57.073291589Z",
   "model": "glm-5.3"
 }
