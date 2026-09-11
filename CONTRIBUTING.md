@@ -61,3 +61,8 @@
 пропозиції з івритом, з правилами, з джерелами і з вирівнюванням —
 можуть прийняти, допрацювати разом з тобою, чекати ще доказів або
 відхилити з причиною. Оцінюється слово, а не людина.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
