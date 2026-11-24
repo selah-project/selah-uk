@@ -11,7 +11,7 @@
   вплине на вирівнювання (alignment) токенів.
 - Відкрий **Pull request**, якщо і помилка, і виправлення очевидні.
 - Для програмних проблем або питань безпеки/акаунту/приватності —
-  [Selah Support](https://selahproject.com/support).
+  [Selah Support](https://s33k3r.com/learn/support).
 
 ## Що варто додати
 
